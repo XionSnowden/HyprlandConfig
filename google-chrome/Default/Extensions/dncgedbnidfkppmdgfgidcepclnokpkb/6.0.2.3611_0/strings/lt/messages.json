@@ -1,0 +1,5254 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": ""
+        },
+        "%s All" : {
+            
+            "message": ""
+        },
+        "%s All Data Sets" : {
+            
+            "message": ""
+        },
+        "%s appearance options" : {
+            
+            "message": ""
+        },
+        "%s details" : {
+            
+            "message": ""
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": ""
+        },
+        "%s Options" : {
+            
+            "message": ""
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(atstumas, greitis, pagreitis)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 Grafikas"
+        },
+        "16:9" : {
+            
+            "message": ""
+        },
+        "1st Derivative" : {
+            
+            "message": "1-oji išvestinė"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "Pirmosios išvestinės laiko poslinkis"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1-oji išvestinė (Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": ""
+        },
+        "2 Graphs" : {
+            
+            "message": "2 Grafikai"
+        },
+        "2nd derivative" : {
+            
+            "message": "2-oji Išvestinė"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "Antrosios išvestinės laiko poslinkis"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2-oji Išvestinė (Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": ""
+        },
+        "3 Graphs" : {
+            
+            "message": "3 Grafikai"
+        },
+        "4:3" : {
+            
+            "message": ""
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Ryšio klaida. Pradėkite eksperimentą iš naujo."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Dėl ryšio klaidos duomenys nebuvo surinkti. Prašome pabandyti iš naujo."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": ""
+        },
+        "A ln(X)" : {
+            
+            "message": "A in (X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": ""
+        },
+        "A*X+B*Y" : {
+            
+            "message": ""
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": ""
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": ""
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": ""
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Apie programą"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": ""
+        },
+        "Absolute Value" : {
+            
+            "message": ""
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Accessories" : {
+            
+            "message": ""
+        },
+        "across" : {
+            
+            "message": "virš/žemiau"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": ""
+        },
+        "Activate to add manual fit" : {
+            
+            "message": ""
+        },
+        "Activate to apply FFT" : {
+            
+            "message": ""
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": ""
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": ""
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": ""
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": ""
+        },
+        "Activate to use %s" : {
+            
+            "message": ""
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": ""
+        },
+        "Activate to use Notes" : {
+            
+            "message": ""
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": ""
+        },
+        "Activate to use Video" : {
+            
+            "message": ""
+        },
+        "Add a Calculated Column" : {
+            
+            "message": ""
+        },
+        "Add a graph title here" : {
+            
+            "message": "Įvesti grafiko pavadinimą"
+        },
+        "Add a Manual Column" : {
+            
+            "message": ""
+        },
+        "Add Annotation" : {
+            
+            "message": "Pridėti aprašymą"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Pridėti skaičiavimų skiltį"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Pripilkite distiliuoto vandens į butelį iki kempinės viršaus."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Pridėti grafiko atitikmenį"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Pridėti rankinio įvedimo stulpelį"
+        },
+        "Add Manual Fit" : {
+            
+            "message": ""
+        },
+        "add meters" : {
+            
+            "message": ""
+        },
+        "Add New Data Set" : {
+            
+            "message": "Pridėti naują duomenų lentelę"
+        },
+        "Add Prediction" : {
+            
+            "message": "Pridėti prognozę"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": ""
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Įlašinkite titranto per lašų skaitiklį į 10 ml graduotą cilindrą."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": ""
+        },
+        "Advanced" : {
+            
+            "message": ""
+        },
+        "After" : {
+            
+            "message": "Po"
+        },
+        "After set number of flags" : {
+            
+            "message": "Po nustatyto žymeklių skaičiaus"
+        },
+        "All" : {
+            
+            "message": ""
+        },
+        "Always Show 0" : {
+            
+            "message": ""
+        },
+        "AMBL" : {
+            
+            "message": ""
+        },
+        "Amplitude" : {
+            
+            "message": ""
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": ""
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": ""
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": ""
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": ""
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": ""
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": ""
+        },
+        "and " : {
+            
+            "message": "ir "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": ""
+        },
+        "Angle units" : {
+            
+            "message": "Kampo matavimo vienetai"
+        },
+        "Angular Motion" : {
+            
+            "message": "Kampinis judėjimas"
+        },
+        "Angular Motion Info" : {
+            
+            "message": ""
+        },
+        "App is up to date" : {
+            
+            "message": "Programa atnaujinta"
+        },
+        "App Preferences" : {
+            
+            "message": ""
+        },
+        "App Updates" : {
+            
+            "message": "Programos atnaujinimai"
+        },
+        "Appearance" : {
+            
+            "message": "Atvaizdavimas"
+        },
+        "Append" : {
+            
+            "message": "Papildyti"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Pridėti papildomų duomenų prie esamų duomenų rinkinio arba sukurti naują duomenų rinkinį?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Pridėti ar sukurti naują?"
+        },
+        "Apply" : {
+            
+            "message": "Pritaikyti"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Pritaikyti kreivę"
+        },
+        "Apply FFT" : {
+            
+            "message": ""
+        },
+        "Apply Histogram" : {
+            
+            "message": ""
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": ""
+        },
+        "Area" : {
+            
+            "message": "Plotas"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Auto" : {
+            
+            "message": "Auto"
+        },
+        "Automatic" : {
+            
+            "message": "Automatinis"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Vidutinis jutiklio matavimas per 10 sekundžių"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Vidurkis per 10 sekundžių"
+        },
+        "Axis Label Size" : {
+            
+            "message": ""
+        },
+        "Back" : {
+            
+            "message": ""
+        },
+        "Band-pass Filter" : {
+            
+            "message": ""
+        },
+        "Band-stop Filter" : {
+            
+            "message": ""
+        },
+        "Bar Tape" : {
+            
+            "message": "Matavimo juosta"
+        },
+        "Bars" : {
+            
+            "message": ""
+        },
+        "Base" : {
+            
+            "message": "Pagrindas"
+        },
+        "Base Axis" : {
+            
+            "message": ""
+        },
+        "Battery" : {
+            
+            "message": "Baterija"
+        },
+        "Battery Level" : {
+            
+            "message": "Baterijos lygis"
+        },
+        "Bin Start Value" : {
+            
+            "message": ""
+        },
+        "Bin Width" : {
+            
+            "message": ""
+        },
+        "Bluetooth Device" : {
+            
+            "message": "\"Bluetooth\" įrenginys"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "\"Bluetooth\" ryšys neįjungtas"
+        },
+        "Bold" : {
+            
+            "message": ""
+        },
+        "Book" : {
+            
+            "message": ""
+        },
+        "Book Title" : {
+            
+            "message": ""
+        },
+        "Both" : {
+            
+            "message": "Abu"
+        },
+        "Bottom" : {
+            
+            "message": "Nuo"
+        },
+        "Bottom Bar" : {
+            
+            "message": ""
+        },
+        "Bullet list" : {
+            
+            "message": ""
+        },
+        "Calculated %s" : {
+            
+            "message": ""
+        },
+        "Calculated Column" : {
+            
+            "message": ""
+        },
+        "Calibrate" : {
+            
+            "message": "Kalibruoti"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Kalibruoti dabar"
+        },
+        "Calibrating..." : {
+            
+            "message": "Kalibruojama..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Sukalibruota"
+        },
+        "Calibration failed" : {
+            
+            "message": "Nepavyko sukalibruoti"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Kalibravimas sėkmingai nustatytas iš naujo"
+        },
+        "Calibration Type" : {
+            
+            "message": "Kalibravimo tipas"
+        },
+        "Cancel" : {
+            
+            "message": "Atšaukti"
+        },
+        "cancel" : {
+            
+            "message": "atšaukti"
+        },
+        "Capable" : {
+            
+            "message": ""
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Vežimėlio matavimo bortelis"
+        },
+        "Categorical" : {
+            
+            "message": ""
+        },
+        "Categorical Data" : {
+            
+            "message": ""
+        },
+        "Ceiling" : {
+            
+            "message": ""
+        },
+        "Center manual fit handle" : {
+            
+            "message": ""
+        },
+        "Change left y-axis" : {
+            
+            "message": ""
+        },
+        "Change right y-axis" : {
+            
+            "message": ""
+        },
+        "Change x-axis" : {
+            
+            "message": ""
+        },
+        "Change y-axis" : {
+            
+            "message": ""
+        },
+        "Channels" : {
+            
+            "message": ""
+        },
+        "Charging," : {
+            
+            "message": "Įkraunama,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": ""
+        },
+        "Check for software updates" : {
+            
+            "message": ""
+        },
+        "Check for Updates" : {
+            
+            "message": "Patikrinti, ar yra atnaujinimų"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Patikrinti mirksinčio LED jutiklį"
+        },
+        "Checking for update..." : {
+            
+            "message": "Ieškomi atnaujinimai..."
+        },
+        "Choose File" : {
+            
+            "message": "Pasirinkite failą"
+        },
+        "Choose Folder..." : {
+            
+            "message": ""
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": ""
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": ""
+        },
+        "Circle" : {
+            
+            "message": ""
+        },
+        "Clear Expression" : {
+            
+            "message": ""
+        },
+        "Clear Filter" : {
+            
+            "message": ""
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": ""
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": ""
+        },
+        "Close" : {
+            
+            "message": ""
+        },
+        "Close Alert" : {
+            
+            "message": ""
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Uždaryti programą ir atnaujinti programinę aparatinę įrangą"
+        },
+        "Close Application" : {
+            
+            "message": ""
+        },
+        "Close Dialog" : {
+            
+            "message": ""
+        },
+        "Close FFT" : {
+            
+            "message": ""
+        },
+        "Close graph legend" : {
+            
+            "message": ""
+        },
+        "Close Histogram" : {
+            
+            "message": ""
+        },
+        "Close Infobox" : {
+            
+            "message": ""
+        },
+        "Close Menu" : {
+            
+            "message": ""
+        },
+        "Close Peak Frequency" : {
+            
+            "message": ""
+        },
+        "Close Popover" : {
+            
+            "message": ""
+        },
+        "Close Replay" : {
+            
+            "message": ""
+        },
+        "Close Start Page" : {
+            
+            "message": ""
+        },
+        "Close this dialog to continue" : {
+            
+            "message": ""
+        },
+        "Code" : {
+            
+            "message": ""
+        },
+        "Coefficient" : {
+            
+            "message": "Koeficientas"
+        },
+        "Collapse" : {
+            
+            "message": ""
+        },
+        "Collect" : {
+            
+            "message": "Pradėti rinkti duomenis"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Rinkti duomenis iš \"Vernier\" jutiklių"
+        },
+        "Collecting" : {
+            
+            "message": ""
+        },
+        "Collecting %d %s" : {
+            
+            "message": ""
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Surenkant didelį kiekį taškų, sumažinamas efektyvumas."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Duomenų kaupimas per ${eventParams.accumulate} sekundžių"
+        },
+        "Collection Parameters" : {
+            
+            "message": ""
+        },
+        "Column %s" : {
+            
+            "message": ""
+        },
+        "Column Options" : {
+            
+            "message": "Skilties parinktys"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Skiltis bus ištrinta visuose duomenų rinkiniuose. Pašalinus, šio veiksmo nebebus galima atšaukti."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Kableliu atskirtos vertės"
+        },
+        "Complementary Error" : {
+            
+            "message": ""
+        },
+        "Configurator" : {
+            
+            "message": ""
+        },
+        "Confirm" : {
+            
+            "message": ""
+        },
+        "Connect" : {
+            
+            "message": "Prisijungti"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Prijunkite <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\"> palaikomą \"Vernier\" USB įrenginį </a>."
+        },
+        "Connect a device" : {
+            
+            "message": ""
+        },
+        "Connect a Device" : {
+            
+            "message": ""
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": ""
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Prie \"LabQuest\" 2 ar \"Logger Pro\" prisijungti per WiFi ryšį"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": ""
+        },
+        "Connect this device for data collection." : {
+            
+            "message": ""
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": ""
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": ""
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": ""
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Prisijunkite prie bevielio įrenginio, nurodyto žemiau, arba prisijunkite per USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Prisijunkite prie žemiau nurodyto bevielio įrenginio."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": ""
+        },
+        "connected" : {
+            
+            "message": "prisijungęs"
+        },
+        "Connected Devices" : {
+            
+            "message": "Prisijungę įrenginiai"
+        },
+        "Connecting" : {
+            
+            "message": ""
+        },
+        "Connection error" : {
+            
+            "message": "Prisijungimo klaida"
+        },
+        "Connection Lost" : {
+            
+            "message": "Nėra ryšio"
+        },
+        "Connection status info" : {
+            
+            "message": ""
+        },
+        "Connection to %s failed" : {
+            
+            "message": ""
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": ""
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": ""
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": ""
+        },
+        "Cookie Notice" : {
+            
+            "message": ""
+        },
+        "Copy" : {
+            
+            "message": "Kopijuoti"
+        },
+        "Copy Histogram" : {
+            
+            "message": ""
+        },
+        "Copy Host ID" : {
+            
+            "message": ""
+        },
+        "Copy Link" : {
+            
+            "message": ""
+        },
+        "Copy Sign" : {
+            
+            "message": ""
+        },
+        "Copy to clipboard" : {
+            
+            "message": ""
+        },
+        "Copy To Clipboard" : {
+            
+            "message": ""
+        },
+        "Cosine" : {
+            
+            "message": ""
+        },
+        "Count Interval" : {
+            
+            "message": "Skaičiavimų intervalas"
+        },
+        "Create Custom Fit" : {
+            
+            "message": ""
+        },
+        "Create new Data Set" : {
+            
+            "message": "Sukurti naują duomenų rinkinį"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": ""
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": ""
+        },
+        "CSV" : {
+            
+            "message": ""
+        },
+        "Cube Root" : {
+            
+            "message": ""
+        },
+        "Curve Fit" : {
+            
+            "message": "Pritaikyti kreivę"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": ""
+        },
+        "Custom Curve Fits" : {
+            
+            "message": ""
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": ""
+        },
+        "Custom Expression Info" : {
+            
+            "message": ""
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": ""
+        },
+        "Custom Session" : {
+            
+            "message": ""
+        },
+        "Cut" : {
+            
+            "message": "Iškirpti"
+        },
+        "Dark" : {
+            
+            "message": ""
+        },
+        "Darker" : {
+            
+            "message": ""
+        },
+        "Darkest" : {
+            
+            "message": ""
+        },
+        "Data" : {
+            
+            "message": ""
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": ""
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Duomenų surinkimo nustatymai"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Duomenų surinkimas bus automatiškai sustabdytas po to, kai visuose vartuose bus surinktas numatomas matavimų skaičius. Pradėjus duomenis rinkti išnaujo, bus renkamas naujas duomenų rinkinys."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Duomenys bus renkami iki tol, kol spustelėsite mygtuką Sustabdyti."
+        },
+        "Data Mark" : {
+            
+            "message": ""
+        },
+        "Data Marking" : {
+            
+            "message": ""
+        },
+        "Data Set %d" : {
+            
+            "message": "Duomenys %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Lentelės pavadinimas"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Pavadinimo ilgis negali viršyti  %s simbolių."
+        },
+        "Data Set Options" : {
+            
+            "message": ""
+        },
+        "Data Set Time" : {
+            
+            "message": ""
+        },
+        "Data Share" : {
+            
+            "message": "Duomenų dalijimasis"
+        },
+        "Data Sharing" : {
+            
+            "message": "Dalinimasis duomenimis"
+        },
+        "Data Sharing is active" : {
+            
+            "message": ""
+        },
+        "Data Sharing session started" : {
+            
+            "message": ""
+        },
+        "Data sharing session status" : {
+            
+            "message": ""
+        },
+        "Data Sharing Status" : {
+            
+            "message": ""
+        },
+        "Data Table" : {
+            
+            "message": ""
+        },
+        "Data Type" : {
+            
+            "message": ""
+        },
+        "Data Type Info" : {
+            
+            "message": ""
+        },
+        "Dataset View Options" : {
+            
+            "message": ""
+        },
+        "Decimal Format" : {
+            
+            "message": "Dešimtainis formatas"
+        },
+        "Decimal Places" : {
+            
+            "message": "Dešimtųjų tikslumu"
+        },
+        "decrease" : {
+            
+            "message": ""
+        },
+        "decreasing" : {
+            
+            "message": "nukris"
+        },
+        "degrees" : {
+            
+            "message": "laipsniai"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Laipsniai (°)"
+        },
+        "Delete" : {
+            
+            "message": "Ištrinti"
+        },
+        "Delete %s?" : {
+            
+            "message": ""
+        },
+        "Delete a Column" : {
+            
+            "message": ""
+        },
+        "Delete Column" : {
+            
+            "message": "Ištrinti skiltį"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Ištrinti skiltį %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": ""
+        },
+        "Delete Data Set" : {
+            
+            "message": ""
+        },
+        "Delete Graph Match" : {
+            
+            "message": ""
+        },
+        "Delete Prediction" : {
+            
+            "message": ""
+        },
+        "Delete Video" : {
+            
+            "message": ""
+        },
+        "Delta" : {
+            
+            "message": ""
+        },
+        "Device Error" : {
+            
+            "message": "Įrenginio klaida"
+        },
+        "Device Information" : {
+            
+            "message": "Įrenginio informacija"
+        },
+        "Device information" : {
+            
+            "message": ""
+        },
+        "Devices" : {
+            
+            "message": ""
+        },
+        "Diameter" : {
+            
+            "message": ""
+        },
+        "Diamond" : {
+            
+            "message": ""
+        },
+        "Dimension" : {
+            
+            "message": ""
+        },
+        "Disabled" : {
+            
+            "message": ""
+        },
+        "Disconnect" : {
+            
+            "message": "Atsijungti"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": ""
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": ""
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": ""
+        },
+        "Discovered Devices" : {
+            
+            "message": "Nustatyti įrenginiai"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Atrasti belaidžiai įrenginiai"
+        },
+        "Display Meters" : {
+            
+            "message": ""
+        },
+        "Displayed Columns" : {
+            
+            "message": ""
+        },
+        "Displayed Datasets" : {
+            
+            "message": ""
+        },
+        "Displayed Precision" : {
+            
+            "message": "Rodomas tikslumas"
+        },
+        "Distance" : {
+            
+            "message": "Atstumas"
+        },
+        "Distance between gates" : {
+            
+            "message": "Atstumas tarp vartų"
+        },
+        "Distribute App" : {
+            
+            "message": ""
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": ""
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Ar norite išsaugoti pakeitimus %s? Jūsų pakeitimai dings jei neišsaugosite jų."
+        },
+        "Don't Save" : {
+            
+            "message": "Neišsaugoti"
+        },
+        "Done" : {
+            
+            "message": "Atlikta"
+        },
+        "done" : {
+            
+            "message": ""
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Atsisiųsti. Atnaujinimai bus įdiegti kitą kartą prisijungus prie programos"
+        },
+        "Download Experiment" : {
+            
+            "message": ""
+        },
+        "Download Update" : {
+            
+            "message": "Atsisiųti atnaujinimus"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Parengti prognozę"
+        },
+        "Drop Counting" : {
+            
+            "message": "Lašų skaitiklis"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Nepavyko pamatuoti. Prašome pabandyti iš naujo ir naudoti lėtesnį duomenų surinkimo lygį."
+        },
+        "Drops" : {
+            
+            "message": "Lašai"
+        },
+        "Drops/mL" : {
+            
+            "message": "Lašai/mL"
+        },
+        "duration" : {
+            
+            "message": "laikotarpio"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": ""
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "pvz., 006 ar TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Redaguoti grafiko parinktis"
+        },
+        "Edit mode" : {
+            
+            "message": ""
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Norint prijungti bevielius jutiklius, aktyvinkite \"Bluetooth\"."
+        },
+        "Enable Replay" : {
+            
+            "message": ""
+        },
+        "Enabled" : {
+            
+            "message": ""
+        },
+        "End Collection" : {
+            
+            "message": "Užbaigti matavimus"
+        },
+        "End data collection" : {
+            
+            "message": "Užbaigti duomenų rinkimą"
+        },
+        "End User License Agreement" : {
+            
+            "message": ""
+        },
+        "End your data share session by tapping" : {
+            
+            "message": ""
+        },
+        "Enter an annotation" : {
+            
+            "message": "Aprašyti"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Įveskite duomenis klaviatūra arba kopijuokite / įklijuokite"
+        },
+        "Enter first known value" : {
+            
+            "message": "Įveskite pirmąją žinomą vertę"
+        },
+        "Enter second known value" : {
+            
+            "message": "Įveskite antrąją žinomą vertę"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Įrašykite tikslų titranto kiekį iš sugraduoto cilindro"
+        },
+        "Enter the source ID:" : {
+            
+            "message": ""
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": ""
+        },
+        "Equation" : {
+            
+            "message": "Lygtis"
+        },
+        "Error" : {
+            
+            "message": "Klaida"
+        },
+        "Error Bar Info" : {
+            
+            "message": ""
+        },
+        "Error Bars" : {
+            
+            "message": ""
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": ""
+        },
+        "Event" : {
+            
+            "message": "Įvykis"
+        },
+        "Event Based" : {
+            
+            "message": "Rankinis fiksavimas"
+        },
+        "Event Mode" : {
+            
+            "message": "Įvykio režimas"
+        },
+        "Event Name" : {
+            
+            "message": "Įvykio pavadinimas"
+        },
+        "Events with Entry" : {
+            
+            "message": "Fiksavimas su įrašu"
+        },
+        "Events With Entry" : {
+            
+            "message": ""
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Pavyzdys: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": ""
+        },
+        "Exp - 1" : {
+            
+            "message": ""
+        },
+        "Expand" : {
+            
+            "message": ""
+        },
+        "Expand Host ID" : {
+            
+            "message": ""
+        },
+        "Experiment Name" : {
+            
+            "message": "Eksperimento pavadinimas"
+        },
+        "Experimental Features" : {
+            
+            "message": ""
+        },
+        "Exponent" : {
+            
+            "message": "Eksponentė"
+        },
+        "Exponential Base 2" : {
+            
+            "message": ""
+        },
+        "Export" : {
+            
+            "message": "Eksportuoti"
+        },
+        "Export CSV" : {
+            
+            "message": "Eksportuoti į CSV"
+        },
+        "Expression" : {
+            
+            "message": "Išraiška"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Gamyklinės kalibracijos data"
+        },
+        "Fan Thrust" : {
+            
+            "message": ""
+        },
+        "FFT" : {
+            
+            "message": ""
+        },
+        "FFT options" : {
+            
+            "message": ""
+        },
+        "File Menu" : {
+            
+            "message": ""
+        },
+        "File saved" : {
+            
+            "message": "Failas išsaugotas"
+        },
+        "Filename" : {
+            
+            "message": "Failo pavadinimas"
+        },
+        "Filter Device List" : {
+            
+            "message": ""
+        },
+        "Firmware" : {
+            
+            "message": "Aparatinė-programinė įranga"
+        },
+        "Firmware Update Information" : {
+            
+            "message": ""
+        },
+        "First Derivative" : {
+            
+            "message": ""
+        },
+        "Fit Expression" : {
+            
+            "message": ""
+        },
+        "Fit Name" : {
+            
+            "message": ""
+        },
+        "Fit Options" : {
+            
+            "message": ""
+        },
+        "Fixed Value" : {
+            
+            "message": ""
+        },
+        "Flag Width" : {
+            
+            "message": "Žymeklio plotis"
+        },
+        "Flags" : {
+            
+            "message": "Žymekliai"
+        },
+        "Floor" : {
+            
+            "message": ""
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Vernier objektams, išdėstymas ir žymeklių skaičius yra nurodomas pasirinkus objektą. Naudojant juostą, įveskite žymeklių skaičių."
+        },
+        "Frequency" : {
+            
+            "message": ""
+        },
+        "From Vernier.com" : {
+            
+            "message": "Iš Vernier.com"
+        },
+        "Function" : {
+            
+            "message": ""
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": ""
+        },
+        "Gate Separation" : {
+            
+            "message": "Vartų atskyrimas"
+        },
+        "Gate State" : {
+            
+            "message": "Vartų būsena"
+        },
+        "Gate timing" : {
+            
+            "message": "Užfiksuotas laikas vartuose"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX jutiklių žemėlapis"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": ""
+        },
+        "Go Direct" : {
+            
+            "message": ""
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Direct jutikliai"
+        },
+        "Go Direct USB" : {
+            
+            "message": ""
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": ""
+        },
+        "Go!Temp" : {
+            
+            "message": ""
+        },
+        "Go! Link" : {
+            
+            "message": ""
+        },
+        "Go! Motion" : {
+            
+            "message": ""
+        },
+        "Graph" : {
+            
+            "message": "Diagrama"
+        },
+        "Graph %s" : {
+            
+            "message": ""
+        },
+        "Graph 1" : {
+            
+            "message": ""
+        },
+        "Graph 2" : {
+            
+            "message": ""
+        },
+        "Graph 3" : {
+            
+            "message": ""
+        },
+        "Graph Display" : {
+            
+            "message": ""
+        },
+        "Graph Inset" : {
+            
+            "message": "Įterpti grafą"
+        },
+        "Graph Legend" : {
+            
+            "message": ""
+        },
+        "Graph Match" : {
+            
+            "message": "Grafų palyginimas"
+        },
+        "Graph Match Options" : {
+            
+            "message": ""
+        },
+        "Graph Options" : {
+            
+            "message": "Grafiko nustatymai"
+        },
+        "Graph Shape" : {
+            
+            "message": ""
+        },
+        "Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": ""
+        },
+        "Graphs" : {
+            
+            "message": ""
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": ""
+        },
+        "Heading 2" : {
+            
+            "message": ""
+        },
+        "Heading 3" : {
+            
+            "message": ""
+        },
+        "Help connecting a device" : {
+            
+            "message": ""
+        },
+        "Help Connecting a Device" : {
+            
+            "message": ""
+        },
+        "Hide" : {
+            
+            "message": ""
+        },
+        "Hide Details" : {
+            
+            "message": ""
+        },
+        "High-pass Filter" : {
+            
+            "message": ""
+        },
+        "High-Resolution Mode" : {
+            
+            "message": ""
+        },
+        "Histogram" : {
+            
+            "message": ""
+        },
+        "Histogram options" : {
+            
+            "message": ""
+        },
+        "Horizontal Divider" : {
+            
+            "message": ""
+        },
+        "Host a data sharing session" : {
+            
+            "message": ""
+        },
+        "How To Distribute" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": ""
+        },
+        "Hypotenuse" : {
+            
+            "message": ""
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Identifikuoti"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": ""
+        },
+        "Ignore" : {
+            
+            "message": ""
+        },
+        "Import Video" : {
+            
+            "message": "Įkelti vaizdo įrašą"
+        },
+        "increase" : {
+            
+            "message": ""
+        },
+        "increasing" : {
+            
+            "message": "pakils"
+        },
+        "Insert Expression" : {
+            
+            "message": "Įterpti išraišką"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Įstatykite jutiklį į buteliuką taip, kad butelio viršūnė nesiliestų su vandeniu ar kempine."
+        },
+        "Integral" : {
+            
+            "message": "Integralas"
+        },
+        "Intercept" : {
+            
+            "message": "Perėjimas"
+        },
+        "Interpolate" : {
+            
+            "message": "Interpoliuoti"
+        },
+        "Interval" : {
+            
+            "message": "Intervalas"
+        },
+        "Invalid Equation" : {
+            
+            "message": ""
+        },
+        "Invalid Expression" : {
+            
+            "message": ""
+        },
+        "Inverse Cosine" : {
+            
+            "message": ""
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": ""
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": ""
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": ""
+        },
+        "Inverse Sine" : {
+            
+            "message": ""
+        },
+        "Inverse Tangent" : {
+            
+            "message": ""
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": ""
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Inverted Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Triangle" : {
+            
+            "message": ""
+        },
+        "is" : {
+            
+            "message": "        "
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": ""
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": ""
+        },
+        "Italic" : {
+            
+            "message": ""
+        },
+        "Join New Experiment" : {
+            
+            "message": ""
+        },
+        "Keep" : {
+            
+            "message": "Išsaugoti"
+        },
+        "Keep Point" : {
+            
+            "message": "Išsaugoti tašką"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Laikykite jutiklį vertikaliai bent 60 sekundžių ir tuomet paspauskite \"Kalibruoti dabar\"."
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Dviejų taškų kalibravimui žinomos vertės turi būti skirtingos."
+        },
+        "LabQuest" : {
+            
+            "message": ""
+        },
+        "LabQuest Devices" : {
+            
+            "message": ""
+        },
+        "LabQuest Stream" : {
+            
+            "message": ""
+        },
+        "Large" : {
+            
+            "message": ""
+        },
+        "Last calibrated on" : {
+            
+            "message": "Paskutinį kartą kalibruota"
+        },
+        "Launch Speed" : {
+            
+            "message": "Paleidimo greitis"
+        },
+        "Left" : {
+            
+            "message": "Nuo"
+        },
+        "Left Axis" : {
+            
+            "message": ""
+        },
+        "Left manual fit handle" : {
+            
+            "message": ""
+        },
+        "Left y-axis range" : {
+            
+            "message": ""
+        },
+        "Legacy File Type" : {
+            
+            "message": ""
+        },
+        "License Key" : {
+            
+            "message": ""
+        },
+        "License Key is expired." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": ""
+        },
+        "License Key is required." : {
+            
+            "message": ""
+        },
+        "License Key is suspended." : {
+            
+            "message": ""
+        },
+        "License Key not recognized." : {
+            
+            "message": ""
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": ""
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": ""
+        },
+        "Licensed To" : {
+            
+            "message": ""
+        },
+        "Licensed to" : {
+            
+            "message": ""
+        },
+        "Line Shade" : {
+            
+            "message": ""
+        },
+        "Linear Motion" : {
+            
+            "message": "Linijinis judėjimas"
+        },
+        "Linear Motion Info" : {
+            
+            "message": ""
+        },
+        "Lines" : {
+            
+            "message": "Linija"
+        },
+        "Link" : {
+            
+            "message": ""
+        },
+        "Link Copied" : {
+            
+            "message": ""
+        },
+        "list item" : {
+            
+            "message": ""
+        },
+        "Load Experiment" : {
+            
+            "message": ""
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": ""
+        },
+        "Log" : {
+            
+            "message": ""
+        },
+        "Log Base 2" : {
+            
+            "message": ""
+        },
+        "Log Base b" : {
+            
+            "message": ""
+        },
+        "Logged Data on Device" : {
+            
+            "message": ""
+        },
+        "Low-pass Filter" : {
+            
+            "message": ""
+        },
+        "Main Content" : {
+            
+            "message": ""
+        },
+        "Manual" : {
+            
+            "message": "Rankiniu būdu"
+        },
+        "Manual %s" : {
+            
+            "message": ""
+        },
+        "Manual Entry" : {
+            
+            "message": "Duomenų įvedimas rankiniu būdu"
+        },
+        "Manual Fit" : {
+            
+            "message": ""
+        },
+        "Manual Scaling" : {
+            
+            "message": "Mastelio keitimas rankiniu būdu"
+        },
+        "Manually" : {
+            
+            "message": "Rankiniu būdu"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Pagaminimo data"
+        },
+        "Mark" : {
+            
+            "message": ""
+        },
+        "Max" : {
+            
+            "message": "Max"
+        },
+        "Maximize Application" : {
+            
+            "message": ""
+        },
+        "Mean" : {
+            
+            "message": "Vidurkis"
+        },
+        "Measurement" : {
+            
+            "message": "Matavimas"
+        },
+        "Medium" : {
+            
+            "message": ""
+        },
+        "Meter Actions" : {
+            
+            "message": ""
+        },
+        "Meter All Columns" : {
+            
+            "message": ""
+        },
+        "Meter Size" : {
+            
+            "message": ""
+        },
+        "Meter View Options" : {
+            
+            "message": ""
+        },
+        "Metered" : {
+            
+            "message": ""
+        },
+        "metering on all columns" : {
+            
+            "message": ""
+        },
+        "Meters" : {
+            
+            "message": ""
+        },
+        "min" : {
+            
+            "message": "min"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "Minimize Application" : {
+            
+            "message": ""
+        },
+        "Mode" : {
+            
+            "message": "Režimas"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": ""
+        },
+        "Modulo" : {
+            
+            "message": ""
+        },
+        "Move Down" : {
+            
+            "message": ""
+        },
+        "Move Up" : {
+            
+            "message": ""
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Dauguma žymeklių, esančių vienodu atstumu ant objekto, naudojami norint nustatyti objekto padėtį, kuomet jis kerta fotovartus. Pirmasis vartų kirtimo įvykis laikomas nuline pozicija. Vėlesni vartų kirtimo įvykiai padidina atstumo vertę. Greitis ir pagreitis apskaičiuojami kaip pirmoji ir antroji išvestinė pagal laiką."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Vienodais atstumais išdėstyti rato stipinai yra naudojami kampinei rato padėčiai fiksuoti jam besisukant. Pirmas fiksuotas įvykis nurodomas kaip nulinis kampas. Toliau einantys įvykiai didina kampą 2π/n radianai, kur n yra rato stipinų skaičius. Kampinio greičio ir pagreičio vertės yra suskaičiuojamas kaip pirmoji ir antroji išvestinė kampo pagal laiką."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": ""
+        },
+        "Mute Audio" : {
+            
+            "message": ""
+        },
+        "My-File-Name" : {
+            
+            "message": "Mano failo pavadinimas"
+        },
+        "Name" : {
+            
+            "message": "Pavadinimas"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Pavadinimas negali viršyti %s simbolių"
+        },
+        "Natural Exponential" : {
+            
+            "message": ""
+        },
+        "Natural Log" : {
+            
+            "message": ""
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": ""
+        },
+        "Never" : {
+            
+            "message": ""
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Nauja kalibracija bus naudojama iki tol, kol pradėsite naują eksperimentą ar atidarysite failą."
+        },
+        "New Experiment" : {
+            
+            "message": "Naujas eksperimentas"
+        },
+        "Next After" : {
+            
+            "message": ""
+        },
+        "No Columns" : {
+            
+            "message": "Skilčių nėra"
+        },
+        "No Device Connected" : {
+            
+            "message": ""
+        },
+        "No device connected." : {
+            
+            "message": ""
+        },
+        "No Devices Connected" : {
+            
+            "message": "Įrenginiai neprijungti"
+        },
+        "No expiration date" : {
+            
+            "message": ""
+        },
+        "No sensor connected" : {
+            
+            "message": "Jutikliai neprijungti"
+        },
+        "No Sensors Connected" : {
+            
+            "message": ""
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Neaptikta jokių šaltinių. Įsitikinkite, kad šaltinis įgalino duomenų bendrinimą ir abu įrenginiai yra prijungti prie to pačio tinklo. Jei problema išlieka, pasirinkite \"Nurodyti šaltinį\" ir prisijunkite prie duomenų bendrinimo šaltinio rankiniu būdu."
+        },
+        "Normal" : {
+            
+            "message": ""
+        },
+        "not" : {
+            
+            "message": ""
+        },
+        "Not Capable" : {
+            
+            "message": ""
+        },
+        "Note" : {
+            
+            "message": ""
+        },
+        "Notes" : {
+            
+            "message": ""
+        },
+        "Number list" : {
+            
+            "message": ""
+        },
+        "Number of flags" : {
+            
+            "message": "Žymeklių skaičius"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": ""
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": ""
+        },
+        "Number of spokes" : {
+            
+            "message": "Stipinų skaičius"
+        },
+        "Numeric" : {
+            
+            "message": ""
+        },
+        "Object" : {
+            
+            "message": "Objektas"
+        },
+        "Object Width" : {
+            
+            "message": "Objekto plotis"
+        },
+        "Offline" : {
+            
+            "message": "Neprisijungęs"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "Ok" : {
+            
+            "message": ""
+        },
+        "On a triggering event" : {
+            
+            "message": "Esant įvykiui"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "LabQuest įrenginyje paspauskite \"Wi-Fi\" simbolį"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Logger Pro aplinkoje, spauskite \"Failas\" -> \"Dalinimasis duomenimis\""
+        },
+        "One-point calibration" : {
+            
+            "message": "Vieno taško kalibravimas"
+        },
+        "Online Data Sharing" : {
+            
+            "message": ""
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": ""
+        },
+        "Open failed" : {
+            
+            "message": ""
+        },
+        "Open Saved File" : {
+            
+            "message": "Atidaryti išsaugotą failą"
+        },
+        "Open Update Information" : {
+            
+            "message": ""
+        },
+        "Open..." : {
+            
+            "message": "Atidaryti..."
+        },
+        "or" : {
+            
+            "message": ""
+        },
+        "Order Code" : {
+            
+            "message": "Užsakyti kodą"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Kita / Vartotojo nurodyta"
+        },
+        "Other Options" : {
+            
+            "message": ""
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Kita / Vartotojo nustatymai: įveskite atstumo reikšmę ir žymeklių skaičių, kaip nurodyta aukščiau. Jei objektas yra ratas, atstumo reikšmė bus rato  perimetras, padalintas iš stipinų skaičiaus."
+        },
+        "Outlined Circle" : {
+            
+            "message": ""
+        },
+        "Outlined Diamond" : {
+            
+            "message": ""
+        },
+        "Outlined Plus" : {
+            
+            "message": ""
+        },
+        "Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Outlined Square" : {
+            
+            "message": ""
+        },
+        "Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Paragraph" : {
+            
+            "message": ""
+        },
+        "Parameter %s" : {
+            
+            "message": ""
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": ""
+        },
+        "Paste" : {
+            
+            "message": "Įklijuoti"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": ""
+        },
+        "Pause replay" : {
+            
+            "message": ""
+        },
+        "Pause Video" : {
+            
+            "message": ""
+        },
+        "Peak Frequency" : {
+            
+            "message": ""
+        },
+        "Pendulum Period" : {
+            
+            "message": "Švytuoklės periodas"
+        },
+        "Percentage" : {
+            
+            "message": ""
+        },
+        "Perform a" : {
+            
+            "message": "Atlikti a"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Laikas, užfiksuotas fotovartuose"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Fotovartai matuoja objektų praėjimo pro vartus laiką, taip pat gali pamatuoti švytuoklės svyravimo laiko periodą. Užfiksuotas laikas tarp įvykių yra nurodomas kaip laiko intervalas. Kuomet naudojami du vartai, abu vartai prieš pradedant rinkti duomenis, pro vartus turi prakirsti vieną kartą."
+        },
+        "Picture in Picture" : {
+            
+            "message": ""
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": ""
+        },
+        "Play replay" : {
+            
+            "message": ""
+        },
+        "Play Video" : {
+            
+            "message": ""
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": ""
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Prašome įvesti šaltinio IP adresą:"
+        },
+        "Plot" : {
+            
+            "message": ""
+        },
+        "Plot Manager" : {
+            
+            "message": ""
+        },
+        "Plus" : {
+            
+            "message": ""
+        },
+        "point" : {
+            
+            "message": ""
+        },
+        "Point Colors" : {
+            
+            "message": ""
+        },
+        "Point Symbols" : {
+            
+            "message": ""
+        },
+        "points" : {
+            
+            "message": ""
+        },
+        "Points" : {
+            
+            "message": "Taškais"
+        },
+        "points before trigger" : {
+            
+            "message": "mato vnt. prieš įvykį"
+        },
+        "Power" : {
+            
+            "message": ""
+        },
+        "Prediction" : {
+            
+            "message": "Prognozė"
+        },
+        "Prediction Name" : {
+            
+            "message": ""
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": ""
+        },
+        "Prediction Options" : {
+            
+            "message": ""
+        },
+        "Prediction Title" : {
+            
+            "message": "Prognozės pavadinimas"
+        },
+        "Predictions" : {
+            
+            "message": "Prognozės"
+        },
+        "Preview mode" : {
+            
+            "message": ""
+        },
+        "Primary:" : {
+            
+            "message": "Pirminis:"
+        },
+        "Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": ""
+        },
+        "Projectile Info" : {
+            
+            "message": ""
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Paleidimo įrenginys"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": ""
+        },
+        "Proximity Connect" : {
+            
+            "message": ""
+        },
+        "Pulse timing" : {
+            
+            "message": "Impulso laikas"
+        },
+        "Quote" : {
+            
+            "message": ""
+        },
+        "radians" : {
+            
+            "message": "radianai"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radianai (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Dažnis"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Dažniui, viršyjant 200 matavimų per sekundę, reikia nustatyti trukmę."
+        },
+        "Reconnect" : {
+            
+            "message": ""
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "Rectangle" : {
+            
+            "message": ""
+        },
+        "Regular" : {
+            
+            "message": ""
+        },
+        "Relative stability reading" : {
+            
+            "message": "Santykinis stabilumo rodmuo"
+        },
+        "Remainder" : {
+            
+            "message": ""
+        },
+        "Remote Logging" : {
+            
+            "message": ""
+        },
+        "Remote Logging in Process" : {
+            
+            "message": ""
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": ""
+        },
+        "Remote Logging Started" : {
+            
+            "message": ""
+        },
+        "Remote Logging Status" : {
+            
+            "message": ""
+        },
+        "Remove" : {
+            
+            "message": ""
+        },
+        "Remove Linear Trend" : {
+            
+            "message": ""
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": ""
+        },
+        "Rename" : {
+            
+            "message": "Pervadinti"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Pervadinti duomenis"
+        },
+        "Rename Prediction" : {
+            
+            "message": ""
+        },
+        "Replay" : {
+            
+            "message": ""
+        },
+        "Replay video sync info" : {
+            
+            "message": ""
+        },
+        "Reported Reading" : {
+            
+            "message": "Ataskaita"
+        },
+        "Reset" : {
+            
+            "message": ""
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Prieš matavimą nustatyti nulį"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Atstatyti standartinius nustatymus"
+        },
+        "Restart app" : {
+            
+            "message": "Paleiskite programą iš naujo"
+        },
+        "Restart Replay" : {
+            
+            "message": ""
+        },
+        "Restore All" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": ""
+        },
+        "Retry Calibration" : {
+            
+            "message": "Pakartoti kalibravimą"
+        },
+        "Reverse" : {
+            
+            "message": "Reversuoti"
+        },
+        "revolution" : {
+            
+            "message": "apsisukimų skaičius"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Apsisukimų skaičius (rev)"
+        },
+        "Right" : {
+            
+            "message": "Iki"
+        },
+        "Right Axis" : {
+            
+            "message": ""
+        },
+        "Right manual fit handle" : {
+            
+            "message": ""
+        },
+        "Right y-axis" : {
+            
+            "message": ""
+        },
+        "Right y-axis range" : {
+            
+            "message": ""
+        },
+        "RMS" : {
+            
+            "message": ""
+        },
+        "RMSE" : {
+            
+            "message": "Vidutinis kvadratinis nuokrypis"
+        },
+        "Round" : {
+            
+            "message": ""
+        },
+        "Row Number" : {
+            
+            "message": ""
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "matavimą"
+        },
+        "Sample Data" : {
+            
+            "message": "Duomenų pavyzdžiai"
+        },
+        "Sample Experiments" : {
+            
+            "message": ""
+        },
+        "samples" : {
+            
+            "message": "matavimas(-ai)"
+        },
+        "Samples" : {
+            
+            "message": "Matavimas(-ai)"
+        },
+        "samples per second" : {
+            
+            "message": ""
+        },
+        "samples scheduled" : {
+            
+            "message": ""
+        },
+        "Save" : {
+            
+            "message": "Išsaugoti"
+        },
+        "Save AMBL" : {
+            
+            "message": ""
+        },
+        "Save and Close App" : {
+            
+            "message": ""
+        },
+        "Save As..." : {
+            
+            "message": "Išsaugoti į..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Išsaugoti pakeitimus?"
+        },
+        "Save CSV" : {
+            
+            "message": ""
+        },
+        "Save Experiment" : {
+            
+            "message": "Išsaugoti eksperimentą"
+        },
+        "Save failed" : {
+            
+            "message": "Nepavyko išsaugoti"
+        },
+        "Save PDF" : {
+            
+            "message": ""
+        },
+        "Save Pending" : {
+            
+            "message": ""
+        },
+        "Save PNG" : {
+            
+            "message": ""
+        },
+        "Saved" : {
+            
+            "message": "Išsaugota"
+        },
+        "Saving" : {
+            
+            "message": ""
+        },
+        "Scale Factor" : {
+            
+            "message": "Mastelio koeficientas"
+        },
+        "Scaling" : {
+            
+            "message": "Mastelio keitimas"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Ieškomi įrenginiai..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Antroji kalibravimo taško jutiklio įtampa turi skirtis nuo pirmojo taško bent 0,05 V."
+        },
+        "Second Derivative" : {
+            
+            "message": ""
+        },
+        "Secondary:" : {
+            
+            "message": "Antrinis:"
+        },
+        "seconds" : {
+            
+            "message": "sekundės"
+        },
+        "See Experiments" : {
+            
+            "message": ""
+        },
+        "See sample experiments" : {
+            
+            "message": ""
+        },
+        "Select Data Set" : {
+            
+            "message": ""
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Pažymėkite pasirinkimus norint gauti duomenis apie kampines padėtis."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": ""
+        },
+        "select/deselect meter" : {
+            
+            "message": ""
+        },
+        "Selected Events" : {
+            
+            "message": "Fiksavimas be įrašo"
+        },
+        "Sensor Actions" : {
+            
+            "message": ""
+        },
+        "Sensor Channels" : {
+            
+            "message": "Jutiklio kanalai"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Jutiklių duomenų rinkimas"
+        },
+        "Sensor Setup" : {
+            
+            "message": ""
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Jutiklio įtampa"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Jutiklyje nustatyta nulinė vertė"
+        },
+        "Sensors" : {
+            
+            "message": "Jutikliai"
+        },
+        "Session 1 Name" : {
+            
+            "message": ""
+        },
+        "Session 2 Name" : {
+            
+            "message": ""
+        },
+        "Session 3 Name" : {
+            
+            "message": ""
+        },
+        "Session 4 Name" : {
+            
+            "message": ""
+        },
+        "Session ended by Host" : {
+            
+            "message": ""
+        },
+        "Session Preferences" : {
+            
+            "message": ""
+        },
+        "Settings saved" : {
+            
+            "message": ""
+        },
+        "Share AMBL" : {
+            
+            "message": ""
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": ""
+        },
+        "Share CSV" : {
+            
+            "message": ""
+        },
+        "Share Image" : {
+            
+            "message": ""
+        },
+        "Share PDF" : {
+            
+            "message": ""
+        },
+        "Show All Releases" : {
+            
+            "message": ""
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": ""
+        },
+        "Show Details" : {
+            
+            "message": ""
+        },
+        "Show Error Bars" : {
+            
+            "message": ""
+        },
+        "Show FFT" : {
+            
+            "message": ""
+        },
+        "Show Histogram" : {
+            
+            "message": ""
+        },
+        "Show Less" : {
+            
+            "message": ""
+        },
+        "Show Menu" : {
+            
+            "message": ""
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Rodyti vidutinį laiką vartuose"
+        },
+        "Show Original Graph" : {
+            
+            "message": ""
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": ""
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Significant Figures" : {
+            
+            "message": "Reikšminiai skaitmenys"
+        },
+        "Sine" : {
+            
+            "message": ""
+        },
+        "Slope" : {
+            
+            "message": "Nuokrypis"
+        },
+        "Small" : {
+            
+            "message": ""
+        },
+        "Spacing" : {
+            
+            "message": "Atstumas"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Atstumas = Perimetras / Stipinų skaičius"
+        },
+        "Specify source" : {
+            
+            "message": "Nurodykite šaltinį"
+        },
+        "Spectrum" : {
+            
+            "message": "Spektras"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Greitis kertant vartus"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": ""
+        },
+        "Spokes:" : {
+            
+            "message": "Stipinai:"
+        },
+        "Square" : {
+            
+            "message": ""
+        },
+        "Square Root" : {
+            
+            "message": ""
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": ""
+        },
+        "Start a New Session" : {
+            
+            "message": ""
+        },
+        "Start Collection" : {
+            
+            "message": "Pradėti matavimus"
+        },
+        "Start collection when" : {
+            
+            "message": "Pradėti matavimus, kuomet"
+        },
+        "Start Logging" : {
+            
+            "message": ""
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Pradėti naują eksperimentą?"
+        },
+        "Start Session" : {
+            
+            "message": ""
+        },
+        "Statistics" : {
+            
+            "message": "Statistika"
+        },
+        "Std dev" : {
+            
+            "message": "SD nuokr"
+        },
+        "Step Backward" : {
+            
+            "message": ""
+        },
+        "Step Forward" : {
+            
+            "message": ""
+        },
+        "Step Video Backwards" : {
+            
+            "message": ""
+        },
+        "Step Video Forward" : {
+            
+            "message": ""
+        },
+        "Stop" : {
+            
+            "message": "Sustabdyti"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Nustokite lašinti, kai tūris pasieks tarp 9 ml ir 10 ml."
+        },
+        "Stop Collection" : {
+            
+            "message": ""
+        },
+        "Stop Sharing" : {
+            
+            "message": ""
+        },
+        "Strikethrough" : {
+            
+            "message": ""
+        },
+        "Subject" : {
+            
+            "message": ""
+        },
+        "Submit" : {
+            
+            "message": "Pateikti"
+        },
+        "Subscript" : {
+            
+            "message": ""
+        },
+        "Subscription Ends" : {
+            
+            "message": ""
+        },
+        "Subscription ends" : {
+            
+            "message": ""
+        },
+        "Superscript" : {
+            
+            "message": ""
+        },
+        "Supported Functions" : {
+            
+            "message": ""
+        },
+        "Symbol" : {
+            
+            "message": ""
+        },
+        "Sync data with video" : {
+            
+            "message": ""
+        },
+        "Sync Video to Data" : {
+            
+            "message": ""
+        },
+        "Syntax" : {
+            
+            "message": ""
+        },
+        "Table" : {
+            
+            "message": "Lentelė"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Nuskaityti jutiklio matavimus (pvz. pH, laidumas) kiekvienam lašui."
+        },
+        "Tangent" : {
+            
+            "message": "Tangentas"
+        },
+        "Target" : {
+            
+            "message": "Tikslas"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "\"Bluetooth\" ryšys prarastas"
+        },
+        "The Column Name is required" : {
+            
+            "message": ""
+        },
+        "the current file" : {
+            
+            "message": ""
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": ""
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": ""
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": ""
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": ""
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Objekto / žymeklio plotis yra padalintas iš laiko, kuomet kertami fotovartai (vartų kirtimo trukmė), norint nustatyti objekto greitį kertant vartus."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": ""
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Laikas tarp užblokuotų įvykių nurodomas kaip intervalas."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": ""
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": ""
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": ""
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": ""
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": ""
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Šis stulpelis buvo sugeneruotas automatiškai ir jo negalima keisti"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": ""
+        },
+        "This feature requires a" : {
+            
+            "message": ""
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Šis skaičius apibrėžia posūkio kampinės padėties keitimąsi kiekviename užblokuotame įvykyje."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": ""
+        },
+        "Time" : {
+            
+            "message": "Laikas"
+        },
+        "Time Based" : {
+            
+            "message": "Automatinis fiksavimas"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": ""
+        },
+        "Time between gates" : {
+            
+            "message": "Laikas tarp vartų"
+        },
+        "Time Decay Filter" : {
+            
+            "message": ""
+        },
+        "Time measurements" : {
+            
+            "message": "Laiko matavimai"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": ""
+        },
+        "Time Units" : {
+            
+            "message": "Laiko vienetai"
+        },
+        "Timer" : {
+            
+            "message": "Laikmatis"
+        },
+        "Timer Info" : {
+            
+            "message": ""
+        },
+        "Timer or Period" : {
+            
+            "message": "Laikmatis arba Periodas"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": ""
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": ""
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": ""
+        },
+        "Title" : {
+            
+            "message": "Pavadinimas"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": ""
+        },
+        "To locate the address:" : {
+            
+            "message": "Nustatyti adresą:"
+        },
+        "to make the key available for use." : {
+            
+            "message": ""
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": ""
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": ""
+        },
+        "Toggle Light Mode" : {
+            
+            "message": ""
+        },
+        "Too few points" : {
+            
+            "message": "Per mažai taškų"
+        },
+        "Toolbar" : {
+            
+            "message": ""
+        },
+        "Top" : {
+            
+            "message": "Iki"
+        },
+        "Total samples" : {
+            
+            "message": "Iš viso matavimų"
+        },
+        "Triangle" : {
+            
+            "message": ""
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": ""
+        },
+        "Truncate" : {
+            
+            "message": ""
+        },
+        "Two-point calibration" : {
+            
+            "message": "Dviejų taškų kalibravimas"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Skriemulys - matavimas griovelyje"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Skriemulys - matavimas išorinėje briaunoje"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Nepavyksta prisijungti arba rasti šaltinį pagal nurodytą pavadinimą."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Nepavyksta prisijungti prie "
+        },
+        "Units" : {
+            
+            "message": "Vienetai"
+        },
+        "Unknown" : {
+            
+            "message": ""
+        },
+        "Unknown License Key Error" : {
+            
+            "message": ""
+        },
+        "Unmute Audio" : {
+            
+            "message": ""
+        },
+        "Unsupported Browser" : {
+            
+            "message": ""
+        },
+        "Untitled" : {
+            
+            "message": "Be pavadinimo"
+        },
+        "Update Available" : {
+            
+            "message": "Galimas atnaujinimas"
+        },
+        "Update error" : {
+            
+            "message": "Atnaujinimo klaida"
+        },
+        "Update Firmware" : {
+            
+            "message": "Atnaujinti programinę - aparatinę įrangą"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Siunčiamas atnaujinimas..."
+        },
+        "Update your License Key" : {
+            
+            "message": ""
+        },
+        "USB" : {
+            
+            "message": ""
+        },
+        "USB Device" : {
+            
+            "message": "USB įrenginys"
+        },
+        "Use Column Value" : {
+            
+            "message": ""
+        },
+        "Use gate separation" : {
+            
+            "message": "Naudoti vartų atskyrimą"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Naudoti objektą / žymeklio plotį"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Nurodyti sviedinio skersmenį"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Naudokite standartinį žymėjimą"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": ""
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": ""
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Naudokite šitą parinktį norint nustatyti laiko priklausomybę nuo greičio. Fiksuojamas laikas yra laiko vidurkis tarp fotoužrakto atidarymo ir uždarymo laiko."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Naudoti skrydžio laiko matuoklį"
+        },
+        "Use Windowing" : {
+            
+            "message": ""
+        },
+        "User Manual" : {
+            
+            "message": ""
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Naudojamas gamyklinis kalibravimas nuo"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": ""
+        },
+        "Value must be between " : {
+            
+            "message": "Vertė turi būti tarp "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": ""
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Matavimo skalė"
+        },
+        "Version" : {
+            
+            "message": "Versija"
+        },
+        "Vertical Divider" : {
+            
+            "message": ""
+        },
+        "Video" : {
+            
+            "message": "Vaizdo įrašas"
+        },
+        "Video Time" : {
+            
+            "message": ""
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": ""
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": ""
+        },
+        "View Experiment" : {
+            
+            "message": ""
+        },
+        "View Integral" : {
+            
+            "message": "Peržiūrėti integralą"
+        },
+        "View Options" : {
+            
+            "message": ""
+        },
+        "View Statistics" : {
+            
+            "message": "Peržiūrėti statistiką"
+        },
+        "Voltage" : {
+            
+            "message": "Įtampa"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": ""
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": ""
+        },
+        "What's New" : {
+            
+            "message": "Atnaujinimai"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Kuomet pasirenkama švytuoklė, laikas tarp kiekvieno porinio kirtimo įvykio yra fiklsuojamas kaip Periodas, kadangi švytuoklė kerta vartus tris kartus, kuomet įvyksta pilnas švytuoklės mostas."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Naudojant du fotovartus, greičio apskaičiavimui galite naudoti atstumą tarp vartų, o ne objekto / žymeklio plotį. Tuomet fiksuojamas greitis būtų greitis tarp dviejų vartų."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Belaidžiam ryšiui įjungti reikalingi \"Windows 10\"."
+        },
+        "Wireless" : {
+            
+            "message": ""
+        },
+        "Working..." : {
+            
+            "message": "Apdorojimas..."
+        },
+        "x" : {
+            
+            "message": ""
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": ""
+        },
+        "x-axis range" : {
+            
+            "message": "x-ašies intervalas"
+        },
+        "x-range" : {
+            
+            "message": "x-intervalas"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-ašies intervalas"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": ""
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": ""
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": ""
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": ""
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": ""
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": ""
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": ""
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": ""
+        },
+        "Zero" : {
+            
+            "message": "Nustatyta nulinė vertė"
+        },
+        "Zoom to all Data" : {
+            
+            "message": ""
+        },
+        "Zoom to Selection" : {
+            
+            "message": ""
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-ašis ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-ašis ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": ""
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": ""
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": ""
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g Akselerometras"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "Triašis akselerometras (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "Triašis akselerometras (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "Triašis akselerometras (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "Diapazonas: +/-30 V"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbcija"
+        },
+        "Acceleration" : {
+            
+            "message": "Pagreitis"
+        },
+        "Accelerometer" : {
+            
+            "message": "Akselerometras"
+        },
+        "Ammonium" : {
+            
+            "message": "Amonis"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Amonio konc. jutiklis"
+        },
+        "Analyzer" : {
+            
+            "message": "Analizatorius"
+        },
+        "Anemometer" : {
+            
+            "message": "Anemometras"
+        },
+        "Angle" : {
+            
+            "message": "Kampas"
+        },
+        "Barometer" : {
+            
+            "message": "Barometras"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometras (Prekė neparduodama)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Biodujų slėgis"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Kraujospūdžio jutiklis"
+        },
+        "Calcium" : {
+            
+            "message": "Kalcis"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Kalcio konc. jutiklis"
+        },
+        "Charge" : {
+            
+            "message": "Krūvis"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Krūvio jutiklis"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Įkrovimo jutiklis 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Krūvio jutiklis 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Krūvio jutiklis 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Chloridas"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Chlorido konc. jutiklis"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "Aukšta CO2 dujų koncentracija"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "Žema CO2 dujų koncentracija"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "Pasenęs jutiklis CO2"
+        },
+        "Colorimeter" : {
+            
+            "message": "Kolorimetras"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Senas kolorimetras"
+        },
+        "Concentration" : {
+            
+            "message": "Koncentracija"
+        },
+        "Conductivity" : {
+            
+            "message": "Laidumas"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Laidumas 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Laidumas 20000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Laidumas 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Nuolatinės srovės sistema"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Slėgis manžetėje"
+        },
+        "Current" : {
+            
+            "message": "Srovė"
+        },
+        "Current Probe" : {
+            
+            "message": "Ampermetras"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Ampermetras 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastolinis"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Diferencialinė įtampa"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Skaitmeninis valdiklis"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Tiesioginio ryšio termometras"
+        },
+        "Displacement" : {
+            
+            "message": "Perkėlimas"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Ištirpęs CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Ištirpęs deguonis"
+        },
+        "Distance" : {
+            
+            "message": "Atstumas"
+        },
+        "DO" : {
+            
+            "message": "Optinis skaitmeninis zondas"
+        },
+        "Drop Counter" : {
+            
+            "message": "Lašų skaitiklis"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Diapazonas 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Diapazonas 50 N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": ""
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Elektrodo stiprintuvas"
+        },
+        "Energy" : {
+            
+            "message": "Energija"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Energijos jutiklis srovei"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Energijos jutiklis įtampai"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanolis"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Etanolio jutiklis"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Prailgintas termo jutiklis"
+        },
+        "Flow Rate" : {
+            
+            "message": "Srovės stiprumo jutiklis"
+        },
+        "Fluorescence" : {
+            
+            "message": ""
+        },
+        "Force" : {
+            
+            "message": "Jėga"
+        },
+        "Force Plate" : {
+            
+            "message": "Jėgos matavimo plokštė"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Diapazonas 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Diapazonas 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Dujų slėgio jutiklis"
+        },
+        "Gate State" : {
+            
+            "message": "Užrakto būsena"
+        },
+        "Gate Time" : {
+            
+            "message": ""
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Belaidis elektrodo stirpintuvas"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Belaidis širdies ritmo jutiklis"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Belaidis pH jutiklis"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Belaidis termo jutiklis"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Judesio jutiklis"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Termo jutiklis"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniometras"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Rankinis dinamometras"
+        },
+        "Heart Rate" : {
+            
+            "message": "instrumentation Amplifier"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Širdies dažnio matuoklis"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Aukštos srovės jutiklis"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Didelio jautrumo šviesa 1 μW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Didelio jautrumo šviesa 10 μW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Didelio jautrumo šviesa 100 μW"
+        },
+        "Illumination" : {
+            
+            "message": "Šviesos jutiklis"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Matavimų stiprintuvas"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Diapazonas: +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Diapazonas: +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Diapazonas: +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Diapazonas: 0-1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Diapazonas: 0-200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Diapazonas: 0-20mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intensyvumas"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "Infraraudonųjų spindulių termo jutiklis"
+        },
+        "Irradiance" : {
+            
+            "message": "Radiacijos intensyvumas"
+        },
+        "Launch Speed" : {
+            
+            "message": ""
+        },
+        "Light" : {
+            
+            "message": "Apšvietimo jutiklis"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Diapazonas: 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Diapazonas: 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Diapazonas: 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Apšvietimo lygis"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Linijinis nuotolio jutiklis"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Mažo pagreičio akselerometras"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Magnetinio lauko jutiklis"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Magnetinis laukas 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Magnetinis laukas 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "VIdutinis arterinio kraujo spaudimas"
+        },
+        "Melt Station" : {
+            
+            "message": "Lydimosi temperatūros jutiklis"
+        },
+        "Microphone" : {
+            
+            "message": "Mikrofonas"
+        },
+        "mol/L" : {
+            
+            "message": ""
+        },
+        "Motion" : {
+            
+            "message": "Judėjimas"
+        },
+        "Motion Detector" : {
+            
+            "message": "Judesio jutiklis"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Vežimėlis (Motion Encoder)"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitratas"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitrato konc. jutiklis"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Optinis skaitmeninis zondas %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Optinis skaitmeninis zondas mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Deguonies jutiklis"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Senas deguonies jutiklis"
+        },
+        "PAR Sensor" : {
+            
+            "message": "PAR jutiklis"
+        },
+        "Period" : {
+            
+            "message": ""
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP stiprintuvai"
+        },
+        "Photogate" : {
+            
+            "message": "Fotovartai"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Platininis elektrodas"
+        },
+        "Polarimeter" : {
+            
+            "message": "Poliarimetras"
+        },
+        "Position" : {
+            
+            "message": "Padėtis"
+        },
+        "Potassium" : {
+            
+            "message": "Kalis"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Kalio konc. jutiklis"
+        },
+        "Potential" : {
+            
+            "message": "Potencialas"
+        },
+        "Power" : {
+            
+            "message": "Jėga"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Galios stiprintuvo srovė"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Spaudimas"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Spaudimo jutiklis (pardavime nėra)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Spaudimo jutiklis 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Paleidimo įrenginys"
+        },
+        "Pulse" : {
+            
+            "message": "Impulsas"
+        },
+        "Pulse Time" : {
+            
+            "message": "Impulso laikas"
+        },
+        "Pyranometer" : {
+            
+            "message": "Piranometras"
+        },
+        "Radiation" : {
+            
+            "message": "Radiacija"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Dozimetras"
+        },
+        "Raw" : {
+            
+            "message": ""
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Diapazonas: 0-5V"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Santykinės drėgmės jutiklis"
+        },
+        "Resistance" : {
+            
+            "message": "Pasipriešinimas"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Kvėpavimo stebėsena"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Kvėpavimo dažnis"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Sukamojo judesio"
+        },
+        "Salinity" : {
+            
+            "message": "Druskingumas"
+        },
+        "Signal" : {
+            
+            "message": "Signalas"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Dirvožemio drėgmė"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Dirvožemio drėgmės jutiklis"
+        },
+        "Sound Level" : {
+            
+            "message": "Garso lygio jutiklis"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Garso lygio jutiklis"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Garso slėgis"
+        },
+        "Speed" : {
+            
+            "message": "Greitis"
+        },
+        "Spirometer" : {
+            
+            "message": "Spirometras"
+        },
+        "Standard" : {
+            
+            "message": ""
+        },
+        "Standard Temperature" : {
+            
+            "message": "Standartinė temperatūra"
+        },
+        "Student Force" : {
+            
+            "message": "Mokinio jėga"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Apšvitinimo matavimas"
+        },
+        "Systolic" : {
+            
+            "message": "Sistolinis"
+        },
+        "Temperature" : {
+            
+            "message": "Temperatūra"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Temperatūros jutiklis"
+        },
+        "Thermocouple" : {
+            
+            "message": "Termopora"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Sena termopora"
+        },
+        "TI Light" : {
+            
+            "message": "TI apšvietimas"
+        },
+        "Time of Flight" : {
+            
+            "message": ""
+        },
+        "Transmittance" : {
+            
+            "message": "Skaidrumas"
+        },
+        "Turbidity" : {
+            
+            "message": "Drumstumo jutiklis"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA intensyvumas"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVA jutiklis"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB intensyvumas"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVB jutiklis"
+        },
+        "Velocity" : {
+            
+            "message": "Greitis"
+        },
+        "Voltage" : {
+            
+            "message": "Įtampos jutiklis"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Diapazonas: +/-10V"
+        },
+        "Volume" : {
+            
+            "message": "Apimtis"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT Jėga"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Plataus spektro temperatūros jutiklis"
+        },
+        "X Acceleration" : {
+            
+            "message": "X pagreitis"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y Pagreitis"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z pagreitis"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Acceleration G" : {
+            
+            "message": "Pagreitis G"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Pagreitis Y"
+        },
+        "Altitude" : {
+            
+            "message": "Aukštis"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Vieno taško kalibravimo aukštis"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitudė"
+        },
+        "Angle (x4)" : {
+            
+            "message": "Kampas (x4)"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ Dujos"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Laidumas - 0% TC"
+        },
+        "Counts" : {
+            
+            "message": "Skaičiavimai"
+        },
+        "Drops" : {
+            
+            "message": "Lašai"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG pataisyta"
+        },
+        "Enter first known value" : {
+            
+            "message": "Įveskite pirmą žinomą vertę"
+        },
+        "Enter known value" : {
+            
+            "message": "Įveskite žinomą vertę"
+        },
+        "Enter second known value" : {
+            
+            "message": "Įveskite antrą žinomą vertę"
+        },
+        "Enter third known value" : {
+            
+            "message": "Įveskite trečią žinomą vertę"
+        },
+        "Force G" : {
+            
+            "message": "Jėga G"
+        },
+        "Force Y" : {
+            
+            "message": "Jėga Y"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Triašis magnetinio lauko jutiklis Go Direct®"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® greičio jutiklis"
+        },
+        "Go Direct® Carbon Dioxide Gas" : {
+            
+            "message": "Go Direct® Anglies dioksido dujų jutiklis"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® kolorimetras"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® laidumo jutiklis"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Nuolatinės srovės sistemos jutiklis"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® srovės jutiklis"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® lašų skaitiklis"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektrodų stiprintuvas"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® Elektros energijos jutiklis"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Jėgos ir greičio jutiklis"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Dujų slėgio jutiklis"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® šviesos ir spalvos jutiklis"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® Lydinimo stotelė"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® judesio jutiklis"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® optinis ištirpusio deguonies jutiklis"
+        },
+        "Go Direct® Oxygen Gas" : {
+            
+            "message": "Go Direct® deguonies jutiklis"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® radiacijos jutiklis"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® kvėpavimo jutiklis"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® rotacinio judėjimo jutiklis"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® jutiklių rinkinys (žalias)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® jutiklių rinkinys (geltonas)"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® paviršiaus temperatūros jutiklis"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® temperatūros matavimo jutiklis"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® elektros įtampos jutiklis"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® plataus diapazono termo jutiklis"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Triašis magnetinio lauko jutiklis Go Direct™"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct™ greičio jutiklis"
+        },
+        "Go Direct™ Carbon Dioxide Gas" : {
+            
+            "message": "Go Direct™ anglies dioksido dujos"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct™ Kolorimetras"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct™ laidumo jutiklis"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct™ Nuolatinės srovės sistemos jutiklis"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct™ srovės jutiklis"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct™ lašų skaitiklis"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct™ EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Elektrodų stiprintuvas"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct™ elektros energijos jutiklis"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct™ Jėgos ir greičio jutiklis"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct™ Dujų slėgio jutiklis"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct™ Šviesos ir spalvos jutiklis"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct™ Lydinimo stotelė"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct™ Judesio jutiklis"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct™ Optinis ištirpusio deguonies jutiklis"
+        },
+        "Go Direct™ Oxygen Gas" : {
+            
+            "message": "Deguonies jutiklis"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct™ Radiacijos jutiklis"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct™ kvėpavimo jutiklis"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct™ Rotacinio judėjimo jutiklis"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct™ Jutiklių rinkinys (žalias)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct™ jutiklių rinkinys (geltonas)"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct™ paviršiaus temperatūros jutiklis"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct™ temperatūros matavimo jutiklis"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct™ Elektros įtampos jutiklis"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct™ plataus diapazono termo jutiklis"
+        },
+        "Illuminance" : {
+            
+            "message": "Apšvietimas"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "One-point calibration" : {
+            
+            "message": "Vieno taško kalibravimas"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Dujos"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Dujų rTC"
+        },
+        "Position G" : {
+            
+            "message": "Pozicija G"
+        },
+        "Position Y" : {
+            
+            "message": "Pozicija Y"
+        },
+        "Saturation" : {
+            
+            "message": "Sodrumas"
+        },
+        "Step Rate" : {
+            
+            "message": "Žingsnių dažnis"
+        },
+        "Steps" : {
+            
+            "message": "Žingsniai"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Trijų taškų kalibravimas"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Dviejų taškų kalibravimas"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Index" : {
+            
+            "message": "UV indeksas"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV intensyvumas"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Velocity G" : {
+            
+            "message": "Greitis G"
+        },
+        "Velocity Y" : {
+            
+            "message": "Greitis Y"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Įtampa - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Įtampa - 20 V"
+        },
+        "X magnetic field" : {
+            
+            "message": "X magnetinis laukas"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X magnetiniame lauke 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-kampinis greitis"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X-kampinis pagreitis"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-ašies pagreitis G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-ašies pagreitis Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-ašies pagreitis vieno taško kalibravimas"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-ašies pagrietis-aukštas"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-ašies pagrietis-aukštas vieno taško kalibravimas"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X-ašies kampinis greitis"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X-ašies giroskopas"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y magnetinis laukas"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y magnetinis laukas 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-kampinis greitis"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y-ašies pagreitis"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-ašies pagreitis G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-ašies pagreitis Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Vieno taško kalibravimo Y-ašies pagreitis"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y-ašies pagreitis-aukštas"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Vieno taško kalibravimo Y-ašies pagreitis-aukštas"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y-ašies kampinis greitis"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y-ašies giroskopas"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z magentinis laukas"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z magnetinis laukas 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-kampo greitis"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z-kampo pagreitis"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-ašies pagreitis G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-ašies pagreitis Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Vieno taško kalibravimo Z-ašies pagreitis"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z-ašies pagreitis-aukštas"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Vieno taško kalibravimo Z-ašies pageitis-aukštas"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z-ašies kampinis greitis"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z-ašies giroskopas"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "k./min"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "ml"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/l"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "rev" : {
+            
+            "message": "atgal"
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "žingsniai"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": ""
+        },
+        "Cosine Squared" : {
+            
+            "message": ""
+        },
+        "Inverse" : {
+            
+            "message": "Inversinė"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Inversinė kvadratinė"
+        },
+        "Linear" : {
+            
+            "message": "Tiesinė"
+        },
+        "Modified Power" : {
+            
+            "message": "Pakeista galia"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Eksponentinė"
+        },
+        "Natural Log" : {
+            
+            "message": "Logaritminė"
+        },
+        "Not defined" : {
+            
+            "message": ""
+        },
+        "Power" : {
+            
+            "message": "Laipsninė"
+        },
+        "Proportional" : {
+            
+            "message": "Proporcinė"
+        },
+        "Quadratic" : {
+            
+            "message": "Kvadratinė"
+        },
+        "Sine" : {
+            
+            "message": ""
+        },
+        "Slope" : {
+            
+            "message": "Nuokrypis"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": ""
+        }
+        
+    }
+}

@@ -1,0 +1,6470 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "เชื่อมต่อกับลูกค้า %d ราย"
+        },
+        "%s All" : {
+            
+            "message": "%s ทั้งหมด"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s ชุดข้อมูลทั้งหมด"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s ตัวเลือกลักษณะที่ปรากฏ"
+        },
+        "%s details" : {
+            
+            "message": "%s รายละเอียด"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s กำลังรวบรวมข้อมูล คุณต้องการหยุดการรวบรวมและเริ่มการทดสอบใหม่หรือไม่"
+        },
+        "%s Options" : {
+            
+            "message": ""
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(ระยะทาง, ความเร็ว, ความเร่ง)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 กราฟ"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "อนุพันธ์ลำดับ1"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1st Derivative Time Shift"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "อนุพันธ์ลำดับ1 (Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": ""
+        },
+        "2 Graphs" : {
+            
+            "message": "2 กราฟ"
+        },
+        "2nd derivative" : {
+            
+            "message": "อนุพันธ์ลำดับ2"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2nd Derivative Time Shift"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "อนุพันธ์ลำดับ2 (Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": ""
+        },
+        "3 Graphs" : {
+            
+            "message": "3 กราฟ"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "มีข้อผิดพลาดในการสื่อสาร เริ่มต้นการทดสอบใหม่เพื่อดำเนินการต่อ"
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "กรุณาลองอีกครั้ง เกิดความผิดพลาดในการติดต่อ เนื่องจากการเก็บข้อมูลถูกหยุด"
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B, และ C คือพารามิเตอร์ที่สามารถตั้งค่าได้ ส่วน X, Y และ Z คือคอลัมน์ที่อยู่ในตาราง"
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "เกี่ยวกับ"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "เกี่ยวกับ Custom Curve Fits"
+        },
+        "Absolute Value" : {
+            
+            "message": "ค่าสัมบูรณ์"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Accessories" : {
+            
+            "message": ""
+        },
+        "across" : {
+            
+            "message": "ข้าม"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": ""
+        },
+        "Activate to add manual fit" : {
+            
+            "message": ""
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "เปิดใช้งานเพื่อใช้ FFT"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "เปิดใช้งานเพื่อใช้ฮิสโตแกรม"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": ""
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": ""
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": ""
+        },
+        "Activate to use %s" : {
+            
+            "message": "เปิดใช้งานเพื่อใช้ %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "เปิดใช้งานเพื่อใช้กราฟแท่ง"
+        },
+        "Activate to use Notes" : {
+            
+            "message": ""
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": ""
+        },
+        "Activate to use Video" : {
+            
+            "message": ""
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "เพิ่มคอลัมน์จากการคำนวณ"
+        },
+        "Add a graph title here" : {
+            
+            "message": "เพิ่มหัวข้อกราฟที่นี่"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "เพิ่มคอลัมน์ใส่ค่าเอง"
+        },
+        "Add Annotation" : {
+            
+            "message": "เพิ่มคำอธิบายประกอบ"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "เพิ่มคอลัมน์คำนวณค่า"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "ใส่น้ำกลั่นลงในฝาที่ด้านบนของฟองน้ำ"
+        },
+        "Add Graph Match" : {
+            
+            "message": "เพิ่มกราฟ Match"
+        },
+        "Add Manual Column" : {
+            
+            "message": "เพิ่มคอลัมน์ใส่ค่าเอง"
+        },
+        "Add Manual Fit" : {
+            
+            "message": ""
+        },
+        "add meters" : {
+            
+            "message": ""
+        },
+        "Add New Data Set" : {
+            
+            "message": "เพิ่มชุดข้อมูลใหม่"
+        },
+        "Add Prediction" : {
+            
+            "message": "เพิ่มการคาดคะเน"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "เพิ่มซอฟท์เซนเซอร์"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "เพิ่มหยดน้ำยาหยอดสารละลายผ่านเครื่องนับหยดลงในกระบอกตวงขนาด 10 มล."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": ""
+        },
+        "Advanced" : {
+            
+            "message": "ขั้นสูง"
+        },
+        "After" : {
+            
+            "message": "ภายหลัง"
+        },
+        "After set number of flags" : {
+            
+            "message": "หลังจากกำหนดจำนวนของ flag แล้ว"
+        },
+        "All" : {
+            
+            "message": "ทั้งหมด"
+        },
+        "Always Show 0" : {
+            
+            "message": "แสดง 0 ตลอด"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "แอมพลิจูด"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "นิพจน์ต้องมีตัวแปรอิสระและอย่างน้อยหนึ่งพารามิเตอร์"
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "จำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ต เพื่อเชื่อมต่อกับเซสชันการแบ่งปันข้อมูล เชื่อมต่ออินเทอร์เน็ตอีกครั้ง จากนั้นแตะเชื่อมต่อใหม่"
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "จำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตเพื่อเชื่อมต่อกับการแบ่งปันข้อมูลออนไลน์"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "จำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตเพื่อแบ่งปันข้อมูล"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "จำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตเพื่อแบ่งปันข้อมูล เชื่อมต่ออินเทอร์เน็ตอีกครั้ง จากนั้นเริ่มเซสชันการแบ่งปันข้อมูลใหม่เพื่อแชร์ต่อ"
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "เป็นอุปกรณ์เสริมของเครื่องยิงโปรเจกไตล์ และใช้สำหรับแสดงผล Time of Flight ของโปรเจกไตล์"
+        },
+        "and " : {
+            
+            "message": "และ "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "แล้วแตะหยุดการแชร์"
+        },
+        "Angle units" : {
+            
+            "message": "หน่วยมุม"
+        },
+        "Angular Motion" : {
+            
+            "message": "การเคลื่อนที่เชิงมุม"
+        },
+        "Angular Motion Info" : {
+            
+            "message": ""
+        },
+        "App is up to date" : {
+            
+            "message": "แอปอัปเดตแล้ว"
+        },
+        "App Preferences" : {
+            
+            "message": ""
+        },
+        "App Updates" : {
+            
+            "message": "การอัปเดตแอป"
+        },
+        "Appearance" : {
+            
+            "message": "ปรากฎ"
+        },
+        "Append" : {
+            
+            "message": "เพิ่มเติม"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "เพิ่มข้อมูลไปยังชุดข้อมูลปัจจุบัน หรือทำการสร้างชุดข้อมูลใหม่"
+        },
+        "Append or Create New?" : {
+            
+            "message": "เพิ่มหรือสร้างใหม่"
+        },
+        "Apply" : {
+            
+            "message": "ประยุกต์"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "ประยุกต์ Curve Fit"
+        },
+        "Apply FFT" : {
+            
+            "message": "ใช้ FFT"
+        },
+        "Apply Histogram" : {
+            
+            "message": "ใช้ฮิสโตแกรม"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "พื้นที่"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "ในขณะที่คุณเก็บข้อมูล พวกเขาจะเห็นข้อมูลของคุณในสำเนาของ Graphical Analysis"
+        },
+        "Auto" : {
+            
+            "message": "อัตโนมัติ"
+        },
+        "Automatic" : {
+            
+            "message": "อัตโนมัติ"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "ค่าเฉลี่ยของการอ่านเซ็นเซอร์เกิน 10 วินาที"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "เฉลี่ยมากกว่า 10 วินาที"
+        },
+        "Axis Label Size" : {
+            
+            "message": "ขนาดป้ายแกน"
+        },
+        "Back" : {
+            
+            "message": "กลับ"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "ตัวกรองแบนด์พาส"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "ตัวกรองแถบหยุด"
+        },
+        "Bar Tape" : {
+            
+            "message": "เทปบาร์"
+        },
+        "Bars" : {
+            
+            "message": "แท่ง"
+        },
+        "Base" : {
+            
+            "message": "ฐาน"
+        },
+        "Base Axis" : {
+            
+            "message": ""
+        },
+        "Battery" : {
+            
+            "message": "แบตเตอรี่"
+        },
+        "Battery Level" : {
+            
+            "message": "ระดับแบตเตอรี่"
+        },
+        "Bin Start Value" : {
+            
+            "message": ""
+        },
+        "Bin Width" : {
+            
+            "message": ""
+        },
+        "Bluetooth Device" : {
+            
+            "message": "อุปกรณ์บลูทูธ"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "บลูทูธไม่ได้เปิดใช้"
+        },
+        "Bold" : {
+            
+            "message": ""
+        },
+        "Book" : {
+            
+            "message": "จอง"
+        },
+        "Book Title" : {
+            
+            "message": "ชื่อการจอง"
+        },
+        "Both" : {
+            
+            "message": "ทั้งคู่"
+        },
+        "Bottom" : {
+            
+            "message": "ข้างใต้"
+        },
+        "Bottom Bar" : {
+            
+            "message": ""
+        },
+        "Bullet list" : {
+            
+            "message": ""
+        },
+        "Calculated %s" : {
+            
+            "message": "จากการคำนวณ %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "คอลัมน์จากการคำนวณ"
+        },
+        "Calibrate" : {
+            
+            "message": "สอบเทียบ"
+        },
+        "Calibrate Now" : {
+            
+            "message": "สอบเทียบตอนนี้"
+        },
+        "Calibrating..." : {
+            
+            "message": "กำลังสอบเทียบ..."
+        },
+        "Calibration complete" : {
+            
+            "message": "เสร็จสิ้นการสอบเทียบ"
+        },
+        "Calibration failed" : {
+            
+            "message": "การสอบเทียบผิดพลาด"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "รีเซ็ตการสอบเทียบสำเร็จแล้ว"
+        },
+        "Calibration Type" : {
+            
+            "message": "ประเภทการสอบเทียบ"
+        },
+        "Cancel" : {
+            
+            "message": "ยกเลิก"
+        },
+        "cancel" : {
+            
+            "message": "ยกเลิก"
+        },
+        "Capable" : {
+            
+            "message": ""
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Cart Picket Fence"
+        },
+        "Categorical" : {
+            
+            "message": "หมวดหมู่"
+        },
+        "Categorical Data" : {
+            
+            "message": "ข้อมูลหมวดหมู่"
+        },
+        "Ceiling" : {
+            
+            "message": ""
+        },
+        "Center manual fit handle" : {
+            
+            "message": ""
+        },
+        "Change left y-axis" : {
+            
+            "message": "เปลี่ยนแกน y ด้านซ้าย"
+        },
+        "Change right y-axis" : {
+            
+            "message": "เปลี่ยนแกน y ด้านขวา"
+        },
+        "Change x-axis" : {
+            
+            "message": "เปลี่ยนแกน X"
+        },
+        "Change y-axis" : {
+            
+            "message": "เปลี่ยนแกน Y"
+        },
+        "Channels" : {
+            
+            "message": ""
+        },
+        "Charging," : {
+            
+            "message": "กำลังชาร์จ,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": ""
+        },
+        "Check for software updates" : {
+            
+            "message": ""
+        },
+        "Check for Updates" : {
+            
+            "message": "ตรวจสอบสำหรับการอัพเดต"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "ตรวจสอบเซ็นเซอร์สำหรับไฟ LED กระพริบ"
+        },
+        "Checking for update..." : {
+            
+            "message": "กำลังตรวจสอบการอัปเดต ..."
+        },
+        "Choose File" : {
+            
+            "message": "เลือกไฟล์"
+        },
+        "Choose Folder..." : {
+            
+            "message": "เลือกโฟลเดอร์ ..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": ""
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": ""
+        },
+        "Circle" : {
+            
+            "message": ""
+        },
+        "Clear Expression" : {
+            
+            "message": "ล้างนิพจน์"
+        },
+        "Clear Filter" : {
+            
+            "message": ""
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "คลิกหรือกดเลือก START SESSION เพื่อสร้างรหัส ID สำหรับเซสชันของคุณ"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": ""
+        },
+        "Close" : {
+            
+            "message": "ปิด"
+        },
+        "Close Alert" : {
+            
+            "message": ""
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "ปิดแอพและอัพเดทเฟิร์มแวร์"
+        },
+        "Close Application" : {
+            
+            "message": "ปิดแอปพลิเคชัน"
+        },
+        "Close Dialog" : {
+            
+            "message": "ปิดกล่องโต้ตอบ"
+        },
+        "Close FFT" : {
+            
+            "message": ""
+        },
+        "Close graph legend" : {
+            
+            "message": "ปิดคำอธิบายกราฟ"
+        },
+        "Close Histogram" : {
+            
+            "message": ""
+        },
+        "Close Infobox" : {
+            
+            "message": ""
+        },
+        "Close Menu" : {
+            
+            "message": ""
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "ปิดความถี่สูงสุด"
+        },
+        "Close Popover" : {
+            
+            "message": "ปิดป๊อปโอเวอร์"
+        },
+        "Close Replay" : {
+            
+            "message": "ปิดการเล่นซ้ำ"
+        },
+        "Close Start Page" : {
+            
+            "message": ""
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "ปิดกล่องโต้ตอบนี้เพื่อดำเนินการต่อ"
+        },
+        "Code" : {
+            
+            "message": ""
+        },
+        "Coefficient" : {
+            
+            "message": "ค่าสัมประสิทธิ์"
+        },
+        "Collapse" : {
+            
+            "message": "ยุบ"
+        },
+        "Collect" : {
+            
+            "message": "รวบรวม"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "เก็บข้อมูลจากเซ็นเซอร์ของ Vernier"
+        },
+        "Collecting" : {
+            
+            "message": "การจัดเก็บ"
+        },
+        "Collecting %d %s" : {
+            
+            "message": ""
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "การเก็บข้อมูลจำนวนมากส่งผลกระทบต่อการทำงาน"
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "การเก็บข้อมูลเกิน ${eventParams.accumulate} วินาที"
+        },
+        "Collection Parameters" : {
+            
+            "message": ""
+        },
+        "Column %s" : {
+            
+            "message": "คอลัมน์ %s"
+        },
+        "Column Options" : {
+            
+            "message": "ตัวเลือกคอลัมน์"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "คอลัมน์จะถูกลบทิ้งทุกชุดข้อมูล การลบจะไม่สามารถถูกเรียกกลับได้"
+        },
+        "Comma Separated Values" : {
+            
+            "message": "แยกค่าด้วยจุลภาค"
+        },
+        "Complementary Error" : {
+            
+            "message": "ข้อผิดพลาดส่วนเสริม"
+        },
+        "Configurator" : {
+            
+            "message": ""
+        },
+        "Confirm" : {
+            
+            "message": ""
+        },
+        "Connect" : {
+            
+            "message": "เชื่อมต่อ"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "เชื่อมต่อ <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">สนับสนุนอุปกรณ์ประเภทยูเอสบีของ Vernier</a>"
+        },
+        "Connect a device" : {
+            
+            "message": "เชื่อมต่ออุปกรณ์"
+        },
+        "Connect a Device" : {
+            
+            "message": "เชื่อมต่ออุปกรณ์"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "เชื่อมต่อกับ LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "เชื่อมต่อไวไฟกับ LabQuest 2 หรือ Logger Pro"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": ""
+        },
+        "Connect this device for data collection." : {
+            
+            "message": ""
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "เชื่อมต่อกับเซสชัน  Data Sharing จากแหล่ง Graphical Analysis"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "เชื่อมต่อกับแหล่ง LabQuest, Logger Pro หรือ Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": ""
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "เชื่อมต่ออุปกรณ์ไร้สายข้างใต้นี้หรือเชื่อมต่อด้วยยูเอสบี"
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "เชื่อมต่อกับอุปกรณ์ไร้สายข้างล่างนี้"
+        },
+        "Connect to Previous Session" : {
+            
+            "message": ""
+        },
+        "connected" : {
+            
+            "message": "เชื่อมต่อแล้ว"
+        },
+        "Connected Devices" : {
+            
+            "message": "อุปกรณ์ถูกเชื่อมต่อ"
+        },
+        "Connecting" : {
+            
+            "message": "การเชื่อมต่อ"
+        },
+        "Connection error" : {
+            
+            "message": "การเชื่อมต่อผิดพลาด"
+        },
+        "Connection Lost" : {
+            
+            "message": "สูญเสียการเชื่อมต่อ"
+        },
+        "Connection status info" : {
+            
+            "message": "ข้อมูลสถานะการเชื่อมต่อ"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "การเชื่อมต่อกับ %s ล้มเหลว"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "การเชื่อมต่อกับ %s สำเร็จแล้ว"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": ""
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": ""
+        },
+        "Cookie Notice" : {
+            
+            "message": ""
+        },
+        "Copy" : {
+            
+            "message": "คัดลอก"
+        },
+        "Copy Histogram" : {
+            
+            "message": "คัดลอกฮิสโตแกรม"
+        },
+        "Copy Host ID" : {
+            
+            "message": ""
+        },
+        "Copy Link" : {
+            
+            "message": ""
+        },
+        "Copy Sign" : {
+            
+            "message": "คัดลอกเครื่องหมาย"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "คัดลอกไปที่คลิปบอร์ด"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": ""
+        },
+        "Cosine" : {
+            
+            "message": "โคไซน์"
+        },
+        "Count Interval" : {
+            
+            "message": "ช่วงการนับ"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "สร้าง Custom Fit"
+        },
+        "Create new Data Set" : {
+            
+            "message": "สร้างชุดข้อมูลใหม่"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "การสร้างคอลัมน์จากการคำนวณแบบกำหนดเอง"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "การสร้าง Curve Fit แบบกำหนดเอง"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "รากที่สาม"
+        },
+        "Curve Fit" : {
+            
+            "message": "การปรับเส้นโค้ง"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "คอลัมน์จากการคำนวณแบบกำหนดเอง"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": ""
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": ""
+        },
+        "Custom Expression Info" : {
+            
+            "message": ""
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "ความพอดีที่กำหนดเองจะถูกบันทึกไว้ในไฟล์เอกสารของแอป เมื่อคุณเริ่มเซสชันใหม่หรือเปิดแอปใหม่ความพอดีจะถูกล้าง"
+        },
+        "Custom Session" : {
+            
+            "message": ""
+        },
+        "Cut" : {
+            
+            "message": "ตัด"
+        },
+        "Dark" : {
+            
+            "message": "เข้ม"
+        },
+        "Darker" : {
+            
+            "message": "เข้มขึ้น"
+        },
+        "Darkest" : {
+            
+            "message": "เข้มที่สุด"
+        },
+        "Data" : {
+            
+            "message": ""
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": ""
+        },
+        "Data Collection Settings" : {
+            
+            "message": "การตั้งค่าการเก็บรวบรวมข้อมูล"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "การเก็บรวบรวมข้อมูลจะหยุดโดยอัตโนมัติหลังจากที่เกตทั้งหมดมีจำนวนการวัดตำแหน่งที่คาดไว้ (เช่นเดียวกับจำนวนของแถบ) การเริ่มต้นเก็บข้อมูลอีกครั้งจะเริ่มชุดข้อมูลใหม่"
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "การเก็บข้อมูลจะดำเนินต่อไปจนกว่าคุณจะคลิกหรือแตะหยุด ค่าตำแหน่งจะเพิ่มขึ้นต่อเนื่องตามค่าระยะห่างจนกว่าการรวบรวมข้อมูลจะหยุดลง"
+        },
+        "Data Mark" : {
+            
+            "message": "เครื่องหมายข้อมูล"
+        },
+        "Data Marking" : {
+            
+            "message": ""
+        },
+        "Data Set %d" : {
+            
+            "message": "ชุดข้อมูล %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "ชื่อชุดข้อมูล"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "ชื่อชุดข้อมูลมีขีดจำกัด %s ตัวอักษร"
+        },
+        "Data Set Options" : {
+            
+            "message": ""
+        },
+        "Data Set Time" : {
+            
+            "message": "เวลาตั้งค่าข้อมูล"
+        },
+        "Data Share" : {
+            
+            "message": "แบ่งปันข้อมูล"
+        },
+        "Data Sharing" : {
+            
+            "message": "ใช้ข้อมูลร่วมกัน"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Data Sharing ทำงานอยู่"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "เริ่มเซสชัน Data Sharing แล้ว"
+        },
+        "Data sharing session status" : {
+            
+            "message": ""
+        },
+        "Data Sharing Status" : {
+            
+            "message": "สถานะ Data Sharing"
+        },
+        "Data Table" : {
+            
+            "message": "ตารางข้อมูล"
+        },
+        "Data Type" : {
+            
+            "message": ""
+        },
+        "Data Type Info" : {
+            
+            "message": ""
+        },
+        "Dataset View Options" : {
+            
+            "message": ""
+        },
+        "Decimal Format" : {
+            
+            "message": "รูปแบบทศนิยม"
+        },
+        "Decimal Places" : {
+            
+            "message": "จุดทศนิยม"
+        },
+        "decrease" : {
+            
+            "message": ""
+        },
+        "decreasing" : {
+            
+            "message": "กำลังลดลง"
+        },
+        "degrees" : {
+            
+            "message": "องศา"
+        },
+        "Degrees (°)" : {
+            
+            "message": "องศา (°)"
+        },
+        "Delete" : {
+            
+            "message": "ลบ"
+        },
+        "Delete %s?" : {
+            
+            "message": "ลบ %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "ลบคอลัมน์"
+        },
+        "Delete Column" : {
+            
+            "message": "ลบคอลัมน์"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "ลบคอลัมน์ %s หรือไม่?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": ""
+        },
+        "Delete Data Set" : {
+            
+            "message": "ลบชุดข้อมูล"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "ลบจับคู่กราฟ"
+        },
+        "Delete Prediction" : {
+            
+            "message": "ลบการคาดการณ์"
+        },
+        "Delete Video" : {
+            
+            "message": "ลบวิดีโอ"
+        },
+        "Delta" : {
+            
+            "message": ""
+        },
+        "Device Error" : {
+            
+            "message": "ข้อผิดพลาดของอุปกรณ์"
+        },
+        "Device Information" : {
+            
+            "message": "ข้อมูลอุปกรณ์"
+        },
+        "Device information" : {
+            
+            "message": ""
+        },
+        "Devices" : {
+            
+            "message": ""
+        },
+        "Diameter" : {
+            
+            "message": "เส้นผ่าศูนย์กลาง"
+        },
+        "Diamond" : {
+            
+            "message": ""
+        },
+        "Dimension" : {
+            
+            "message": ""
+        },
+        "Disabled" : {
+            
+            "message": ""
+        },
+        "Disconnect" : {
+            
+            "message": "ไม่เชื่อมต่อ"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": ""
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": ""
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": ""
+        },
+        "Discovered Devices" : {
+            
+            "message": "พบอุปกรณ์"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "พบอุปกรณ์ไร้สาย"
+        },
+        "Display Meters" : {
+            
+            "message": ""
+        },
+        "Displayed Columns" : {
+            
+            "message": ""
+        },
+        "Displayed Datasets" : {
+            
+            "message": ""
+        },
+        "Displayed Precision" : {
+            
+            "message": "แสดงความแม่นยำ"
+        },
+        "Distance" : {
+            
+            "message": "ระยะทาง"
+        },
+        "Distance between gates" : {
+            
+            "message": "ระยะระหว่างเกต"
+        },
+        "Distribute App" : {
+            
+            "message": ""
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": ""
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "คุณต้องการบันทึกการเปลี่ยนแปลงที่ทำกับ %s หรือไม่ การเปลี่ยนแปลงของคุณจะหายไปหากคุณไม่ได้ทำการบันทึกมัน"
+        },
+        "Don't Save" : {
+            
+            "message": "ไม่บันทึก"
+        },
+        "Done" : {
+            
+            "message": "เสร็จสิ้น"
+        },
+        "done" : {
+            
+            "message": ""
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "ดาวน์โหลดเสร็จสิ้น การอัปเดตจะได้รับการติดตั้งในครั้งต่อไปที่คุณเปิดแอป"
+        },
+        "Download Experiment" : {
+            
+            "message": ""
+        },
+        "Download Update" : {
+            
+            "message": "ดาวน์โหลดการอัปเดต"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "สร้างการทำนาย"
+        },
+        "Drop Counting" : {
+            
+            "message": "นับจำนวนหยด"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "ลดการวัด โปรดเริ่มต้นการทดสอบใหม่และใช้อัตราการเก็บข้อมูลที่ช้าลง"
+        },
+        "Drops" : {
+            
+            "message": "หยด"
+        },
+        "Drops/mL" : {
+            
+            "message": "หยด/มิลลิลิตร"
+        },
+        "duration" : {
+            
+            "message": "ระยะเวลา"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "เช่น 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "เช่น 007 หรือ TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "แก้ไขตัวเลือกกราฟ"
+        },
+        "Edit mode" : {
+            
+            "message": ""
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "เปิดใช้งานบลูทูธ เพื่อเชื่อมต่อเซนเซอร์ไร้สาย"
+        },
+        "Enable Replay" : {
+            
+            "message": "เปิดใช้งานการเล่นซ้ำ"
+        },
+        "Enabled" : {
+            
+            "message": ""
+        },
+        "End Collection" : {
+            
+            "message": "สิ้นสุดการเก็บ"
+        },
+        "End data collection" : {
+            
+            "message": "สิ้นสุดการเก็บข้อมูล"
+        },
+        "End User License Agreement" : {
+            
+            "message": ""
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "สิ้นสุดเซสชันการแชร์ข้อมูลของคุณโดยการแตะ"
+        },
+        "Enter an annotation" : {
+            
+            "message": "ใส่คำอธิบายเพิ่มเติม"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "ป้อนข้อมูลผ่านแป้นพิมพ์หรือ คัดลอก/วาง"
+        },
+        "Enter first known value" : {
+            
+            "message": "ใส่ค่าแรกที่ทราบค่า"
+        },
+        "Enter second known value" : {
+            
+            "message": "ใส่ค่าที่สองที่ทราบค่า"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "ป้อนปริมาตรที่แน่นอนของไทแทรนต์ จากกระบอกตวง"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "ป้อนรหัสแหล่งที่มา:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": ""
+        },
+        "Equation" : {
+            
+            "message": "สมการ"
+        },
+        "Error" : {
+            
+            "message": "ผิดพลาด"
+        },
+        "Error Bar Info" : {
+            
+            "message": ""
+        },
+        "Error Bars" : {
+            
+            "message": ""
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "ข้อผิดพลาด: การเข้าถึงคลิปบอร์ดถูกปฏิเสธ"
+        },
+        "Event" : {
+            
+            "message": "เหตุการณ์"
+        },
+        "Event Based" : {
+            
+            "message": "ตามเหตุการณ์"
+        },
+        "Event Mode" : {
+            
+            "message": "โหมดเหตุการณ์"
+        },
+        "Event Name" : {
+            
+            "message": "ชื่อเหตุการณ์"
+        },
+        "Events with Entry" : {
+            
+            "message": "ตามเหตุการณ์"
+        },
+        "Events With Entry" : {
+            
+            "message": ""
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "ตัวอย่าง: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "ตัวอย่าง: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": ""
+        },
+        "Expand" : {
+            
+            "message": "ขยาย"
+        },
+        "Expand Host ID" : {
+            
+            "message": ""
+        },
+        "Experiment Name" : {
+            
+            "message": "ชื่อการทดสอบ"
+        },
+        "Experimental Features" : {
+            
+            "message": "คุณลักษณะการทดลอง"
+        },
+        "Exponent" : {
+            
+            "message": "เลขชี้กำลัง"
+        },
+        "Exponential Base 2" : {
+            
+            "message": ""
+        },
+        "Export" : {
+            
+            "message": "ส่งออก"
+        },
+        "Export CSV" : {
+            
+            "message": "ส่งออก CSV"
+        },
+        "Expression" : {
+            
+            "message": "นิพจน์"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "การสอบเทียบกับค่าโรงงาน"
+        },
+        "Fan Thrust" : {
+            
+            "message": "พัดลมขับแรง"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": ""
+        },
+        "File Menu" : {
+            
+            "message": "เมนูไฟล์"
+        },
+        "File saved" : {
+            
+            "message": "บันทึกไฟล์แล้ว"
+        },
+        "Filename" : {
+            
+            "message": "ชื่อไฟล์"
+        },
+        "Filter Device List" : {
+            
+            "message": "รายการอุปกรณ์ฟิลเตอร์"
+        },
+        "Firmware" : {
+            
+            "message": "เฟิร์มแวร์"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "ข้อมูลการอัพเดทเฟิร์มแวร์"
+        },
+        "First Derivative" : {
+            
+            "message": ""
+        },
+        "Fit Expression" : {
+            
+            "message": "นิพจน์ Fit"
+        },
+        "Fit Name" : {
+            
+            "message": "ชื่อ Fit"
+        },
+        "Fit Options" : {
+            
+            "message": ""
+        },
+        "Fixed Value" : {
+            
+            "message": ""
+        },
+        "Flag Width" : {
+            
+            "message": "แถบกว้าง"
+        },
+        "Flags" : {
+            
+            "message": "แถบ"
+        },
+        "Floor" : {
+            
+            "message": ""
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "สำหรับวัตถุของเวอร์เนียร์ จะแสดงระยะห่างและจำนวนแถบสำหรับวัตถุที่เลือก สำหรับบาร์เทป ให้ป้อนจำนวนของแถบ"
+        },
+        "Frequency" : {
+            
+            "message": ""
+        },
+        "From Vernier.com" : {
+            
+            "message": "จาก Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "ฟังก์ชัน"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "ฟังก์ชันและตัวแปรอิสระต้องเป็นตัวพิมพ์เล็ก"
+        },
+        "Gate Separation" : {
+            
+            "message": "แยกเกต"
+        },
+        "Gate State" : {
+            
+            "message": "สถานะเกต"
+        },
+        "Gate timing" : {
+            
+            "message": "ช่วงเวลาเกต"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "แผนผังเซนเซอร์ GDX"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "ให้รหัสประจำตัวนั้นแก่ผู้อื่นเพื่อให้เข้าร่วมเซสชันของคุณได้"
+        },
+        "Go Direct" : {
+            
+            "message": "โก ไดเร็ค"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Direct เซ็นเซอร์"
+        },
+        "Go Direct USB" : {
+            
+            "message": ""
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": ""
+        },
+        "Go!Temp" : {
+            
+            "message": ""
+        },
+        "Go! Link" : {
+            
+            "message": ""
+        },
+        "Go! Motion" : {
+            
+            "message": ""
+        },
+        "Graph" : {
+            
+            "message": "กราฟ"
+        },
+        "Graph %s" : {
+            
+            "message": "กราฟ %s"
+        },
+        "Graph 1" : {
+            
+            "message": ""
+        },
+        "Graph 2" : {
+            
+            "message": ""
+        },
+        "Graph 3" : {
+            
+            "message": ""
+        },
+        "Graph Display" : {
+            
+            "message": ""
+        },
+        "Graph Inset" : {
+            
+            "message": "กราฟ Inset"
+        },
+        "Graph Legend" : {
+            
+            "message": "คำอธิบายกราฟ"
+        },
+        "Graph Match" : {
+            
+            "message": "จับคู่กราฟ"
+        },
+        "Graph Match Options" : {
+            
+            "message": "ตัวเลือกการจับคู่กราฟ"
+        },
+        "Graph Options" : {
+            
+            "message": "ทางเลือกกราฟ"
+        },
+        "Graph Shape" : {
+            
+            "message": "รูปร่างกราฟ"
+        },
+        "Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": ""
+        },
+        "Graphs" : {
+            
+            "message": ""
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": ""
+        },
+        "Heading 2" : {
+            
+            "message": ""
+        },
+        "Heading 3" : {
+            
+            "message": ""
+        },
+        "Help connecting a device" : {
+            
+            "message": ""
+        },
+        "Help Connecting a Device" : {
+            
+            "message": ""
+        },
+        "Hide" : {
+            
+            "message": "ซ่อน"
+        },
+        "Hide Details" : {
+            
+            "message": ""
+        },
+        "High-pass Filter" : {
+            
+            "message": ""
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "โหมดความละเอียดสูง"
+        },
+        "Histogram" : {
+            
+            "message": ""
+        },
+        "Histogram options" : {
+            
+            "message": ""
+        },
+        "Horizontal Divider" : {
+            
+            "message": ""
+        },
+        "Host a data sharing session" : {
+            
+            "message": ""
+        },
+        "How To Distribute" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": ""
+        },
+        "Hypotenuse" : {
+            
+            "message": ""
+        },
+        "ID" : {
+            
+            "message": "ไอดี"
+        },
+        "Identify" : {
+            
+            "message": "ระบุ"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": ""
+        },
+        "Ignore" : {
+            
+            "message": ""
+        },
+        "Import Video" : {
+            
+            "message": "นำเข้าวิีดีโอ"
+        },
+        "increase" : {
+            
+            "message": ""
+        },
+        "increasing" : {
+            
+            "message": "กำลังเพิ่มขึ้น"
+        },
+        "Insert Expression" : {
+            
+            "message": "แทรกนิพจน์"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "ใส่หัววัดในขวดและไม่ให้ปลายแตะน้ำหรือฟองน้ำ"
+        },
+        "Integral" : {
+            
+            "message": "อินทิกรัล"
+        },
+        "Intercept" : {
+            
+            "message": "จุดตัดแกน"
+        },
+        "Interpolate" : {
+            
+            "message": "เทียบบัญญัติไตรยางศ์"
+        },
+        "Interval" : {
+            
+            "message": "อันตรภาคชั้น"
+        },
+        "Invalid Equation" : {
+            
+            "message": "สมการไม่ถูกต้อง"
+        },
+        "Invalid Expression" : {
+            
+            "message": "นิพจน์ไม่ถูกต้อง"
+        },
+        "Inverse Cosine" : {
+            
+            "message": ""
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": ""
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": ""
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": ""
+        },
+        "Inverse Sine" : {
+            
+            "message": ""
+        },
+        "Inverse Tangent" : {
+            
+            "message": ""
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": ""
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Inverted Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Triangle" : {
+            
+            "message": ""
+        },
+        "is" : {
+            
+            "message": "เป็น"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "ขณะนี้ยังไม่สนับสนุน ลองอันอื่น"
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "ขอแนะนำให้สอบเทียบหลังจากเปลี่ยนฝาครอบ"
+        },
+        "Italic" : {
+            
+            "message": ""
+        },
+        "Join New Experiment" : {
+            
+            "message": "เข้าร่วมการทดสอบใหม่"
+        },
+        "Keep" : {
+            
+            "message": "เก็บ"
+        },
+        "Keep Point" : {
+            
+            "message": "เก็บจุด"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "เก็บหัววัดในแนวตั้งไว้ที่ตำแหน่งนี้อย่างน้อย 60 วินาทีแล้วกด \"CALIBRATE NOW\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "ค่าที่รู้จะต้องมีความแตกต่างกันสำหรับการสอบเทียบสองจุด"
+        },
+        "LabQuest" : {
+            
+            "message": ""
+        },
+        "LabQuest Devices" : {
+            
+            "message": ""
+        },
+        "LabQuest Stream" : {
+            
+            "message": "แลปเควสสตรีม"
+        },
+        "Large" : {
+            
+            "message": "ใหญ่"
+        },
+        "Last calibrated on" : {
+            
+            "message": "สอบเทียบครั้งสุดท้ายเมื่อ"
+        },
+        "Launch Speed" : {
+            
+            "message": "ความเร็วที่ปล่อย"
+        },
+        "Left" : {
+            
+            "message": "ซ้าย"
+        },
+        "Left Axis" : {
+            
+            "message": ""
+        },
+        "Left manual fit handle" : {
+            
+            "message": ""
+        },
+        "Left y-axis range" : {
+            
+            "message": "ช่วงแกน y ด้านซ้าย"
+        },
+        "Legacy File Type" : {
+            
+            "message": "ประเภทไฟล์เดิม"
+        },
+        "License Key" : {
+            
+            "message": ""
+        },
+        "License Key is expired." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": ""
+        },
+        "License Key is required." : {
+            
+            "message": ""
+        },
+        "License Key is suspended." : {
+            
+            "message": ""
+        },
+        "License Key not recognized." : {
+            
+            "message": ""
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": ""
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": ""
+        },
+        "Licensed To" : {
+            
+            "message": ""
+        },
+        "Licensed to" : {
+            
+            "message": ""
+        },
+        "Line Shade" : {
+            
+            "message": "แลเงาเส้น"
+        },
+        "Linear Motion" : {
+            
+            "message": "การเคลื่อนที่แบบเส้นตรง"
+        },
+        "Linear Motion Info" : {
+            
+            "message": ""
+        },
+        "Lines" : {
+            
+            "message": "เส้น"
+        },
+        "Link" : {
+            
+            "message": ""
+        },
+        "Link Copied" : {
+            
+            "message": ""
+        },
+        "list item" : {
+            
+            "message": ""
+        },
+        "Load Experiment" : {
+            
+            "message": ""
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": ""
+        },
+        "Log" : {
+            
+            "message": ""
+        },
+        "Log Base 2" : {
+            
+            "message": ""
+        },
+        "Log Base b" : {
+            
+            "message": ""
+        },
+        "Logged Data on Device" : {
+            
+            "message": ""
+        },
+        "Low-pass Filter" : {
+            
+            "message": ""
+        },
+        "Main Content" : {
+            
+            "message": ""
+        },
+        "Manual" : {
+            
+            "message": "ใส่ค่าเอง"
+        },
+        "Manual %s" : {
+            
+            "message": "ใส่ค่าเอง %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "ใส่ข้อมูลด้วยตัวเอง"
+        },
+        "Manual Fit" : {
+            
+            "message": ""
+        },
+        "Manual Scaling" : {
+            
+            "message": "ปรับสเกลเอง"
+        },
+        "Manually" : {
+            
+            "message": "ลงมือทำเอง"
+        },
+        "Manufacture Date" : {
+            
+            "message": "วันที่ผลิต"
+        },
+        "Mark" : {
+            
+            "message": ""
+        },
+        "Max" : {
+            
+            "message": "มากสุด"
+        },
+        "Maximize Application" : {
+            
+            "message": ""
+        },
+        "Mean" : {
+            
+            "message": "กลาง"
+        },
+        "Measurement" : {
+            
+            "message": "การวัด"
+        },
+        "Medium" : {
+            
+            "message": ""
+        },
+        "Meter Actions" : {
+            
+            "message": ""
+        },
+        "Meter All Columns" : {
+            
+            "message": ""
+        },
+        "Meter Size" : {
+            
+            "message": ""
+        },
+        "Meter View Options" : {
+            
+            "message": ""
+        },
+        "Metered" : {
+            
+            "message": ""
+        },
+        "metering on all columns" : {
+            
+            "message": ""
+        },
+        "Meters" : {
+            
+            "message": "มิเตอร์"
+        },
+        "min" : {
+            
+            "message": "น้อยสุด"
+        },
+        "Min" : {
+            
+            "message": "น้อย"
+        },
+        "Minimize Application" : {
+            
+            "message": ""
+        },
+        "Mode" : {
+            
+            "message": "โหมด"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": ""
+        },
+        "Modulo" : {
+            
+            "message": ""
+        },
+        "Move Down" : {
+            
+            "message": ""
+        },
+        "Move Up" : {
+            
+            "message": ""
+        },
+        "ms" : {
+            
+            "message": "มิลลิวินาที"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "แถบทั้งหลายที่เว้นระยะเท่ากันบนวัตถุจะถูกใช้เพื่อกำหนดตำแหน่งเมื่อวัตถุผ่านทาง โฟโต้เกต เหตุการณ์ที่ถูกบล็อกแรกจะกำหนดตำแหน่งเป็นศูนย์ เหตุการณ์ที่ถูกบล็อกที่เพิ่มขึ้นจะเพิ่มตำแหน่งด้วยค่า spacing ข้อมูลความเร็วและความเร่งคำนวณโดยใช้อนุพันธ์อันดับหนึ่งและสองของตำแหน่งตามเวลา"
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "ล้อซี่ที่มีระยะห่างเท่า ๆ กันหลายล้อจะถูกใช้เพื่อกำหนดตำแหน่งเชิงมุมของล้อขณะที่หมุน เหตุการณ์ที่ถูกบล็อกแรกจะกำหนดมุมศูนย์ เหตุการณ์ที่ถูกบล็อคต่อมาจะเพิ่มมุมโดยเรเดียน2π / n โดยที่ n คือจำนวนซี่ในล้อ ความเร็วเชิงมุมและข้อมูลการเร่งความเร็วจะคำนวณโดยใช้อนุพันธ์ที่หนึ่งและสองของมุมตามลำดับต่อเวลา"
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "การคูณอาจชัดเจนหรือโดยนัย"
+        },
+        "Mute Audio" : {
+            
+            "message": "ปิดเสียง"
+        },
+        "My-File-Name" : {
+            
+            "message": "ชื่อไฟล์"
+        },
+        "Name" : {
+            
+            "message": "ชื่อ"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "ชื่อไม่สามารถเกิน %s ตัวอักษร"
+        },
+        "Natural Exponential" : {
+            
+            "message": ""
+        },
+        "Natural Log" : {
+            
+            "message": ""
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": ""
+        },
+        "Never" : {
+            
+            "message": ""
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "จะใช้การสอบเทียบใหม่จนกว่าคุณจะเริ่มการทดสอบหรือเปิดไฟล์ใหม่"
+        },
+        "New Experiment" : {
+            
+            "message": "การทดลองใหม่"
+        },
+        "Next After" : {
+            
+            "message": ""
+        },
+        "No Columns" : {
+            
+            "message": "ไม่มีคอลัมน์"
+        },
+        "No Device Connected" : {
+            
+            "message": "ไม่มีอุปกรณ์เชื่อมต่อ"
+        },
+        "No device connected." : {
+            
+            "message": "ไม่มีอุปกรณ์เชื่อมต่อ"
+        },
+        "No Devices Connected" : {
+            
+            "message": "ไม่มีอุปกรณ์ใดเชื่อมต่อ"
+        },
+        "No expiration date" : {
+            
+            "message": "ไม่มีวันหมดอายุ"
+        },
+        "No sensor connected" : {
+            
+            "message": "ไม่มีเซนเซอร์ถูกเชื่อมต่อ"
+        },
+        "No Sensors Connected" : {
+            
+            "message": ""
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "ไม่พบแหล่งกำเนิด ให้แน่ใจว่าแหล่งกำเนิด Data Sharing ได้เปิดทำงาน และอุปกรณ์ทั้งสองเชื่อมต่อบนเครือข่ายเดียวกัน ถ้ายังพบปัญหาให้เลือก Specify Source และเลือกการเชื่อมต่อด้วยตัวเอง"
+        },
+        "Normal" : {
+            
+            "message": "ปกติ"
+        },
+        "not" : {
+            
+            "message": ""
+        },
+        "Not Capable" : {
+            
+            "message": ""
+        },
+        "Note" : {
+            
+            "message": ""
+        },
+        "Notes" : {
+            
+            "message": "หมายเหตุ"
+        },
+        "Number list" : {
+            
+            "message": ""
+        },
+        "Number of flags" : {
+            
+            "message": "จำนวนของแฟลก"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": ""
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": ""
+        },
+        "Number of spokes" : {
+            
+            "message": "จำนวนซี่"
+        },
+        "Numeric" : {
+            
+            "message": ""
+        },
+        "Object" : {
+            
+            "message": "วัตถุ"
+        },
+        "Object Width" : {
+            
+            "message": "ความกว้างวัตถุ"
+        },
+        "Offline" : {
+            
+            "message": "ออฟไลน์"
+        },
+        "OK" : {
+            
+            "message": "ตกลง"
+        },
+        "Ok" : {
+            
+            "message": ""
+        },
+        "On a triggering event" : {
+            
+            "message": "ในเหตุการณ์ที่ถูกกระตุ้น"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "ที่เครื่อง LabQuest แตะที่เครื่องหมาย Wi-Fi"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "ที่ Logger Pro ไปที่ ไฟล์ -> ใช้ข้อมูลร่วมกัน"
+        },
+        "One-point calibration" : {
+            
+            "message": "การสอบเทียบแบบ 1 จุด"
+        },
+        "Online Data Sharing" : {
+            
+            "message": ""
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "เปิดใช้งานพัดลมในระหว่างการรวบรวมข้อมูลเท่านั้น"
+        },
+        "Open failed" : {
+            
+            "message": ""
+        },
+        "Open Saved File" : {
+            
+            "message": "เปิดไฟล์ที่บันทึกไว้"
+        },
+        "Open Update Information" : {
+            
+            "message": ""
+        },
+        "Open..." : {
+            
+            "message": "เปิด..."
+        },
+        "or" : {
+            
+            "message": ""
+        },
+        "Order Code" : {
+            
+            "message": "รหัสลำดับ"
+        },
+        "Other / User Defined" : {
+            
+            "message": "อื่นๆ / กำหนดเอง"
+        },
+        "Other Options" : {
+            
+            "message": "ตัวเลือกอื่น"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "อื่น ๆ/ผู้ใช้กำหนด: ป้อนระยะห่างและหมายเลขแถบตามที่แสดงไว้ด้านบน ถ้าวัตถุของคุณเป็นวงล้อค่าปริยายคือเส้นรอบวงของล้อหารด้วยจำนวนซี่"
+        },
+        "Outlined Circle" : {
+            
+            "message": ""
+        },
+        "Outlined Diamond" : {
+            
+            "message": ""
+        },
+        "Outlined Plus" : {
+            
+            "message": ""
+        },
+        "Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Outlined Square" : {
+            
+            "message": ""
+        },
+        "Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Paragraph" : {
+            
+            "message": ""
+        },
+        "Parameter %s" : {
+            
+            "message": "พารามิเตอร์ %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "ไม่สามารถทำซ้ำพารามิเตอร์ภายในนิพจน์"
+        },
+        "Paste" : {
+            
+            "message": "วาง"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "การดำเนินการวางไม่สามารถใช้งานได้โดยใช้เมนูแก้ไข ใช้ CTRL-V หรือ CMD-V เพื่อวาง"
+        },
+        "Pause replay" : {
+            
+            "message": "หยุดเล่นซ้ำชั่วคราว"
+        },
+        "Pause Video" : {
+            
+            "message": ""
+        },
+        "Peak Frequency" : {
+            
+            "message": "ความถี่สูงสุด"
+        },
+        "Pendulum Period" : {
+            
+            "message": "คาบเพนดูลัม"
+        },
+        "Percentage" : {
+            
+            "message": ""
+        },
+        "Perform a" : {
+            
+            "message": "ดำเนินการ"
+        },
+        "Photogate Timing" : {
+            
+            "message": "ระยะเวลาโฟโตเกต"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "โฟโต้เกตสามารถสร้างวัตถุเวลาผ่านระหว่างเกตหรือรายงานระยะเวลาการสั่นของเพนดูลัมได้ เวลาระหว่างเหตุการณ์ที่ถูกบล็อคต่อเนื่องจะรายงานเป็นช่วงเวลา เมื่อใช้เกตทั้งสองเกตต้องถูกบล็อคทั้งสองเกตก่อนที่จะมีการรายงานค่า"
+        },
+        "Picture in Picture" : {
+            
+            "message": ""
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "วางเซ็นเซอร์ Go Direct ใกล้กับคอมพิวเตอร์โทรศัพท์หรือแท็บเล็ต"
+        },
+        "Play replay" : {
+            
+            "message": "เล่นซ้ำ"
+        },
+        "Play Video" : {
+            
+            "message": ""
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": ""
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "กรุณาใส่หมายเลขไอพี:"
+        },
+        "Plot" : {
+            
+            "message": "พล็อต"
+        },
+        "Plot Manager" : {
+            
+            "message": "จัดการพล็อต"
+        },
+        "Plus" : {
+            
+            "message": ""
+        },
+        "point" : {
+            
+            "message": "จุด"
+        },
+        "Point Colors" : {
+            
+            "message": "จุดสี"
+        },
+        "Point Symbols" : {
+            
+            "message": "สัญลักษณ์จุด"
+        },
+        "points" : {
+            
+            "message": "จุด"
+        },
+        "Points" : {
+            
+            "message": "จุด"
+        },
+        "points before trigger" : {
+            
+            "message": "จุดก่อนที่จะทริกเกอร์"
+        },
+        "Power" : {
+            
+            "message": ""
+        },
+        "Prediction" : {
+            
+            "message": "คาดคะเน"
+        },
+        "Prediction Name" : {
+            
+            "message": "ชื่อการคาดคะเน"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "ชื่อการคาดคะเนมีข้อจำกัด %s ตัวอักษร"
+        },
+        "Prediction Options" : {
+            
+            "message": "ตัวเลือกการคาดการณ์"
+        },
+        "Prediction Title" : {
+            
+            "message": "หัวข้อการคาดคะเน"
+        },
+        "Predictions" : {
+            
+            "message": "การคาดคะเน"
+        },
+        "Preview mode" : {
+            
+            "message": ""
+        },
+        "Primary:" : {
+            
+            "message": "ขั้นแรก:"
+        },
+        "Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": ""
+        },
+        "Projectile Info" : {
+            
+            "message": ""
+        },
+        "Projectile Launcher" : {
+            
+            "message": "เครื่องยิงโปรเจกไทล์"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "ระบุรหัสรหัสนี้แก่ผู้อื่นเพื่อให้พวกเขาสามารถเชื่อมต่อกับอุปกรณ์ของคุณ"
+        },
+        "Proximity Connect" : {
+            
+            "message": "การเชื่อมต่อใกล้เคียง"
+        },
+        "Pulse timing" : {
+            
+            "message": "ช่วงเวลาพัลส์"
+        },
+        "Quote" : {
+            
+            "message": ""
+        },
+        "radians" : {
+            
+            "message": "เรเดียน"
+        },
+        "Radians (rad)" : {
+            
+            "message": "เรเดียน (rad)"
+        },
+        "Rate" : {
+            
+            "message": "อัตรา"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "อัตราเกิน 200 ตัวอย่าง/วินาที ต้องใช้ระยะเวลาที่กำหนด"
+        },
+        "Reconnect" : {
+            
+            "message": "เชื่อมต่อใหม่"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "Rectangle" : {
+            
+            "message": ""
+        },
+        "Regular" : {
+            
+            "message": "ปกติ"
+        },
+        "Relative stability reading" : {
+            
+            "message": "กำลังอ่าน Relative stability"
+        },
+        "Remainder" : {
+            
+            "message": ""
+        },
+        "Remote Logging" : {
+            
+            "message": ""
+        },
+        "Remote Logging in Process" : {
+            
+            "message": ""
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": ""
+        },
+        "Remote Logging Started" : {
+            
+            "message": ""
+        },
+        "Remote Logging Status" : {
+            
+            "message": ""
+        },
+        "Remove" : {
+            
+            "message": ""
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "ลบ Linear Trend"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": ""
+        },
+        "Rename" : {
+            
+            "message": "เปลี่ยนชื่อ"
+        },
+        "Rename Data Set" : {
+            
+            "message": "เปลี่ยนชื่อชุดข้อมูล"
+        },
+        "Rename Prediction" : {
+            
+            "message": "เปลี่ยนชื่อการคาดการณ์"
+        },
+        "Replay" : {
+            
+            "message": ""
+        },
+        "Replay video sync info" : {
+            
+            "message": ""
+        },
+        "Reported Reading" : {
+            
+            "message": "รายงานการอ่านค่า"
+        },
+        "Reset" : {
+            
+            "message": ""
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "ตั้งค่าใหม่ (ศูนย์) เมื่อเก็บข้อมูล"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "รีเซ็ตเป็นค่าดีฟอลต์"
+        },
+        "Restart app" : {
+            
+            "message": "รีสตาร์ทแอป"
+        },
+        "Restart Replay" : {
+            
+            "message": "รีสตาร์ทการเล่นซ้ำ"
+        },
+        "Restore All" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": ""
+        },
+        "Retry Calibration" : {
+            
+            "message": "สอบเทียบอีกครั้ง"
+        },
+        "Reverse" : {
+            
+            "message": "กลับค่า"
+        },
+        "revolution" : {
+            
+            "message": "การหมุน"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "การหมุน (รอบ)"
+        },
+        "Right" : {
+            
+            "message": "ขวา"
+        },
+        "Right Axis" : {
+            
+            "message": ""
+        },
+        "Right manual fit handle" : {
+            
+            "message": ""
+        },
+        "Right y-axis" : {
+            
+            "message": ""
+        },
+        "Right y-axis range" : {
+            
+            "message": "ช่วงแกน y ขวา"
+        },
+        "RMS" : {
+            
+            "message": ""
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": ""
+        },
+        "Row Number" : {
+            
+            "message": ""
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "ตัวอย่าง"
+        },
+        "Sample Data" : {
+            
+            "message": "ตัวอย่างข้อมูล"
+        },
+        "Sample Experiments" : {
+            
+            "message": "ตัวอย่างการทดลอง"
+        },
+        "samples" : {
+            
+            "message": "ตัวอย่าง"
+        },
+        "Samples" : {
+            
+            "message": "ตัวอย่าง"
+        },
+        "samples per second" : {
+            
+            "message": ""
+        },
+        "samples scheduled" : {
+            
+            "message": ""
+        },
+        "Save" : {
+            
+            "message": "บันทึก"
+        },
+        "Save AMBL" : {
+            
+            "message": "บันทึก AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "บันทึกและปิดแอป"
+        },
+        "Save As..." : {
+            
+            "message": "บันทึกเป็น..."
+        },
+        "Save Changes?" : {
+            
+            "message": "บันทึกการเปลี่ยนแปลงหรือไม่"
+        },
+        "Save CSV" : {
+            
+            "message": "บันทึก CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "บันทึกตัวอย่างการทดลอง"
+        },
+        "Save failed" : {
+            
+            "message": "บันทึกล้มเหลว"
+        },
+        "Save PDF" : {
+            
+            "message": "บันทึก PDF"
+        },
+        "Save Pending" : {
+            
+            "message": ""
+        },
+        "Save PNG" : {
+            
+            "message": "บันทึก PNG"
+        },
+        "Saved" : {
+            
+            "message": "ถูกบันทึก"
+        },
+        "Saving" : {
+            
+            "message": ""
+        },
+        "Scale Factor" : {
+            
+            "message": "สเกลแฟคเตอร์"
+        },
+        "Scaling" : {
+            
+            "message": "การปรับขนาด"
+        },
+        "Searching for devices..." : {
+            
+            "message": "กำลังค้นหาอุปกรณ์..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "ค่าความดันไฟฟ้าของจุดสอบเทียบที่สองต้องต่างจากจุดสอบเทียบแรกอย่างน้อย 0.05 V"
+        },
+        "Second Derivative" : {
+            
+            "message": ""
+        },
+        "Secondary:" : {
+            
+            "message": "ลำดับสอง:"
+        },
+        "seconds" : {
+            
+            "message": "วินาที"
+        },
+        "See Experiments" : {
+            
+            "message": "ดูการทดลอง"
+        },
+        "See sample experiments" : {
+            
+            "message": ""
+        },
+        "Select Data Set" : {
+            
+            "message": "เลือกชุดข้อมูล"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "เลือกหน่วยที่ต้องการสำหรับแสดงตำแหน่งเชิงมุม"
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": ""
+        },
+        "select/deselect meter" : {
+            
+            "message": ""
+        },
+        "Selected Events" : {
+            
+            "message": "เลือกเหตุการณ์"
+        },
+        "Sensor Actions" : {
+            
+            "message": "การทำงานของเซนเซอร์"
+        },
+        "Sensor Channels" : {
+            
+            "message": "ช่องเซนเซอร์"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "การเก็บข้อมูลเซนเซอร์"
+        },
+        "Sensor Setup" : {
+            
+            "message": "การตั้งค่าเซนเซอร์"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "เซนเซอร์แรงดันไฟฟ้า"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "เซนเซอร์กลายเป็นศูนย์"
+        },
+        "Sensors" : {
+            
+            "message": "เซนเซอร์"
+        },
+        "Session 1 Name" : {
+            
+            "message": ""
+        },
+        "Session 2 Name" : {
+            
+            "message": ""
+        },
+        "Session 3 Name" : {
+            
+            "message": ""
+        },
+        "Session 4 Name" : {
+            
+            "message": ""
+        },
+        "Session ended by Host" : {
+            
+            "message": "เซสชันสิ้นสุดโดยโฮสต์"
+        },
+        "Session Preferences" : {
+            
+            "message": ""
+        },
+        "Settings saved" : {
+            
+            "message": "การตั้งค่าที่บันทึกไว้"
+        },
+        "Share AMBL" : {
+            
+            "message": "แชร์ AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "แบ่งปันการทดลองกับผู้อื่นผ่านการเชื่อมต่อเครือข่าย"
+        },
+        "Share CSV" : {
+            
+            "message": "แชร์ CSV"
+        },
+        "Share Image" : {
+            
+            "message": "แชร์รูป"
+        },
+        "Share PDF" : {
+            
+            "message": "แชร์ PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "แสดงข่าวทั้งหมด"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": ""
+        },
+        "Show Details" : {
+            
+            "message": ""
+        },
+        "Show Error Bars" : {
+            
+            "message": ""
+        },
+        "Show FFT" : {
+            
+            "message": ""
+        },
+        "Show Histogram" : {
+            
+            "message": ""
+        },
+        "Show Less" : {
+            
+            "message": "แสดงน้อยลง"
+        },
+        "Show Menu" : {
+            
+            "message": ""
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "แสดงช่วงเวลากลางผ่านเกต"
+        },
+        "Show Original Graph" : {
+            
+            "message": ""
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": ""
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Significant Figures" : {
+            
+            "message": "ตัวเลขที่สำคัญ"
+        },
+        "Sine" : {
+            
+            "message": ""
+        },
+        "Slope" : {
+            
+            "message": "ความชัน"
+        },
+        "Small" : {
+            
+            "message": "เล็ก"
+        },
+        "Spacing" : {
+            
+            "message": "การเว้นช่อง"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "ระยะห่าง = เส้นรอบวง / จำนวนของรู"
+        },
+        "Specify source" : {
+            
+            "message": "ระบุแหล่งที่มา"
+        },
+        "Spectrum" : {
+            
+            "message": "สเปกตรัม"
+        },
+        "Speed through Gate" : {
+            
+            "message": "ความเร็วผ่านเกต"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": ""
+        },
+        "Spokes:" : {
+            
+            "message": "ซี่:"
+        },
+        "Square" : {
+            
+            "message": ""
+        },
+        "Square Root" : {
+            
+            "message": ""
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "เริ่มเซสชัน Data Sharing"
+        },
+        "Start a New Session" : {
+            
+            "message": "เริ่มเซสชันใหม่"
+        },
+        "Start Collection" : {
+            
+            "message": "เริ่มการเก็บ"
+        },
+        "Start collection when" : {
+            
+            "message": "เริ่มการเก็บเมื่อ"
+        },
+        "Start Logging" : {
+            
+            "message": ""
+        },
+        "Start New Experiment?" : {
+            
+            "message": "เริ่มต้นการทดสอบใหม่หรือไม่?"
+        },
+        "Start Session" : {
+            
+            "message": "เริ่มเซสชัน"
+        },
+        "Statistics" : {
+            
+            "message": "สถิติ"
+        },
+        "Std dev" : {
+            
+            "message": "ค่าเบี่ยงเบนมาตรฐาน"
+        },
+        "Step Backward" : {
+            
+            "message": "ถอยหลัง"
+        },
+        "Step Forward" : {
+            
+            "message": "เดินหน้า"
+        },
+        "Step Video Backwards" : {
+            
+            "message": ""
+        },
+        "Step Video Forward" : {
+            
+            "message": ""
+        },
+        "Stop" : {
+            
+            "message": "หยุด"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "หยุดการเพิ่มหยดเมื่อปริมาณอยู่ในช่วงระหว่าง 9 มิลลิลิตร และ 10 มิลลิลิตร"
+        },
+        "Stop Collection" : {
+            
+            "message": ""
+        },
+        "Stop Sharing" : {
+            
+            "message": ""
+        },
+        "Strikethrough" : {
+            
+            "message": ""
+        },
+        "Subject" : {
+            
+            "message": "เรื่อง"
+        },
+        "Submit" : {
+            
+            "message": "ยอมรับ"
+        },
+        "Subscript" : {
+            
+            "message": ""
+        },
+        "Subscription Ends" : {
+            
+            "message": ""
+        },
+        "Subscription ends" : {
+            
+            "message": ""
+        },
+        "Superscript" : {
+            
+            "message": ""
+        },
+        "Supported Functions" : {
+            
+            "message": "ฟังก์ชั่นที่รองรับ"
+        },
+        "Symbol" : {
+            
+            "message": "สัญลักษณ์"
+        },
+        "Sync data with video" : {
+            
+            "message": "ซิงค์ข้อมูลกับวิดีโอ"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "ซิงค์วิดีโอกับข้อมูล"
+        },
+        "Syntax" : {
+            
+            "message": ""
+        },
+        "Table" : {
+            
+            "message": "ตาราง"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "ลองอ่านจากเซ็นเซอร์ (เช่นวัดความเป็นกรดด่าง, การนำไฟฟ้า) บนทุกหยด"
+        },
+        "Tangent" : {
+            
+            "message": "เส้นสัมผัส"
+        },
+        "Target" : {
+            
+            "message": "เป้า"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "การเชื่อมต่อบลูทูธหายไปแล้ว"
+        },
+        "The Column Name is required" : {
+            
+            "message": "ต้องระบุชื่อคอลัมน์"
+        },
+        "the current file" : {
+            
+            "message": "ไฟล์ปัจจุบัน"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "ชุดข้อมูลจะเริ่มเล่น %s s ก่อนวิดีโอ"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "นิพจน์จะถูกใช้เป็นชื่อที่พอดีกับเส้นโค้งหากไม่ได้ป้อนอย่างชัดเจน"
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "ความเร็วในการปล่อยเป็นความเร็วเฉลี่ยของโปรเจคไตล์ที่ผ่านระหว่างเกตที่อยู่ภายใน 2 ตัว"
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "ความเร็วในการปล่อยเป็นความเร็วเฉลี่ยของโปรเจคไตล์ที่ผ่านระหว่างเกตที่อยู่ภายในตัวแรก"
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "ความกว้างของวัตถุ/แถบจะหารด้วยเวลาที่โฟโต้เกตถูกบล็อก (ระยะเวลาที่ถูกบล็อก) เพื่อกำหนดความเร็วของวัตถุผ่านเกต"
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": ""
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "เวลาระหว่างเหตุการณ์ที่ถูกบล็อกต่อเนื่องจะถูกรายงานเป็นช่วงเวลา"
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "นิพจน์สามารถมีพารามิเตอร์ได้ไม่เกินเจ็ดพารามิเตอร์"
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": ""
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "มีเฟิร์มแวร์ใหม่สำหรับเซ็นเซอร์นี้ แต่ไม่สามารถใช้การอัปเดตจากอุปกรณ์นี้ หากต้องการอัปเดตเซ็นเซอร์นี้ให้เชื่อมต่อเซ็นเซอร์ด้วย USB บนอุปกรณ์ macOS, Windows หรือ ChromeOS และเปิดใช้การวิเคราะห์แบบกราฟิก ไปที่รายการอุปกรณ์ที่เชื่อมต่อและเริ่มอัปเดต"
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "มีเฟิร์มแวร์ใหม่สำหรับเซ็นเซอร์นี้ กระบวนการอัพเดตต้องการให้เซ็นเซอร์เชื่อมต่อโดย USB และการวิเคราะห์แบบกราฟิกนั้นปิดตัวลงชั่วคราว เชื่อมต่อเซ็นเซอร์ด้วย USB หากเชื่อมต่อแบบไร้สายแล้ว"
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "เกิดปัญหาในการบันทึกการตั้งค่า"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "คอลัมน์นี้ถูกสร้างขึ้นโดยอัตโนมัติและไม่สามารถเปลี่ยนแปลงได้"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "การลบนี้ไม่สามารถยกเลิกได้"
+        },
+        "This feature requires a" : {
+            
+            "message": "คุณสมบัตินี้ต้องใช้"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "จำนวนนี้กำหนดส่วนของการเปลี่ยนตำแหน่งเชิงมุมกับแต่ละเหตุการณ์ที่ถูกบล็อก"
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Windows รุ่นนี้รองรับเฉพาะการเชื่อมต่อ USB กับ Go Direct Sensors"
+        },
+        "Time" : {
+            
+            "message": "เวลา"
+        },
+        "Time Based" : {
+            
+            "message": "ตามเวลา"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": ""
+        },
+        "Time between gates" : {
+            
+            "message": "เวลาระหว่างเกต"
+        },
+        "Time Decay Filter" : {
+            
+            "message": ""
+        },
+        "Time measurements" : {
+            
+            "message": "การวัดเวลา"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "แผงเวลาการเคลื่อนที่"
+        },
+        "Time Units" : {
+            
+            "message": "หน่วยเวลา"
+        },
+        "Timer" : {
+            
+            "message": "จับเวลา"
+        },
+        "Timer Info" : {
+            
+            "message": ""
+        },
+        "Timer or Period" : {
+            
+            "message": "ตัวจับเวลาหรือช่วงเวลา"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "เคล็ดลับ: เพื่อผลลัพธ์ที่ดีที่สุดให้ตรวจสอบว่าเซ็นเซอร์ที่คุณต้องการนั้นเป็นเซ็นเซอร์เดียวที่อยู่ในระยะ 2 เมตรจากคอมพิวเตอร์โทรศัพท์หรือแท็บเล็ต"
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "เคล็ดลับ: การเชื่อมต่อพร็อกซิมิตี้อาศัยการประมาณระยะทาง หากไม่น่าเชื่อถือในสภาพแวดล้อมของคุณให้ใช้รายการการเชื่อมต่อเพื่อเลือกเซ็นเซอร์"
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "เคล็ดลับ: เซ็นเซอร์จะต้องมีแสงสีแดงกระพริบเพื่อให้สามารถเชื่อมต่อได้"
+        },
+        "Title" : {
+            
+            "message": "หัวข้อ"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": ""
+        },
+        "To locate the address:" : {
+            
+            "message": "ทำการหาตำแหน่ง:"
+        },
+        "to make the key available for use." : {
+            
+            "message": ""
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "ในการเริ่มเซสชัน Data Sharing:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "สลับโหมดมืด"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "สลับโหมดสว่าง"
+        },
+        "Too few points" : {
+            
+            "message": "มีจุดน้อยเกินไป"
+        },
+        "Toolbar" : {
+            
+            "message": ""
+        },
+        "Top" : {
+            
+            "message": "บน"
+        },
+        "Total samples" : {
+            
+            "message": "ตัวอย่างทั้งหมด"
+        },
+        "Triangle" : {
+            
+            "message": ""
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "ฟังก์ชันตรีโกณมิติถูกประเมินเป็นเรเดียนยกเว้นเมื่อคอลัมน์ที่ลงจุดบนแกนนอนมีหน่วย"
+        },
+        "Truncate" : {
+            
+            "message": ""
+        },
+        "Two-point calibration" : {
+            
+            "message": "การสอบเทียบแบบสองจุด"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "รอกแบบอุลตร้า - ในร่อง"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "รอกแบบอุลตร้า - ขอบด้านนอก"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "ไม่สามารถเชื่อมต่อหรือหาแหล่งที่มาของชื่อนี้"
+        },
+        "Unable to connect to " : {
+            
+            "message": "ไม่สามารถเชื่อมต่อกับ "
+        },
+        "Units" : {
+            
+            "message": "หน่วย"
+        },
+        "Unknown" : {
+            
+            "message": ""
+        },
+        "Unknown License Key Error" : {
+            
+            "message": ""
+        },
+        "Unmute Audio" : {
+            
+            "message": "เปิดเสียง"
+        },
+        "Unsupported Browser" : {
+            
+            "message": ""
+        },
+        "Untitled" : {
+            
+            "message": "ไม่ได้ตั้งชื่อ"
+        },
+        "Update Available" : {
+            
+            "message": "สามารถอัพเดท"
+        },
+        "Update error" : {
+            
+            "message": "อัพเดทผิดพลาด"
+        },
+        "Update Firmware" : {
+            
+            "message": "อัพเดทเฟิร์มแวร์"
+        },
+        "Update is downloading..." : {
+            
+            "message": "อัพเดทกำลังดาวน์โหลด ..."
+        },
+        "Update your License Key" : {
+            
+            "message": ""
+        },
+        "USB" : {
+            
+            "message": ""
+        },
+        "USB Device" : {
+            
+            "message": "อุปกรณ์ยูเอสบี"
+        },
+        "Use Column Value" : {
+            
+            "message": ""
+        },
+        "Use gate separation" : {
+            
+            "message": "ใช้การแยกเกต"
+        },
+        "Use object / flag width" : {
+            
+            "message": "ใช้ความกว้าง วัตถุ / แฟลก"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "ใช้เส้นผ่าศูนย์กลางโปรเจกไทล์"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "ใช้สัญลักษณ์ทางวิทยาศาสตร์"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": ""
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": ""
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "ใช้ตัวเลือกนี้เพื่อตรวจสอบความเร็วตามลำดับต่อเวลา เวลาที่รายงานคือเวลากึ่งกลางระหว่างเวลาที่เกตถูกปิดกั้นและเวลาที่เกตถูกยกเลิกการปิดกั้น"
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "ใช้ Time of Flight Pad"
+        },
+        "Use Windowing" : {
+            
+            "message": "ใช้ Windowing"
+        },
+        "User Manual" : {
+            
+            "message": "คู่มือการใช้"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "ใช้การสอบเทียบจากโรงงาน"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": ""
+        },
+        "Value must be between " : {
+            
+            "message": "ค่าควรจะอยู่ระหว่าง "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": ""
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernier Picket Fence"
+        },
+        "Version" : {
+            
+            "message": "รุ่น"
+        },
+        "Vertical Divider" : {
+            
+            "message": ""
+        },
+        "Video" : {
+            
+            "message": "วีดีโอ"
+        },
+        "Video Time" : {
+            
+            "message": "เวลาวิดีโอ"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "วิดีโอจะเริ่มเล่น %s s ก่อนเล่นชุดข้อมูล"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "วิดีโอจะเริ่มเล่นพร้อมกันกับการเล่นชุดข้อมูล"
+        },
+        "View Experiment" : {
+            
+            "message": "ดูการทดลอง"
+        },
+        "View Integral" : {
+            
+            "message": "ดูอินทิกรัล"
+        },
+        "View Options" : {
+            
+            "message": "ตัวเลือกวิว"
+        },
+        "View Statistics" : {
+            
+            "message": "ดูสถิติ"
+        },
+        "Voltage" : {
+            
+            "message": "แรงดันไฟฟ้า"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": ""
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": ""
+        },
+        "What's New" : {
+            
+            "message": "มีอะไรใหม่"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "เมื่อมีการเลือกเพนดูลัม ระยะเวลาระหว่างเหตุการณ์ที่ถูกบล็อคครั้งที่สองจะรายงานว่าเป็นระยะเวลาตั้งแต่ลูกตุ้มจะปิดกั้นเกตสามครั้งเนื่องจากมีการแกว่งเพียงครั้งเดียว"
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "เมื่อใช้โฟโต้เกตสองตัว คุณสามารถใช้ระยะห่างระหว่างเกตแทนความกว้างวัตถุ/แถบ เพื่อคำนวณความเร็ว ความเร็วที่แสดงจะเป็นความเร็วระหว่างเกตทั้งสอง"
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "สำหรับการเชื่อมต่อแบบไร้สายจำเป็นต้องใช้ Windows 10"
+        },
+        "Wireless" : {
+            
+            "message": ""
+        },
+        "Working..." : {
+            
+            "message": "กำลังทำงาน..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "ช่วงแกน x"
+        },
+        "x-range" : {
+            
+            "message": "ช่วง x"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "ช่วงแกน y"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": ""
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": ""
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": ""
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": ""
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": ""
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": ""
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "โฮสต์ Data Sharing ของคุณกำลังเริ่มการทดลองใหม่ คุณสามารถดำเนินการทดสอบต่อไปหรือเข้าร่วมการทดสอบใหม่"
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": ""
+        },
+        "Zero" : {
+            
+            "message": "ศูนย์"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "ขยายทั้งหมด"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "ขยายเฉพาะที่เลือก"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ แกน x ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ แกน y ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": ""
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "วัดความเร่ง 25-g"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "วัดความเร่งสามแกน (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "วัดความเร่งสามแกน (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "วัดความเร่งสามแกน (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "แรงดันไฟฟ้า 30V (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "การดูดกลืนแสง"
+        },
+        "Acceleration" : {
+            
+            "message": "ความเร่ง"
+        },
+        "Accelerometer" : {
+            
+            "message": "เครื่องวัดความเร่ง"
+        },
+        "Ammonium" : {
+            
+            "message": "แอมโมเนียม"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "แอมโมเนียม ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "ตัววิเคราะห์"
+        },
+        "Anemometer" : {
+            
+            "message": "เครื่องวัดความเร็วลม"
+        },
+        "Angle" : {
+            
+            "message": "มุม"
+        },
+        "Barometer" : {
+            
+            "message": "เครื่องวัดความกดอากาศ"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "เครื่องวัดความกดอากาศ (ไม่ได้ขายนานแล้ว)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "ความดันก๊าซชีววิทยา"
+        },
+        "Blood Pressure" : {
+            
+            "message": "ความดันโลหิต"
+        },
+        "Calcium" : {
+            
+            "message": "แคลเซียม"
+        },
+        "Calcium ISE" : {
+            
+            "message": "แคลเซียม ISE"
+        },
+        "Charge" : {
+            
+            "message": "ประจุ"
+        },
+        "Charge Sensor" : {
+            
+            "message": "เซนเซอร์ประจุไฟ"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "เซนเซอร์ประจุ 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "เซนเซอร์ประจุ 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "เซนเซอร์ประจุ 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "คลอไรด์"
+        },
+        "Chloride ISE" : {
+            
+            "message": "คลอไรด์ ISE"
+        },
+        "CO2" : {
+            
+            "message": "คาร์บอนไดออกไซด์"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "คาร์บอนไดออกไซด์ สูง"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "คาร์บอนไดออกไซด์ ต่ำ"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "ก๊าซคาร์บอนไดออกไซด์ เก่า"
+        },
+        "Colorimeter" : {
+            
+            "message": "เครื่องวัดสี"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "เครื่องวัดสีแบบเก่า"
+        },
+        "Conductivity" : {
+            
+            "message": "การนำไฟฟ้า"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "การนำไฟฟ้า 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "การนำไฟฟ้า 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "การนำไฟฟ้า 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "ระบบกระแสคงที่"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "ความดัน Cuff"
+        },
+        "Current" : {
+            
+            "message": "กระแสไฟ"
+        },
+        "Current Probe" : {
+            
+            "message": "หัววัดกระแสไฟ"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "หัววัดกระแสไฟ 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "ไดแอสโตลิค"
+        },
+        "Differential Voltage" : {
+            
+            "message": "แรงดันผลต่าง"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "ดิจิตอล คอนโทรล ยูนิต"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "อุณหภูมิเชื่อมต่อโดยตรง"
+        },
+        "Displacement" : {
+            
+            "message": "ระยะขจัด"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "วัดการละลายคาร์บอนไดออกไซต์"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "วัดการละลายออกซิเจน"
+        },
+        "Distance" : {
+            
+            "message": "ระยะทาง"
+        },
+        "DO" : {
+            
+            "message": "ดีโอ"
+        },
+        "Drop Counter" : {
+            
+            "message": "นับหยด"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "วัดแรงสองทาง 10 นิวตัน"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "วัดแรงสองทาง 50 นิวตัน"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": ""
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "ตัวขยายขั้วไฟฟ้า"
+        },
+        "Energy" : {
+            
+            "message": "พลังงาน"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "เซนเซอร์พลังงานกระแสไฟ"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "เซนเซอร์พลังงานแรงดันไฟฟ้า"
+        },
+        "Ethanol" : {
+            
+            "message": "เอทานอล"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "เซนเซอร์เอทานอล"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "วัดอุณหภูมิแบบยาวพิเศษ"
+        },
+        "Flow Rate" : {
+            
+            "message": "อัตราการไหล"
+        },
+        "Fluorescence" : {
+            
+            "message": ""
+        },
+        "Force" : {
+            
+            "message": "แรง"
+        },
+        "Force Plate" : {
+            
+            "message": "แผ่นวัดแรง"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "แผ่นวัดแรง 3500 นิวตัน"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "แผ่นวัดแรง 850 นิวตัน"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "เซนเซอร์แรงดันแก๊ส"
+        },
+        "Gate State" : {
+            
+            "message": "สถานะเกต"
+        },
+        "Gate Time" : {
+            
+            "message": ""
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "ตัวขยายขั้วประจุแบบไร้สาย"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "อัตราเต้นหัวใจไร้สาย"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "วัดกรดด่างไร้สาย"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "วัดอุณหภูมิไร้สาย"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! การเคลื่อนที่"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! อุณหภูมิ"
+        },
+        "Goniometer" : {
+            
+            "message": "โกนิโอมิเตอร์"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "วัดแรงบีบมือ"
+        },
+        "Heart Rate" : {
+            
+            "message": "อัตราการเต้นหัวใจ"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "หน้าจออัตราการเต้นหัวใจ"
+        },
+        "High Current Sensor" : {
+            
+            "message": "เซนเซอร์กระแสไฟสูง"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "ความไวแสงสูง 1 μW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "ความไวแสงสูง 10 μW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "ความไวแสงสูง 100 μW"
+        },
+        "Illumination" : {
+            
+            "message": "การส่องแสง"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "เครื่องขยายสัญญาณ"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "เครื่องขยายสัญญาณ +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "เครื่องขยายสัญญาณ +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "เครื่องขยายสัญญาณ +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "เครื่องขยายสัญญาณ 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "เครื่องขยายสัญญาณ 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "เครื่องขยายสัญญาณ 20mV"
+        },
+        "Intensity" : {
+            
+            "message": "เข้มข้น"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "เซนเซอร์วัดอุณหภูมิอินฟราเรด"
+        },
+        "Irradiance" : {
+            
+            "message": "รังสี"
+        },
+        "Launch Speed" : {
+            
+            "message": "ความเร็วการปล่อย"
+        },
+        "Light" : {
+            
+            "message": "แสง"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "วัดแสง 150000 ลักซ์"
+        },
+        "Light 600 lux" : {
+            
+            "message": "วัดแสง 600 ลักซ์"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "วัดแสง 6000 ลักซ์"
+        },
+        "Light Level" : {
+            
+            "message": "ระดับแสง"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "เซนเซอร์ตำแหน่งแบบเส้นตรง"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "ความเร่งแบบ Low-g"
+        },
+        "Magnetic Field" : {
+            
+            "message": "สนามแม่เหล็ก"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "สนามแม่เหล็ก 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "สนามแม่เหล็ก 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "ความดันเลือดค่ากลาง"
+        },
+        "Melt Station" : {
+            
+            "message": "อุปกรณ์หลอมละลาย"
+        },
+        "Microphone" : {
+            
+            "message": "ไมโครโฟน"
+        },
+        "mol/L" : {
+            
+            "message": ""
+        },
+        "Motion" : {
+            
+            "message": "การเคลื่อนที่"
+        },
+        "Motion Detector" : {
+            
+            "message": "ตรวจจับการเคลื่อนที่"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "รถตรวจจับการเคลื่อนไหว"
+        },
+        "Nitrate" : {
+            
+            "message": "ไนเตรท"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "ไนเตรท ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "หัววัดออพติคัล DO %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "หัววัดออพติคัล DO mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "แก๊สออกซิเจน"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "แก๊สออกซิเจนแบบเก่า"
+        },
+        "PAR Sensor" : {
+            
+            "message": "เซนเซอร์ PAR"
+        },
+        "Period" : {
+            
+            "message": ""
+        },
+        "pH" : {
+            
+            "message": "กรด-ด่าง"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "ตัวขยายสัญญาณ pH/mV/ORP"
+        },
+        "Photogate" : {
+            
+            "message": "โฟโต้เกต"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "การนำไฟฟ้าเซลแพลตินั่ม"
+        },
+        "Polarimeter" : {
+            
+            "message": "โพลาร์ริมิเตอร์"
+        },
+        "Position" : {
+            
+            "message": "ตำแหน่ง"
+        },
+        "Potassium" : {
+            
+            "message": "โพแทสเซียม"
+        },
+        "Potassium ISE" : {
+            
+            "message": "โพแทสเซียม ISE"
+        },
+        "Potential" : {
+            
+            "message": "ศักย์ไฟฟ้า"
+        },
+        "Power" : {
+            
+            "message": "กำลัง"
+        },
+        "Power Amp Current" : {
+            
+            "message": "เพาเวอร์แอมป์กระแส"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "ความดัน"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "เซนเซอร์ความดัน (ไม่ขายนานแล้ว)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "เซนเซอร์ความดัน 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "ตัวปล่อยโปรเจกไทล์"
+        },
+        "Pulse" : {
+            
+            "message": "ชีพจร"
+        },
+        "Pulse Time" : {
+            
+            "message": "จังหวะชีพจร"
+        },
+        "Pyranometer" : {
+            
+            "message": "ไพราโนมิเตอร์"
+        },
+        "Radiation" : {
+            
+            "message": "การแผ่รังสี"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "การตรวจจับการแผ่รังสี"
+        },
+        "Raw" : {
+            
+            "message": ""
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "ความดันไฟฟ้า (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "ความชื้นสัมพัทธ์"
+        },
+        "Resistance" : {
+            
+            "message": "ความต้านทาน"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "การตรวจสอบการหายใจ"
+        },
+        "Respiration Rate" : {
+            
+            "message": "อัตราการหายใจ"
+        },
+        "Rotary Motion" : {
+            
+            "message": "การเคลื่อนที่แบบหมุน"
+        },
+        "Salinity" : {
+            
+            "message": "ความเค็ม"
+        },
+        "Signal" : {
+            
+            "message": "สัญญาณ"
+        },
+        "Soil Moisture" : {
+            
+            "message": "ความชื้นดิน"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "เซนเซอร์ความชื้นดิน"
+        },
+        "Sound Level" : {
+            
+            "message": "ระดับเสียง"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "เซนเซอร์ระดับเสียง"
+        },
+        "Sound Pressure" : {
+            
+            "message": "ความดันเสียง"
+        },
+        "Speed" : {
+            
+            "message": "ความเร็ว"
+        },
+        "Spirometer" : {
+            
+            "message": "สไปโรมิเตอร์"
+        },
+        "Standard" : {
+            
+            "message": ""
+        },
+        "Standard Temperature" : {
+            
+            "message": "อุณหภูมิมาตรฐาน"
+        },
+        "Student Force" : {
+            
+            "message": "แรงนักเรียน"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "การตรวจสอบการแผ่รังสีนักเรียน"
+        },
+        "Systolic" : {
+            
+            "message": "ความดันโลหิตซีสโตลิค"
+        },
+        "Temperature" : {
+            
+            "message": "อุณหภูมิ"
+        },
+        "Temperature Probe" : {
+            
+            "message": "หัววัดอุณหภูมิ"
+        },
+        "Thermocouple" : {
+            
+            "message": "เทอร์โมคัปเปิล"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "เทอร์โมคัปเปิลแบบเก่า"
+        },
+        "TI Light" : {
+            
+            "message": "แสง TI"
+        },
+        "Time of Flight" : {
+            
+            "message": ""
+        },
+        "Transmittance" : {
+            
+            "message": "ค่าการส่องผ่านแสง"
+        },
+        "Turbidity" : {
+            
+            "message": "ความขุ่น"
+        },
+        "UVA Intensity" : {
+            
+            "message": "ความเข้มยูวีเอ"
+        },
+        "UVA Sensor" : {
+            
+            "message": "เซนเซอร์ยูวีเอ"
+        },
+        "UVB Intensity" : {
+            
+            "message": "ความเข้มยูวีบี"
+        },
+        "UVB Sensor" : {
+            
+            "message": "เซนเซอร์ยูวีบี"
+        },
+        "Velocity" : {
+            
+            "message": "ความเร็ว"
+        },
+        "Voltage" : {
+            
+            "message": "แรงดันไฟฟ้า"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "แรงดันไฟฟ้า (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "ปริมาตร"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "ระยะขจัด VSMT"
+        },
+        "VSMT Force" : {
+            
+            "message": "แรง VSMT"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "หัววัดอุณหภูมิแบบ Wide-Range"
+        },
+        "X Acceleration" : {
+            
+            "message": "ความเร่ง X"
+        },
+        "Y Acceleration" : {
+            
+            "message": "ความเร่ง Y"
+        },
+        "Z Acceleration" : {
+            
+            "message": "ความเร่ง Z"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": ""
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": ""
+        },
+        "1" : {
+            
+            "message": ""
+        },
+        "11" : {
+            
+            "message": ""
+        },
+        "13" : {
+            
+            "message": ""
+        },
+        "15" : {
+            
+            "message": ""
+        },
+        "17" : {
+            
+            "message": ""
+        },
+        "3" : {
+            
+            "message": ""
+        },
+        "465 nm" : {
+            
+            "message": "465 นาโนเมตร"
+        },
+        "5" : {
+            
+            "message": ""
+        },
+        "525 nm" : {
+            
+            "message": "525 นาโนเมตร"
+        },
+        "615 nm" : {
+            
+            "message": "615 นาโนเมตร"
+        },
+        "7" : {
+            
+            "message": ""
+        },
+        "9" : {
+            
+            "message": ""
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "ความชื้นสัมบูรณ์"
+        },
+        "Acceleration G" : {
+            
+            "message": "ความเร่ง G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": ""
+        },
+        "Acceleration Y" : {
+            
+            "message": "ความเร่ง Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "ปริมาณที่ปรับ"
+        },
+        "Altitude" : {
+            
+            "message": "ระดับความสูง"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "ระดับความสูง สอบเทียบแบบหนึ่งจุด"
+        },
+        "Amplitude" : {
+            
+            "message": "แอมพลิจูด"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "มุม (ความละเอียดสูง)"
+        },
+        "Angular Motion" : {
+            
+            "message": "การเคลื่อนที่เชิงมุม"
+        },
+        "Auto zero at start" : {
+            
+            "message": "ค่าศูนย์เมื่อเริ่มต้น"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "โหมดพอร์ตเสริม"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE ช่วงปัจจุบัน"
+        },
+        "BE Duration" : {
+            
+            "message": "ช่วง BE"
+        },
+        "BE Potential" : {
+            
+            "message": "ความต่างศักย์ BE"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "อัตราตัวอย่าง BE"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "ความดันบรรยากาศ"
+        },
+        "Battery Level" : {
+            
+            "message": "ระดับแบตเตอรี่"
+        },
+        "Battery Percent" : {
+            
+            "message": "เปอร์เซ็นต์แบตเตอรี่"
+        },
+        "Battery Voltage" : {
+            
+            "message": ""
+        },
+        "Blank calibration" : {
+            
+            "message": ""
+        },
+        "Bridge Voltage" : {
+            
+            "message": "แรงดันไฟฟ้าของสะพาน"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "เทียบเท่าคาร์บอนไดออกไซด์"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "ก๊าซคาร์บอนไดออกไซด์"
+        },
+        "CVS Current Range" : {
+            
+            "message": "ช่วงกระแส CVS"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "ความต่างศักย์สุดท้าย CVS"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "ความต่างศักย์เริ่มต้น CVS"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "นับลูป CVS"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "จำนวนกลุ่ม CVS"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "อัตราการกวาด CVS"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS การเปลี่ยนความต่างศักย์ 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS การเปลี่ยนความต่างศักย์ 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "ค่าสัมประสิทธิ์การสอบเทียบ"
+        },
+        "Calibration power" : {
+            
+            "message": "กำลังการสอบเทียบ"
+        },
+        "Cap number" : {
+            
+            "message": "หมายเลขฝาครอบ"
+        },
+        "Cell" : {
+            
+            "message": "เซล"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "เซลล์คงที่ (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "เซลล์คงที่ (ใช้งานอยู่)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "ค่าสัมประสิทธิ์-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "ค่าสัมประสิทธิ์-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "ค่าสัมประสิทธิ์-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "การนำไฟฟ้า - 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": ""
+        },
+        "Counts" : {
+            
+            "message": "นับ"
+        },
+        "Current pressure" : {
+            
+            "message": "แรงดันกระแส"
+        },
+        "Current state" : {
+            
+            "message": "สถานะกระแส"
+        },
+        "Current temperature" : {
+            
+            "message": "อุณหภูมิกระแส"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "ความถี่คัทออฟ"
+        },
+        "Cycle Volume" : {
+            
+            "message": "ปริมาณรอบ"
+        },
+        "Cycle volume source" : {
+            
+            "message": "แหล่งของปริมาณรอบ"
+        },
+        "DAC value" : {
+            
+            "message": ""
+        },
+        "DO Concentration" : {
+            
+            "message": "ความเข้มข้น DO"
+        },
+        "DO Salinity" : {
+            
+            "message": "ความเค็ม DO"
+        },
+        "DO Saturation" : {
+            
+            "message": "ความอิ่มตัว DO"
+        },
+        "Data source" : {
+            
+            "message": "แหล่งข้อมูล"
+        },
+        "Declination" : {
+            
+            "message": "การลดลง"
+        },
+        "Demo" : {
+            
+            "message": ""
+        },
+        "Dew Point" : {
+            
+            "message": "จุดน้ำค้าง"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "สัมประสิทธิ์ไดแอสโตลิก"
+        },
+        "Differential Pressure" : {
+            
+            "message": "ความดันแตกต่าง"
+        },
+        "Drops" : {
+            
+            "message": "หยด"
+        },
+        "EMG" : {
+            
+            "message": "อีเอ็มจี"
+        },
+        "EMG Rectified" : {
+            
+            "message": "เร็คติฟาย อีเอ็มจี"
+        },
+        "Electrode Current" : {
+            
+            "message": "กระแสของอิเล็กโทรด"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "แรงดันไฟฟ้าของอิเล็กโทรด"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "การทำความสะอาดอิเล็กโทรด"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "ใส่ค่าการไหล 0%"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "ใส่ค่าการไหล 100%"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "ใส่ค่าการไหล 50%"
+        },
+        "Enter altitude" : {
+            
+            "message": "ป้อนระดับความสูง"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "ป้อนความดันบรรยากาศ"
+        },
+        "Enter current temperature" : {
+            
+            "message": "ใส่อุณหภูมิปัจจุบัน"
+        },
+        "Enter first known value" : {
+            
+            "message": "ใส่ค่าแรกที่ทราบ"
+        },
+        "Enter k value" : {
+            
+            "message": "ป้อนค่า k"
+        },
+        "Enter known value" : {
+            
+            "message": "ใส่ค่าที่ทราบ"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "ป้อนค่าตัวคูณ"
+        },
+        "Enter n value" : {
+            
+            "message": "ป้อนค่า n"
+        },
+        "Enter offset value" : {
+            
+            "message": "ป้อนค่าชดเชย"
+        },
+        "Enter power value" : {
+            
+            "message": "ป้อนค่าพาวเวอร์"
+        },
+        "Enter second known value" : {
+            
+            "message": "ใส่ค่าที่สองที่ทราบ"
+        },
+        "Enter station elevation" : {
+            
+            "message": "ใส่ค่าระดับความสูง"
+        },
+        "Enter third known value" : {
+            
+            "message": "ใส่ค่าที่สามที่ทราบ"
+        },
+        "Envelope" : {
+            
+            "message": "เครื่องหุ้มห่อ"
+        },
+        "Envelope averaging" : {
+            
+            "message": "ค่าเฉลี่ยของ Envelope"
+        },
+        "Error" : {
+            
+            "message": ""
+        },
+        "Ethanol Gas" : {
+            
+            "message": "แก๊สเอทานอล"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "แก๊สเอทานอลกับ HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "เอทานอล"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "ไอเอทานอล"
+        },
+        "Experiment Type" : {
+            
+            "message": "ประเภทการทดสอบ"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "ปริมาตรลมหายใจสูงสุด"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "FWD" : {
+            
+            "message": ""
+        },
+        "Fan" : {
+            
+            "message": ""
+        },
+        "Fan Mode" : {
+            
+            "message": "โหมดพัดลม"
+        },
+        "Final hold time" : {
+            
+            "message": "ถือครั้งสุดท้าย"
+        },
+        "Final temperature" : {
+            
+            "message": "อุณหภูมิสุดท้าย"
+        },
+        "Five-point calibration" : {
+            
+            "message": "การสอบเทียบห้าจุด"
+        },
+        "Flow rate filter" : {
+            
+            "message": "ตัวกรองอัตราการไหล"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "กระแสอัตราขั้วการหายใจ"
+        },
+        "Force G" : {
+            
+            "message": "แรง รถเขียว"
+        },
+        "Force Y" : {
+            
+            "message": "แรง รถเหลือง"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "สอบเทียบค่าแรงแบบหนึ่งจุด"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "สอบเทียบค่าแรงแบบสองจุด"
+        },
+        "Forward" : {
+            
+            "message": ""
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "เกต 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "เกต 1 - สถานะเกต"
+        },
+        "Gate 1 State" : {
+            
+            "message": "สถานะเกต 1"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "เกต 1/เกตไกล - จับเวลา"
+        },
+        "Gate 2" : {
+            
+            "message": "เกต 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "เกต 2 - สถานะเกต"
+        },
+        "Gate 2 State" : {
+            
+            "message": "สถานะเกต 2"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® เซนเซอร์สนามแม่เหล็ก 3 แกน"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® ความเร่ง"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct®ความดันโลหิต"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® กาซคาร์บอนไดออกไซด์"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® คัลเลอร์ริมิเตอร์"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® หัววัดการนำไฟฟ้า"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® ระบบกระแสคงที่"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® หัววัดกระแส"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® Cyclic Voltammetry System"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® เครื่องนับหยด"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® อีเคจี"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "ขยายสัญญาณขั้วไฟฟ้า Go Direct®"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® พลังงาน"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "โกไดเร็กเซนเซอร์เอทานอล"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "โกไดเร็กไอเอทานอล"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® เซนเซอร์แรงและความเร่ง"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® แก๊ส โครมาโต"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® เซนเซอร์แรงดันอากาศ"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "โกไดเร็กแฮนด์ไดนาโมมิเตอร์"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® Ion-Selective Electrode Amplifier"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® เซนเซอร์แสงและสี"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® เครื่องหลอมละลาย"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® การเคลื่อนที่"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® เครื่องวัดปริมาณออกซิเจนละลายน้ำ"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® กาซออกซิเจน"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® โฟโตเกต"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": ""
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": ""
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® เครื่องยิงโปรเจกไตล์"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": ""
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® เครื่องวัดรังสี"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® เข็มขัดวัดการหายใจ"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® การเคลื่อนที่แบบหมุน"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® รถ (เขียว)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® รถ (เหลือง)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® เสียง"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® สไปโรมิเตอร์"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® ทดสอบโครงสร้างและวัสดุ"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® อุณหภูมิพื้นผิว"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® หัววัดอุณหภูมิ"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® เครื่องขยายสัญญาณเทอร์โมคัปเปิล"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® หัววัดแรงดันไฟฟ้า"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® สภาพอากาศ"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® วัดอุณหภูมิช่วงกว้าง"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": ""
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "หัววัดสนามแม่เหล็กแบบ 3 แกน Go Direct™"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "หัววัดความเร่ง Go Direct™"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct ™ความดันโลหิต"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ กาซคาร์บอนไดออกไซด์"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "เครื่องวัดสี Go Direct™"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "หัววัดการนำไฟฟ้า Go Direct™"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "หัววัดกระแสไฟแบบคงที่ Go Direct™"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "หัววัดกระแสไฟฟ้า Go Direct™"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ Cyclic Voltammetry System"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "เครื่องนับหยด Go Direct™"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct™ อีเคจี"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "ตัวขยายสัญญาณขั้วไฟฟ้า Go Direct™"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct™ พลังงาน"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "โกไดเร็กเซนเซอร์เอทานอล"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "โกไดเร็กไอเอทานอล"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct™ เซนเซอร์แรงและความเร่ง"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ แก๊ส โครมาโตกราฟ"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "เซ็นเซอร์ความดันอากาศ Go Direct™"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "โกไดเร็กแฮนด์ไดนาโมมิเตอร์"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Ion-Selective Electrode Amplifier"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "เซนเซอร์แสงและสี Go Direct™"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "เครื่องละลายสาร Go Direct™"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "เครื่องตรวจจับการเคลื่อนไหว Go Direct™"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct™ เครื่องวัดออกซิเจนในน้ำ"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ กาซออกซิเจน"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ โฟโตเกต"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct™ โปรเจกไตล์"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct™ เครื่องวัดรังสี"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "เข็มขัดวัดอัตราการหายใจ Go Direct™"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "เครื่องวัดการเคลื่อนที่แบบหมุน Go Direct™"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct™ รถ (เขียว)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct™ รถ (เหลือง)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct™ เสียง"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ สไปโรมิเตอร์"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ ทดสอบโครงสร้างและวัสดุ"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "หัววัดอุณหภูมิระดับผิว Go Direct™"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "หัววัดอุณหภูมิ Go Direct™"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ เครื่องขยายสัญญาณเทอร์โมคัปเปิล"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "หัววัดแรงดันไฟฟ้า Go Direct™"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ สภาพอากาศ"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "หัววัดอุณหภูมิแบบกว้าง Go Direct™"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": ""
+        },
+        "Heat Index" : {
+            
+            "message": "ดัชนีความร้อน"
+        },
+        "Hold time" : {
+            
+            "message": "เวลาค้าง"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "ไฮโดรเจน"
+        },
+        "Hz" : {
+            
+            "message": "เฮิรตซ์"
+        },
+        "Illuminance" : {
+            
+            "message": "สว่าง"
+        },
+        "Illumination Raw" : {
+            
+            "message": ""
+        },
+        "Impeller Frequency" : {
+            
+            "message": "ความถี่ใบพัด"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "ปริมาณหายใจสูงสุด"
+        },
+        "Instrument status" : {
+            
+            "message": "สถานะเครื่องมือ"
+        },
+        "Internal Current" : {
+            
+            "message": "กระแสภายใน"
+        },
+        "Internal Voltage" : {
+            
+            "message": "แรงดันไฟฟ้าภายใน"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "กิโล"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "การวินิจฉัย LED"
+        },
+        "LED magnitude" : {
+            
+            "message": "ขนาดไฟ LED"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "เลเซอร์เกต - สถานะเกต"
+        },
+        "Laser Gate State" : {
+            
+            "message": "สถานะเลเซอร์เกต"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "เลเซอร์เกต/เกตระยะไกล - จับเวลา"
+        },
+        "Launch Angle" : {
+            
+            "message": "มุมการปล่อย"
+        },
+        "Linear Motion" : {
+            
+            "message": "การเคลื่อนที่เส้นตรง"
+        },
+        "Live" : {
+            
+            "message": ""
+        },
+        "Load cell gain" : {
+            
+            "message": "โหลดเซลล์รับ"
+        },
+        "Mag-X" : {
+            
+            "message": "สนามแม่เหล็ก-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "สนามแม่เหล็ก-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "สนามแม่เหล็ก-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "ไมโครโฟน-FIXED"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "ไมโครโฟน-FIXED A Weight"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "ไมโครโฟน-FIXED C Weight"
+        },
+        "Motion (cart)" : {
+            
+            "message": "การเคลื่อนที่ (รถ)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "ความเร่งการเคลื่อนที่"
+        },
+        "Motion Velocity" : {
+            
+            "message": "ความเร็วการเคลื่อนที่"
+        },
+        "Motion with TC" : {
+            
+            "message": "การเคลื่อนที่กับ TC"
+        },
+        "N" : {
+            
+            "message": "นิวตัน"
+        },
+        "N/kg" : {
+            
+            "message": "นิวตัน/กิโลกรัม"
+        },
+        "No" : {
+            
+            "message": ""
+        },
+        "No smoothing" : {
+            
+            "message": ""
+        },
+        "Normalized Response" : {
+            
+            "message": "การตอบสนองปกติ"
+        },
+        "Not ready" : {
+            
+            "message": ""
+        },
+        "OCP Duration" : {
+            
+            "message": "ระยะเวลา OCP"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "อัตราตัวอย่าง OCP"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "ความเร่งวัตถุ (หลาย flag)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "ความเร่งวัตถุ (flag เดียว)"
+        },
+        "Object Velocity" : {
+            
+            "message": "ความเร็ววัตถุ"
+        },
+        "Off" : {
+            
+            "message": ""
+        },
+        "One-point calibration" : {
+            
+            "message": "การสอบเทียบแบบจุดเดียว"
+        },
+        "Optical Rotation" : {
+            
+            "message": ""
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "คำอธิบายประกอบการสั่น"
+        },
+        "Oscillation Max" : {
+            
+            "message": "การสั่นสูงสุด"
+        },
+        "Oscillation Min" : {
+            
+            "message": "การสั่นต่ำสุด"
+        },
+        "Oscillations" : {
+            
+            "message": "การแกว่ง"
+        },
+        "O₂ Gas" : {
+            
+            "message": "ก๊าซออกซิเจน"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": ""
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "ก๊าซออกซิเจน rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": ""
+        },
+        "PPFD - CF" : {
+            
+            "message": ""
+        },
+        "PPFD Correction" : {
+            
+            "message": ""
+        },
+        "PYR two-point calibration" : {
+            
+            "message": ""
+        },
+        "Pa" : {
+            
+            "message": "ปาสคาล"
+        },
+        "Peak Area" : {
+            
+            "message": "พื้นที่สูงสุด"
+        },
+        "Pendulum Period" : {
+            
+            "message": "คาบเวลาเพนดูลัม"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "ความเร็วเพนดูลัม"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "ไพน์เฟิร์มแวร์เวอร์ชันหลัก"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "ไพน์เฟิร์มแวร์เวอร์ชันรอง"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "การแก้ไขเฟิร์มแวร์ไพน์"
+        },
+        "Position Direction" : {
+            
+            "message": ""
+        },
+        "Position G" : {
+            
+            "message": "ตำแหน่ง G"
+        },
+        "Position Vector" : {
+            
+            "message": ""
+        },
+        "Position Y" : {
+            
+            "message": "ตำแหน่ง Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "ค่ายกกำลังสอบเทียบสามจุด"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "ความดันชีพจร"
+        },
+        "Pulse Rate" : {
+            
+            "message": "อัตราชีพจร"
+        },
+        "REV" : {
+            
+            "message": ""
+        },
+        "Ramp rate" : {
+            
+            "message": "อัตราลาดเอียง"
+        },
+        "Raw Diastolic" : {
+            
+            "message": ""
+        },
+        "Raw MAP" : {
+            
+            "message": ""
+        },
+        "Raw Pressure" : {
+            
+            "message": ""
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": ""
+        },
+        "Raw Systolic" : {
+            
+            "message": ""
+        },
+        "Raw Temperature" : {
+            
+            "message": "อุณหภูมิดิบ"
+        },
+        "Ready" : {
+            
+            "message": "พร้อมแล้ว"
+        },
+        "Ready to inject" : {
+            
+            "message": ""
+        },
+        "Remote Acceleration" : {
+            
+            "message": "ความเร่งระยะไกล"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "เกตระยะไกล - ความเร่งวัตถุ"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "เกตระยะไกล - ความเร่งวัตถุ (flag เดียว)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "เกตระยะไกล - ความเร่งวัตถุ"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "รีโมท เกต 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "รีโมท เกต 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "ความเร็วระยะไกล"
+        },
+        "Reverse" : {
+            
+            "message": ""
+        },
+        "Running" : {
+            
+            "message": ""
+        },
+        "Salinity correction" : {
+            
+            "message": "แก้ไขความเค็ม"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "ระดับเสียง A-weighted"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "ระดับเสียง C-weighted"
+        },
+        "Start temperature" : {
+            
+            "message": "อุณหภูมิเริ่มต้น"
+        },
+        "Starting" : {
+            
+            "message": ""
+        },
+        "Station Pressure" : {
+            
+            "message": "ความดันสถานี"
+        },
+        "Step Rate" : {
+            
+            "message": "อัตราขั้นตอน"
+        },
+        "Steps" : {
+            
+            "message": "ขั้น"
+        },
+        "Stopped" : {
+            
+            "message": ""
+        },
+        "Switch USB" : {
+            
+            "message": "เปลี่ยน USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "สัมประสิทธิ์ซิสโตลิก"
+        },
+        "Temperature correction" : {
+            
+            "message": "การแก้ไขอุณหภูมิ"
+        },
+        "Three-point calibration" : {
+            
+            "message": "การสอบเทียบแบบสามจุด"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "แผ่นเวลาเคลื่อนที่ในอากาศ"
+        },
+        "Timing" : {
+            
+            "message": "การจับเวลา"
+        },
+        "Total VOC" : {
+            
+            "message": "VOC ทั้งหมด"
+        },
+        "Two-point calibration" : {
+            
+            "message": "การสอบเทียบแบบสองจุด"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "เทอร์โมคัปเปิล ประเภท J"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "เทอร์โมคัปเปิล ประเภท K"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "เทอร์โมคัปเปิล ประเภท T"
+        },
+        "UV" : {
+            
+            "message": "ยูวี"
+        },
+        "UV Blue" : {
+            
+            "message": ""
+        },
+        "UV Index" : {
+            
+            "message": "ดัชนียูวี"
+        },
+        "UV Intensity" : {
+            
+            "message": "ความเข้มยูวี"
+        },
+        "UVA" : {
+            
+            "message": "ยูวีเอ"
+        },
+        "UVB" : {
+            
+            "message": "ยูวีบี"
+        },
+        "Use smoothing" : {
+            
+            "message": ""
+        },
+        "V" : {
+            
+            "message": "โวลต์"
+        },
+        "Vector range Max" : {
+            
+            "message": "ช่วงเวกเตอร์สูงสุด"
+        },
+        "Vector range Min" : {
+            
+            "message": "ช่วงเวกเตอร์ต่ำสุด"
+        },
+        "Velocity G" : {
+            
+            "message": "ความเร็ว G"
+        },
+        "Velocity Vector" : {
+            
+            "message": ""
+        },
+        "Velocity Y" : {
+            
+            "message": "ความเร็ว Y"
+        },
+        "Velocity2" : {
+            
+            "message": "ความเร็ว2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "แรงดันไฟฟ้า - 1 โวลต์"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "แรงดันไฟฟ้า - 20 โวลต์"
+        },
+        "Volume correction factor" : {
+            
+            "message": "ปัจจัยการแก้ไขปริมาณ"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "ปริมาตรขั้วอากาศหายใจ"
+        },
+        "W/m²" : {
+            
+            "message": ""
+        },
+        "Wave Amplitude" : {
+            
+            "message": "แอมพลิจูดคลื่น"
+        },
+        "Wave Frequency" : {
+            
+            "message": "ความถี่คลื่น"
+        },
+        "Wind Chill" : {
+            
+            "message": "ลมหนาว"
+        },
+        "Wind Direction" : {
+            
+            "message": "ทิศทางลม"
+        },
+        "Wind Speed" : {
+            
+            "message": "ความเร็วลม"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "การสอบเทียบทิศทางลม"
+        },
+        "X magnetic field" : {
+            
+            "message": "สนามแม่เหล็ก X"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X สนามแม่เหล็ก 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-ความเร่งเชิงมุม"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "ความเร่งแกน X"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "ความเร่ง G แกน X"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "ความเร่ง G แกน Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "สอบเทียบหนึ่งจุด ความเร่งแกน X"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "ความเร่งแกน X - สูง"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "สอบเทียบแบบหนึ่งจุด ความเร่งแกน X"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "ความเร็วเชิงมุนแกน X"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "ความเร็วเชิงมุมของแกน X G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "ความเร็วเชิงมุมของแกน Y G"
+        },
+        "X-axis gyro" : {
+            
+            "message": "ไจโรแกน X"
+        },
+        "Y magnetic field" : {
+            
+            "message": "สนามแม่เหล็ก Y"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y สนามแม่เหล็ก 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-ความเร่งเชิงมุม"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "ความเร่งแกน Y"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "ความเร่ง G แกน Y"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "ความเร่ง Y แกน Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "สอบเทียบหนึ่งจุดความเร่งแกน Y"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "ความเร่งแกน Y - สูง"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "สอบเทียบหนึ่งจุดความเร่งแกน Y - สูง"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "ความเร็วเชิงมุนแกน Y"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "ความเร็วเชิงมุมแกน Y G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "ความเร็วเชิงมุมแกน Y Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "ไจโรแกน Y"
+        },
+        "Yes" : {
+            
+            "message": ""
+        },
+        "Z magnetic field" : {
+            
+            "message": "สนามแม่เหล็ก Z"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z สนามแม่เหล็ก 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z - ความเร็วเชิงมุม"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "ความเร่งแกน Z"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "ความเร่ง G แกน Z"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "ความเร่ง Y แกน Z"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "สอบเทียบหนึ่งจุด ความเร่งแกน Z"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "ความเร่งแกน Z - สูง"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "สอบเทียบหนึ่งจุด ความเร่งแกน Z - สูง"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "ความเร็วเชิงมุนแกน Z"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "ความเร็วเชิงมุมของแกน Z G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "ความเร็วเชิงมุมแกน Z Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "ไจโรแกน Z"
+        },
+        "atm" : {
+            
+            "message": "บรรยากาศ"
+        },
+        "bpm" : {
+            
+            "message": "ครั้งต่อนาที"
+        },
+        "cm" : {
+            
+            "message": "เซนติเมตร"
+        },
+        "cm/s" : {
+            
+            "message": "เซนติเมตร/วินาที"
+        },
+        "cm/s²" : {
+            
+            "message": "เซนติเมตร/วินาที²"
+        },
+        "counts" : {
+            
+            "message": "นับ"
+        },
+        "dB" : {
+            
+            "message": "เดซิเบล"
+        },
+        "dS/m" : {
+            
+            "message": "เดซิซีเมนส์/เมตร"
+        },
+        "ft" : {
+            
+            "message": "ฟุต"
+        },
+        "ft/s" : {
+            
+            "message": "ฟุต/วินาที"
+        },
+        "ft/s²" : {
+            
+            "message": "ฟุต/วินาที²"
+        },
+        "g" : {
+            
+            "message": "กรัม"
+        },
+        "g/m³" : {
+            
+            "message": "ก/ม³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "นิ้ว"
+        },
+        "inHg" : {
+            
+            "message": "นิ้วปรอท"
+        },
+        "kPa" : {
+            
+            "message": "กิโลปาสคาล"
+        },
+        "kg" : {
+            
+            "message": "กิโลกรัม"
+        },
+        "km/h" : {
+            
+            "message": "กม/ชม"
+        },
+        "knots" : {
+            
+            "message": "นอต"
+        },
+        "lb" : {
+            
+            "message": "ปอนด์"
+        },
+        "lux" : {
+            
+            "message": "ลักซ์"
+        },
+        "m" : {
+            
+            "message": "เมตร"
+        },
+        "m/s" : {
+            
+            "message": "เมตร/วินาที"
+        },
+        "m/s²" : {
+            
+            "message": "เมตร/วินาที²"
+        },
+        "mA" : {
+            
+            "message": "มิลลิแอมแปร์"
+        },
+        "mL" : {
+            
+            "message": "มิลลิลิตร"
+        },
+        "mT" : {
+            
+            "message": "มิลลิเทสลา"
+        },
+        "mV" : {
+            
+            "message": "มิลลิโวลต์"
+        },
+        "mW" : {
+            
+            "message": "มิลลิวัตต์"
+        },
+        "mW/m²" : {
+            
+            "message": "มิลลิวัตต์/ตารางเมตร"
+        },
+        "mbar" : {
+            
+            "message": "มิลลิบาร์"
+        },
+        "mg/L" : {
+            
+            "message": "มิลลิกรัม/ลิตร"
+        },
+        "mg/m³" : {
+            
+            "message": "มิลลิกรัม/ลูกบาศก์เมตร"
+        },
+        "mm" : {
+            
+            "message": "มิลลิเมตร"
+        },
+        "mmHg" : {
+            
+            "message": "มิลลิเมตรปรอท"
+        },
+        "mph" : {
+            
+            "message": "เมตรต่อชั่วโมง"
+        },
+        "nC" : {
+            
+            "message": ""
+        },
+        "pC" : {
+            
+            "message": ""
+        },
+        "ppb" : {
+            
+            "message": "พีพีบี"
+        },
+        "ppm" : {
+            
+            "message": "ส่วนต่อล้านส่วน"
+        },
+        "ppt" : {
+            
+            "message": "ส่วนในล้านล้านส่วน"
+        },
+        "psi" : {
+            
+            "message": "ปอนด์ต่อตารางนิ้ว"
+        },
+        "rad" : {
+            
+            "message": "เรเดียน"
+        },
+        "rad/s" : {
+            
+            "message": "เรเดียน/วินาที"
+        },
+        "rad/s²" : {
+            
+            "message": "เรเดียน/วินาที²"
+        },
+        "raw voltage" : {
+            
+            "message": "แรงดันไฟฟ้าดิบ"
+        },
+        "rel" : {
+            
+            "message": ""
+        },
+        "rev" : {
+            
+            "message": "รอบ"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "ก้าวต่อนาที"
+        },
+        "steps" : {
+            
+            "message": "ก้าว"
+        },
+        "torr" : {
+            
+            "message": "ทอร์"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": ""
+        },
+        "units/s" : {
+            
+            "message": "หน่วย/วินาที"
+        },
+        "units/s²" : {
+            
+            "message": "หน่วย/วินาที²"
+        },
+        "velocity2" : {
+            
+            "message": "ความเร็ว2"
+        },
+        "xxx0" : {
+            
+            "message": ""
+        },
+        "xxx1" : {
+            
+            "message": ""
+        },
+        "xxx2" : {
+            
+            "message": ""
+        },
+        "xxx3" : {
+            
+            "message": ""
+        },
+        "xxx4" : {
+            
+            "message": ""
+        },
+        "xxx5" : {
+            
+            "message": ""
+        },
+        "xxx6" : {
+            
+            "message": ""
+        },
+        "xxx7" : {
+            
+            "message": ""
+        },
+        "xxx8" : {
+            
+            "message": ""
+        },
+        "xxx9" : {
+            
+            "message": ""
+        },
+        "°" : {
+            
+            "message": "องศา"
+        },
+        "°/s" : {
+            
+            "message": "องศา/วินาที"
+        },
+        "°C" : {
+            
+            "message": "องศาเซลเซียส"
+        },
+        "°F" : {
+            
+            "message": "องศาฟาเรนไฮต์"
+        },
+        "µA" : {
+            
+            "message": "ไมโครแอมแปร์"
+        },
+        "µS/cm" : {
+            
+            "message": "ไมโครซีเมนต์ต่อเซนติเมตร"
+        },
+        "µm" : {
+            
+            "message": "ไมโครเมตร"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": ""
+        },
+        "ΔmmHg" : {
+            
+            "message": "Δมิลลิเมตรปรอท"
+        },
+        "Ω" : {
+            
+            "message": "โอห์ม"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "โคซายน์"
+        },
+        "Cosine Squared" : {
+            
+            "message": "โคซายน์ สแควร์"
+        },
+        "Inverse" : {
+            
+            "message": "ผกผัน"
+        },
+        "Inverse Squared" : {
+            
+            "message": "กำลังสองผกผัน"
+        },
+        "Linear" : {
+            
+            "message": "เชิงเส้น"
+        },
+        "Modified Power" : {
+            
+            "message": "เพาเวอร์ดัดแปลง"
+        },
+        "Natural Exponent" : {
+            
+            "message": "เลขชี้กำลัง"
+        },
+        "Natural Log" : {
+            
+            "message": "ลอการิทึมธรรมชาติ"
+        },
+        "Not defined" : {
+            
+            "message": "ไม่ได้กำหนดไว้"
+        },
+        "Power" : {
+            
+            "message": "กำลัง"
+        },
+        "Proportional" : {
+            
+            "message": "สัดส่วน"
+        },
+        "Quadratic" : {
+            
+            "message": "สมการกำลังสอง"
+        },
+        "Sine" : {
+            
+            "message": "ซายน์"
+        },
+        "Slope" : {
+            
+            "message": "ความชัน"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "นิพจน์ที่กำหนดเอง"
+        }
+        
+    }
+}

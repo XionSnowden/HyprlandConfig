@@ -1,0 +1,6354 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d odjemalcev je povezanih"
+        },
+        "%s All" : {
+            
+            "message": "%s vsega"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s vseh podatkov"
+        },
+        "%s appearance options" : {
+            
+            "message": ""
+        },
+        "%s details" : {
+            
+            "message": ""
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s trenutno zbira podatke. Ali želite ustaviti zbiranje in začeti nov poskus?"
+        },
+        "%s Options" : {
+            
+            "message": ""
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(razdalja, hitrost, pospešek)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 Graf"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1st odvod"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1st odvod Time Shift"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1 odvod(Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": ""
+        },
+        "2 Graphs" : {
+            
+            "message": "2 Graf"
+        },
+        "2nd derivative" : {
+            
+            "message": "2 odvod"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2nd odvod Time Shift"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2 odvod(Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": ""
+        },
+        "3 Graphs" : {
+            
+            "message": "3 Graf"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Pojavila se je komunikacijska napaka. Za nadaljevanje pričnite z novim eksperimentom."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Napaka pri komunikaciji. Zbiranje podatkov je ustavljeno. Prosim poskusite ponovno."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B in C parametri, ki jih lahko nastavite. X, Y in Z so obstoječi stolpci v tabeli s podatki."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "O aplikaciji"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "O prilagojenih krivuljah po meri"
+        },
+        "Absolute Value" : {
+            
+            "message": ""
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Accessories" : {
+            
+            "message": ""
+        },
+        "across" : {
+            
+            "message": "za"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": ""
+        },
+        "Activate to add manual fit" : {
+            
+            "message": ""
+        },
+        "Activate to apply FFT" : {
+            
+            "message": ""
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": ""
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": ""
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": ""
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": ""
+        },
+        "Activate to use %s" : {
+            
+            "message": ""
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": ""
+        },
+        "Activate to use Notes" : {
+            
+            "message": ""
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": ""
+        },
+        "Activate to use Video" : {
+            
+            "message": ""
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Dodajte stolpec izračuni"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Dodajte naslov grafa tukaj"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Dodajte stolpec ročni"
+        },
+        "Add Annotation" : {
+            
+            "message": "Dodaj komentar"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Dodaj stolpec za izračune"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Dodajte destilirano vodo v steklenico za shranjevanje na vrh gobice."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Dodaj Graf Match"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Dodaj stolpec (manual)"
+        },
+        "Add Manual Fit" : {
+            
+            "message": ""
+        },
+        "add meters" : {
+            
+            "message": ""
+        },
+        "Add New Data Set" : {
+            
+            "message": "Dodaj nov nabor podatkov"
+        },
+        "Add Prediction" : {
+            
+            "message": "Dodaj napoved"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": ""
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Dodajte titrant po kapljicah skozi števec v 10-mililitrski merilni valj."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": ""
+        },
+        "Advanced" : {
+            
+            "message": "Napredno"
+        },
+        "After" : {
+            
+            "message": "Po"
+        },
+        "After set number of flags" : {
+            
+            "message": "After set number of flags"
+        },
+        "All" : {
+            
+            "message": "Vse"
+        },
+        "Always Show 0" : {
+            
+            "message": "Zmeraj prikaži 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": ""
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Izraz mora vključevati neodvisno spremenljivko in vsaj en parameter."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Za povezavo s sejo za izmenjavo podatkov je potrebna internetna povezava. Znova se povežite z internetom in s klikom znova vzpostavi povezavo."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Za povezavo s spletno izmenjavo podatkov je potrebna internetna povezava"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Za skupno rabo podatkov je potrebna internetna povezava"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Za skupno rabo podatkov je potrebna internetna povezava. Če želite nadaljevati skupno rabo se znova povežite z internetom in nato začnite novo sejo skupne rabe podatkov."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "pripomoček za spuščanje projektilov in se uporablja za poročanje o času letenja projektila."
+        },
+        "and " : {
+            
+            "message": "in "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "in kliknite USTAVI DELJENJE"
+        },
+        "Angle units" : {
+            
+            "message": "Enote kotov"
+        },
+        "Angular Motion" : {
+            
+            "message": "Kotno gibanje"
+        },
+        "Angular Motion Info" : {
+            
+            "message": ""
+        },
+        "App is up to date" : {
+            
+            "message": "Aplikacija je posodobljena"
+        },
+        "App Preferences" : {
+            
+            "message": ""
+        },
+        "App Updates" : {
+            
+            "message": "Posodobitev aplikacij"
+        },
+        "Appearance" : {
+            
+            "message": "Izgled"
+        },
+        "Append" : {
+            
+            "message": "Dodajte"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Dodajte dodatne podatke v trenutni podatkovni niz ali ustvarite nov nabor podatkov?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Dodaj ali ustvarite novo?"
+        },
+        "Apply" : {
+            
+            "message": "Uporabi"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Uporabi prilagoditev krivulje"
+        },
+        "Apply FFT" : {
+            
+            "message": ""
+        },
+        "Apply Histogram" : {
+            
+            "message": ""
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Območje"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Ko zbirate podatke, bodo videli vaše podatke v svojih kopijah Graphical Analysis"
+        },
+        "Auto" : {
+            
+            "message": "Auto"
+        },
+        "Automatic" : {
+            
+            "message": "Avtomatsko"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Povprečno zbiranja podatkov senzorja 10 sekund"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "V povprečju več kot 10 sekund"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Velikost osi"
+        },
+        "Back" : {
+            
+            "message": "Nazaj"
+        },
+        "Band-pass Filter" : {
+            
+            "message": ""
+        },
+        "Band-stop Filter" : {
+            
+            "message": ""
+        },
+        "Bar Tape" : {
+            
+            "message": "Bar Tape"
+        },
+        "Bars" : {
+            
+            "message": ""
+        },
+        "Base" : {
+            
+            "message": "Baza"
+        },
+        "Base Axis" : {
+            
+            "message": ""
+        },
+        "Battery" : {
+            
+            "message": "Baterija"
+        },
+        "Battery Level" : {
+            
+            "message": "Raven baterije"
+        },
+        "Bin Start Value" : {
+            
+            "message": ""
+        },
+        "Bin Width" : {
+            
+            "message": ""
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Bluetooth naprava"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth ni omogočen"
+        },
+        "Bold" : {
+            
+            "message": ""
+        },
+        "Book" : {
+            
+            "message": "Knjiga"
+        },
+        "Book Title" : {
+            
+            "message": "Naslov knjige"
+        },
+        "Both" : {
+            
+            "message": "Oboje"
+        },
+        "Bottom" : {
+            
+            "message": "Dno"
+        },
+        "Bottom Bar" : {
+            
+            "message": ""
+        },
+        "Bullet list" : {
+            
+            "message": ""
+        },
+        "Calculated %s" : {
+            
+            "message": "Preračun %s"
+        },
+        "Calculated Column" : {
+            
+            "message": ""
+        },
+        "Calibrate" : {
+            
+            "message": "Kalibriranje"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Kalibriraj zdaj"
+        },
+        "Calibrating..." : {
+            
+            "message": "Umerjanje..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Kalibracija končana"
+        },
+        "Calibration failed" : {
+            
+            "message": "Kalibracija spodletela"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Ponastavitev kalibracije je uspešna"
+        },
+        "Calibration Type" : {
+            
+            "message": "Način kalibriranja"
+        },
+        "Cancel" : {
+            
+            "message": "Prekini"
+        },
+        "cancel" : {
+            
+            "message": "Prekini"
+        },
+        "Capable" : {
+            
+            "message": ""
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Cart Picket Fence"
+        },
+        "Categorical" : {
+            
+            "message": ""
+        },
+        "Categorical Data" : {
+            
+            "message": ""
+        },
+        "Ceiling" : {
+            
+            "message": ""
+        },
+        "Center manual fit handle" : {
+            
+            "message": ""
+        },
+        "Change left y-axis" : {
+            
+            "message": "Spremeni (levo) y-os"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Spremeni (desno) y-os"
+        },
+        "Change x-axis" : {
+            
+            "message": "Spremeni x-os"
+        },
+        "Change y-axis" : {
+            
+            "message": "Spremeni y-os"
+        },
+        "Channels" : {
+            
+            "message": ""
+        },
+        "Charging," : {
+            
+            "message": "Polnjenje,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": ""
+        },
+        "Check for software updates" : {
+            
+            "message": ""
+        },
+        "Check for Updates" : {
+            
+            "message": "Preveri posodobitve"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Preverite tipalo za utripajoče LED"
+        },
+        "Checking for update..." : {
+            
+            "message": "Preverjanje posodobitve ..."
+        },
+        "Choose File" : {
+            
+            "message": "Izberi datoteko"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Izberi mapo..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": ""
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": ""
+        },
+        "Circle" : {
+            
+            "message": ""
+        },
+        "Clear Expression" : {
+            
+            "message": "Počisti Expression"
+        },
+        "Clear Filter" : {
+            
+            "message": ""
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Kliknite ali tapnite ZAČNI SEJO, da ustvarite ID kodo za sejo"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": ""
+        },
+        "Close" : {
+            
+            "message": "Zapri"
+        },
+        "Close Alert" : {
+            
+            "message": ""
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Zapri aplikacijo in posodobi Firmware"
+        },
+        "Close Application" : {
+            
+            "message": ""
+        },
+        "Close Dialog" : {
+            
+            "message": "Zapri dialog"
+        },
+        "Close FFT" : {
+            
+            "message": ""
+        },
+        "Close graph legend" : {
+            
+            "message": ""
+        },
+        "Close Histogram" : {
+            
+            "message": ""
+        },
+        "Close Infobox" : {
+            
+            "message": ""
+        },
+        "Close Menu" : {
+            
+            "message": ""
+        },
+        "Close Peak Frequency" : {
+            
+            "message": ""
+        },
+        "Close Popover" : {
+            
+            "message": ""
+        },
+        "Close Replay" : {
+            
+            "message": "Zapri Ponovitev"
+        },
+        "Close Start Page" : {
+            
+            "message": ""
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Za nadaljevanje zaprite to pogovorno okno"
+        },
+        "Code" : {
+            
+            "message": ""
+        },
+        "Coefficient" : {
+            
+            "message": "Koeficient"
+        },
+        "Collapse" : {
+            
+            "message": ""
+        },
+        "Collect" : {
+            
+            "message": "Zbiranje"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Zbiranje podatkov s senzorji Vernier"
+        },
+        "Collecting" : {
+            
+            "message": "Zbiranje"
+        },
+        "Collecting %d %s" : {
+            
+            "message": ""
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Zbiranje večjega števila točk, ki vplivajo na izvedbo."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Zbiranje podatkov prek ${eventParams.accumulate} sekund"
+        },
+        "Collection Parameters" : {
+            
+            "message": ""
+        },
+        "Column %s" : {
+            
+            "message": ""
+        },
+        "Column Options" : {
+            
+            "message": "Opcije stolpca"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Vsi podatkovni nizi v stolpcu bodo izbrisani. Izbris ni mogoče razveljaviti."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Vrednosti, ločene z vejico"
+        },
+        "Complementary Error" : {
+            
+            "message": ""
+        },
+        "Configurator" : {
+            
+            "message": ""
+        },
+        "Confirm" : {
+            
+            "message": ""
+        },
+        "Connect" : {
+            
+            "message": "Povezano"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Povezava z <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">podprta naprava Vernier USB</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Priključi napravo"
+        },
+        "Connect a Device" : {
+            
+            "message": "Priključi napravo"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Povežite LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Povezava preko WiFi z vmesnikom LabQuest 2 ali Logger Pro-jem"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": ""
+        },
+        "Connect this device for data collection." : {
+            
+            "message": ""
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Povežite se s sejo skupne rabe podatkov iz vira Graphical Analysis"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Povežite se z virom LabQuest, Logger Pro ali Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": ""
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Povežite se z brezžično napravo ali priključite prek USB-ja."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Povežite se z brezžično napravo spodaj."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": ""
+        },
+        "connected" : {
+            
+            "message": "povezano"
+        },
+        "Connected Devices" : {
+            
+            "message": "Priključene naprave"
+        },
+        "Connecting" : {
+            
+            "message": "Povezovanje"
+        },
+        "Connection error" : {
+            
+            "message": "Napaka v povezavi"
+        },
+        "Connection Lost" : {
+            
+            "message": "Povezava izgubljena"
+        },
+        "Connection status info" : {
+            
+            "message": ""
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Povezovanje %s neuspela"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "Povezovanje %s uspešno"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": ""
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": ""
+        },
+        "Cookie Notice" : {
+            
+            "message": "Obvestilo piškotkov"
+        },
+        "Copy" : {
+            
+            "message": "Kopiraj"
+        },
+        "Copy Histogram" : {
+            
+            "message": ""
+        },
+        "Copy Host ID" : {
+            
+            "message": ""
+        },
+        "Copy Link" : {
+            
+            "message": "Kopiraj povezavo"
+        },
+        "Copy Sign" : {
+            
+            "message": ""
+        },
+        "Copy to clipboard" : {
+            
+            "message": ""
+        },
+        "Copy To Clipboard" : {
+            
+            "message": ""
+        },
+        "Cosine" : {
+            
+            "message": ""
+        },
+        "Count Interval" : {
+            
+            "message": "Interval štetja"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Ustvari Fit po meri"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Ustvarite nov niz podatkov"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": ""
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": ""
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": ""
+        },
+        "Curve Fit" : {
+            
+            "message": "Prilagoditev krivulje"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": ""
+        },
+        "Custom Curve Fits" : {
+            
+            "message": ""
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": ""
+        },
+        "Custom Expression Info" : {
+            
+            "message": ""
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Prilagoditve po meri se shranijo v datoteke z dokumenti aplikacije. Ko začnete novo sejo ali znova zaženete aplikacijo, se namestitve počistijo."
+        },
+        "Custom Session" : {
+            
+            "message": ""
+        },
+        "Cut" : {
+            
+            "message": "Odreži"
+        },
+        "Dark" : {
+            
+            "message": "Temno"
+        },
+        "Darker" : {
+            
+            "message": "Temnejše"
+        },
+        "Darkest" : {
+            
+            "message": "Najtemnejše"
+        },
+        "Data" : {
+            
+            "message": ""
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": ""
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Nastavitve zbiranja podatkov"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Zbiranje podatkov se bo samodejno ustavilo, ko bodo vsa vrata imela pričakovano število meritev položaja (enako kot število zastavic). Ponovno zagon zbirke bo začel nov nabor podatkov."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Zbiranje podatkov se bo nadaljevalo, dokler ročno kliknete ali tapnete Stop. Vrednosti položaja se bodo še naprej povečevale z vrednostjo razmika, dokler se ne zaustavi zbiranje podatkov."
+        },
+        "Data Mark" : {
+            
+            "message": "Podatkovna oznaka"
+        },
+        "Data Marking" : {
+            
+            "message": ""
+        },
+        "Data Set %d" : {
+            
+            "message": "Nastavitev podatkov %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Nastavitev podatkov ime"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Ime nastavitve podatkov ima %s znakovno omejitev."
+        },
+        "Data Set Options" : {
+            
+            "message": ""
+        },
+        "Data Set Time" : {
+            
+            "message": "Podatki nastavitve časa"
+        },
+        "Data Share" : {
+            
+            "message": "Izmenjava podatkov"
+        },
+        "Data Sharing" : {
+            
+            "message": "Izmenjava podatkov"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Skupna raba podatkov je aktivna"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Seja skupne rabe podatkov se je začela"
+        },
+        "Data sharing session status" : {
+            
+            "message": ""
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Stanje skupne rabe podatkov"
+        },
+        "Data Table" : {
+            
+            "message": "Podatkovna tabela"
+        },
+        "Data Type" : {
+            
+            "message": ""
+        },
+        "Data Type Info" : {
+            
+            "message": ""
+        },
+        "Dataset View Options" : {
+            
+            "message": ""
+        },
+        "Decimal Format" : {
+            
+            "message": "Decimalna oblika"
+        },
+        "Decimal Places" : {
+            
+            "message": "Decimalna mesta"
+        },
+        "decrease" : {
+            
+            "message": ""
+        },
+        "decreasing" : {
+            
+            "message": "padla"
+        },
+        "degrees" : {
+            
+            "message": "stopinj"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Stopinje (°)"
+        },
+        "Delete" : {
+            
+            "message": "Izbriši"
+        },
+        "Delete %s?" : {
+            
+            "message": "Izbriši %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Izbriši stolpec"
+        },
+        "Delete Column" : {
+            
+            "message": "Izbriši stolpec"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Izbrišem stolpec %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": ""
+        },
+        "Delete Data Set" : {
+            
+            "message": "Izbriši nastavitev podatkov"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Izbriši Graph Match"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Izbriši napoved"
+        },
+        "Delete Video" : {
+            
+            "message": "Izbriši video"
+        },
+        "Delta" : {
+            
+            "message": ""
+        },
+        "Device Error" : {
+            
+            "message": "Napaka naprave"
+        },
+        "Device Information" : {
+            
+            "message": "Informacije o napravi"
+        },
+        "Device information" : {
+            
+            "message": ""
+        },
+        "Devices" : {
+            
+            "message": ""
+        },
+        "Diameter" : {
+            
+            "message": "Diameter"
+        },
+        "Diamond" : {
+            
+            "message": ""
+        },
+        "Dimension" : {
+            
+            "message": ""
+        },
+        "Disabled" : {
+            
+            "message": ""
+        },
+        "Disconnect" : {
+            
+            "message": "Izklučeno"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": ""
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": ""
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": ""
+        },
+        "Discovered Devices" : {
+            
+            "message": "Odkrite naprave"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Odkrite brezžične naprave"
+        },
+        "Display Meters" : {
+            
+            "message": ""
+        },
+        "Displayed Columns" : {
+            
+            "message": ""
+        },
+        "Displayed Datasets" : {
+            
+            "message": ""
+        },
+        "Displayed Precision" : {
+            
+            "message": "Prikazana natančnost"
+        },
+        "Distance" : {
+            
+            "message": "razdalja"
+        },
+        "Distance between gates" : {
+            
+            "message": "Razdalja med vrati"
+        },
+        "Distribute App" : {
+            
+            "message": ""
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": ""
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "li želite shraniti spremembe na %s? Vaše spremembe bodo izgubljene, če jih ne shranite."
+        },
+        "Don't Save" : {
+            
+            "message": "Ne shrani"
+        },
+        "Done" : {
+            
+            "message": "Končano"
+        },
+        "done" : {
+            
+            "message": ""
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Prenos je končan. Posodobitve bodo nameščene ob naslednjem zagonu aplikacije"
+        },
+        "Download Experiment" : {
+            
+            "message": ""
+        },
+        "Download Update" : {
+            
+            "message": "Prenos posodobitve"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Nariši napoved"
+        },
+        "Drop Counting" : {
+            
+            "message": "Štetje kapljic"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Izpuščene meritve. Začnite nov poskus in uporabite počasnejšo stopnjo zbiranja podatkov."
+        },
+        "Drops" : {
+            
+            "message": "Kapljice"
+        },
+        "Drops/mL" : {
+            
+            "message": "Kapljice/mL"
+        },
+        "duration" : {
+            
+            "message": "trajanje"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "e.g. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "e.g., 007 ali TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Urejanje možnosti grafa"
+        },
+        "Edit mode" : {
+            
+            "message": ""
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Omogoči bluetooth za povezavo brezžičnih senzorjev."
+        },
+        "Enable Replay" : {
+            
+            "message": "Potrdi Ponavljanje"
+        },
+        "Enabled" : {
+            
+            "message": ""
+        },
+        "End Collection" : {
+            
+            "message": "Konec zbiranja"
+        },
+        "End data collection" : {
+            
+            "message": "Konec zbiranja podatkov"
+        },
+        "End User License Agreement" : {
+            
+            "message": ""
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "S pritiskom končate posredovanje podatkov seje"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Vnesi zapis"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Vnesite podatke preko tipkovnice ali kopiraj/prilepi"
+        },
+        "Enter first known value" : {
+            
+            "message": "Vnesi prvo znano vrednost"
+        },
+        "Enter second known value" : {
+            
+            "message": "Vnesi drugo znano vrednost"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Vnesite natančno količino titranta iz graduiranega valja"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Vnesite ID vira:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": ""
+        },
+        "Equation" : {
+            
+            "message": "Enačba"
+        },
+        "Error" : {
+            
+            "message": "Napaka"
+        },
+        "Error Bar Info" : {
+            
+            "message": ""
+        },
+        "Error Bars" : {
+            
+            "message": ""
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Napaka: zavrnjen dostop do odložišča."
+        },
+        "Event" : {
+            
+            "message": "Dogodek"
+        },
+        "Event Based" : {
+            
+            "message": "Glavni dogodki"
+        },
+        "Event Mode" : {
+            
+            "message": "Dogodki način"
+        },
+        "Event Name" : {
+            
+            "message": "Ime dogodka"
+        },
+        "Events with Entry" : {
+            
+            "message": "Dogodki - vstop"
+        },
+        "Events With Entry" : {
+            
+            "message": ""
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Primer: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Primer: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": ""
+        },
+        "Expand" : {
+            
+            "message": ""
+        },
+        "Expand Host ID" : {
+            
+            "message": ""
+        },
+        "Experiment Name" : {
+            
+            "message": "Ime eksperimenta"
+        },
+        "Experimental Features" : {
+            
+            "message": "Eksperimentalne lastnosti"
+        },
+        "Exponent" : {
+            
+            "message": "Eksponent"
+        },
+        "Exponential Base 2" : {
+            
+            "message": ""
+        },
+        "Export" : {
+            
+            "message": "Izvoz"
+        },
+        "Export CSV" : {
+            
+            "message": "Izvozi CSV"
+        },
+        "Expression" : {
+            
+            "message": "Expression"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Datum tovarniške kalibracije"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Fan Thrust"
+        },
+        "FFT" : {
+            
+            "message": ""
+        },
+        "FFT options" : {
+            
+            "message": ""
+        },
+        "File Menu" : {
+            
+            "message": "Datoteka meni"
+        },
+        "File saved" : {
+            
+            "message": "Datoteka je shranjena"
+        },
+        "Filename" : {
+            
+            "message": "Ime datoteke"
+        },
+        "Filter Device List" : {
+            
+            "message": "Filtriraj seznam naprav"
+        },
+        "Firmware" : {
+            
+            "message": "Sistemska programska oprema"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Informacije o posodobitvi vdelane programske opreme"
+        },
+        "First Derivative" : {
+            
+            "message": ""
+        },
+        "Fit Expression" : {
+            
+            "message": "Prilagoditev izraza"
+        },
+        "Fit Name" : {
+            
+            "message": "Ime prilagoditve"
+        },
+        "Fit Options" : {
+            
+            "message": ""
+        },
+        "Fixed Value" : {
+            
+            "message": ""
+        },
+        "Flag Width" : {
+            
+            "message": "Širina zastavice"
+        },
+        "Flags" : {
+            
+            "message": "Zastavice"
+        },
+        "Floor" : {
+            
+            "message": ""
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Za predmete Vernier se za izbrani predmet prikažeta razmik in številka črtice. Za bar trak vnesite število črtic."
+        },
+        "Frequency" : {
+            
+            "message": ""
+        },
+        "From Vernier.com" : {
+            
+            "message": "Iz Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Funkcija"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Funkcije in neodvisna spremenljivka morajo biti male črke."
+        },
+        "Gate Separation" : {
+            
+            "message": "Razdelitev vrat"
+        },
+        "Gate State" : {
+            
+            "message": "Stanje vrat"
+        },
+        "Gate timing" : {
+            
+            "message": "Čas vrat"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX Senzor Mapa"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Posredujte to ID kodo drugim, da se bodo lahko pridružili vaši seji"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Senzorji"
+        },
+        "Go Direct USB" : {
+            
+            "message": ""
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": ""
+        },
+        "Go!Temp" : {
+            
+            "message": ""
+        },
+        "Go! Link" : {
+            
+            "message": ""
+        },
+        "Go! Motion" : {
+            
+            "message": ""
+        },
+        "Graph" : {
+            
+            "message": "Graf"
+        },
+        "Graph %s" : {
+            
+            "message": "Graf %s"
+        },
+        "Graph 1" : {
+            
+            "message": ""
+        },
+        "Graph 2" : {
+            
+            "message": ""
+        },
+        "Graph 3" : {
+            
+            "message": ""
+        },
+        "Graph Display" : {
+            
+            "message": ""
+        },
+        "Graph Inset" : {
+            
+            "message": "Graf vstavi"
+        },
+        "Graph Legend" : {
+            
+            "message": "Diagram legenda"
+        },
+        "Graph Match" : {
+            
+            "message": "Graf Match"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Graph Match opcije"
+        },
+        "Graph Options" : {
+            
+            "message": "Graf opcije"
+        },
+        "Graph Shape" : {
+            
+            "message": "Oblika grafa"
+        },
+        "Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": ""
+        },
+        "Graphs" : {
+            
+            "message": ""
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": ""
+        },
+        "Heading 2" : {
+            
+            "message": ""
+        },
+        "Heading 3" : {
+            
+            "message": ""
+        },
+        "Help connecting a device" : {
+            
+            "message": ""
+        },
+        "Help Connecting a Device" : {
+            
+            "message": ""
+        },
+        "Hide" : {
+            
+            "message": ""
+        },
+        "Hide Details" : {
+            
+            "message": ""
+        },
+        "High-pass Filter" : {
+            
+            "message": ""
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Način visoke ločljivosti"
+        },
+        "Histogram" : {
+            
+            "message": ""
+        },
+        "Histogram options" : {
+            
+            "message": ""
+        },
+        "Horizontal Divider" : {
+            
+            "message": ""
+        },
+        "Host a data sharing session" : {
+            
+            "message": ""
+        },
+        "How To Distribute" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": ""
+        },
+        "Hypotenuse" : {
+            
+            "message": ""
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Ugotovite"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": ""
+        },
+        "Ignore" : {
+            
+            "message": ""
+        },
+        "Import Video" : {
+            
+            "message": "Vstavi video"
+        },
+        "increase" : {
+            
+            "message": ""
+        },
+        "increasing" : {
+            
+            "message": "narasla"
+        },
+        "Insert Expression" : {
+            
+            "message": "Vnesi Expression"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "V steklenico vstavite sondo, da se konica ne dotika vode ali gobice."
+        },
+        "Integral" : {
+            
+            "message": "Integral"
+        },
+        "Intercept" : {
+            
+            "message": "Prestreči"
+        },
+        "Interpolate" : {
+            
+            "message": "Interpolacija"
+        },
+        "Interval" : {
+            
+            "message": "Interval"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Nepravilna enačba"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Neveljaven izraz"
+        },
+        "Inverse Cosine" : {
+            
+            "message": ""
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": ""
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": ""
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": ""
+        },
+        "Inverse Sine" : {
+            
+            "message": ""
+        },
+        "Inverse Tangent" : {
+            
+            "message": ""
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": ""
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Inverted Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Triangle" : {
+            
+            "message": ""
+        },
+        "is" : {
+            
+            "message": "je"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "trenutno ni podprt. Poskusite drugega."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Močno se priporoča, da se po zamenjavi kapice izvede kalibracija."
+        },
+        "Italic" : {
+            
+            "message": ""
+        },
+        "Join New Experiment" : {
+            
+            "message": "Pridružite se novemu eksperimentu"
+        },
+        "Keep" : {
+            
+            "message": "Pusti"
+        },
+        "Keep Point" : {
+            
+            "message": "Obdrži točko"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "SondA naj bo v tem položaju najmanj 60 sekund, nato pritisnite \"KAIBRIRAJ ZDAJ.\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Poznane vrednosti morajo biti različne za dvotočkovno kalibracijo."
+        },
+        "LabQuest" : {
+            
+            "message": ""
+        },
+        "LabQuest Devices" : {
+            
+            "message": ""
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Velikost"
+        },
+        "Last calibrated on" : {
+            
+            "message": "zadnja kalibracija"
+        },
+        "Launch Speed" : {
+            
+            "message": "Hitrost zagona"
+        },
+        "Left" : {
+            
+            "message": "Minimum"
+        },
+        "Left Axis" : {
+            
+            "message": ""
+        },
+        "Left manual fit handle" : {
+            
+            "message": ""
+        },
+        "Left y-axis range" : {
+            
+            "message": "Minimum območje y-osi"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Legacy tip datoteke"
+        },
+        "License Key" : {
+            
+            "message": ""
+        },
+        "License Key is expired." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": ""
+        },
+        "License Key is required." : {
+            
+            "message": ""
+        },
+        "License Key is suspended." : {
+            
+            "message": ""
+        },
+        "License Key not recognized." : {
+            
+            "message": ""
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": ""
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": ""
+        },
+        "Licensed To" : {
+            
+            "message": ""
+        },
+        "Licensed to" : {
+            
+            "message": ""
+        },
+        "Line Shade" : {
+            
+            "message": "Senca črte"
+        },
+        "Linear Motion" : {
+            
+            "message": "Premo gibanje"
+        },
+        "Linear Motion Info" : {
+            
+            "message": ""
+        },
+        "Lines" : {
+            
+            "message": "Črte"
+        },
+        "Link" : {
+            
+            "message": ""
+        },
+        "Link Copied" : {
+            
+            "message": ""
+        },
+        "list item" : {
+            
+            "message": ""
+        },
+        "Load Experiment" : {
+            
+            "message": ""
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": ""
+        },
+        "Log" : {
+            
+            "message": ""
+        },
+        "Log Base 2" : {
+            
+            "message": ""
+        },
+        "Log Base b" : {
+            
+            "message": ""
+        },
+        "Logged Data on Device" : {
+            
+            "message": ""
+        },
+        "Low-pass Filter" : {
+            
+            "message": ""
+        },
+        "Main Content" : {
+            
+            "message": ""
+        },
+        "Manual" : {
+            
+            "message": "Ročno"
+        },
+        "Manual %s" : {
+            
+            "message": "Ročno %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Ročni vnos"
+        },
+        "Manual Fit" : {
+            
+            "message": ""
+        },
+        "Manual Scaling" : {
+            
+            "message": "Ročna skala"
+        },
+        "Manually" : {
+            
+            "message": "Ročno"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Datum proizvodnje"
+        },
+        "Mark" : {
+            
+            "message": ""
+        },
+        "Max" : {
+            
+            "message": "Maks"
+        },
+        "Maximize Application" : {
+            
+            "message": ""
+        },
+        "Mean" : {
+            
+            "message": "Pomen"
+        },
+        "Measurement" : {
+            
+            "message": "Merjenje"
+        },
+        "Medium" : {
+            
+            "message": ""
+        },
+        "Meter Actions" : {
+            
+            "message": ""
+        },
+        "Meter All Columns" : {
+            
+            "message": ""
+        },
+        "Meter Size" : {
+            
+            "message": ""
+        },
+        "Meter View Options" : {
+            
+            "message": ""
+        },
+        "Metered" : {
+            
+            "message": ""
+        },
+        "metering on all columns" : {
+            
+            "message": ""
+        },
+        "Meters" : {
+            
+            "message": "Metri"
+        },
+        "min" : {
+            
+            "message": "min"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "Minimize Application" : {
+            
+            "message": ""
+        },
+        "Mode" : {
+            
+            "message": "Način"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": ""
+        },
+        "Modulo" : {
+            
+            "message": ""
+        },
+        "Move Down" : {
+            
+            "message": ""
+        },
+        "Move Up" : {
+            
+            "message": ""
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Večje, enakomerno razporejene črtice na objektu se uporabljajo za določitev položaja, ko predmet prehaja skozi foto vrata. Prvi blokirani dogodek določa ničelni položaj. Naslednji blokirani dogodki povečajo položaj z vrednostjo razmika. Podatki o hitrosti in pospešku se izračunajo z uporabo prvega in drugega odvoda položaja glede na čas."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Večkratni, enakomerno razporejeni kraki na kolesu se uporabljajo za določitev kotnega položaja kolesa, ko se vrti. Prvi blokirani dogodek določa ničelni kot. Naslednji blokirani dogodki povečajo kot za 2π / n radianov, kjer je n število pik na kolesu. Podatki kotne hitrosti in pospeška se izračunajo z uporabo prvega in drugega odvoda kota glede na čas."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Množenje je lahko eksplicitno ali implicitno."
+        },
+        "Mute Audio" : {
+            
+            "message": "Izklopi zvok"
+        },
+        "My-File-Name" : {
+            
+            "message": "Moje-ime-datoteke"
+        },
+        "Name" : {
+            
+            "message": "Ime"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Ime ne sme presegati %s znakov"
+        },
+        "Natural Exponential" : {
+            
+            "message": ""
+        },
+        "Natural Log" : {
+            
+            "message": ""
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": ""
+        },
+        "Never" : {
+            
+            "message": ""
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Nove kalibracije se uporabljajo, dokler ne zaženete novega eksperimenta ali ne odprete datoteke."
+        },
+        "New Experiment" : {
+            
+            "message": "Novi eksperiment"
+        },
+        "Next After" : {
+            
+            "message": ""
+        },
+        "No Columns" : {
+            
+            "message": "Brez stolpcev"
+        },
+        "No Device Connected" : {
+            
+            "message": "Nobena naprava ni povezana"
+        },
+        "No device connected." : {
+            
+            "message": "Nobena naprava ni povezana."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Nobena naprava ni povezana"
+        },
+        "No expiration date" : {
+            
+            "message": "Brez datuma poteka"
+        },
+        "No sensor connected" : {
+            
+            "message": "Ni priključenih senzorjev"
+        },
+        "No Sensors Connected" : {
+            
+            "message": ""
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Ni zaznanih virov. Na napravah omogočite izmenjavo podatkov in naprave povežite v isto omrežje. Če težava ni odpravljena, izberite ročne nastavitve, da povežete naprave."
+        },
+        "Normal" : {
+            
+            "message": "Normalno"
+        },
+        "not" : {
+            
+            "message": ""
+        },
+        "Not Capable" : {
+            
+            "message": ""
+        },
+        "Note" : {
+            
+            "message": ""
+        },
+        "Notes" : {
+            
+            "message": "Opombe"
+        },
+        "Number list" : {
+            
+            "message": ""
+        },
+        "Number of flags" : {
+            
+            "message": "Število črtic"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": ""
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": ""
+        },
+        "Number of spokes" : {
+            
+            "message": "Število spokes"
+        },
+        "Numeric" : {
+            
+            "message": ""
+        },
+        "Object" : {
+            
+            "message": "Objekt"
+        },
+        "Object Width" : {
+            
+            "message": "Širina objekta"
+        },
+        "Offline" : {
+            
+            "message": "Offline"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "Ok" : {
+            
+            "message": ""
+        },
+        "On a triggering event" : {
+            
+            "message": "Na proženju dogodka"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "Na LabQuesu pritisnite Wi-Fi simbol"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Na Logger Proju pojdi File -> Data Sharing"
+        },
+        "One-point calibration" : {
+            
+            "message": "Enotočkovna kalibracija"
+        },
+        "Online Data Sharing" : {
+            
+            "message": ""
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Ventilator omogočite samo med zbiranjem podatkov"
+        },
+        "Open failed" : {
+            
+            "message": ""
+        },
+        "Open Saved File" : {
+            
+            "message": "Odpri shranjeno datoteko"
+        },
+        "Open Update Information" : {
+            
+            "message": ""
+        },
+        "Open..." : {
+            
+            "message": "Odpri..."
+        },
+        "or" : {
+            
+            "message": ""
+        },
+        "Order Code" : {
+            
+            "message": "Koda naročila"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Drugo / uporabniško določeno"
+        },
+        "Other Options" : {
+            
+            "message": "Druge opcije"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Drugo / uporabniško določeno: vnesite razmik in številko črtic, kot je prikazano zgoraj. Če je vaš predmet kolo, bi bila vrednost razmika kot obroč kolesa, deljeno s številom naper."
+        },
+        "Outlined Circle" : {
+            
+            "message": ""
+        },
+        "Outlined Diamond" : {
+            
+            "message": ""
+        },
+        "Outlined Plus" : {
+            
+            "message": ""
+        },
+        "Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Outlined Square" : {
+            
+            "message": ""
+        },
+        "Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Paragraph" : {
+            
+            "message": ""
+        },
+        "Parameter %s" : {
+            
+            "message": ""
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Parametrov ni mogoče ponoviti znotraj izraza."
+        },
+        "Paste" : {
+            
+            "message": "Prilepi"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Dejanje lepljenja v meniju za urejanje ni na voljo. Za lepljenje uporabite CTRL-V ali CMD-V."
+        },
+        "Pause replay" : {
+            
+            "message": "Začasno ustavi predvajanje"
+        },
+        "Pause Video" : {
+            
+            "message": ""
+        },
+        "Peak Frequency" : {
+            
+            "message": ""
+        },
+        "Pendulum Period" : {
+            
+            "message": "Perioda nihanja"
+        },
+        "Percentage" : {
+            
+            "message": ""
+        },
+        "Perform a" : {
+            
+            "message": "Izvedite"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Čas foto vrat"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Fotovrata lahko merijo čas predmetov, ki prehajajo med vrati ali poročajo o obdobju nihanja nihala. Čas med zaporednimi blokiranimi dogodki se pojavi kot intervalni čas. Ko uporabljate natanko dve vrsti, je treba oba vhoda blokirati, preden se sporoči vrednost."
+        },
+        "Picture in Picture" : {
+            
+            "message": ""
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Postavite senzor Go Direct v bližino računalnika, telefona ali tabličnega računalnika"
+        },
+        "Play replay" : {
+            
+            "message": "Predvajaj ponovitev"
+        },
+        "Play Video" : {
+            
+            "message": ""
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": ""
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Prosim vpišite IP naslov:"
+        },
+        "Plot" : {
+            
+            "message": ""
+        },
+        "Plot Manager" : {
+            
+            "message": "Upravitelj tiskanja"
+        },
+        "Plus" : {
+            
+            "message": ""
+        },
+        "point" : {
+            
+            "message": "točka"
+        },
+        "Point Colors" : {
+            
+            "message": "Barve točk"
+        },
+        "Point Symbols" : {
+            
+            "message": "Simboli točk"
+        },
+        "points" : {
+            
+            "message": "točke"
+        },
+        "Points" : {
+            
+            "message": "Točke"
+        },
+        "points before trigger" : {
+            
+            "message": "točke pred sprožitvijo"
+        },
+        "Power" : {
+            
+            "message": ""
+        },
+        "Prediction" : {
+            
+            "message": "Napoved"
+        },
+        "Prediction Name" : {
+            
+            "message": "Napoved ime"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Ime napovedi ima omejitev znakov v %s."
+        },
+        "Prediction Options" : {
+            
+            "message": "Opcije napovedi"
+        },
+        "Prediction Title" : {
+            
+            "message": "Naslov napovedi"
+        },
+        "Predictions" : {
+            
+            "message": "Napovedi"
+        },
+        "Preview mode" : {
+            
+            "message": ""
+        },
+        "Primary:" : {
+            
+            "message": "Primarno:"
+        },
+        "Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": ""
+        },
+        "Projectile Info" : {
+            
+            "message": ""
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Izstrelek projektilov"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Posredujte to kodo ID drugim, da se bodo lahko povezali z vašo napravo"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Bližina povezave"
+        },
+        "Pulse timing" : {
+            
+            "message": "Čas pulza"
+        },
+        "Quote" : {
+            
+            "message": ""
+        },
+        "radians" : {
+            
+            "message": "radiani"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radiani (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Ocena"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Meritev 200 vzorcev/s presega zahtevano trajanje."
+        },
+        "Reconnect" : {
+            
+            "message": "Ponovno povežite"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "Rectangle" : {
+            
+            "message": ""
+        },
+        "Regular" : {
+            
+            "message": "Redno"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Relativna stabilnost branja"
+        },
+        "Remainder" : {
+            
+            "message": ""
+        },
+        "Remote Logging" : {
+            
+            "message": ""
+        },
+        "Remote Logging in Process" : {
+            
+            "message": ""
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": ""
+        },
+        "Remote Logging Started" : {
+            
+            "message": ""
+        },
+        "Remote Logging Status" : {
+            
+            "message": ""
+        },
+        "Remove" : {
+            
+            "message": ""
+        },
+        "Remove Linear Trend" : {
+            
+            "message": ""
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": ""
+        },
+        "Rename" : {
+            
+            "message": "Preimenuj"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Preimenovanje nabora podatkov"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Preimenuj napoved"
+        },
+        "Replay" : {
+            
+            "message": ""
+        },
+        "Replay video sync info" : {
+            
+            "message": ""
+        },
+        "Reported Reading" : {
+            
+            "message": "Poročilo"
+        },
+        "Reset" : {
+            
+            "message": ""
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Ponastavi (nič) pri zbiranju"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Ponastavi na privzeto"
+        },
+        "Restart app" : {
+            
+            "message": "Ponovno zaženite aplikacijo"
+        },
+        "Restart Replay" : {
+            
+            "message": "Znova zaženite Replay"
+        },
+        "Restore All" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": ""
+        },
+        "Retry Calibration" : {
+            
+            "message": "Ponovite kalibracijo"
+        },
+        "Reverse" : {
+            
+            "message": "Obrni"
+        },
+        "revolution" : {
+            
+            "message": "revolucija"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Število vrtljajev (rev)"
+        },
+        "Right" : {
+            
+            "message": "Desno"
+        },
+        "Right Axis" : {
+            
+            "message": ""
+        },
+        "Right manual fit handle" : {
+            
+            "message": ""
+        },
+        "Right y-axis" : {
+            
+            "message": ""
+        },
+        "Right y-axis range" : {
+            
+            "message": "Desno območje y-osi"
+        },
+        "RMS" : {
+            
+            "message": ""
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": ""
+        },
+        "Row Number" : {
+            
+            "message": ""
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "vzorec"
+        },
+        "Sample Data" : {
+            
+            "message": "Vzorčenje podatkov"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Vzorčni poskusi"
+        },
+        "samples" : {
+            
+            "message": "vzorci"
+        },
+        "Samples" : {
+            
+            "message": "Vzorcev"
+        },
+        "samples per second" : {
+            
+            "message": ""
+        },
+        "samples scheduled" : {
+            
+            "message": ""
+        },
+        "Save" : {
+            
+            "message": "Shrani"
+        },
+        "Save AMBL" : {
+            
+            "message": "Shrani AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Shrani in zapri aplikacijo"
+        },
+        "Save As..." : {
+            
+            "message": "Shrani kot..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Ali shranim spremembe?"
+        },
+        "Save CSV" : {
+            
+            "message": "Shrani CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Shrani eksperiment"
+        },
+        "Save failed" : {
+            
+            "message": "Shranjevanje ni uspelo"
+        },
+        "Save PDF" : {
+            
+            "message": "Shrani PDF"
+        },
+        "Save Pending" : {
+            
+            "message": ""
+        },
+        "Save PNG" : {
+            
+            "message": "Shrani PNG"
+        },
+        "Saved" : {
+            
+            "message": "Shranjeno"
+        },
+        "Saving" : {
+            
+            "message": ""
+        },
+        "Scale Factor" : {
+            
+            "message": "Faktor skale"
+        },
+        "Scaling" : {
+            
+            "message": "Skaliranje"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Iščem naprave..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Vrednost napetosti druge točke kalibracije se mora razlikovati od prve vsaj za 0.05 V."
+        },
+        "Second Derivative" : {
+            
+            "message": ""
+        },
+        "Secondary:" : {
+            
+            "message": "Sekundarni:"
+        },
+        "seconds" : {
+            
+            "message": "sekund"
+        },
+        "See Experiments" : {
+            
+            "message": "Prikaz eksperimentov"
+        },
+        "See sample experiments" : {
+            
+            "message": ""
+        },
+        "Select Data Set" : {
+            
+            "message": "Izberite Nabor podatkov"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Izberite željene enote za kotni položaj."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": ""
+        },
+        "select/deselect meter" : {
+            
+            "message": ""
+        },
+        "Selected Events" : {
+            
+            "message": "Izbira dogodka"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Odziv senzorja"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Kanali senzorjev"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Zbiranje podatkov s senzorji"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Nastavitev senzorja"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Senzor Napetosti"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Senzor - nič"
+        },
+        "Sensors" : {
+            
+            "message": "Senzorji"
+        },
+        "Session 1 Name" : {
+            
+            "message": ""
+        },
+        "Session 2 Name" : {
+            
+            "message": ""
+        },
+        "Session 3 Name" : {
+            
+            "message": ""
+        },
+        "Session 4 Name" : {
+            
+            "message": ""
+        },
+        "Session ended by Host" : {
+            
+            "message": "Sejo je končal gostitelj"
+        },
+        "Session Preferences" : {
+            
+            "message": ""
+        },
+        "Settings saved" : {
+            
+            "message": "Nastavitve so shranjene"
+        },
+        "Share AMBL" : {
+            
+            "message": "Posreduj AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Delite preizkus z drugimi prek omrežne povezave"
+        },
+        "Share CSV" : {
+            
+            "message": "Deli CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Deli sliko"
+        },
+        "Share PDF" : {
+            
+            "message": "Deli PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Prikaži vse objave"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": ""
+        },
+        "Show Details" : {
+            
+            "message": ""
+        },
+        "Show Error Bars" : {
+            
+            "message": ""
+        },
+        "Show FFT" : {
+            
+            "message": ""
+        },
+        "Show Histogram" : {
+            
+            "message": ""
+        },
+        "Show Less" : {
+            
+            "message": "Pokaži manj"
+        },
+        "Show Menu" : {
+            
+            "message": ""
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Pokaži srednji čas skozi vrata"
+        },
+        "Show Original Graph" : {
+            
+            "message": ""
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": ""
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Significant Figures" : {
+            
+            "message": "Pomembne Figures"
+        },
+        "Sine" : {
+            
+            "message": ""
+        },
+        "Slope" : {
+            
+            "message": "Nagib"
+        },
+        "Small" : {
+            
+            "message": "Majno"
+        },
+        "Spacing" : {
+            
+            "message": "Presledek"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Spacing = Circumference / Number of Spokes"
+        },
+        "Specify source" : {
+            
+            "message": "Specificiraj vir"
+        },
+        "Spectrum" : {
+            
+            "message": "Spekter"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Hitrost skozi vrata"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": ""
+        },
+        "Spokes:" : {
+            
+            "message": "Križanja:"
+        },
+        "Square" : {
+            
+            "message": ""
+        },
+        "Square Root" : {
+            
+            "message": ""
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Začnite sejo za izmenjavo podatkov"
+        },
+        "Start a New Session" : {
+            
+            "message": "Začnite novo sejo"
+        },
+        "Start Collection" : {
+            
+            "message": "Start zbiranja"
+        },
+        "Start collection when" : {
+            
+            "message": "Začetek zbiranja ko"
+        },
+        "Start Logging" : {
+            
+            "message": ""
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Start novega eksperimenta?"
+        },
+        "Start Session" : {
+            
+            "message": "Začni sejo"
+        },
+        "Statistics" : {
+            
+            "message": "Statistika"
+        },
+        "Std dev" : {
+            
+            "message": "Std dev"
+        },
+        "Step Backward" : {
+            
+            "message": "Korak nazaj"
+        },
+        "Step Forward" : {
+            
+            "message": "Korak naprej"
+        },
+        "Step Video Backwards" : {
+            
+            "message": ""
+        },
+        "Step Video Forward" : {
+            
+            "message": ""
+        },
+        "Stop" : {
+            
+            "message": "Ustavi"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Prenehajte z dodajanjem kapljic, ko je prostornina med 9 mL in 10 mL."
+        },
+        "Stop Collection" : {
+            
+            "message": "Ustavi zbiranje"
+        },
+        "Stop Sharing" : {
+            
+            "message": ""
+        },
+        "Strikethrough" : {
+            
+            "message": ""
+        },
+        "Subject" : {
+            
+            "message": "Predmet"
+        },
+        "Submit" : {
+            
+            "message": "Submit"
+        },
+        "Subscript" : {
+            
+            "message": ""
+        },
+        "Subscription Ends" : {
+            
+            "message": ""
+        },
+        "Subscription ends" : {
+            
+            "message": ""
+        },
+        "Superscript" : {
+            
+            "message": ""
+        },
+        "Supported Functions" : {
+            
+            "message": "Podprte funkcije"
+        },
+        "Symbol" : {
+            
+            "message": ""
+        },
+        "Sync data with video" : {
+            
+            "message": "Sinhronizirajte podatke z videom"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Sinhronizirajte video s podatki"
+        },
+        "Syntax" : {
+            
+            "message": ""
+        },
+        "Table" : {
+            
+            "message": "Tabela"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Zajemati podatke iz senzorja (npr, pH, prevodnost) za vsako kapljico."
+        },
+        "Tangent" : {
+            
+            "message": "Tangenta"
+        },
+        "Target" : {
+            
+            "message": "Target"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Povezava Bluetooth je bila izgubljena"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Ime stolpca je obvezno"
+        },
+        "the current file" : {
+            
+            "message": "obstoječa datoteka"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Nabor podatkov se začne predvajati %s s pred videoposnetkom"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Izraz bo uporabljen kot ime krivulje, če ni izrecno vnesen."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Trenutna hitrost je povprečna hitrost projektila, ki poteka med dvemi postavljenimi vrati."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Hitrost je povprečna hitrost projektila, ko prehaja skozi prva vrata."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Širina objekta/črtic se deli s časom, ko so fotovrata blokirana (trajanje blokiranih vrat), da se določi hitrost predmeta skozi vrata."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": ""
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Čas med zaporednimi blokiranimi dogodki je predstavljen kot Interval."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "V izrazu ne sme biti več kot sedem parametrov."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": ""
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Za ta senzor je na voljo nova vdelana programska oprema, vendar posodobitve ni mogoče uporabiti. Če želite posodobiti ta senzor, ga povežite z napravo USB na napravi MacOS, Windows ali ChromeOS in zaženite Graphical Analysis . Pojdite na seznam Povezane naprave in sprožite posodobitev."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Za ta senzor je na voljo nova vdelana programska oprema. Postopek posodobitve zahteva, da se senzor poveže z USB-jem in da se aplikacija Graphical Analysis začasno ustavi. Priključite senzor z USB-jem, če je priključen brezžično."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Pri shranjevanju nastavitev je prišlo do težave"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Stolpec je ustvarjen avtomatsko in ne more biti spremenjen"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Tega brisanja ni mogoče razveljaviti."
+        },
+        "This feature requires a" : {
+            
+            "message": "Ta funkcija zahteva"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "To število določa del zavoja, ko se kotni položaj spremeni z vsakim blokiranim dogodkom."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Ta različica sistema Windows podpira samo povezavo USB s senzorji Go Direct."
+        },
+        "Time" : {
+            
+            "message": "Čas"
+        },
+        "Time Based" : {
+            
+            "message": "Časovna osnova"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": ""
+        },
+        "Time between gates" : {
+            
+            "message": "Čas med vrati"
+        },
+        "Time Decay Filter" : {
+            
+            "message": ""
+        },
+        "Time measurements" : {
+            
+            "message": "Merjenje časa"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Čas Flight Pad,"
+        },
+        "Time Units" : {
+            
+            "message": "Časovne enote"
+        },
+        "Timer" : {
+            
+            "message": "Časovnik"
+        },
+        "Timer Info" : {
+            
+            "message": ""
+        },
+        "Timer or Period" : {
+            
+            "message": "Perioda ali timer"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Nasvet: Za najboljše rezultate preverite, ali je želeni senzor edini znotraj 2 metrov od računalnika, telefona ali tabličnega računalnika."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Nasvet: Bližinska povezava temelji na ocenah razdalje. Če je v vašem okolju nezanesljivo, uporabite seznam povezav, da izberete senzor."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Nasvet: Na senzorjih je utripajoča rdeča luč, ki pomeni povezovanje."
+        },
+        "Title" : {
+            
+            "message": "Naslov"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": ""
+        },
+        "To locate the address:" : {
+            
+            "message": "Poiščite naslov:"
+        },
+        "to make the key available for use." : {
+            
+            "message": ""
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Če želite začeti sejo skupne rabe podatkov:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": ""
+        },
+        "Toggle Light Mode" : {
+            
+            "message": ""
+        },
+        "Too few points" : {
+            
+            "message": "Preveč točk"
+        },
+        "Toolbar" : {
+            
+            "message": ""
+        },
+        "Top" : {
+            
+            "message": "Zgoraj"
+        },
+        "Total samples" : {
+            
+            "message": "Skupaj vzorci"
+        },
+        "Triangle" : {
+            
+            "message": ""
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Trigonometrične funkcije se izračunajo v radianih, razen če ima stolpec, narisan na vodoravni osi, enote"
+        },
+        "Truncate" : {
+            
+            "message": ""
+        },
+        "Two-point calibration" : {
+            
+            "message": "Umerjanje v dveh točkah"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Škripec - v utoru"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Škripec - zunanji rob"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Ne more povezati ali najti vir s tem imenom."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Ne more povezati z "
+        },
+        "Units" : {
+            
+            "message": "Enote"
+        },
+        "Unknown" : {
+            
+            "message": ""
+        },
+        "Unknown License Key Error" : {
+            
+            "message": ""
+        },
+        "Unmute Audio" : {
+            
+            "message": "Vklopi zvok"
+        },
+        "Unsupported Browser" : {
+            
+            "message": ""
+        },
+        "Untitled" : {
+            
+            "message": "Brez naslova"
+        },
+        "Update Available" : {
+            
+            "message": "Posodobitev je na voljo"
+        },
+        "Update error" : {
+            
+            "message": "Napaka pri posodobitvi"
+        },
+        "Update Firmware" : {
+            
+            "message": "Nadgradnja programske opreme"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Posodobitev je prenešena..."
+        },
+        "Update your License Key" : {
+            
+            "message": ""
+        },
+        "USB" : {
+            
+            "message": ""
+        },
+        "USB Device" : {
+            
+            "message": "USB naprava"
+        },
+        "Use Column Value" : {
+            
+            "message": ""
+        },
+        "Use gate separation" : {
+            
+            "message": "Uporabite ločena vrata"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Uporabi širino objekta / črtice"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Uporabite premer projektila"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Uporaba znanstvenega zapisa"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": ""
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": ""
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "To možnost uporabite za raziskovanje hitrosti glede na čas. Omenjeni čas je sredinski čas med časom, ko so vrata blokirana in čas, ko se vrata odklenejo."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Uporabite čas leta"
+        },
+        "Use Windowing" : {
+            
+            "message": ""
+        },
+        "User Manual" : {
+            
+            "message": "Navodila"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Uporaba tovarniške kalibracije od"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": ""
+        },
+        "Value must be between " : {
+            
+            "message": "Vrednosti morajo biti med "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": ""
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernier Picket Fence"
+        },
+        "Version" : {
+            
+            "message": "Verzija"
+        },
+        "Vertical Divider" : {
+            
+            "message": ""
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Time" : {
+            
+            "message": "Čas videa"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Video se začne predvajati %s s pred predvajanjem nabora podatkov"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Video se bo začel predvajati hkrati s predvajanjem nabora podatkov"
+        },
+        "View Experiment" : {
+            
+            "message": "Poglej eksperiment"
+        },
+        "View Integral" : {
+            
+            "message": "Poglej Integral"
+        },
+        "View Options" : {
+            
+            "message": "Ogled možnosti"
+        },
+        "View Statistics" : {
+            
+            "message": "Pregled statistike"
+        },
+        "Voltage" : {
+            
+            "message": "Napetost"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": ""
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": ""
+        },
+        "What's New" : {
+            
+            "message": "Kaj je novega"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Ko je izbrano nihalo, se čas med vsakim drugim blokiranim dogodkom sporoči kot obdobje, saj nihalo blokira vrata trikrat, ko zaključi en sam nihaj."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Če uporabljate dvoje fotovrat, lahko za izračun hitrosti uporabite razdaljo med vrati namesto širine objekta / črtic. Navedena hitrost bi bila hitrost med vrati."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Za brezžično povezavo so zahtevani Windows 10."
+        },
+        "Wireless" : {
+            
+            "message": ""
+        },
+        "Working..." : {
+            
+            "message": "Delam..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x-os razpon"
+        },
+        "x-range" : {
+            
+            "message": "x-območje"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-os razpon"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": ""
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": ""
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": ""
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": ""
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": ""
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": ""
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Vaš gostitelj za izmenjavo podatkov začenja nov eksperiment. Lahko nadaljujete z eksperimentom ali pa se pridružite novemu eksperimentu."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": ""
+        },
+        "Zero" : {
+            
+            "message": "Nič"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Povečaj vse podatke"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Povečaj na izbiro"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-os ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-os ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": ""
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g senzor pospeška"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3-osni senzor pospeška (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3-osni senzor pospeška (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3-osni senzor pospeška (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "Napetost (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbanca"
+        },
+        "Acceleration" : {
+            
+            "message": "Pospešek"
+        },
+        "Accelerometer" : {
+            
+            "message": "Merilnik pospeška"
+        },
+        "Ammonium" : {
+            
+            "message": "Amonijak"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Amonijak ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "Analizator"
+        },
+        "Anemometer" : {
+            
+            "message": "Anemometer"
+        },
+        "Angle" : {
+            
+            "message": "Kot"
+        },
+        "Barometer" : {
+            
+            "message": "Barometer"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometer (se več ne prodaja)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Biologija Tlak plina"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Krvni tlak"
+        },
+        "Calcium" : {
+            
+            "message": "Kalcij"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Kalcij ISE"
+        },
+        "Charge" : {
+            
+            "message": "Naboj"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Senzor naboja"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Senzor naboja 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Senzor naboja 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Senzor naboja 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Klorid"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Klorid ISE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Plin Visok"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Plin Nizek"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 senzor stari"
+        },
+        "Colorimeter" : {
+            
+            "message": "Kolorimeter"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Kolorimeter stari"
+        },
+        "Concentration" : {
+            
+            "message": ""
+        },
+        "Conductivity" : {
+            
+            "message": "Prevodnost"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Prevodnost 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Prevodnost 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Prevodnost 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Tokovna konstanta sistema"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Udarni tlak"
+        },
+        "Current" : {
+            
+            "message": "Tok"
+        },
+        "Current Probe" : {
+            
+            "message": "Senzor toka"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Senzor toka 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastoličen"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Diferencial napetosti"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Digitalna kontrolna enota"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Direktna Temperaturna sonda"
+        },
+        "Displacement" : {
+            
+            "message": "Razdalja"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Raztopljeni CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Razstopljen kisik"
+        },
+        "Distance" : {
+            
+            "message": "Razdalja"
+        },
+        "DO" : {
+            
+            "message": "DO"
+        },
+        "Drop Counter" : {
+            
+            "message": "Števec kapljic"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Silomer 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Silomer 50 N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": ""
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Ojačevalnik elektrod"
+        },
+        "Energy" : {
+            
+            "message": "Energija"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Energy Sensor Tok"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Energy Sensor Napetost"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanol"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Etanol senzor"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Dolga temperaturna sonda"
+        },
+        "Flow Rate" : {
+            
+            "message": "Merjenje pretoka"
+        },
+        "Fluorescence" : {
+            
+            "message": ""
+        },
+        "Force" : {
+            
+            "message": "Sila"
+        },
+        "Force Plate" : {
+            
+            "message": "Silomer plošča"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Silomer plošča 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Silomer plošča 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Senzor tlak v plinu"
+        },
+        "Gate State" : {
+            
+            "message": "Stanje vrat"
+        },
+        "Gate Time" : {
+            
+            "message": ""
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Pojdi na  brezžični elektrodni ojačevalnik"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Pojdi na brezžični Srčni utrip"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Pojdi na brezžični pH"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Temp"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniometer"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Ročni dinamometer"
+        },
+        "Heart Rate" : {
+            
+            "message": "Srčni utrip"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Srčni utrip - monitor"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Visoko tokovni senzor"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Visoka svetlobna občutljivost 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Visoka svetlobna občutljivost 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Visoka svetlobna občutljivost 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Osvetlitev"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Ojačevalnik"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Ojačevalnik +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Ojačevalnik +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Ojačevalnik +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Ojačevalnik 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Ojačevalnik 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Ojačevalnik 20mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intenziteta"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "IR Temperaturni senzor"
+        },
+        "Irradiance" : {
+            
+            "message": "Iradianca"
+        },
+        "Launch Speed" : {
+            
+            "message": "Začetna hitrost"
+        },
+        "Light" : {
+            
+            "message": "Osvetljenost"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Osvetljenost 150000 lx"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Osvetljenost 600 lx"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Osvetljenost 6000 lx"
+        },
+        "Light Level" : {
+            
+            "message": "Jakost osvetlitve"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Senzor linearne pozicije"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Senzor majhnih pospeškov"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Magnetno polje"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Magnetno polje 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Magnetno polje 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Srednji arterijski tlak"
+        },
+        "Melt Station" : {
+            
+            "message": "Točka tališča"
+        },
+        "Microphone" : {
+            
+            "message": "Mikrofon"
+        },
+        "mol/L" : {
+            
+            "message": ""
+        },
+        "Motion" : {
+            
+            "message": "Gibanje"
+        },
+        "Motion Detector" : {
+            
+            "message": "Detektor gibanja"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Motion Encoder Cart"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitrati"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitrati ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Optična DO Probe %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Optična DO Probe mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Kisik Plin"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Oxygen Gas stari"
+        },
+        "PAR Sensor" : {
+            
+            "message": "PAR Senzor"
+        },
+        "Period" : {
+            
+            "message": ""
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP Ojačevalniki"
+        },
+        "Photogate" : {
+            
+            "message": "Svetlobna vrata"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Platinasta-celica Prevodnost"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimeter"
+        },
+        "Position" : {
+            
+            "message": "Pozicija"
+        },
+        "Potassium" : {
+            
+            "message": "Kalij"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Kalij ISE"
+        },
+        "Potential" : {
+            
+            "message": "Potencial"
+        },
+        "Power" : {
+            
+            "message": "Potenca"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Jakost Amp toka"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Tlak"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Senzor tlaka (se ne prodaja)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Senzor tlaka 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Izstrelek"
+        },
+        "Pulse" : {
+            
+            "message": "Utrip"
+        },
+        "Pulse Time" : {
+            
+            "message": "Čas utipa"
+        },
+        "Pyranometer" : {
+            
+            "message": "Piranometer"
+        },
+        "Radiation" : {
+            
+            "message": "Radiacija"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Monitor radiacije"
+        },
+        "Raw" : {
+            
+            "message": ""
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Napetost RAW (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Relativna vlažnost"
+        },
+        "Resistance" : {
+            
+            "message": "Upornost"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Respirator Monitor"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Respiration Rate"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Krožno gibanje"
+        },
+        "Salinity" : {
+            
+            "message": "Slanost"
+        },
+        "Signal" : {
+            
+            "message": "Signal"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Vlažnost zemlje"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Senzor Vlažnost zemlje"
+        },
+        "Sound Level" : {
+            
+            "message": "Jakost zvoka"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Senzor Jakost zvoka"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Zvočni tlak"
+        },
+        "Speed" : {
+            
+            "message": "Hitrost"
+        },
+        "Spirometer" : {
+            
+            "message": "Spiromter"
+        },
+        "Standard" : {
+            
+            "message": ""
+        },
+        "Standard Temperature" : {
+            
+            "message": "Standardna Temperatura"
+        },
+        "Student Force" : {
+            
+            "message": "Student Force"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Student Radiation Monitor"
+        },
+        "Systolic" : {
+            
+            "message": "Sistoličen"
+        },
+        "Temperature" : {
+            
+            "message": "temperatura"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Temperaturna sonda"
+        },
+        "Thermocouple" : {
+            
+            "message": "Termočlen"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Termočlen stari"
+        },
+        "TI Light" : {
+            
+            "message": "TI Svetloba"
+        },
+        "Time of Flight" : {
+            
+            "message": ""
+        },
+        "Transmittance" : {
+            
+            "message": "Prepustnost"
+        },
+        "Turbidity" : {
+            
+            "message": "Motnost"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA Intenziteta"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVA Senzor"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB Intenziteta"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVB Senzor"
+        },
+        "Velocity" : {
+            
+            "message": "Hitrost"
+        },
+        "Voltage" : {
+            
+            "message": "Napetost"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Napetost (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Jakost"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT razdalja"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT Sila"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Temperaturna sonda s širokim temp. območjem"
+        },
+        "X Acceleration" : {
+            
+            "message": "X Pospešek"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y Pospešek"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z Pospešek"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": ""
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": ""
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Absolutna vlažnost"
+        },
+        "Acceleration G" : {
+            
+            "message": "Pospešek G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Vektor pospeška"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Pospešek Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Prilagojena glasnost"
+        },
+        "Altitude" : {
+            
+            "message": "Nadmorska višina"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Nadmorska višina enotočkovna kalibracija"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplituda"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Kot (visoka resolucija)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Krožno gibanje"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Samodejno na vrednost nič na začetku"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Način pomožnih vrat"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE Trenutni obseg"
+        },
+        "BE Duration" : {
+            
+            "message": "BE Trajanje"
+        },
+        "BE Potential" : {
+            
+            "message": "BE Potencial"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE Hitrost vzorčenja"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Barometerski tlak"
+        },
+        "Battery Level" : {
+            
+            "message": "Raven baterije"
+        },
+        "Battery Percent" : {
+            
+            "message": "Odstotek baterije"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Napetost baterije"
+        },
+        "Blank calibration" : {
+            
+            "message": "Prazna kalibracija"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Mostična napetost"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ ekvivalent"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ Plin"
+        },
+        "CVS Current Range" : {
+            
+            "message": "Trenutni obseg CVS"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS končni potencial"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS Začetni potencial"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS Število zank"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS Število segmentov"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS hitrost čiščenja"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS Preklopni potencial 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS Preklopni potencial 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Koeficient kalibracije"
+        },
+        "Calibration power" : {
+            
+            "message": "Moč umerjanja"
+        },
+        "Cap number" : {
+            
+            "message": "Cap število"
+        },
+        "Cell" : {
+            
+            "message": "Celica"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Stanična konstanta (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Stanična konstanta (aktivna)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Koeficient-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Koeficient-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Koeficient-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Prevodnost - 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": ""
+        },
+        "Counts" : {
+            
+            "message": "Števci"
+        },
+        "Current pressure" : {
+            
+            "message": "Trenutni tlak"
+        },
+        "Current state" : {
+            
+            "message": "Trenutno stanje"
+        },
+        "Current temperature" : {
+            
+            "message": "Trenutna temperatura"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Frekvenca-odrezana"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Prostornina cikla"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Vir prostornine cikla"
+        },
+        "DAC value" : {
+            
+            "message": "Vrednost DAC"
+        },
+        "DO Concentration" : {
+            
+            "message": "DO koncentracija"
+        },
+        "DO Salinity" : {
+            
+            "message": "DO slanost"
+        },
+        "DO Saturation" : {
+            
+            "message": "DO nasičenost"
+        },
+        "Data source" : {
+            
+            "message": "Vir podatkov"
+        },
+        "Declination" : {
+            
+            "message": "Deklinacija"
+        },
+        "Dew Point" : {
+            
+            "message": "Točka rosišča"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Diastolični koeficient"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Diferenčni tlak"
+        },
+        "Drops" : {
+            
+            "message": "Kapljice"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG popravljeno"
+        },
+        "Electrode Current" : {
+            
+            "message": "Elektrodni tok"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Elektrodna napetost"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Čistost elektrode"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Vnesi 0% f vrednost pretoka"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Vnesi 100% fprednost pretoka"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Vnesi 50% fvrednost pretoka"
+        },
+        "Enter altitude" : {
+            
+            "message": "Vnesite nadmorsko višino"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Vnesite barometrski tlak"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Vstavi obstoječo temperaturo"
+        },
+        "Enter first known value" : {
+            
+            "message": "Vnesi prvo znano vrednost"
+        },
+        "Enter k value" : {
+            
+            "message": "Vnesite k vrednost"
+        },
+        "Enter known value" : {
+            
+            "message": "Vnesi znano vrednost"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Vnesite multiplikacijske vrednosti"
+        },
+        "Enter n value" : {
+            
+            "message": "Vnesite n vrednost"
+        },
+        "Enter offset value" : {
+            
+            "message": "Vnesite vrednost izravnave"
+        },
+        "Enter power value" : {
+            
+            "message": "Vnesite vrednost moči"
+        },
+        "Enter second known value" : {
+            
+            "message": "Vnesi drugo znano vrednost"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Vnesite nadmorsko višino postaje"
+        },
+        "Enter third known value" : {
+            
+            "message": "Vnesi tretjo znano vrednost"
+        },
+        "Envelope" : {
+            
+            "message": "Ovojnica"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Envelope povprečje"
+        },
+        "Error" : {
+            
+            "message": "Napaka"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Etanol plin"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Etanol plin z HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Etanol Ticks"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Ethanol Vapor"
+        },
+        "Experiment Type" : {
+            
+            "message": "Vrsta preizkusa"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Vrh ekspiratorne konice"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "Fan" : {
+            
+            "message": "Fen"
+        },
+        "Fan Mode" : {
+            
+            "message": "Fan način"
+        },
+        "Final hold time" : {
+            
+            "message": "Končni čas zadrževanja"
+        },
+        "Final temperature" : {
+            
+            "message": "Končna temperatura"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Kalibracija v petih točkah"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Filter pretoka"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Vhodna polarnost pretoka"
+        },
+        "Force G" : {
+            
+            "message": "Sila G"
+        },
+        "Force Y" : {
+            
+            "message": "Sila Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Sila eno-točkovna kalibracija"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Sila dvo-točkovna kalibracija"
+        },
+        "Forward" : {
+            
+            "message": "Naprej"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Vrata 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Vrata 1 - Stanje vrat"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Vrata 2 Stanje"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Vrata 1/Upravljanje vrat - čas"
+        },
+        "Gate 2" : {
+            
+            "message": "Vrata 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Vrata 2 - stanje vrat"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Vrata 2 Stanje"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-osni magnetni senzor"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® Pospešek"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® Krvni tlak"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ Plin"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® Kolorimeter"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® Prevodnost"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Konstantni tokovni sistem"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® Tokovna sonda"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® Cyclic Voltammetry System"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® Števec kapljic"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® Ojačevalnik za elektrode"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® Energija"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Go Direct® Ethanol senzor"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Go Direct® Ethanol Vapor"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Senzor sile in pospeška"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® Gas Chromatograph"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Senzor tlaka plina"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® ročni dinamometer"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® Ionske -selektivne elektrode ojačevalnik"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® Senzor svetlobe in barv"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® Talillna postaja"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® Gibanje"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optical raztopljen kisik"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ plin"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® Fotovrata"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Platinum-Cell Conductivity"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct® Polarimeter"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® Projectile Launcher"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct® Pulse Oximeter"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® Monitor radiacije"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® Pas za respiracijo"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® Krožno gibanje"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Sensor Cart (Green)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Sensor Cart (Yellow)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® Zvok"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® Spirometer"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Structures & Materials Tester"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® Površinska temperatura"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® Temperaturna sonda"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Thermocouple Amplifier"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® Napetostna sonda"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® Weather"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® Temperaturna sonda široka"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Wide-Range Pressure"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct™ 3-osni senzor magnetnega polja"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct™ Pospešek"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct™ Krvni tlak"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ CO₂ Plin"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct™ Kolorimeter"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct™ Sonda prevodnosti"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct™ Konstantni tokovni sistem"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct™ Tokovna sonda"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ Cyclic Voltammetry System"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct™ Števec kapljic"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct™ EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Ojačevalnik za elektrode"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct™ Energija"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Go Direct™ Ethanol senzor"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Go Direct™ Ethanol Vapor"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct™ senzor sile in pospeška"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ Gas Chromatograph"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct™ senzor tlak plina"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct™ ročni dinamometer"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Ojačevalnik Ionsko selektivnih elektrod"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct™ Svetlobni in barvni senzor"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct™ Talilna postaja"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct™ Motion"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct™ Optical Raztopljen kisik"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ O₂ Plin"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ Fotovrata"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Platinum-Cell Conductivity"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™ Polarimeter"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct™ Projektil Launcher"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™ Pulse Oximeter"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct™ Monitor radiacije"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct™ Pas respiracije"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct™ Krožno gibanje"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct™ Sensor Cart (Green)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct™ Sensor Cart (Rumen)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct™ Zvok"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ Spirometer"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ Structures & Materials Tester"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct™ Površinska temperatura"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct™ Temperaturna sonda"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ Thermocouple Amplifier"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct™ Napetostna sonda"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ Weather"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct™ Temperaturna sonda široka"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™ Wide-Range Pressure"
+        },
+        "Heat Index" : {
+            
+            "message": "Toplotni indeks"
+        },
+        "Hold time" : {
+            
+            "message": "Čas zadrževanja"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Vodikov Ticks"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "Iluminanca"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Raw osvetlitev"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Frekvenca rotorja"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Inspiratorna končna jakost"
+        },
+        "Instrument status" : {
+            
+            "message": "Stanje instrumenta"
+        },
+        "Internal Current" : {
+            
+            "message": "Notranji tok"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Notranja napetost"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED diagnoza"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED magnituda"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Laser Vrata - stanje vrat"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Laser Vrata Stanje"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Laser vrata/upravljanje vrat - čas"
+        },
+        "Launch Angle" : {
+            
+            "message": "Začetni kot"
+        },
+        "Linear Motion" : {
+            
+            "message": "Premo enakomerno gibanje"
+        },
+        "Load cell gain" : {
+            
+            "message": "Load cell gain"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Mikrofon=NASTAVLJEN"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Mikrofon-FIXED A teža"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Mikrofon-FIXED C teža"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Gibanje (cart)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Pospešek gibanja"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Hitrost gibanja"
+        },
+        "Motion with TC" : {
+            
+            "message": "Gibanje s TC"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "Ne"
+        },
+        "No smoothing" : {
+            
+            "message": ""
+        },
+        "Normalized Response" : {
+            
+            "message": "Normalizirani odziv"
+        },
+        "Not ready" : {
+            
+            "message": "Ni pripravljeno"
+        },
+        "OCP Duration" : {
+            
+            "message": "Trajanje OCP"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "Hitrost vzorčenja OCP"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Pospešek objekta (multiple flags)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Pospešek objekta (single flags)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Hitrost objekta"
+        },
+        "Off" : {
+            
+            "message": "Izklop"
+        },
+        "One-point calibration" : {
+            
+            "message": "Eno-točkovna umeritev"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Optično vrtenje"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Opombe o oscilaciji"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Oscilacije max"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Oscilacije min"
+        },
+        "Oscillations" : {
+            
+            "message": "Oscilacije"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Plin"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": ""
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Plin rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": ""
+        },
+        "PPFD - CF" : {
+            
+            "message": ""
+        },
+        "PPFD Correction" : {
+            
+            "message": ""
+        },
+        "PYR two-point calibration" : {
+            
+            "message": ""
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Področje Peak"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Perioda nihala"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Hitrost nihala"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Glavna različica vdelane programske opreme Pine"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Pine firmware manjša različica"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Revizija vdelane programske opreme Pine"
+        },
+        "Position Direction" : {
+            
+            "message": "Pozicija smeri"
+        },
+        "Position G" : {
+            
+            "message": "Pozicija G"
+        },
+        "Position Y" : {
+            
+            "message": "Pozicija Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Vklop Kalibracija v treh točkah"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Tlak pulza"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Srčni utrip"
+        },
+        "Ramp rate" : {
+            
+            "message": "Ramp rate"
+        },
+        "Raw Diastolic" : {
+            
+            "message": ""
+        },
+        "Raw MAP" : {
+            
+            "message": ""
+        },
+        "Raw Pressure" : {
+            
+            "message": ""
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": ""
+        },
+        "Raw Systolic" : {
+            
+            "message": ""
+        },
+        "Raw Temperature" : {
+            
+            "message": "Raw temperatura"
+        },
+        "Ready" : {
+            
+            "message": "Pripravljen"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Upravljanje pospeška"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Upravljanje vrat - Pospešek objekta"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Upravljanje vrat - Pospešek objekta (single flag)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Upravljanje vrat - Hitrost objekta"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Upravljanje vrat 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Upravljanje vrat 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Upravljanje hitrosti"
+        },
+        "Reverse" : {
+            
+            "message": "Nazaj"
+        },
+        "Salinity correction" : {
+            
+            "message": "Korekcija slanosti"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Jakost zvokal A-weighted"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Jakost zvoka C-weighted"
+        },
+        "Start temperature" : {
+            
+            "message": "Začetna temperatura"
+        },
+        "Station Pressure" : {
+            
+            "message": "Tlak postaje"
+        },
+        "Step Rate" : {
+            
+            "message": "Step Rate"
+        },
+        "Steps" : {
+            
+            "message": "Koraki"
+        },
+        "Switch USB" : {
+            
+            "message": "Stikalo USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Sistolični koeficient"
+        },
+        "Temperature correction" : {
+            
+            "message": "Korekcija temperature"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Tri-točkovno umerjanje"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Čas letenja Pad"
+        },
+        "Timing" : {
+            
+            "message": "Čas"
+        },
+        "Total VOC" : {
+            
+            "message": "Skupni VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Dvo-točkovno umerjanje"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Tip J Thermocouple"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Tip K Thermocouple"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Tip T Thermocouple"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": ""
+        },
+        "UV Index" : {
+            
+            "message": "UV Indeks"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV Intenziteta"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": ""
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Vektorski razpon max"
+        },
+        "Vector range Min" : {
+            
+            "message": "Vektorski razpon min"
+        },
+        "Velocity G" : {
+            
+            "message": "Hitrost G"
+        },
+        "Velocity Y" : {
+            
+            "message": "Hitrost Y"
+        },
+        "Velocity2" : {
+            
+            "message": "Hitrost2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Napetost - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Napetost - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Jakost korekcijskega faktorja"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Prostornina inspiracijske polarnosti"
+        },
+        "W/m²" : {
+            
+            "message": ""
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Amplituda vala"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Frekvenca vala"
+        },
+        "Wind Chill" : {
+            
+            "message": "Veter hladen"
+        },
+        "Wind Direction" : {
+            
+            "message": "Smer vetra"
+        },
+        "Wind Speed" : {
+            
+            "message": "Hitrost vetra"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Umerjanje smeri vetra"
+        },
+        "X magnetic field" : {
+            
+            "message": "X magnetno polje"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X magnetno polje 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-kotna hitrost"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X-os pospešek"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-os pospešek G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-os pospešek Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-os pospešek eno-točkovna kalibracija"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-os pospešek-visok"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-os pospešek visok eno-točkovna kalibracija"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X-os kotna hitrost"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "X-os Kotna hitrost G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "X-os Kotna hitrost Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X-os žiro"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y magnetno polje"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y magnetno polje130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-kotna hitrost"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y-os pospešek"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-os pospešek G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-os pospešek Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y-os pospešek eno-točkovna kalibracija"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y-os pospešek-visok"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y-os pospešek-visok eno-točkovna kalibracija"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y-os kotna hitrost"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y-os Kotna hitrost G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y-os Kotna hitrost Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y-os žiro"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z magnetno polje"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z magnetno polje 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-kotna hitrost"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z-os pospešek"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-os pospešek G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-os pospešek Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z-os pospešek eno-točkovna kalibracija"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z-os pospešek-visok"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z-os pospešek-visok eno-točkovna kalibracija"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z-os kotna hitrost"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z-os Kotna hitrost G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z-os Kotna hitrost Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z-os žiro"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "bpm"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "štetje"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "in"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "knots"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": ""
+        },
+        "pC" : {
+            
+            "message": ""
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "raw napetost"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "rev"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "korakov"
+        },
+        "torr" : {
+            
+            "message": "tor"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": ""
+        },
+        "units/s" : {
+            
+            "message": "enote/s"
+        },
+        "units/s²" : {
+            
+            "message": "enote/s²"
+        },
+        "velocity2" : {
+            
+            "message": "hitrost2"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": ""
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Cosinus"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Cosinus kvadrat"
+        },
+        "Inverse" : {
+            
+            "message": "Inverzno"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Inverzno s kvadratom"
+        },
+        "Linear" : {
+            
+            "message": "Linearno"
+        },
+        "Modified Power" : {
+            
+            "message": "Spremenjena Moč"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Naravni eksponent"
+        },
+        "Natural Log" : {
+            
+            "message": "Naravni logaritem"
+        },
+        "Not defined" : {
+            
+            "message": "Ni določeno"
+        },
+        "Power" : {
+            
+            "message": "Potenca"
+        },
+        "Proportional" : {
+            
+            "message": "Proporcionalno"
+        },
+        "Quadratic" : {
+            
+            "message": "Kvadratna"
+        },
+        "Sine" : {
+            
+            "message": "Sinus"
+        },
+        "Slope" : {
+            
+            "message": "Matematično"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Izraz po meri"
+        }
+        
+    }
+}

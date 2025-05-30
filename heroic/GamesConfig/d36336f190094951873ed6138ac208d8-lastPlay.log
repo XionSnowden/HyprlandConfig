@@ -1,0 +1,64 @@
+Launching "Sifu" (legendary)
+Native? No
+Installed in: /home/xion/Games/Heroic/Sifu
+
+System Info:
+CPU: 8x 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+Memory: 16.12 GB (used: 4.34 GB)
+GPUs:
+  GPU 0:
+    Name: Intel Corporation TigerLake-LP GT2 [Iris Xe Graphics]
+    IDs: D=9a49 V=8086 SD=0a20 SV=1028
+    Driver: i915
+OS: Arch Linux 6.14.7-arch2-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.16.1 Scopper Gaban
+  Legendary: 0.20.36 Urban Flight (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallDxvkNvapi": true,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"enableEsync": true,
+	"enableMsync": false,
+	"enableFsync": true,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"savesPath": "",
+	"showFps": false,
+	"useGameMode": false,
+	"battlEyeRuntime": false,
+	"eacRuntime": false,
+	"language": "",
+	"beforeLaunchScriptPath": "",
+	"afterLaunchScriptPath": "",
+	"verboseLogs": false,
+	"wineVersion": {
+		"bin": "/usr/share/steam/compatibilitytools.d/proton-ge-custom/proton",
+		"name": "Proton - proton-ge-custom",
+		"type": "proton"
+	},
+	"winePrefix": "/home/xion/Games/Heroic/Prefixes/default/Sifu",
+	"wineCrossoverBottle": ""
+}
+
+Game launched at: Thu May 29 2025 19:14:04 GMT-0400 (Eastern Daylight Time)
+
+Winetricks packages: 
+
+Launch Command: HEROIC_APP_NAME=d36336f190094951873ed6138ac208d8 HEROIC_APP_RUNNER=legendary GAMEID=umu-0 HEROIC_APP_SOURCE=epic STORE=egs STEAM_COMPAT_INSTALL_PATH=/home/xion/Games/Heroic/Sifu LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/xion/.steam/steam WINEPREFIX=/home/xion/Games/Heroic/Prefixes/default/Sifu STEAM_COMPAT_DATA_PATH=/home/xion/Games/Heroic/Prefixes/default/Sifu PROTONPATH=/usr/share/steam/compatibilitytools.d/proton-ge-custom WINE_FULLSCREEN_FSR=0 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Sifu PROTON_LOG_DIR=/home/xion /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary launch d36336f190094951873ed6138ac208d8 --no-wine --wrapper " "/usr/share/steam/compatibilitytools.d/proton-ge-custom/proton" waitforexitandrun" --language en
+
+Game Log:
+IMPORTANT: Logs are disabled.
+Enable verbose logs in Game's settings > Advanced tab > 'Enable verbose logs' before reporting an issue.
+
+============= End of log =============

@@ -1,0 +1,51 @@
+(19:18:58) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(19:18:58) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(19:18:58) INFO:    [Connection]:       Connectivity: check-online
+(19:18:58) INFO:    [Connection]:       Pinging external endpoints
+(19:18:58) INFO:    [Gog]:              Checking for existing gog manifests
+(19:18:58) WARNING: [Backend]:          Protocol already registered.
+(19:18:58) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/xion/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(19:18:58) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/xion/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/xion/.config/heroic/gog_store/auth.json --version
+(19:18:58) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/xion/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(19:18:58) INFO:    [Connection]:       Connectivity: online
+(19:18:58) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(19:18:58) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/xion/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/xion/.config/heroic/gog_store/auth.json auth
+(19:18:58) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(19:18:59) INFO:    [Backend]:          
+System Information:
+CPU: 8x 11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz
+Memory: 16.12 GB (used: 4.51 GB)
+GPUs:
+  GPU 0:
+    Name: Intel Corporation TigerLake-LP GT2 [Iris Xe Graphics]
+    IDs: D=9a49 V=8086 SD=0a20 SV=1028
+    Driver: i915
+OS: Arch Linux 6.14.7-arch2-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.16.1 Scopper Gaban
+  Legendary: 0.20.36 Urban Flight (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(19:18:59) INFO:    [Frontend]:         Refreshing undefined Library
+(19:18:59) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(19:18:59) INFO:    [Legendary]:        Refreshing library...
+(19:18:59) INFO:    [Legendary]:        Refreshing Epic Games...
+(19:18:59) INFO:    [Backend]:          Frontend Ready
+(19:18:59) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/xion/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(19:18:59) INFO:    [Backend]:          Checking for new Heroic Updates
+(19:18:59) INFO:    [Backend]:          Checking for current version changelog
+(19:18:59) INFO:    [Legendary]:        Game list updated, got 23 games & DLCs
+(19:18:59) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(19:18:59) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/xion/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(19:19:00) INFO:    [Legendary]:        Found 0 games to update
+(19:19:01) INFO:    [Winetricks]:       Downloading Winetricks
+(19:19:03) INFO:    [WineDownloader]:   Updating wine versions info
+(19:19:03) INFO:    [WineDownloader]:   Fetching upstream information...
+(19:19:04) INFO:    [WineDownloader]:   wine versions updated
+(19:19:04) INFO:    [Backend]:          Starting the Download Queue

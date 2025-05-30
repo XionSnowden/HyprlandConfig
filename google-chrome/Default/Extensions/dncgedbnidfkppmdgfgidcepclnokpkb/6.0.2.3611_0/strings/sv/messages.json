@@ -1,0 +1,6474 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d klienter är anslutna"
+        },
+        "%s All" : {
+            
+            "message": "%s alla"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s alla datauppsättningar"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s visningsval"
+        },
+        "%s details" : {
+            
+            "message": "%s detaljer"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s samlar in data för närvarande. Vill du avbryta och påbörja ett nytt experiment?"
+        },
+        "%s Options" : {
+            
+            "message": "%sAlternativ"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(avstånd, hastighet, acceleration)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 graf"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "Derivata"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "Tidsförskjuten derivata"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "Derivata(Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 Graf"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 grafer"
+        },
+        "2nd derivative" : {
+            
+            "message": "Andraderivata"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "Tidsförskjuten andraderivata"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "Andraderivata(Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 Graf"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 grafer"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Kommunikationsfel. Starta ett nytt experiment för att fortsätta."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Datainsamlingen avbröts på grund av ett kommunikationsfel. Försök igen."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B, C är parametrar. X, Y, Z är existerande kolumner i tabellen."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Om"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "Om egendefinierade kurvanpassningar"
+        },
+        "Absolute Value" : {
+            
+            "message": "Absolutvärde"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "acceptera användarvillkoren och sekretessmeddelandet"
+        },
+        "Accessories" : {
+            
+            "message": "Tillbehör"
+        },
+        "across" : {
+            
+            "message": "över"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Aktivera ytterligare funktioner med din licensnyckel"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "Aktivera för att lägga till manuell passning"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Aktivera applicering av FFT"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Aktivera för att använda histogram"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Aktivera för att återställa överstrukna rader"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Aktivera för att visa osäkerhet hos passningsparametrar"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Aktivera för att genomstryka rader"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Aktivera för att växla genomstrykning"
+        },
+        "Activate to use %s" : {
+            
+            "message": "Aktivera användning av %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Aktivera användning av stapeldiagram"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "Aktivera för att använda Anteckningar"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Aktivera användning av nätdatadelning"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Aktivera användning av video"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Lägg till en beräknad kolumn"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Ange grafrubrik här"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Lägg till en manuell kolumn"
+        },
+        "Add Annotation" : {
+            
+            "message": "Lägg till annotering"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Lägg till beräknad kolumn"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Tillsätt destillerat vatten till toppen av svampen i flaskan."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Lägg till matchningsgraf"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Lägg till manuell kolumn"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "Lägg till manuell passning"
+        },
+        "add meters" : {
+            
+            "message": "lägg till mätare"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Lägg till ny datauppsättning"
+        },
+        "Add Prediction" : {
+            
+            "message": "Lägg till prognos"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Lägg till virtuell givare"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Tillsätt titratorn droppvis genom droppräknaren i ett 10 ml mätglas."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Lägg till/ta bort mätare"
+        },
+        "Advanced" : {
+            
+            "message": "Avancerat"
+        },
+        "After" : {
+            
+            "message": "Efter"
+        },
+        "After set number of flags" : {
+            
+            "message": "Efter angivet antal flaggor"
+        },
+        "All" : {
+            
+            "message": "Alla"
+        },
+        "Always Show 0" : {
+            
+            "message": "Visa alltid 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitud"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Ett uttryck måste innehålla den oberoende variabeln och minst en parameter."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "En internetanslutning erfordras för anslutning till datadelningssession. Återanslut till internet och klicka sedan på återanslut."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "En internetanslutning erfordras för anslutning till datadelning online"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "En internetanslutning erfordras för datadelning"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "En internetanslutning erfordras för datadelning. Återanslut till internet och starta sedan en ny datadelningssession för att fortsätta dela data."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "extra tillbehör för projektilavfyrning, används för att mäta projektilens flykttid."
+        },
+        "and " : {
+            
+            "message": "och "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "och klicka på SLUTA DELA"
+        },
+        "Angle units" : {
+            
+            "message": "Vinkelenhet"
+        },
+        "Angular Motion" : {
+            
+            "message": "Vinkelrörelse"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Information om vinkelrörelse"
+        },
+        "App is up to date" : {
+            
+            "message": "Appen är uppdaterad"
+        },
+        "App Preferences" : {
+            
+            "message": "App Preferens"
+        },
+        "App Updates" : {
+            
+            "message": "Uppdatering av appar"
+        },
+        "Appearance" : {
+            
+            "message": "Utseende"
+        },
+        "Append" : {
+            
+            "message": "Lägg till"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Lägg data till befintlig datauppsättning eller skapa ny uppsättning?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Lägg till eller skapa ny?"
+        },
+        "Apply" : {
+            
+            "message": "Applicera"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Applicera kurvanpassning"
+        },
+        "Apply FFT" : {
+            
+            "message": "Utför FFT"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Använd histogram"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Area"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Efterhand som du samlar in data kommer de att se dina data i sina kopior av Graphical Analysis"
+        },
+        "Auto" : {
+            
+            "message": "Automatisk"
+        },
+        "Automatic" : {
+            
+            "message": "Automatisk"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Givarmedelvärde över 10 sekunder"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Medelvärde över 10 sekunder"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Storlek på axelbeteckning"
+        },
+        "Back" : {
+            
+            "message": "Tillbaka"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Bandpassfilter"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Bandspärrfilter"
+        },
+        "Bar Tape" : {
+            
+            "message": "Flaggband"
+        },
+        "Bars" : {
+            
+            "message": "Staplar"
+        },
+        "Base" : {
+            
+            "message": "Bas"
+        },
+        "Base Axis" : {
+            
+            "message": "Basaxel"
+        },
+        "Battery" : {
+            
+            "message": "Batteri"
+        },
+        "Battery Level" : {
+            
+            "message": "Batterinivå"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Stapelstartvärde"
+        },
+        "Bin Width" : {
+            
+            "message": "Stapelbredd"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Bluetooth-enhet"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth ej aktiverat"
+        },
+        "Bold" : {
+            
+            "message": "Fet"
+        },
+        "Book" : {
+            
+            "message": "Bok"
+        },
+        "Book Title" : {
+            
+            "message": "Boktitel"
+        },
+        "Both" : {
+            
+            "message": "Båda"
+        },
+        "Bottom" : {
+            
+            "message": "Botten"
+        },
+        "Bottom Bar" : {
+            
+            "message": "Nedre axeln"
+        },
+        "Bullet list" : {
+            
+            "message": "Punktlista"
+        },
+        "Calculated %s" : {
+            
+            "message": "Beräknad %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Beräknad kolumn"
+        },
+        "Calibrate" : {
+            
+            "message": "Kalibrera"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Kalibrera nu"
+        },
+        "Calibrating..." : {
+            
+            "message": "Kalibrerar..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Kalibrering klar"
+        },
+        "Calibration failed" : {
+            
+            "message": "Kalibrering misslyckades"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Återställning av kalibrering klar"
+        },
+        "Calibration Type" : {
+            
+            "message": "Kalibreringstyp"
+        },
+        "Cancel" : {
+            
+            "message": "Avbryt"
+        },
+        "cancel" : {
+            
+            "message": "ångra"
+        },
+        "Capable" : {
+            
+            "message": "Kapabel"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Zebralinjal för vagn"
+        },
+        "Categorical" : {
+            
+            "message": "Kategorisk"
+        },
+        "Categorical Data" : {
+            
+            "message": "Kategoridata"
+        },
+        "Ceiling" : {
+            
+            "message": "Tak"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "Centrera manuellt passnings handtag"
+        },
+        "Change left y-axis" : {
+            
+            "message": "Ändra vänster y-axel"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Ändra höger y-axel"
+        },
+        "Change x-axis" : {
+            
+            "message": "Ändra x-axel"
+        },
+        "Change y-axis" : {
+            
+            "message": "Ändra y-axel"
+        },
+        "Channels" : {
+            
+            "message": "Kanaler"
+        },
+        "Charging," : {
+            
+            "message": "Laddar,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Sök uppdatering av inbyggd programvara"
+        },
+        "Check for software updates" : {
+            
+            "message": "Sök uppdatering av mjukvara"
+        },
+        "Check for Updates" : {
+            
+            "message": "Sök efter uppdateringar"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Kontrollera om givarens LED blinkar"
+        },
+        "Checking for update..." : {
+            
+            "message": "Söker uppdateringar..."
+        },
+        "Choose File" : {
+            
+            "message": "Välj fil"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Välj folder..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Gör detta val för att ansluta givare för Go Direct via USB."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Gör detta val för att ansluta en Go!Temp givare."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": "Välj detta för att ansluta ett Go! Link interface."
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": "Välj detta för att ansluta en Go! Motion detektor."
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "Gör detta val för att ansluta LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini eller LabQuest Stream interface via USB."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "Chrome 102 eller senare krävs. iPad och iPhone stöds inte."
+        },
+        "Circle" : {
+            
+            "message": "Fylld cirkel"
+        },
+        "Clear Expression" : {
+            
+            "message": "Nollställ uttryck"
+        },
+        "Clear Filter" : {
+            
+            "message": "Rensa filter"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Klicka på STARTA SESSION för att generera en ID-kod för din session"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "Klicka på markeringsknappen under datainsamling för att lägga till en datamarkering vid aktuell tidpunkt."
+        },
+        "Close" : {
+            
+            "message": "Stäng"
+        },
+        "Close Alert" : {
+            
+            "message": "Stäng varning"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Avsluta programmet och uppdatera inbyggd programvara"
+        },
+        "Close Application" : {
+            
+            "message": "Stäng applikation"
+        },
+        "Close Dialog" : {
+            
+            "message": "Stäng dialog"
+        },
+        "Close FFT" : {
+            
+            "message": "Stäng FFT"
+        },
+        "Close graph legend" : {
+            
+            "message": "Stäng grafförklaring"
+        },
+        "Close Histogram" : {
+            
+            "message": "Stäng histogram"
+        },
+        "Close Infobox" : {
+            
+            "message": "Stäng informationsruta"
+        },
+        "Close Menu" : {
+            
+            "message": "Stäng Menyn"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Stäng Toppfrekvens"
+        },
+        "Close Popover" : {
+            
+            "message": "Stäng popupfönster"
+        },
+        "Close Replay" : {
+            
+            "message": "Stäng reprisen"
+        },
+        "Close Start Page" : {
+            
+            "message": "Stäng startsida"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Stäng denna dialog för att fortsätta"
+        },
+        "Code" : {
+            
+            "message": "Koda"
+        },
+        "Coefficient" : {
+            
+            "message": "Koefficient"
+        },
+        "Collapse" : {
+            
+            "message": "Minimera"
+        },
+        "Collect" : {
+            
+            "message": "Samla in"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Mätvärdesinsamling med givare från Vernier"
+        },
+        "Collecting" : {
+            
+            "message": "Samlar in"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "Mätvärden insamlas %d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Insamling av ett stort antal mätvärden påverkar prestanda."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Samlar in mätvärden under ${eventParams.accumulate} sekunder"
+        },
+        "Collection Parameters" : {
+            
+            "message": "Samlingsparametrar"
+        },
+        "Column %s" : {
+            
+            "message": "Kolumn %s"
+        },
+        "Column Options" : {
+            
+            "message": "Kolumnalternativ"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Kolumnen kommer att tas bort i alla datauppsättningar. Åtgärden kan inte ångras."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Kommaseparerade värden (CSV)"
+        },
+        "Complementary Error" : {
+            
+            "message": "Komplementärt fel"
+        },
+        "Configurator" : {
+            
+            "message": "Konfigurator"
+        },
+        "Confirm" : {
+            
+            "message": "Bekräfta"
+        },
+        "Connect" : {
+            
+            "message": "Anslut"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Anslut en <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">stödd Vernier USB enhet</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Anslut enhet"
+        },
+        "Connect a Device" : {
+            
+            "message": "Anslut enhet"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Anslut en LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Anslut till LabQuest 2 eller Logger Pro över WiFi"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "Anslut dessa enheter för datainsamling."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Anslut den här enheten för datainsamling."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Anslut till en datadelningssession från en källa i Graphical Analysis"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Anslut till LabQuest, Logger Pro eller en källa i Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Anslut till en tidigare skapad session för att dela inställningar, data etc. eller skapa en ny session."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Anslut till en trådlös enhet nedan eller anslut via USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Anslut till en trådlös enhet nedan."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Anslut till en tidigare session"
+        },
+        "connected" : {
+            
+            "message": "ansluten"
+        },
+        "Connected Devices" : {
+            
+            "message": "Anlsutna enheter"
+        },
+        "Connecting" : {
+            
+            "message": "Ansluter"
+        },
+        "Connection error" : {
+            
+            "message": "Anslutningsfel"
+        },
+        "Connection Lost" : {
+            
+            "message": "Anslutningen avbröts"
+        },
+        "Connection status info" : {
+            
+            "message": "Information om anslutningsstatus"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Kunde inte ansluta till %s"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "Ansluten till %s"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "Fortsätt till hämtningsalternativ"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "Fortsätt utan nödvändiga enheter"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Cookie-meddelande"
+        },
+        "Copy" : {
+            
+            "message": "Kopiera"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Kopiera histogram"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Kopiera värd-id"
+        },
+        "Copy Link" : {
+            
+            "message": "Kopiera länk"
+        },
+        "Copy Sign" : {
+            
+            "message": "Kopiera tecken"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Kopiera till urklipp"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Kopiera till Urklipp"
+        },
+        "Cosine" : {
+            
+            "message": "cosinus"
+        },
+        "Count Interval" : {
+            
+            "message": "Räkna intervall"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Skapa egendefinierad kurvanpassning"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Skapa ny datauppsättning"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Skapar anpassad beräknad kolumn"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Skapar anpassad kurvanpassning"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Tredjeroten"
+        },
+        "Curve Fit" : {
+            
+            "message": "Kurvanpassning"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Anpassade beräknade kolumner"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Anpassade kurvanpassningar"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Information om användardefinierad kurvanpassning"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Information om anpassat uttryck"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Egendefinierade kurvanpassningar sparas i en fil. Anpassningen tas bort när du påbörjar en ny session eller öppnar appen på nytt."
+        },
+        "Custom Session" : {
+            
+            "message": "Egendefinierad session"
+        },
+        "Cut" : {
+            
+            "message": "Klipp ut"
+        },
+        "Dark" : {
+            
+            "message": "Mörk"
+        },
+        "Darker" : {
+            
+            "message": "Mörkare"
+        },
+        "Darkest" : {
+            
+            "message": "Mörkast"
+        },
+        "Data" : {
+            
+            "message": "Data"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "Datainsamlingen har startat i loggningsläge."
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Inställningar för datainsamling"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Mätvärdesinsamlingen avslutas automatiskt när alla mätgafflar har registrerat förväntat antal lägesmätningar (samma som antalet flaggor). Ny insamling startar en ny datauppsättning."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Data samlas in tills Stop trycks. Positionen räknas upp med avståndsvärdet till datainsamling avslutas."
+        },
+        "Data Mark" : {
+            
+            "message": "Datamarkering"
+        },
+        "Data Marking" : {
+            
+            "message": "Dataannotering"
+        },
+        "Data Set %d" : {
+            
+            "message": "Datauppsättning %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Datauppsättningens namn"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Ett datauppstättningsnamn får högst vara %s tecken långt."
+        },
+        "Data Set Options" : {
+            
+            "message": "Alternativ för datauppsättning"
+        },
+        "Data Set Time" : {
+            
+            "message": "Datauppsättningens tid"
+        },
+        "Data Share" : {
+            
+            "message": "Delad datauppsättning"
+        },
+        "Data Sharing" : {
+            
+            "message": "Datadelning"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Datadelning är aktiv"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Datadelningssession har startat"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Datadelningsstatus"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Datadelning status"
+        },
+        "Data Table" : {
+            
+            "message": "Datatabell"
+        },
+        "Data Type" : {
+            
+            "message": "Datatyp"
+        },
+        "Data Type Info" : {
+            
+            "message": "Datatypinformation"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Visningsalternativ för data"
+        },
+        "Decimal Format" : {
+            
+            "message": "Numeriskt format"
+        },
+        "Decimal Places" : {
+            
+            "message": "Antal decimaler"
+        },
+        "decrease" : {
+            
+            "message": "minska"
+        },
+        "decreasing" : {
+            
+            "message": "minskande"
+        },
+        "degrees" : {
+            
+            "message": "grader"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Grader (°)"
+        },
+        "Delete" : {
+            
+            "message": "Ta bort"
+        },
+        "Delete %s?" : {
+            
+            "message": "Ta bort %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Ta bort en kolumn"
+        },
+        "Delete Column" : {
+            
+            "message": "Ta bort kolumn"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Ta bort kolumn %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Ta bort datamarkering"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Ta bort datauppsättning"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Ta bort grafanpassning"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Ta bort prognos"
+        },
+        "Delete Video" : {
+            
+            "message": "Ta bort video"
+        },
+        "Delta" : {
+            
+            "message": "Delta"
+        },
+        "Device Error" : {
+            
+            "message": "Enhetsfel"
+        },
+        "Device Information" : {
+            
+            "message": "Enhetsinformation"
+        },
+        "Device information" : {
+            
+            "message": "Enhetsinformation"
+        },
+        "Devices" : {
+            
+            "message": "Enheter"
+        },
+        "Diameter" : {
+            
+            "message": "Diameter"
+        },
+        "Diamond" : {
+            
+            "message": "Fylld romb"
+        },
+        "Dimension" : {
+            
+            "message": "Dimension"
+        },
+        "Disabled" : {
+            
+            "message": "Inaktiverad"
+        },
+        "Disconnect" : {
+            
+            "message": "Koppla från"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "Koppla bort och fortsätt logga"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "Koppla bort USB-kabeln nu."
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "Koppla från utan att rensa data"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Funna enheter"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Funna trådlösa enheter"
+        },
+        "Display Meters" : {
+            
+            "message": "Visa mätinstrument"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Visade kolumner"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Visade datauppsättningar"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Visad noggrannhet"
+        },
+        "Distance" : {
+            
+            "message": "Avstånd"
+        },
+        "Distance between gates" : {
+            
+            "message": "Avstånd mellan fotogafflar"
+        },
+        "Distribute App" : {
+            
+            "message": "Distribuera app"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "Distribuera Vernier Graphical Analysis"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Vill du ta bort denna datamarkering permanent?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Vill du spara ändringarna i %s? Ändringarna kommer att förloras om de inte sparas."
+        },
+        "Don't Save" : {
+            
+            "message": "Spara inte"
+        },
+        "Done" : {
+            
+            "message": "Klart"
+        },
+        "done" : {
+            
+            "message": "klart"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Hämtning klar. Uppdateringar installeras nästa gång appen startas"
+        },
+        "Download Experiment" : {
+            
+            "message": "Ladda ner experiment"
+        },
+        "Download Update" : {
+            
+            "message": "Ladda ned uppdatering"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Plotta en prognos"
+        },
+        "Drop Counting" : {
+            
+            "message": "Droppräkning"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Missade mätvärden. Starta ett nytt experiment med lägre insamlingshastighet."
+        },
+        "Drops" : {
+            
+            "message": "Droppar"
+        },
+        "Drops/mL" : {
+            
+            "message": "Droppar/ml"
+        },
+        "duration" : {
+            
+            "message": "varaktighet"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "t.ex. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "t.ex. 007 eller TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Ändra grafalternativ"
+        },
+        "Edit mode" : {
+            
+            "message": "Redigeringsläge"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Aktivera bluetooth för att ansluta trådlösa givare."
+        },
+        "Enable Replay" : {
+            
+            "message": "Aktivera repris"
+        },
+        "Enabled" : {
+            
+            "message": "Aktiverad"
+        },
+        "End Collection" : {
+            
+            "message": "Avsluta insamling"
+        },
+        "End data collection" : {
+            
+            "message": "Avsluta datainsamling"
+        },
+        "End User License Agreement" : {
+            
+            "message": "Licensavtal för slutanvändare"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Sluta datadelningssessionen genom att klicka"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Ange annotering"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Använd tangentbordet för att mata in data eller kopiera/klistra in"
+        },
+        "Enter first known value" : {
+            
+            "message": "Ange det första kända värdet"
+        },
+        "Enter second known value" : {
+            
+            "message": "Ange det andra kända värdet"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Ange titratorns volym enligt gradering på mätglaset"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Ange källans ID:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "Matar in kategoriskt värde"
+        },
+        "Equation" : {
+            
+            "message": "Ekvation"
+        },
+        "Error" : {
+            
+            "message": "Fel"
+        },
+        "Error Bar Info" : {
+            
+            "message": "Info om stapelfel"
+        },
+        "Error Bars" : {
+            
+            "message": "Felstaplar"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Fel: Urklippshanteraren ej tillgänglig."
+        },
+        "Event" : {
+            
+            "message": "Händelse"
+        },
+        "Event Based" : {
+            
+            "message": "Händelsebaserad"
+        },
+        "Event Mode" : {
+            
+            "message": "Händelseläge"
+        },
+        "Event Name" : {
+            
+            "message": "Händelsenamn"
+        },
+        "Events with Entry" : {
+            
+            "message": "Manuell inmatning"
+        },
+        "Events With Entry" : {
+            
+            "message": "Manuell inmatning"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Exempel: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Exempel: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Exp - 1"
+        },
+        "Expand" : {
+            
+            "message": "Expandera"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Expandera värd-id"
+        },
+        "Experiment Name" : {
+            
+            "message": "Experimentnamn"
+        },
+        "Experimental Features" : {
+            
+            "message": "Experimentella egenskaper"
+        },
+        "Exponent" : {
+            
+            "message": "Exponent"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Exponentialfunktion bas 2"
+        },
+        "Export" : {
+            
+            "message": "Exportera"
+        },
+        "Export CSV" : {
+            
+            "message": "Exportera CSV"
+        },
+        "Expression" : {
+            
+            "message": "Uttryck"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Datum för fabrikskalibrering"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Tryckkraft av fläkt"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT-val"
+        },
+        "File Menu" : {
+            
+            "message": "Filmeny"
+        },
+        "File saved" : {
+            
+            "message": "Filen sparad"
+        },
+        "Filename" : {
+            
+            "message": "Filnamn"
+        },
+        "Filter Device List" : {
+            
+            "message": "Filtrera enhetslista"
+        },
+        "Firmware" : {
+            
+            "message": "Inbyggd programvara"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Information angående uppdatering av inbyggd programvara"
+        },
+        "First Derivative" : {
+            
+            "message": "Förstaderivata"
+        },
+        "Fit Expression" : {
+            
+            "message": "Anpassningsuttryck"
+        },
+        "Fit Name" : {
+            
+            "message": "Anpassningsnamn"
+        },
+        "Fit Options" : {
+            
+            "message": "Anpassningsalternativ"
+        },
+        "Fixed Value" : {
+            
+            "message": "Fast värde"
+        },
+        "Flag Width" : {
+            
+            "message": "Flaggbredd"
+        },
+        "Flags" : {
+            
+            "message": "Flaggor"
+        },
+        "Floor" : {
+            
+            "message": "Golv"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Antalet flaggor och flaggavstånd visas för objekt från Vernier. För flaggband, ange antalet flaggor."
+        },
+        "Frequency" : {
+            
+            "message": "Frekvens"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Från Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Funktion"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Funktioner och oberoende variabler måste skrivas med små bokstäver."
+        },
+        "Gate Separation" : {
+            
+            "message": "Gaffelavstånd"
+        },
+        "Gate State" : {
+            
+            "message": "Gaffeltillstånd"
+        },
+        "Gate timing" : {
+            
+            "message": "Fotogaffel tidtagning"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX givarkarta"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Ge ID-koden till andra så att de kan ansluta till din session"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Givare för Go Direct"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Gå till början av video"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Go! Link" : {
+            
+            "message": "Go! Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Graph" : {
+            
+            "message": "Graf"
+        },
+        "Graph %s" : {
+            
+            "message": "Graf %s"
+        },
+        "Graph 1" : {
+            
+            "message": "Graf 1"
+        },
+        "Graph 2" : {
+            
+            "message": "Graf 2"
+        },
+        "Graph 3" : {
+            
+            "message": "Graf 3"
+        },
+        "Graph Display" : {
+            
+            "message": "Grafvisning"
+        },
+        "Graph Inset" : {
+            
+            "message": "Infälld graf"
+        },
+        "Graph Legend" : {
+            
+            "message": "Grafbeskrivning"
+        },
+        "Graph Match" : {
+            
+            "message": "Grafmatchning"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Grafmatchningsval"
+        },
+        "Graph Options" : {
+            
+            "message": "Grafalternativ"
+        },
+        "Graph Shape" : {
+            
+            "message": "Grafform"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Information om Graphical Analysis Pro"
+        },
+        "Graphs" : {
+            
+            "message": "Grafer"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "Rubrik 1"
+        },
+        "Heading 2" : {
+            
+            "message": "Rubrik 2"
+        },
+        "Heading 3" : {
+            
+            "message": "Rubrik 3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "Hjälp att ansluta en enhet"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "Hjälp att ansluta en enhet"
+        },
+        "Hide" : {
+            
+            "message": "Dölj"
+        },
+        "Hide Details" : {
+            
+            "message": "Dölj detaljer"
+        },
+        "High-pass Filter" : {
+            
+            "message": "Högpassfilter"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Högupplösningsläge"
+        },
+        "Histogram" : {
+            
+            "message": "Histogram"
+        },
+        "Histogram options" : {
+            
+            "message": "Histogramval"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Horisontell skiljelinje"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Skapa en datadelningssession"
+        },
+        "How To Distribute" : {
+            
+            "message": "Hur man distribuerar"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "cosinus hyperbolicus"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "sinus hyperbolicus"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "tangens hyperbolicus"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Hypotenusa"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Identifiera"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "Om ytterligare en enhet behövs, upprepa processen."
+        },
+        "Ignore" : {
+            
+            "message": "Ignorera"
+        },
+        "Import Video" : {
+            
+            "message": "Importera video"
+        },
+        "increase" : {
+            
+            "message": "Öka"
+        },
+        "increasing" : {
+            
+            "message": "ökande"
+        },
+        "Insert Expression" : {
+            
+            "message": "Infoga uttryck"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Stick in givaren i flaskan så att spetsen inte vidrör vattnet eller svampen."
+        },
+        "Integral" : {
+            
+            "message": "Integral"
+        },
+        "Intercept" : {
+            
+            "message": "Skärning"
+        },
+        "Interpolate" : {
+            
+            "message": "Interpolera"
+        },
+        "Interval" : {
+            
+            "message": "Intervall"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Ogiltig ekvation"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Ogiltigt uttryck"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "invers cosinus"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "invers cosinus hyperbolicus"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "invers sinus hyperbolicus"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "invers tangens hyperbolicus"
+        },
+        "Inverse Sine" : {
+            
+            "message": "invers sinus"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "invers tangens"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "invers tangens 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "Stående ofylld rektangel"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "Omvänd ofylld triangel"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "Stående fylld rektangel"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "Omvänd fylld triangel"
+        },
+        "is" : {
+            
+            "message": "är"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "stöds inte för närvarande. Välj annat alternativ."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Det rekommenderas starkt att en kalibrering görs efter ett byte av lock."
+        },
+        "Italic" : {
+            
+            "message": "Kursiv"
+        },
+        "Join New Experiment" : {
+            
+            "message": "Anslut till nytt experiment"
+        },
+        "Keep" : {
+            
+            "message": "Behåll"
+        },
+        "Keep Point" : {
+            
+            "message": "Behåll punkt"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Håll givaren lodrätt i detta läge under minst 60 sekunder och tryck sedan \"KALIBRERA NU.\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "De kända värdena måste vara olika för en tvåpunktskalibrering."
+        },
+        "LabQuest" : {
+            
+            "message": "LabQuest"
+        },
+        "LabQuest Devices" : {
+            
+            "message": "LabQuest-enheter"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Stor"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Senast kalibrerad"
+        },
+        "Launch Speed" : {
+            
+            "message": "Avfyrningshastighet"
+        },
+        "Left" : {
+            
+            "message": "Vänster"
+        },
+        "Left Axis" : {
+            
+            "message": "Vänster axel"
+        },
+        "Left manual fit handle" : {
+            
+            "message": "Vänsterhandtag för manuell passning"
+        },
+        "Left y-axis range" : {
+            
+            "message": "Område för vänster y-axel"
+        },
+        "Legacy File Type" : {
+            
+            "message": "äldre filtyp"
+        },
+        "License Key" : {
+            
+            "message": "Licensnyckel"
+        },
+        "License Key is expired." : {
+            
+            "message": "Licensnyckeln är utgången."
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "Licensnyckeln är inte giltig för den här kanalen."
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "Licensnyckeln är inte giltig för denna produkt."
+        },
+        "License Key is required." : {
+            
+            "message": "Licensnyckel krävs."
+        },
+        "License Key is suspended." : {
+            
+            "message": "Licensnyckeln är avstängd."
+        },
+        "License Key not recognized." : {
+            
+            "message": "Licensnyckeln känns inte igen."
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "För validering av licensnyckel krävs internetanslutning. Kontrollera din anslutning."
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "Servern för validering av licensnyckel kan inte nås."
+        },
+        "Licensed To" : {
+            
+            "message": "Licensierad till"
+        },
+        "Licensed to" : {
+            
+            "message": "Licensierad till"
+        },
+        "Line Shade" : {
+            
+            "message": "Linjeskuggning"
+        },
+        "Linear Motion" : {
+            
+            "message": "Linjär rörelse"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "Information om linjär rörelse"
+        },
+        "Lines" : {
+            
+            "message": "Linjer"
+        },
+        "Link" : {
+            
+            "message": "Länk"
+        },
+        "Link Copied" : {
+            
+            "message": "Länk kopierad"
+        },
+        "list item" : {
+            
+            "message": "listobjekt"
+        },
+        "Load Experiment" : {
+            
+            "message": "Ladda experiment"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "Lokal kopia ej synkroniserad. Uppdaterar..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Log bas 2"
+        },
+        "Log Base b" : {
+            
+            "message": "Log bas b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": "Loggade data på enheten"
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Lågpassfilter"
+        },
+        "Main Content" : {
+            
+            "message": "Huvudinnehåll"
+        },
+        "Manual" : {
+            
+            "message": "Manuell"
+        },
+        "Manual %s" : {
+            
+            "message": "Manuell %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Manuell inmatning"
+        },
+        "Manual Fit" : {
+            
+            "message": "Manuell passning"
+        },
+        "Manual Scaling" : {
+            
+            "message": "Manuell skalning"
+        },
+        "Manually" : {
+            
+            "message": "Manuellt"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Tillverkningsdatum"
+        },
+        "Mark" : {
+            
+            "message": "Markera"
+        },
+        "Max" : {
+            
+            "message": "Max"
+        },
+        "Maximize Application" : {
+            
+            "message": "Maximera applikation"
+        },
+        "Mean" : {
+            
+            "message": "Medelvärde"
+        },
+        "Measurement" : {
+            
+            "message": "Mätning"
+        },
+        "Medium" : {
+            
+            "message": "Medium"
+        },
+        "Meter Actions" : {
+            
+            "message": "Mätåtgärder"
+        },
+        "Meter All Columns" : {
+            
+            "message": "Mätare alla kolumner"
+        },
+        "Meter Size" : {
+            
+            "message": "Mätstorlek"
+        },
+        "Meter View Options" : {
+            
+            "message": "Visningsval för mätinstrument"
+        },
+        "Metered" : {
+            
+            "message": "Uppmätt"
+        },
+        "metering on all columns" : {
+            
+            "message": "mätning i alla kolumner"
+        },
+        "Meters" : {
+            
+            "message": "Mätare"
+        },
+        "min" : {
+            
+            "message": "min"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "Minimize Application" : {
+            
+            "message": "Minimera applikation"
+        },
+        "Mode" : {
+            
+            "message": "Läge"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "Läget ändrats till manuell inmatning."
+        },
+        "Modulo" : {
+            
+            "message": "modulo"
+        },
+        "Move Down" : {
+            
+            "message": "Flytta ned"
+        },
+        "Move Up" : {
+            
+            "message": "Flytta upp"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Ett antal flaggor med samma inbördes avstånd används för att bestämma objektets position när det passerar fotogaffeln. Den första blockeringen bestämmer referensposition. Efterföljande blockeringar ökar positionen med flaggavståndet. Hastighet och acceleration beräknas som första- och andraderivatan av positionen med avseende på tid."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Ett antal symmetriskt fördelade ekrar används för att bestämma hjulets vinkel när det roterar. Den första blockeringen bestämmer referensvinkeln. Efterföljande blockeringar ökar vinkeln med 2π/n radianer där n är antalet ekrar. Vinkelhastighet och vinkelacceleration beräknas som första- och andraderivatan av vinkeln med avseende på tid."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Multiplikation kan vara explicit eller implicit."
+        },
+        "Mute Audio" : {
+            
+            "message": "Stäng av ljud"
+        },
+        "My-File-Name" : {
+            
+            "message": "Filnamn"
+        },
+        "Name" : {
+            
+            "message": "Namn"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Namnet får högst vara %s tecken långt"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Naturlig exponentialfunktion"
+        },
+        "Natural Log" : {
+            
+            "message": "Naturlig log"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Naturlig log 1 + X"
+        },
+        "Never" : {
+            
+            "message": "Aldrig"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Nya kalibreringar används tills ett nytt experiment startas eller en fil öppnas."
+        },
+        "New Experiment" : {
+            
+            "message": "Nytt experiment"
+        },
+        "Next After" : {
+            
+            "message": "Nästa efter"
+        },
+        "No Columns" : {
+            
+            "message": "Inga kolumner"
+        },
+        "No Device Connected" : {
+            
+            "message": "Ingen enhet ansluten"
+        },
+        "No device connected." : {
+            
+            "message": "Ingen enhet ansluten."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Inga enheter anslutna"
+        },
+        "No expiration date" : {
+            
+            "message": "Inget sista giltighetsdatum"
+        },
+        "No sensor connected" : {
+            
+            "message": "Ingen givare ansluten"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "Inga givare anslutna"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Hittade inga datakällor. Försäkra dig om att datadelning är aktiverad för din källa och att båda enheterna är anslutna till samma nätverk. Om problemet kvarstår, välj Ange datakälla och anslut din datakälla manuellt."
+        },
+        "Normal" : {
+            
+            "message": "Normal"
+        },
+        "not" : {
+            
+            "message": "inte"
+        },
+        "Not Capable" : {
+            
+            "message": "Inte kapabel"
+        },
+        "Note" : {
+            
+            "message": "Notera"
+        },
+        "Notes" : {
+            
+            "message": "Anteckningar"
+        },
+        "Number list" : {
+            
+            "message": "Nummerlista"
+        },
+        "Number of flags" : {
+            
+            "message": "Antal flaggor"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "Antal punkter som används för derivataberäkningar:"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "Antal punkter som används för att utjämna beräkningar:"
+        },
+        "Number of spokes" : {
+            
+            "message": "Antal ekrar"
+        },
+        "Numeric" : {
+            
+            "message": "Numerisk"
+        },
+        "Object" : {
+            
+            "message": "Objekt"
+        },
+        "Object Width" : {
+            
+            "message": "Objektbredd"
+        },
+        "Offline" : {
+            
+            "message": "Offline"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "Ok" : {
+            
+            "message": "Ok"
+        },
+        "On a triggering event" : {
+            
+            "message": "Vid triggningshändelse"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "Tryck på Wi-Fi symbolen på LabQuest"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "På Logger Pro, gå till Fil -> Datadelning"
+        },
+        "One-point calibration" : {
+            
+            "message": "Enpunktskalibrering"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Datadelning över nätet"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Fläkten ska enbart aktiveras när datainsamling pågår"
+        },
+        "Open failed" : {
+            
+            "message": "Öppna misslyckades"
+        },
+        "Open Saved File" : {
+            
+            "message": "Öppna sparad fil"
+        },
+        "Open Update Information" : {
+            
+            "message": "Öppna Uppdatera information"
+        },
+        "Open..." : {
+            
+            "message": "Öppna..."
+        },
+        "or" : {
+            
+            "message": "eller"
+        },
+        "Order Code" : {
+            
+            "message": "Beställningsnummer"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Användardefinierat"
+        },
+        "Other Options" : {
+            
+            "message": "Andra alternativ"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Användardefinierat: Ange flaggavstånd (inbördes avstånd mellan flaggor) och antal flaggor. Om objektet är ett hjul så beräknas avståndet som hjulets omkrets delat med antalet ekrar."
+        },
+        "Outlined Circle" : {
+            
+            "message": "Ofylld cirkel"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "Ofylld romb"
+        },
+        "Outlined Plus" : {
+            
+            "message": "Ofyllt plustecken"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "Ofylld rektangel"
+        },
+        "Outlined Square" : {
+            
+            "message": "Ofylld kvadrat"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "Ofylld triangel"
+        },
+        "Paragraph" : {
+            
+            "message": "Paragraf"
+        },
+        "Parameter %s" : {
+            
+            "message": "Parameter %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Parametrar kan inte upprepas inom ett uttryck."
+        },
+        "Paste" : {
+            
+            "message": "Klistra in"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Inklistring är inte möjlig via editeringsmenyn. Använd CTRL-V eller CMD-V för att klistra in."
+        },
+        "Pause replay" : {
+            
+            "message": "Pausa reprisen"
+        },
+        "Pause Video" : {
+            
+            "message": "Pausa video"
+        },
+        "Peak Frequency" : {
+            
+            "message": "Toppfrekvens"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Pendelns period"
+        },
+        "Percentage" : {
+            
+            "message": "Procentsats"
+        },
+        "Perform a" : {
+            
+            "message": "Genomför"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Tidtagning med fotocell"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Fotogafflar kan ta tid på objekt som passerar mellan gafflarna eller rapportera periodtiden för en pendel. Ett tidsintervall är tiden mellan två successiva blockeringar. När två fotogafflar används rapporteras en tid först efter att båda har blockerats."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Bild i bild"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Placera Go Direct-givaren nära önskad dator, telefon eller surfplatta"
+        },
+        "Play replay" : {
+            
+            "message": "Spela upp repris"
+        },
+        "Play Video" : {
+            
+            "message": "Spela video"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "Val av uppspelningshastighet"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Ange datakällans IP adress:"
+        },
+        "Plot" : {
+            
+            "message": "Plotta"
+        },
+        "Plot Manager" : {
+            
+            "message": "Grafhanterare"
+        },
+        "Plus" : {
+            
+            "message": "Plus"
+        },
+        "point" : {
+            
+            "message": "punkt"
+        },
+        "Point Colors" : {
+            
+            "message": "Punktfärger"
+        },
+        "Point Symbols" : {
+            
+            "message": "Punktsymboler"
+        },
+        "points" : {
+            
+            "message": "punkter"
+        },
+        "Points" : {
+            
+            "message": "Punkter"
+        },
+        "points before trigger" : {
+            
+            "message": "punkter före triggning"
+        },
+        "Power" : {
+            
+            "message": "Effekt"
+        },
+        "Prediction" : {
+            
+            "message": "Prognos"
+        },
+        "Prediction Name" : {
+            
+            "message": "Prognosnamn"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Prognosnamnet får högst vara %s tecken."
+        },
+        "Prediction Options" : {
+            
+            "message": "Prognosval"
+        },
+        "Prediction Title" : {
+            
+            "message": "Prognosrubrik"
+        },
+        "Predictions" : {
+            
+            "message": "Prognoser"
+        },
+        "Preview mode" : {
+            
+            "message": "Förhandsgranskningsläge"
+        },
+        "Primary:" : {
+            
+            "message": "Primär:"
+        },
+        "Privacy Notice" : {
+            
+            "message": "Sekretessmeddelande"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": "Förvarning om uppdatering"
+        },
+        "Projectile Info" : {
+            
+            "message": "Projektilinformation"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Projektilavfyrare"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Ge den här ID-koden till andra så att de kan ansluta till din enhet"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Närhetsanslutning"
+        },
+        "Pulse timing" : {
+            
+            "message": "Periodtid"
+        },
+        "Quote" : {
+            
+            "message": "Citat"
+        },
+        "radians" : {
+            
+            "message": "radianer"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radianer (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Hastighet"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Insamlingsastighet över 200 sampel/s kräver en förutbestämd längd på experimentet."
+        },
+        "Reconnect" : {
+            
+            "message": "Återanslut"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": "Återanslut din sensor för att hämta loggade data."
+        },
+        "Rectangle" : {
+            
+            "message": "Fylld rektangel"
+        },
+        "Regular" : {
+            
+            "message": "Reguljär"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Relativ stabilitet för avläsning"
+        },
+        "Remainder" : {
+            
+            "message": "Rest"
+        },
+        "Remote Logging" : {
+            
+            "message": "Fjärrloggning"
+        },
+        "Remote Logging in Process" : {
+            
+            "message": "Fjärrloggning pågår"
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": "Fjärrloggning är endast möjlig på en sensor åt gången."
+        },
+        "Remote Logging Started" : {
+            
+            "message": "Fjärrloggning påbörjad"
+        },
+        "Remote Logging Status" : {
+            
+            "message": "Status för fjärrloggning"
+        },
+        "Remove" : {
+            
+            "message": "Ta bort"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Ta bort linjär trend"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Ta bort virtuell givare"
+        },
+        "Rename" : {
+            
+            "message": "Ändra namn"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Ändra namn på datauppsättning"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Ändra prognosnamn"
+        },
+        "Replay" : {
+            
+            "message": "Spela igen"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Spela videosynkinfo igen"
+        },
+        "Reported Reading" : {
+            
+            "message": "Rapporterad avläsning"
+        },
+        "Reset" : {
+            
+            "message": "Återställ"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Återställ (nollställ) vid insamling"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Återställ förval"
+        },
+        "Restart app" : {
+            
+            "message": "Starta om appen"
+        },
+        "Restart Replay" : {
+            
+            "message": "Starta om repris"
+        },
+        "Restore All" : {
+            
+            "message": "Återställ alla"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": "Hämta och rensa"
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": "Hämta och rensa sensor"
+        },
+        "Retry Calibration" : {
+            
+            "message": "Gör om kalibrering"
+        },
+        "Reverse" : {
+            
+            "message": "Byt tecken"
+        },
+        "revolution" : {
+            
+            "message": "varv"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Varv"
+        },
+        "Right" : {
+            
+            "message": "Höger"
+        },
+        "Right Axis" : {
+            
+            "message": "Höger axel"
+        },
+        "Right manual fit handle" : {
+            
+            "message": "Höger handtag för manuell passning"
+        },
+        "Right y-axis" : {
+            
+            "message": "Höger y-axel"
+        },
+        "Right y-axis range" : {
+            
+            "message": "Område för höger y-axel"
+        },
+        "RMS" : {
+            
+            "message": "RMS"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": "Avrunda"
+        },
+        "Row Number" : {
+            
+            "message": "Radnummer"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "mätvärde"
+        },
+        "Sample Data" : {
+            
+            "message": "Exempeldata"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Exempelexperiment"
+        },
+        "samples" : {
+            
+            "message": "mätvärden"
+        },
+        "Samples" : {
+            
+            "message": "Mätvärden"
+        },
+        "samples per second" : {
+            
+            "message": "mätvärden per sekund"
+        },
+        "samples scheduled" : {
+            
+            "message": "mätvärden planerade"
+        },
+        "Save" : {
+            
+            "message": "Spara"
+        },
+        "Save AMBL" : {
+            
+            "message": "Spara AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Spara och stäng appen"
+        },
+        "Save As..." : {
+            
+            "message": "Spara som..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Spara ändringar?"
+        },
+        "Save CSV" : {
+            
+            "message": "Spara CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Spara experiment"
+        },
+        "Save failed" : {
+            
+            "message": "Det gick inte att spara"
+        },
+        "Save PDF" : {
+            
+            "message": "Spara PDF"
+        },
+        "Save Pending" : {
+            
+            "message": "Spara avvaktar"
+        },
+        "Save PNG" : {
+            
+            "message": "Spara PNG"
+        },
+        "Saved" : {
+            
+            "message": "Sparat"
+        },
+        "Saving" : {
+            
+            "message": "Sparar"
+        },
+        "Scale Factor" : {
+            
+            "message": "Skalfaktor"
+        },
+        "Scaling" : {
+            
+            "message": "Skalning"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Söker efter enheter..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Spänningsskillnaden mellan givarens två kalibreringspunkter måste vara minst 0,05 V."
+        },
+        "Second Derivative" : {
+            
+            "message": "Andraderivata"
+        },
+        "Secondary:" : {
+            
+            "message": "Sekundär:"
+        },
+        "seconds" : {
+            
+            "message": "sekunder"
+        },
+        "See Experiments" : {
+            
+            "message": "Se experiment"
+        },
+        "See sample experiments" : {
+            
+            "message": "Se experimentexempel"
+        },
+        "Select Data Set" : {
+            
+            "message": "Välj datauppsättning"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Välj enhet för rapportering av vinkel."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "Välj den typ av enhet du vill ansluta."
+        },
+        "select/deselect meter" : {
+            
+            "message": "välj/ta bort mätare"
+        },
+        "Selected Events" : {
+            
+            "message": "Valda händelser"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Givaråtgärder"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Givarkanaler"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Datainsamling"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Givarinställning"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Givarspänning"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Givare nollställd"
+        },
+        "Sensors" : {
+            
+            "message": "Givare"
+        },
+        "Session 1 Name" : {
+            
+            "message": "Session 1 Namn"
+        },
+        "Session 2 Name" : {
+            
+            "message": "Session 2 Namn"
+        },
+        "Session 3 Name" : {
+            
+            "message": "Session 3 Namn"
+        },
+        "Session 4 Name" : {
+            
+            "message": "Session 4 Namn"
+        },
+        "Session ended by Host" : {
+            
+            "message": "Sessionen avslutad av värden"
+        },
+        "Session Preferences" : {
+            
+            "message": "Sessions preferens"
+        },
+        "Settings saved" : {
+            
+            "message": "Inställningar sparade"
+        },
+        "Share AMBL" : {
+            
+            "message": "Dela AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Dela ett experiment med andra via en nätverksförbindelse"
+        },
+        "Share CSV" : {
+            
+            "message": "Dela CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Dela bild"
+        },
+        "Share PDF" : {
+            
+            "message": "Dela PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Visa alla utgåvor"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": "Visa instruktioner för datamärkning"
+        },
+        "Show Details" : {
+            
+            "message": "Visa detaljer"
+        },
+        "Show Error Bars" : {
+            
+            "message": "Visa felstaplar"
+        },
+        "Show FFT" : {
+            
+            "message": "Visa FFT"
+        },
+        "Show Histogram" : {
+            
+            "message": "Visa histogram"
+        },
+        "Show Less" : {
+            
+            "message": "Visa mindre"
+        },
+        "Show Menu" : {
+            
+            "message": "Visa Meny"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Visa mellantiden genom gaffel"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Visa originalgraf"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": "Visa instruktioner för fjärrloggning"
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": "Visa osäkerhet för passningsparametrar"
+        },
+        "Significant Figures" : {
+            
+            "message": "Gällande siffror"
+        },
+        "Sine" : {
+            
+            "message": "sinus"
+        },
+        "Slope" : {
+            
+            "message": "Lutning"
+        },
+        "Small" : {
+            
+            "message": "Liten"
+        },
+        "Spacing" : {
+            
+            "message": "Avstånd"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Avstånd = omkrets/antal ekrar"
+        },
+        "Specify source" : {
+            
+            "message": "Ange datakälla"
+        },
+        "Spectrum" : {
+            
+            "message": "Spektrum"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Fart genom mätgaffel"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "Information om hastighet genom mätgaffel"
+        },
+        "Spokes:" : {
+            
+            "message": "Ekrar:"
+        },
+        "Square" : {
+            
+            "message": "Fylld kvadrat"
+        },
+        "Square Root" : {
+            
+            "message": "Kvadratrot"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Starta en datadelningssession"
+        },
+        "Start a New Session" : {
+            
+            "message": "Börja en ny session"
+        },
+        "Start Collection" : {
+            
+            "message": "Starta mätvärdesinsamling"
+        },
+        "Start collection when" : {
+            
+            "message": "Börja insamling när"
+        },
+        "Start Logging" : {
+            
+            "message": "Börja logga"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Starta ett nytt experiment?"
+        },
+        "Start Session" : {
+            
+            "message": "Starta session"
+        },
+        "Statistics" : {
+            
+            "message": "Statistik"
+        },
+        "Std dev" : {
+            
+            "message": "Std avv"
+        },
+        "Step Backward" : {
+            
+            "message": "Stega bakåt"
+        },
+        "Step Forward" : {
+            
+            "message": "Stega framåt"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "Stega video bakåt"
+        },
+        "Step Video Forward" : {
+            
+            "message": "Stega video framåt"
+        },
+        "Stop" : {
+            
+            "message": "Avsluta"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Sluta tillsätta droppar när volymen är mellan 9 och 10 ml."
+        },
+        "Stop Collection" : {
+            
+            "message": "Stoppa mätvärdesinsamling"
+        },
+        "Stop Sharing" : {
+            
+            "message": "Avbryt datadelning"
+        },
+        "Strikethrough" : {
+            
+            "message": "Genomstruken"
+        },
+        "Subject" : {
+            
+            "message": "Ämne"
+        },
+        "Submit" : {
+            
+            "message": "Sänd"
+        },
+        "Subscript" : {
+            
+            "message": "Nedsänkt skrift"
+        },
+        "Subscription Ends" : {
+            
+            "message": "Prenumeration upphör"
+        },
+        "Subscription ends" : {
+            
+            "message": "Prenumeration upphör"
+        },
+        "Superscript" : {
+            
+            "message": "Upphöjd skrift"
+        },
+        "Supported Functions" : {
+            
+            "message": "Funktioner som stöds"
+        },
+        "Symbol" : {
+            
+            "message": "Symbol"
+        },
+        "Sync data with video" : {
+            
+            "message": "Synkronisera data med video"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Synkronisera video med data"
+        },
+        "Syntax" : {
+            
+            "message": "Syntax"
+        },
+        "Table" : {
+            
+            "message": "Tabell"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Läs av givaren (t.ex. pH, konduktivitet) vid varje droppe."
+        },
+        "Tangent" : {
+            
+            "message": "Tangent"
+        },
+        "Target" : {
+            
+            "message": "Mål"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Bluetooth-anslutningen har brutits"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Kolumnnamnet erfordras"
+        },
+        "the current file" : {
+            
+            "message": "aktuell fil"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Datauppsättningen börjar spela upp %s s före videon"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Uttrycket kommer att användas som kurvanpassningsnamn om inte ett namn uttryckligen anges."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Avfyrningshastigheten är medelhastigheten hos projektilen när den passerar mellan de två inbyggda mätgafflarna."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Avfyrningshastigheten är medelhastigheten hos projektilen när den passerar den första inbyggda mätgaffeln."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Objektets fart genom fotogaffeln beräknas genom att dela objektets eller flaggans bredd med blockeringstiden."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": "Den begärda mäthastigheten och varaktigheten kan inte uppfyllas. Maximal mäthastighet är %.2f värden/%s för %d%s."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Tiden mellan successiva blockeringar rapporteras som Period."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "Ett uttryck kan inte innehålla mer än sju parametrar."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "Det finns en ny version av inbyggd programvara tillgänglig för denna sensor för att lösa falska avläsningar när sonden är i en miljö under 0°C. Uppdateringsprocessen kan inte utföras från Graphical Analysis."
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Det finns en ny version av den inbyggda programvaran för denna givare men uppdateringen kan inte genomföras från denna enhet.  För att uppdatera givaren, anslut den med USB till en enhet som kör macOS, Windows eller ChromeOS och starta Graphical Analysis. Gå till listan av anslutna enheter och initiera uppdateringen."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Det finns en ny version av den inbyggda programvaran för denna givare.  För att kunna genomföra uppdateringen måste givaren vara ansluten med USB och Graphical Analysis tillfälligt inte köras. Anslut givaren med USB om den för närvarande är ansluten trådlöst."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Inställningarna kunde inte sparas"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Denna kolumn skapades automatiskt och kan inte ändras"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Den här borttagningen kan inte ångras."
+        },
+        "This feature requires a" : {
+            
+            "message": "Denna funktion kräver en"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Detta tal anger hur stor del av ett varv vinkelpositionen ändras för varje blockering."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Den här versionen av Windows stöder bara anslutning av Go Direct-givare med USB."
+        },
+        "Time" : {
+            
+            "message": "Tid"
+        },
+        "Time Based" : {
+            
+            "message": "Tidsbaserad"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "Tidsbaserad datainsamling - en graf"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "Tidsbaserad datainsamling - tre grafer"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "Tidsbaserad datainsamling - två grafer"
+        },
+        "Time between gates" : {
+            
+            "message": "Tid mellan fotogafflar"
+        },
+        "Time Decay Filter" : {
+            
+            "message": "Tidsfördröjningsfilter"
+        },
+        "Time measurements" : {
+            
+            "message": "Tidsmätningar"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Flykttidsplatta,"
+        },
+        "Time Units" : {
+            
+            "message": "Tidsenheter"
+        },
+        "Timer" : {
+            
+            "message": "Timer"
+        },
+        "Timer Info" : {
+            
+            "message": "Timer info"
+        },
+        "Timer or Period" : {
+            
+            "message": "Timer eller Period"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Tips: För bästa möjliga resultat, kontrollera att givaren ifråga är den enda givaren inom 2 meter från datorn, telefonen eller surfplattan."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Tips: Närhetsanslutning bygger på uppskattade avstånd till givare. Välj istället en givare från listan över anslutningar om detta inte är tillförlitligt i den aktuella omgivningen."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Tips: En givare kan bara anslutas när dess kontrollampa blinkar rött."
+        },
+        "Title" : {
+            
+            "message": "Rubrik"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "För att skapa en anpassad %s, använd någon av de stödda funktionerna med någon av de stödda operatorerna"
+        },
+        "To locate the address:" : {
+            
+            "message": "För att hitta adressen:"
+        },
+        "to make the key available for use." : {
+            
+            "message": "för att möjliggöra användning av nyckeln."
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "För att starta en datadelningssession:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Växla mörkt läge"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Växla ljust läge"
+        },
+        "Too few points" : {
+            
+            "message": "För få punkter"
+        },
+        "Toolbar" : {
+            
+            "message": "Verktygsfältet"
+        },
+        "Top" : {
+            
+            "message": "Topp"
+        },
+        "Total samples" : {
+            
+            "message": "Totalt antal mätvärden"
+        },
+        "Triangle" : {
+            
+            "message": "Fylld triangel"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Trigonometriska funktioner beräknas i radianer utom när den kolumn som plottades på horisontella axeln har enheter"
+        },
+        "Truncate" : {
+            
+            "message": "Trunkera"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Tvåpunktskalibrering"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Ultra Pulley - i spår"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Ultra Pulley - utanför kant"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Kunde inte ansluta till eller finna en datakälla med detta namn."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Kunde inte ansluta till "
+        },
+        "Units" : {
+            
+            "message": "Enheter"
+        },
+        "Unknown" : {
+            
+            "message": "Okänd"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "Okänt licensnyckelfel"
+        },
+        "Unmute Audio" : {
+            
+            "message": "Slå på ljud"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "Ej stödd browser"
+        },
+        "Untitled" : {
+            
+            "message": "Namnlös"
+        },
+        "Update Available" : {
+            
+            "message": "Uppdatering tillgänglig"
+        },
+        "Update error" : {
+            
+            "message": "Fel vid uppdatering"
+        },
+        "Update Firmware" : {
+            
+            "message": "Uppdatera den inbyggda programvaran"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Uppdatering hämtas..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Uppdatera din licensnyckel"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "USB-enhet"
+        },
+        "Use Column Value" : {
+            
+            "message": "Använd kolumnvärde"
+        },
+        "Use gate separation" : {
+            
+            "message": "Använd fotogaffelseparation"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Använd objekt- eller flaggbredd"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Använd projektildiameter"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Använd vetenskaplig notation"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "Använd USB- eller TRÅDLÖS-knappen efter önskemål."
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": "Använd det här området för att göra anteckningar i märkspråk eller vanlig text om ditt experiment. Växla till förhandsgranskningsläge för att se formateringen tillämpad."
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Använd detta alternativ för att undersöka hastighet som funktion av tid. Den angivna tiden är tidpunkten mitt emellan tiderna för blockerad och oblockerad mätgaffel."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Använd flykttidsplatta"
+        },
+        "Use Windowing" : {
+            
+            "message": "Använd fönsterfunktion"
+        },
+        "User Manual" : {
+            
+            "message": "Användarmanual"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Använd fabrikskalibrering från"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "Använder lokalt lagrad information för detta experiment."
+        },
+        "Value must be between " : {
+            
+            "message": "Värdet måste vara mellan "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "Vernier Graphical Analysis&reg; är ett verktyg för elever att samla in, visa i graf och analysera data från Vernier sensorer."
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "Vernier Graphical Analysis® Pro åtkomsten upphör om ${this.daysRemaining} dagar"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "Vernier Graphical Analysis® Pro åtkomsten upphör idag"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernier zebralinjal"
+        },
+        "Version" : {
+            
+            "message": "Version"
+        },
+        "Vertical Divider" : {
+            
+            "message": "Vertikal skiljelinje"
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Time" : {
+            
+            "message": "Videotid"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Video börjar spela upp %s s före datauppspelning"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Video börjar spela upp samtidigt som datauppspelning"
+        },
+        "View Experiment" : {
+            
+            "message": "Se Experiment"
+        },
+        "View Integral" : {
+            
+            "message": "Visa integral"
+        },
+        "View Options" : {
+            
+            "message": "Visa alternativ"
+        },
+        "View Statistics" : {
+            
+            "message": "Visa statistik"
+        },
+        "Voltage" : {
+            
+            "message": "Spänning"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Väntar på %s till %s över %s %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "Vi har noterat att licensnyckeln är giltig men användarvillkoren måste accepteras innan den kan användas. Be den som ansvarar för skolans inköp "
+        },
+        "What's New" : {
+            
+            "message": "Nyheter"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "När pendel väljs definieras periodtiden som tiden mellan varannan blockering eftersom en pendel kommer att blockera en fotogaffel tre gånger under en period."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "När två fotogafflar används kan avståndet mellan dem användas istället för objekt- eller flaggbredd för att beräkna fart. Den beräknade farten blir då den mellan de två gafflarna."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Windows 10 krävs för trådlös anslutning."
+        },
+        "Wireless" : {
+            
+            "message": "Trådlös"
+        },
+        "Working..." : {
+            
+            "message": "Arbetar..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x-axelområde"
+        },
+        "x-range" : {
+            
+            "message": "x-område"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-axelområde"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "Du kan ansluta en enhet antingen via en trådbunden USB-anslutning eller trådlöst."
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "Du kan ge åtkomst till denna applikation till andra på din skola genom att dela den här webbadressen via e-post, sms eller på annat sätt."
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": "Du behöver inte vänta på att datainsamlingen ska slutföras för att hämta loggade data."
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": "Du har angett icke-numeriska data. Vill du konvertera den här kolumnen till kategorisk data?"
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "Du har en enhet ansluten som inte behövs för det här experimentet."
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "Du har angett en aktiveringskod och inte en licensnyckel."
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "Din webbläsare kommer att visa tillgängliga enheter. Välj önskad enhet och klicka på Parkoppla."
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Din datadelningsvärd startar ett nytt experiment. Du kan fortsätta med ditt experiment eller ansluta till det nya experimentet."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Din licens tillåter att Vernier Graphical Analysis® endast delas med elever, lärare och personal på din skola. Vänligen dela inte utanför din skola."
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Din licens tillåter att Vernier Video Analysis endast delas med elever, lärare och personal på din skola. Vänligen dela inte utanför din skola."
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": "Din givare har kopplats bort."
+        },
+        "Zero" : {
+            
+            "message": "Nollställ"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Zooma till alla data"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Zooma till val"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-axel ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-axel ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier Science Education"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "Accelerometer 25-g"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "Accelerometer 3-axlad(X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "Accelerometer 3-axlad(Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "Accelerometer 3-axlad(Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "Spänning (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbans"
+        },
+        "Acceleration" : {
+            
+            "message": "Acceleration"
+        },
+        "Accelerometer" : {
+            
+            "message": "Accelerometer"
+        },
+        "Ammonium" : {
+            
+            "message": "Ammonium"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Ammonium ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "Analysator"
+        },
+        "Anemometer" : {
+            
+            "message": "Anemometer"
+        },
+        "Angle" : {
+            
+            "message": "Vinkel"
+        },
+        "Barometer" : {
+            
+            "message": "Barometer"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometer (säljs inte längre)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Biol. tryckgivare"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Blodtryck"
+        },
+        "Calcium" : {
+            
+            "message": "Kalcium"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Kalcium ISE"
+        },
+        "Charge" : {
+            
+            "message": "Laddning"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Laddningsgivare"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Laddningsgivare 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Laddningsgivare 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Laddningsgivare 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Klorid"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Klorid ISE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Gas hög"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Gas låg"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 Gas gammal"
+        },
+        "Colorimeter" : {
+            
+            "message": "Kolorimeter"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Kolorimeter gammal"
+        },
+        "Concentration" : {
+            
+            "message": "Koncentration"
+        },
+        "Conductivity" : {
+            
+            "message": "Konduktivitet"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Konduktivitet 20000 mikroS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Konduktivitet 2000 mikroS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Konduktivitet 200 mikroS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Konstant-strömsystem"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Manschettryck"
+        },
+        "Current" : {
+            
+            "message": "Ström"
+        },
+        "Current Probe" : {
+            
+            "message": "Strömgivare"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Strömgivare 1,2 A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastoliskt"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Differentiell spänning"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Digital styrenhet"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Direktansluten temperaturgivare"
+        },
+        "Displacement" : {
+            
+            "message": "Förskjutning"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Löst CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Löst syre"
+        },
+        "Distance" : {
+            
+            "message": "Avstånd"
+        },
+        "DO" : {
+            
+            "message": "DO (Löst syre)"
+        },
+        "Drop Counter" : {
+            
+            "message": "Droppräknare"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Kraftgivare två mätomr. 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Kraftgivare två mätomr. 50 N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Endast tidiga 2021-vagnar"
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Elektrodförstärkare"
+        },
+        "Energy" : {
+            
+            "message": "Energi"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Energigivare Ström"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Energigivare Spänning"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanol"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Etanolgivare"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Temp.givare extra lång"
+        },
+        "Flow Rate" : {
+            
+            "message": "Flödeshastighet"
+        },
+        "Fluorescence" : {
+            
+            "message": "Fluorescens"
+        },
+        "Force" : {
+            
+            "message": "Kraft"
+        },
+        "Force Plate" : {
+            
+            "message": "Kraftplatta"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Kraftplatta 3500 N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Kraftplatta 850 N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Gastrycksgivare"
+        },
+        "Gate State" : {
+            
+            "message": "Fotogaffelindikering"
+        },
+        "Gate Time" : {
+            
+            "message": "Fotogaffel Tid"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Go Wireless Elektrodförstärkare"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go Wireless Puls"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Go Wireless pH"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Temp"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniometer"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Handdynamometer"
+        },
+        "Heart Rate" : {
+            
+            "message": "Hjärtfrekvens"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Hjärtfrekvensmätare"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Givare hög ström"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Högkänslig ljusdetektor 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Högkänslig ljusdetektor 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Högkänslig ljusdetektor 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Belysning"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Instrumentförstärkare"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Instrumentförstärkare +-1 V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Instrumenförstärkare +-200 mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Instrumentförstärkare +-20 mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Instrumentförstärkare 1 V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Instrumentförstärkare 200 mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Instrumentförstärkare 20 mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intensitet"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "Temperaturgivare IR"
+        },
+        "Irradiance" : {
+            
+            "message": "Bestrålning"
+        },
+        "Launch Speed" : {
+            
+            "message": "Utgångshastighet"
+        },
+        "Light" : {
+            
+            "message": "Belysning"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Belysning 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Belysning 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Belysning 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Belysningsnivå"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Linjär lägesgivare"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Accelerometer low-g"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Magnetfält"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Magnetfält 0,3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Magnetfält 6,4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Artärtryck medelvärde"
+        },
+        "Melt Station" : {
+            
+            "message": "Smältstation"
+        },
+        "Microphone" : {
+            
+            "message": "Mikrofon"
+        },
+        "mol/L" : {
+            
+            "message": "mol/l"
+        },
+        "Motion" : {
+            
+            "message": "Rörelse"
+        },
+        "Motion Detector" : {
+            
+            "message": "Rörelsedetektor"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Vagn med enkoder"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitrat"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitrat ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Optisk DO-givare %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Optisk DO-givare mg/l"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Syrgas"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Syrgas gammal"
+        },
+        "PAR Sensor" : {
+            
+            "message": "PAR-givare"
+        },
+        "Period" : {
+            
+            "message": "Period"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP förstärkare"
+        },
+        "Photogate" : {
+            
+            "message": "Fotogaffel"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Konduktivitet för platinacell"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimeter"
+        },
+        "Position" : {
+            
+            "message": "Läge"
+        },
+        "Potassium" : {
+            
+            "message": "Kalium"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Kalium ISE"
+        },
+        "Potential" : {
+            
+            "message": "Spänning"
+        },
+        "Power" : {
+            
+            "message": "Effekt"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Effektförstärkarström"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Tryck"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Tryckgivare (säljs inte längre)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Tryckgivare 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Avfyrningsanordning"
+        },
+        "Pulse" : {
+            
+            "message": "Puls"
+        },
+        "Pulse Time" : {
+            
+            "message": "Pulstid"
+        },
+        "Pyranometer" : {
+            
+            "message": "Pyranometer"
+        },
+        "Radiation" : {
+            
+            "message": "Strålning"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Strålningsdetektor"
+        },
+        "Raw" : {
+            
+            "message": "Obearbetat"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Råspänning (0-5 V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Relativ fuktighet"
+        },
+        "Resistance" : {
+            
+            "message": "Resistans"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Andningsmätare"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Andningshastighet"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Rotationsrörelse"
+        },
+        "Salinity" : {
+            
+            "message": "Salinitet"
+        },
+        "Signal" : {
+            
+            "message": "Signal"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Jordfuktighet"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Jordfuktighetsgivare"
+        },
+        "Sound Level" : {
+            
+            "message": "Ljudnivå"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Ljudnivågivare"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Ljudtryck"
+        },
+        "Speed" : {
+            
+            "message": "Fart"
+        },
+        "Spirometer" : {
+            
+            "message": "Spirometer"
+        },
+        "Standard" : {
+            
+            "message": "Standard"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Temperaturgivare standard"
+        },
+        "Student Force" : {
+            
+            "message": "Kraftgivare Student"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Strålningsgivare Student"
+        },
+        "Systolic" : {
+            
+            "message": "Systoliskt"
+        },
+        "Temperature" : {
+            
+            "message": "Temperatur"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Temperaturgivare"
+        },
+        "Thermocouple" : {
+            
+            "message": "Termoelement"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Termoelement gammal"
+        },
+        "TI Light" : {
+            
+            "message": "TI Ljus"
+        },
+        "Time of Flight" : {
+            
+            "message": "Flykttid"
+        },
+        "Transmittance" : {
+            
+            "message": "Transmittans"
+        },
+        "Turbidity" : {
+            
+            "message": "Turbiditet"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA-intensitet"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVA-givare"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB-intensitet"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVB-givare"
+        },
+        "Velocity" : {
+            
+            "message": "Hastighet"
+        },
+        "Voltage" : {
+            
+            "message": "Spänning"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Spänning (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Volym"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT Förskjutning"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT Kraft"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Temperaturgivare stort område"
+        },
+        "X Acceleration" : {
+            
+            "message": "x-acceleration"
+        },
+        "Y Acceleration" : {
+            
+            "message": "y-acceleration"
+        },
+        "Z Acceleration" : {
+            
+            "message": "z-acceleration"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": "*umol m-2 s-1*"
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": "*µmol m⁻² s⁻¹*"
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Absolut fuktighet"
+        },
+        "Acceleration G" : {
+            
+            "message": "Acceleration G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Accelerationsvektor"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Acceleration Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Anpassad volym"
+        },
+        "Altitude" : {
+            
+            "message": "Altitud"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Enpunktskalibrering, altitud"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitud"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Vinkel (Högupplösning)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Vinkelrörelse"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Automatisk nollställning vid start"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Läge, Auxiliary port"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE aktuellt område"
+        },
+        "BE Duration" : {
+            
+            "message": "BE varaktighet"
+        },
+        "BE Potential" : {
+            
+            "message": "BE spänning"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE samplingsfrekvens"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Barometertryck"
+        },
+        "Battery Level" : {
+            
+            "message": "Batterinivå"
+        },
+        "Battery Percent" : {
+            
+            "message": "Batteriprocent"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Batterispänning"
+        },
+        "Blank calibration" : {
+            
+            "message": "Blank kalibrering"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Bryggspänning"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ ekvivalent"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ gas"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CVS aktuellt område"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS slutspänning"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS startspänning"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS antal förlopp"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS antal segment"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS svephastighet"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS brytspänning 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS brytspänning 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Kalibreringskoefficient"
+        },
+        "Calibration power" : {
+            
+            "message": "Kalibreringspotens"
+        },
+        "Cap number" : {
+            
+            "message": "Hylsnummer"
+        },
+        "Cell" : {
+            
+            "message": "Cell"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Cellkonstant (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Cellkonstant (aktiv)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Koefficient-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Koefficient-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Koefficient-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Konduktivitet - 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": "Korrigeringsfaktor"
+        },
+        "Counts" : {
+            
+            "message": "Pulser"
+        },
+        "Current pressure" : {
+            
+            "message": "Aktuellt tryck"
+        },
+        "Current state" : {
+            
+            "message": "Aktuellt tillstånd"
+        },
+        "Current temperature" : {
+            
+            "message": "Aktuell temperatur"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Gränsfrekvens"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Mätcykelns volym"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Mätcykeltyp"
+        },
+        "DAC value" : {
+            
+            "message": "DAC-värde"
+        },
+        "DO Concentration" : {
+            
+            "message": "DO-koncentration"
+        },
+        "DO Salinity" : {
+            
+            "message": "DO-salinitet"
+        },
+        "DO Saturation" : {
+            
+            "message": "DO-mättnad"
+        },
+        "Data source" : {
+            
+            "message": "Datakälla"
+        },
+        "Declination" : {
+            
+            "message": "Deklination"
+        },
+        "Demo" : {
+            
+            "message": "Demo"
+        },
+        "Dew Point" : {
+            
+            "message": "Daggpunkt"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Diastolisk koefficient"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Differentiellt tryck"
+        },
+        "Drops" : {
+            
+            "message": "Droppar"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG likriktad"
+        },
+        "Electrode Current" : {
+            
+            "message": "Elektrodström"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Elektrodspänning"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Elektrodrengöring"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Ange 0% flödesvärde"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Ange 100% flödesvärde"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Ange 50% flödesvärde"
+        },
+        "Enter altitude" : {
+            
+            "message": "Ange altitud"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Ange barometertryck"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Ange nuvarande temperatur"
+        },
+        "Enter first known value" : {
+            
+            "message": "Ange första kända värdet"
+        },
+        "Enter k value" : {
+            
+            "message": "Ange värde på k"
+        },
+        "Enter known value" : {
+            
+            "message": "Ange känt värde"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Ange faktor"
+        },
+        "Enter n value" : {
+            
+            "message": "Ange värde på n"
+        },
+        "Enter offset value" : {
+            
+            "message": "Ange offset"
+        },
+        "Enter power value" : {
+            
+            "message": "Ange exponent"
+        },
+        "Enter second known value" : {
+            
+            "message": "Ange andra kända värdet"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Ange stationens höjdläge"
+        },
+        "Enter third known value" : {
+            
+            "message": "Ange tredje kända värdet"
+        },
+        "Envelope" : {
+            
+            "message": "Envelopp"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Beräkna enveloppens medelvärde"
+        },
+        "Error" : {
+            
+            "message": "Fel"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Etanol gas"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Etanol gas med HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Etanol bock"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Etanol ånga"
+        },
+        "Experiment Type" : {
+            
+            "message": "Typ av experiment"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Maximal utandningsvolym"
+        },
+        "FAN PWM" : {
+            
+            "message": "Fläkt PWM"
+        },
+        "FWD" : {
+            
+            "message": "Framåt"
+        },
+        "Fan" : {
+            
+            "message": "Fläkt"
+        },
+        "Fan Mode" : {
+            
+            "message": "Fläktläge"
+        },
+        "Final hold time" : {
+            
+            "message": "Slutlig hålltid"
+        },
+        "Final temperature" : {
+            
+            "message": "Sluttemperatur"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Fempunktskalibrering"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Flödeshastighetsfilter"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Andningspolaritet"
+        },
+        "Force G" : {
+            
+            "message": "Kraft G"
+        },
+        "Force Y" : {
+            
+            "message": "Kraft Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Utför enpunktskalibrering"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Utför tvåpunktskalibrering"
+        },
+        "Forward" : {
+            
+            "message": "Framåt"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Fotogaffel 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Gaffel 1 - Tillstånd"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Gaffel 1 Tillstånd"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Gaffel 1/Fjärrgaffel - Mätning"
+        },
+        "Gate 2" : {
+            
+            "message": "Fotogaffel 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Gaffel 2 - Tillstånd"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Gaffel 2 Tillstånd"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-axlig magnetfältssensor"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® acceleration"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® blodtryck"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ gas"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® kolorimeter"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® konduktivitetsgivare"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® konstantströmssystem"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® strömgivare"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® Cyclic Voltammetry System"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® droppräknare"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® elektrodförstärkare"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® energi"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Go Direct® etanolgivare"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Go Direct® etanol ånga"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® kraft- och accelerationsgivare"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® Gas Chromatograph"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® gastrycksgivare"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® handdynamometer"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® jonselektiv elektrodförstärkare"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® ljus- och färggivare"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® smältstation"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® rörelse"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® optisk löst syre"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ gas"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": "Go Direct® PAR Sensor"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® fotogaffel"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Platinum-Cell konduktivitet"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct® Polarimeter"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® Projectile Launcher"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct® Pulse Oximeter"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": "Go Direct® Pyranometer"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® strålningsdetektor"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® andingsbälte"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® rotationsrörelse"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® givarvagn (grön/G)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® givarvagn (gul/Y)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® Sound"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® spirometer"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": "Go Direct® Statisk laddning"
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Structures & Materials Tester"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® yttemperaturgivare"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® temperaturgivare"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Thermocouple Amplifier"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® spänningsgivare"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® Weather"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® temperaturgivare, stort område"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Wide-Range Pressure"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-axlig magnetsfältsgivare"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct® acceleration"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct™ blodtryck"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ CO₂ gas"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct® kolorimeter"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct® konduktivitetsgivare"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct® konstantströmssystem"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct® strömgivare"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ Cyclic Voltammetry System"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct® droppräknare"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct® elektrodförstärkare"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct® Energy"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Go Direct™ etanolgivare"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Go Direct™ etanol ånga"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® kraft- och accelerationsgivare"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ Gas Chromatograph"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® gastrycksgivare"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct™ handdynamometer"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ jonselektiv elektrodförstärkare"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct® ljus- och färggivare"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct® smältstation"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct® rörelse"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® optisk löst syre"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ O₂ gas"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": "Go Direct™ PAR Sensor"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ fotogaffel"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Platinum-Cell konduktivitet"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™ Polarimeter"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct™ Projectile Launcher"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™ Pulse Oximeter"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": "Go Direct™ Pyranometer"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct® strålningsdetektor"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct® andningsbälte"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct® rotationsrörelse"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® givarvagn (grön/G)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® givarvagn (gul/Y)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct™ Sound"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ spirometer"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": "Go Direct™ Statisk Laddning"
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ Structures & Materials Tester"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct® yttemperaturgivare"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct® temperaturgivare"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ Thermocouple Amplifier"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct® spänningsgivare"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ Weather"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct® temperaturgivare, stort mätområde"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™ Wide-Range Pressure"
+        },
+        "Heat Index" : {
+            
+            "message": "Värmeindex"
+        },
+        "Hold time" : {
+            
+            "message": "Hålltid"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Vätgasbockar"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "Illuminans"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Belysning Rå"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Fläkthjulsvarvtal"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Maximal inandningsvolym"
+        },
+        "Instrument status" : {
+            
+            "message": "Instrumentstatus"
+        },
+        "Internal Current" : {
+            
+            "message": "Intern ström"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Intern spänning"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "l"
+        },
+        "L/s" : {
+            
+            "message": "l/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED-diagnostik"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED-magnitud"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Lasergaffel - Tillstånd"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Lasergaffel Tillstånd"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Lasergaffel/Fjärrgaffel - Mätning"
+        },
+        "Launch Angle" : {
+            
+            "message": "Avfyrningsvinkel"
+        },
+        "Linear Motion" : {
+            
+            "message": "Linjär rörelse"
+        },
+        "Live" : {
+            
+            "message": "Direkt"
+        },
+        "Load cell gain" : {
+            
+            "message": "Lastcellförstärkning"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Mikrofon-FAST"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Mikrofon-FAST A-vägd"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Mikrofon-FAST C-vägd"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Rörelse (vagn)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Rörelseacceleration"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Rörelsehastighet"
+        },
+        "Motion with TC" : {
+            
+            "message": "Rörelse med temperaturkompensation"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "Nej"
+        },
+        "No smoothing" : {
+            
+            "message": "Ingen utjämning"
+        },
+        "Normalized Response" : {
+            
+            "message": "Normaliserad respons"
+        },
+        "Not ready" : {
+            
+            "message": "Ej klar"
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP varaktighet"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP samplingsfrekvens"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Föremålsacceleration (multipla flaggor)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Föremålsacceleration (en flagga)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Föremålshastighet"
+        },
+        "Off" : {
+            
+            "message": "Av"
+        },
+        "One-point calibration" : {
+            
+            "message": "Enpunktskalibrering"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Optisk rotation"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Oscillationsannoteringar"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Oscillationsmaximum"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Oscillationsminimum"
+        },
+        "Oscillations" : {
+            
+            "message": "Svängningar"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ gas"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": "O₂ Gas koncentration"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ gas rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": "PAR tvåpunktskalibrering"
+        },
+        "PPFD - CF" : {
+            
+            "message": "PPFD - CF"
+        },
+        "PPFD Correction" : {
+            
+            "message": "PPFD-korrigering"
+        },
+        "PYR two-point calibration" : {
+            
+            "message": "PYR tvåpunktskalibrering"
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Topparea"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Pendelperiod"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Pendelhastighet"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Pine inbyggd programvara huvudversion"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Pine inbyggd programvara underversion"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Pine inbyggd programvara revision"
+        },
+        "Position Direction" : {
+            
+            "message": "Lägesriktning"
+        },
+        "Position G" : {
+            
+            "message": "Position G"
+        },
+        "Position Vector" : {
+            
+            "message": "Lägesvektor"
+        },
+        "Position Y" : {
+            
+            "message": "Position Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Trepunktskalibrering"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Pulstryck"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Pulshastighet"
+        },
+        "REV" : {
+            
+            "message": "Byt tecken"
+        },
+        "Ramp rate" : {
+            
+            "message": "Temperaturändringshastighet"
+        },
+        "Raw Diastolic" : {
+            
+            "message": "Rå diastolisk"
+        },
+        "Raw MAP" : {
+            
+            "message": "Rå MAP"
+        },
+        "Raw Pressure" : {
+            
+            "message": "Rå Tryck"
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": "Rå Tryck utjämnat"
+        },
+        "Raw Systolic" : {
+            
+            "message": "Rå Systolisk"
+        },
+        "Raw Temperature" : {
+            
+            "message": "Råtemperatur"
+        },
+        "Ready" : {
+            
+            "message": "Klar"
+        },
+        "Ready to inject" : {
+            
+            "message": "Klar för injicering"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Fjärracceleration"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Fjärrgaffel - Föremålsacceleration"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Fjärrgaffel - Föremålsacceleration (en flagga)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Fjärrgaffel - Föremålshastighet"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Fjärrgaffel 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Fjärrgaffel 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Fjärrhastighet"
+        },
+        "Reverse" : {
+            
+            "message": "Byt tecken"
+        },
+        "Running" : {
+            
+            "message": "Mätning pågår"
+        },
+        "Salinity correction" : {
+            
+            "message": "Salinitetskorrektion"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Ljudnivå A-vägd"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Ljudnivå C-vägd"
+        },
+        "Start temperature" : {
+            
+            "message": "Starttemperatur"
+        },
+        "Starting" : {
+            
+            "message": "Startar"
+        },
+        "Station Pressure" : {
+            
+            "message": "Lufttryck vid stationen"
+        },
+        "Step Rate" : {
+            
+            "message": "Stegfrekvens"
+        },
+        "Steps" : {
+            
+            "message": "Steg"
+        },
+        "Stopped" : {
+            
+            "message": "Stoppad"
+        },
+        "Switch USB" : {
+            
+            "message": "Byt USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Systolisk koefficient"
+        },
+        "Temperature correction" : {
+            
+            "message": "Temperaturkorrigering"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Trepunktskalibrering"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Flykttidsplatta"
+        },
+        "Timing" : {
+            
+            "message": "Mätning"
+        },
+        "Total VOC" : {
+            
+            "message": "Total VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Tvåpunktskalibrering"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Termoelement typ J"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Termoelement typ K"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Termoelement typ T"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": "UV Blå"
+        },
+        "UV Index" : {
+            
+            "message": "UV-index"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV-intensitet"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": "Använd utjämning"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Vektorområde, max"
+        },
+        "Vector range Min" : {
+            
+            "message": "Vektorområde, min"
+        },
+        "Velocity G" : {
+            
+            "message": "Hastighet G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Hastighetsvektor"
+        },
+        "Velocity Y" : {
+            
+            "message": "Hastighet Y"
+        },
+        "Velocity2" : {
+            
+            "message": "Hastighet2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Spänning - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Spänning - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Volymkorrektionsfaktor"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Volympolaritet"
+        },
+        "W/m²" : {
+            
+            "message": "W/m²"
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Vågamplitud"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Vågfrekvens"
+        },
+        "Wind Chill" : {
+            
+            "message": "Vindens kyleffekt"
+        },
+        "Wind Direction" : {
+            
+            "message": "Vindriktning"
+        },
+        "Wind Speed" : {
+            
+            "message": "Vindhastighet"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Vindriktningskalibrering"
+        },
+        "X magnetic field" : {
+            
+            "message": "x-magnetfält"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "x-magnetfält 130 mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "x-vinkelhastighet"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "x-acceleration"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "x-acceleration G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "x-acceleration Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "Enpunktskalibrering, x-acceleration"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "x-acceleration, hög"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "Enpunktskalibrering, x-acceleration, hög"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "x-vinkelhastighet"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "x-vinkelhastighet G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "x-vinkelhastighet Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "x-gyro"
+        },
+        "Y magnetic field" : {
+            
+            "message": "y-magnetfält"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "y-magnetfält 130 mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "y-vinkelhastighet"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "y-acceleration"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "y-acceleration G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "y-acceleration Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Enpunktskalibrering, y-acceleration"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "y-acceleration, hög"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Enpunktskalibrering, y-acceleration, hög"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "y-vinkelhastighet"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "y-vinkelhastighet G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "y-vinkelhastighet Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "y-gyro"
+        },
+        "Yes" : {
+            
+            "message": "Ja"
+        },
+        "Z magnetic field" : {
+            
+            "message": "z-magnetfält"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "z-magnetfält 130 mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "z-vinkelhastighet"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "z-acceleration"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "z-acceleration G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "z-acceleration Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Enpunktskalibrering, z-acceleration"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "z-acceleration, hög"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Enpunktskalibrering, z-acceleration, hög"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "z-vinkelhastighet"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "z-vinkelhastighet G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "z-vinkelhastighet Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "z-gyro"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "slag/min"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "pulser"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "fot"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "tum"
+        },
+        "inHg" : {
+            
+            "message": "tumHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "knop"
+        },
+        "lb" : {
+            
+            "message": "pund"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "ml"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/l"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": "nC"
+        },
+        "pC" : {
+            
+            "message": "pC"
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "råspänning"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "varv"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "steg"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": "umol m-2 s-1"
+        },
+        "units/s" : {
+            
+            "message": "enheter/s"
+        },
+        "units/s²" : {
+            
+            "message": "enheter/s²"
+        },
+        "velocity2" : {
+            
+            "message": "hastighet2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx9"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": "µmol m⁻² s⁻¹"
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Cosinus"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Cosinus kvadrerad"
+        },
+        "Inverse" : {
+            
+            "message": "Omvänt proportionell"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Omvänt proportionell mot kvadraten"
+        },
+        "Linear" : {
+            
+            "message": "Linjär"
+        },
+        "Modified Power" : {
+            
+            "message": "Modifierad effekt"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Naturlig exponent"
+        },
+        "Natural Log" : {
+            
+            "message": "Naturlig log"
+        },
+        "Not defined" : {
+            
+            "message": "Ej definierat"
+        },
+        "Power" : {
+            
+            "message": "Potens"
+        },
+        "Proportional" : {
+            
+            "message": "Proportionell"
+        },
+        "Quadratic" : {
+            
+            "message": "Kvadratisk"
+        },
+        "Sine" : {
+            
+            "message": "Sinus"
+        },
+        "Slope" : {
+            
+            "message": "Lutning"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Egendefinierat uttryck"
+        }
+        
+    }
+}

@@ -1,0 +1,6474 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d clients sont connectés"
+        },
+        "%s All" : {
+            
+            "message": "%s tout"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s toutes les séries"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s options d'affichage"
+        },
+        "%s details" : {
+            
+            "message": "%s détails"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s est en cours de mesures. Voulez-vous arrêter les mesures et commencer une nouvelle expérience ?"
+        },
+        "%s Options" : {
+            
+            "message": "Options %s"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(distance, vitesse, accélération)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 graphe"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "Dérivée"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "Derivée Première décalée"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "Dérivée(Y,X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 Graphes"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 graphes"
+        },
+        "2nd derivative" : {
+            
+            "message": "Dérivée seconde"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "Dérivée seconde décalée"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "DérivéeSeconde(Y,X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 Graphes"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 graphes"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Une erreur de communication s'est produite. Commencez une nouvelle expérience pour continuer."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Une erreur de communications a provoqué l'arrêt des mesures. Veuillez réessayer."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B et C sont des paramètres que vous pouvez définir. X, Y et Z sont des colonnes existantes dans votre tableau."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "A propos"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "A propos des régressions personnalisées"
+        },
+        "Absolute Value" : {
+            
+            "message": "Valeur Absolue"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "Accepter l'accord de licence"
+        },
+        "Accessories" : {
+            
+            "message": "Accessoires"
+        },
+        "across" : {
+            
+            "message": "et passe par"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Activer les fonctionnalités \"Pro\" avec votre clé de licence"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "Activer pour ajouter une régression manuelle"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Activer \"Pro\" pour appliquer une TFR"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Activer \"Pro\" pour faire un histogramme"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Activer pour restaurer les cellules rayées"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Activer pour afficher l'incertitudes de paramètres de la régression"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Activer pour rayer les cellules"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Activer pour rayer/restaurer"
+        },
+        "Activate to use %s" : {
+            
+            "message": "Activer \"Pro\" pour utiliser %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Activer \"Pro\" pour utiliser les histogrammes"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "Activer pour utiliser des Notes"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Activer \"Pro\" pour utiliser le partage en ligne"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Activer \"Pro\" pour utiliser la vidéo"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Ajouter une colonne calculée"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Ajoutez ici un titre pour le graphe"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Ajouter une colonne manuelle"
+        },
+        "Add Annotation" : {
+            
+            "message": "Ajouter une Annotation"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Ajouter une colonne calculée"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Ajouter de l'eau distillée au flacon de stockage jusqu'en haut de l'éponge."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Ajouter un graphe à reproduire"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Ajouter une colonne manuelle"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "Ajouter une régression manuelle"
+        },
+        "add meters" : {
+            
+            "message": "ajouter des cadrans"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Ajouter un nouvel ensemble de données"
+        },
+        "Add Prediction" : {
+            
+            "message": "Ajouter une prédiction"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Ajouter un capteur Soft"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Ajoutez la solution titrante goutte à goutte à travers le compteur de gouttes dans une éprouvette graduée de 10 mL."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Ajouter/supprimer des cadrans"
+        },
+        "Advanced" : {
+            
+            "message": "Avancé"
+        },
+        "After" : {
+            
+            "message": "Après"
+        },
+        "After set number of flags" : {
+            
+            "message": "Après un nombre défini de barres"
+        },
+        "All" : {
+            
+            "message": "Tout"
+        },
+        "Always Show 0" : {
+            
+            "message": "Toujours Afficher le 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitude"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Une expression doit comporter la variable indépendante et au moins un paramètre."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Une connexion Internet est nécessaire pour la session de partage de données. Reconnectez-vous à Internet et tapez Reconnecter."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Une connexion Internet est nécessaire pour accéder au partage de données en ligne"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Une connexion Internet est nécessaire pour partager des données"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Une connexion Internet est nécessaire pour partager les données. Reconnectez-vous à Internet puis recommencez une nouvelle session de partage pour continuer le partage."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "un accessoire en option du lanceur de projectile, utilisé pour avoir la durée du vol du projectile."
+        },
+        "and " : {
+            
+            "message": "et "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "et tapez STOP PARTAGE"
+        },
+        "Angle units" : {
+            
+            "message": "Unité Angle"
+        },
+        "Angular Motion" : {
+            
+            "message": "Mouvement angulaire"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Info Mvt angulaire"
+        },
+        "App is up to date" : {
+            
+            "message": "L'application est à jour"
+        },
+        "App Preferences" : {
+            
+            "message": "Préférences de l'App"
+        },
+        "App Updates" : {
+            
+            "message": "Mises à jour de l'application"
+        },
+        "Appearance" : {
+            
+            "message": "Apparence"
+        },
+        "Append" : {
+            
+            "message": "Ajouter"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Ajouter les données à l'ensemble de données en cours en cours ou créer un nouvel ensemble ?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Ajouter ou Créer un nouveau ?"
+        },
+        "Apply" : {
+            
+            "message": "Appliquer"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Appliquer une régression"
+        },
+        "Apply FFT" : {
+            
+            "message": "Appliquer une TFR"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Appliquer un histogramme"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Aire"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Quand vous faites des mesures, ils verront vos mesures dans leurs versions de Graphical Analysis"
+        },
+        "Auto" : {
+            
+            "message": "Auto"
+        },
+        "Automatic" : {
+            
+            "message": "Automatique"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Utiliser une moyenne sur 10 secondes"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Calcul de la moyenne sur 10 secondes"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Taille Etiquette d'axe"
+        },
+        "Back" : {
+            
+            "message": "Retour"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Filtre Passe-bande"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Filtre Stop-bande"
+        },
+        "Bar Tape" : {
+            
+            "message": "Ruban adhésif rayé"
+        },
+        "Bars" : {
+            
+            "message": "Barres"
+        },
+        "Base" : {
+            
+            "message": "Base"
+        },
+        "Base Axis" : {
+            
+            "message": "Axe Abcisse"
+        },
+        "Battery" : {
+            
+            "message": "Batterie"
+        },
+        "Battery Level" : {
+            
+            "message": "Niveau batterie"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Valeur Début Barre"
+        },
+        "Bin Width" : {
+            
+            "message": "Largeur Barre"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Appareil Bluetooth"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth non activé"
+        },
+        "Bold" : {
+            
+            "message": "Gras"
+        },
+        "Book" : {
+            
+            "message": "Livre"
+        },
+        "Book Title" : {
+            
+            "message": "Titre du livre"
+        },
+        "Both" : {
+            
+            "message": "Les deux"
+        },
+        "Bottom" : {
+            
+            "message": "Bas"
+        },
+        "Bottom Bar" : {
+            
+            "message": "Barre en bas"
+        },
+        "Bullet list" : {
+            
+            "message": "Puce"
+        },
+        "Calculated %s" : {
+            
+            "message": "Calculé %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Colonne calculée"
+        },
+        "Calibrate" : {
+            
+            "message": "Calibrer"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Calibrer maintenant"
+        },
+        "Calibrating..." : {
+            
+            "message": "Calibration en cours..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Calibration terminée"
+        },
+        "Calibration failed" : {
+            
+            "message": "Echec de la calibration"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Calibration réinitialisée avec succès"
+        },
+        "Calibration Type" : {
+            
+            "message": "Type de calibration"
+        },
+        "Cancel" : {
+            
+            "message": "Annuler"
+        },
+        "cancel" : {
+            
+            "message": "annuler"
+        },
+        "Capable" : {
+            
+            "message": "Capable"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Plaque rayée Chariot"
+        },
+        "Categorical" : {
+            
+            "message": "Catégoriel"
+        },
+        "Categorical Data" : {
+            
+            "message": "Données de catégories"
+        },
+        "Ceiling" : {
+            
+            "message": "Majorant"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "Poignée centrale de la régression manuelle"
+        },
+        "Change left y-axis" : {
+            
+            "message": "Modifier l'axe-y gauche"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Modifier l'axe-y droit"
+        },
+        "Change x-axis" : {
+            
+            "message": "Changer l'axe-x"
+        },
+        "Change y-axis" : {
+            
+            "message": "changer l'axe-y"
+        },
+        "Channels" : {
+            
+            "message": "Voies"
+        },
+        "Charging," : {
+            
+            "message": "en charge,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Vérifier les mise à jour firmware"
+        },
+        "Check for software updates" : {
+            
+            "message": "Vérifier les mises à jour logicielles"
+        },
+        "Check for Updates" : {
+            
+            "message": "Vérifier les mises à jour"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Chercher le capteur avec LED clignotante"
+        },
+        "Checking for update..." : {
+            
+            "message": "Vérification des mises à jour..."
+        },
+        "Choose File" : {
+            
+            "message": "Choisir un fichier"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Choisir un dossier..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Choisir cette option pour se connecter à un capteur Go Direct en USB."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Choisir cette option pour se connecter à un capteur Go! Temp."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": "Choisir pour connecter une interface Go! Link."
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": "Choisir pour connecter un détecteur Go! Motion."
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "Choisir cette option pour se connecter à une interface LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, ou LabQuest Stream par USB."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "Chrome 102 ou ultérieur est nécessaire. iPad et iPhone ne sont pas supportés."
+        },
+        "Circle" : {
+            
+            "message": "Cercle plein"
+        },
+        "Clear Expression" : {
+            
+            "message": "Effacer Expression"
+        },
+        "Clear Filter" : {
+            
+            "message": "Effacer le filtre"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Cliquez ou tapez DEMARRER SESSION pour générer un code ID pour votre session"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "Cliquer sur le bouton Marquer pendant les mesures pour ajouter une marque à l'instant courant."
+        },
+        "Close" : {
+            
+            "message": "Fermer"
+        },
+        "Close Alert" : {
+            
+            "message": "Fermer l'alerte"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Fermer l'App et mettre à jour le Firmware"
+        },
+        "Close Application" : {
+            
+            "message": "Fermer l'application"
+        },
+        "Close Dialog" : {
+            
+            "message": "Fermer dialogue"
+        },
+        "Close FFT" : {
+            
+            "message": "Fermer TFR"
+        },
+        "Close graph legend" : {
+            
+            "message": "Fermer Légende Graphe"
+        },
+        "Close Histogram" : {
+            
+            "message": "Fermer Histogramme"
+        },
+        "Close Infobox" : {
+            
+            "message": "Fermer la boite Info"
+        },
+        "Close Menu" : {
+            
+            "message": "Fermer le Menu"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Fermer Fréquence Pic"
+        },
+        "Close Popover" : {
+            
+            "message": "Fermer le popup"
+        },
+        "Close Replay" : {
+            
+            "message": "Fermer Play-back"
+        },
+        "Close Start Page" : {
+            
+            "message": "Fermer Page de démarrage"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Fermez ce dialogue pour continuer"
+        },
+        "Code" : {
+            
+            "message": "Code"
+        },
+        "Coefficient" : {
+            
+            "message": "Coefficient"
+        },
+        "Collapse" : {
+            
+            "message": "Réduire"
+        },
+        "Collect" : {
+            
+            "message": "Mesurer"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Faire des mesures avec des capteurs Vernier"
+        },
+        "Collecting" : {
+            
+            "message": "Mesures en cours"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "Mesures en cours de %d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Une tel nombre de mesures peut diminuer la performance."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Mesures pendant ${eventParams.accumulate} secondes"
+        },
+        "Collection Parameters" : {
+            
+            "message": "Paramètres de mesure"
+        },
+        "Column %s" : {
+            
+            "message": "Colonne %s"
+        },
+        "Column Options" : {
+            
+            "message": "Options colonnes"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "La colonne va être supprimée dans tous les ensembles de données. Cette suppression ne pourra pas être annulée."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "CSV"
+        },
+        "Complementary Error" : {
+            
+            "message": "Erreur Complémentaire"
+        },
+        "Configurator" : {
+            
+            "message": "Configurateur"
+        },
+        "Confirm" : {
+            
+            "message": "Confirmer"
+        },
+        "Connect" : {
+            
+            "message": "Connecter"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Connecter un <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">appareil Vernier USB supporté</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Connecter un appareil"
+        },
+        "Connect a Device" : {
+            
+            "message": "Connecter un appareil"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Connecter un LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Connecter via Wifi à LabQuest2 ou Logger Pro"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "Connecter ces appareils pour des mesures."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Connecter cet appareil pour des mesures."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Se connecter à une session de partage de données d'une source Graphical Analysis"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Se connecter à une source LabQuest, Logger Pro ou Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Se connecter à une session déjà créée pour partager les paramètres, données, etc, ou créer une nouvelle session."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Connecter à un appareil sans fil ci-dessous ou connecter via USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Connecter à un appareil sans fil ci-dessous."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Se connecter à une session déjà créée"
+        },
+        "connected" : {
+            
+            "message": "connecté"
+        },
+        "Connected Devices" : {
+            
+            "message": "Appareils connectés"
+        },
+        "Connecting" : {
+            
+            "message": "Connexion en cours"
+        },
+        "Connection error" : {
+            
+            "message": "Erreur de connexion"
+        },
+        "Connection Lost" : {
+            
+            "message": "Connexion perdue"
+        },
+        "Connection status info" : {
+            
+            "message": "Info Etat de la connexion"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Echec de la connexion à %s"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "Connecté à %s"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "Continuer pour les options de récupération"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "Continuer sans les appareils demandés"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Note à propos des cookies"
+        },
+        "Copy" : {
+            
+            "message": "Copier"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Copier Histogramme"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Copier ID Hote"
+        },
+        "Copy Link" : {
+            
+            "message": "Copier le Lien"
+        },
+        "Copy Sign" : {
+            
+            "message": "Copier Signe"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Copier vers le presse papiers"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Copier vers le Presse papiers"
+        },
+        "Cosine" : {
+            
+            "message": "Cosinus"
+        },
+        "Count Interval" : {
+            
+            "message": "Intervalle de comptage"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Créer une régression personnalisée"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Créer nouvel ensemble de données"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Créer une colonne calculée personnalisée"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Créer une régression personnalisée"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Racine cubique"
+        },
+        "Curve Fit" : {
+            
+            "message": "Régression"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Colonnes calculées personnalisées"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Régressions personnalisées"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Info Régression personnalisée"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Info Expression personnelle"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Les régressions personnalisées sont enregistrées dans le fichier. Si vous commencez une nouvelle session ou redémarrez l'application, ces régressions ne sont pas conservées."
+        },
+        "Custom Session" : {
+            
+            "message": "Session personnalisée"
+        },
+        "Cut" : {
+            
+            "message": "Couper"
+        },
+        "Dark" : {
+            
+            "message": "Foncé"
+        },
+        "Darker" : {
+            
+            "message": "Plus foncé"
+        },
+        "Darkest" : {
+            
+            "message": "Le plus foncé"
+        },
+        "Data" : {
+            
+            "message": "Données"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "Les mesures ont commencés en mode enregistrement à distance."
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Paramètres des mesures"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "La mesure s'arrêtera automatiquement quand toutes les portes auront le nombre attendu de mesures de position (identique au nombre de drapeaux). Recommencer la mesure démarrera une nouvelle série de mesures."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "La mesure continuera jusqu'à l'appui sur Stop. Les valeurs de position continueront à s'ajouter, en espaçant les valeurs, jusqu'à ce que la mesure soit arrêtée."
+        },
+        "Data Mark" : {
+            
+            "message": "Marque de donnée"
+        },
+        "Data Marking" : {
+            
+            "message": "Marquage de données"
+        },
+        "Data Set %d" : {
+            
+            "message": "Série %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Nom de la série"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Le nom des ensembles de données est limité à %s caractères."
+        },
+        "Data Set Options" : {
+            
+            "message": "Options ensemble de données"
+        },
+        "Data Set Time" : {
+            
+            "message": "Date Données"
+        },
+        "Data Share" : {
+            
+            "message": "Partage de données"
+        },
+        "Data Sharing" : {
+            
+            "message": "Partage des données"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Partage de données actif"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "La session de partage de données a débuté"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Etat de la session de partage"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Etat du Partage de données"
+        },
+        "Data Table" : {
+            
+            "message": "Tableau"
+        },
+        "Data Type" : {
+            
+            "message": "Type de données"
+        },
+        "Data Type Info" : {
+            
+            "message": "Info Type de données"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Options Affichage Séries de mesures"
+        },
+        "Decimal Format" : {
+            
+            "message": "Format décimal"
+        },
+        "Decimal Places" : {
+            
+            "message": "Nombre de décimales"
+        },
+        "decrease" : {
+            
+            "message": "diminue"
+        },
+        "decreasing" : {
+            
+            "message": "diminue"
+        },
+        "degrees" : {
+            
+            "message": "degrés"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Degrés (°)"
+        },
+        "Delete" : {
+            
+            "message": "Supprimer"
+        },
+        "Delete %s?" : {
+            
+            "message": "Supprimer %s ?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Supprimer une colonne"
+        },
+        "Delete Column" : {
+            
+            "message": "Supprimer Colonne"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Supprimer la colonne %s ?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Supprimer Marque de données"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Supprimer Ensemble de données"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Supprimer Reproduction de Graphe"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Supprimer Prédiction"
+        },
+        "Delete Video" : {
+            
+            "message": "Supprimer Vidéo"
+        },
+        "Delta" : {
+            
+            "message": "Delta"
+        },
+        "Device Error" : {
+            
+            "message": "Erreur appareil"
+        },
+        "Device Information" : {
+            
+            "message": "Information Appareil"
+        },
+        "Device information" : {
+            
+            "message": "Information Appareil"
+        },
+        "Devices" : {
+            
+            "message": "Appareils"
+        },
+        "Diameter" : {
+            
+            "message": "Diamètre"
+        },
+        "Diamond" : {
+            
+            "message": "Losange plein"
+        },
+        "Dimension" : {
+            
+            "message": "Dimension"
+        },
+        "Disabled" : {
+            
+            "message": "Désactivé"
+        },
+        "Disconnect" : {
+            
+            "message": "Déconnecter"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "Débrancher et continuer l'enregistrement"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "Débrancher le câble USB maintenant."
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "Déconnecter sans effacer les mesures"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Appareils trouvés"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Appareils sans fil trouvés"
+        },
+        "Display Meters" : {
+            
+            "message": "Afficher Cadrans"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Colonnes affichées"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Séries affichées"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Précision affichée"
+        },
+        "Distance" : {
+            
+            "message": "Distance"
+        },
+        "Distance between gates" : {
+            
+            "message": "Distance entre les barrières"
+        },
+        "Distribute App" : {
+            
+            "message": "Distribuer l'App"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "Distribuer Vernier Graphical Analysis"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Voulez vous effacer définitivement cette marque de données ?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Voulez vous enregistrer les modifications du fichier %s ? Les modifications seront perdues si vous ne les enregistrez pas."
+        },
+        "Don't Save" : {
+            
+            "message": "Ne pas enregistrer"
+        },
+        "Done" : {
+            
+            "message": "Terminé"
+        },
+        "done" : {
+            
+            "message": "Terminé"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Téléchargement terminé. Les mises à jour seront installées au prochain lancement de l'application"
+        },
+        "Download Experiment" : {
+            
+            "message": "Télécharger l'expérience"
+        },
+        "Download Update" : {
+            
+            "message": "Télécharger la mise à jour"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Dessiner une prédiction"
+        },
+        "Drop Counting" : {
+            
+            "message": "Comptage de Gouttes"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Mesure(s) perdue(s). Veuillez recommencer l'expérience et utiliser une fréquence d'échantillonnage plus faible."
+        },
+        "Drops" : {
+            
+            "message": "Gouttes"
+        },
+        "Drops/mL" : {
+            
+            "message": "Gouttes/mL"
+        },
+        "duration" : {
+            
+            "message": " "
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "par ex 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "e.g., 007 ou TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Editer Option Graphe"
+        },
+        "Edit mode" : {
+            
+            "message": "Mode Edition"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Activer le bluetooth pour connecter des capteurs sans fil."
+        },
+        "Enable Replay" : {
+            
+            "message": "Activer Play-back"
+        },
+        "Enabled" : {
+            
+            "message": "Activé"
+        },
+        "End Collection" : {
+            
+            "message": "Finir la mesure"
+        },
+        "End data collection" : {
+            
+            "message": "Arrêter la mesure"
+        },
+        "End User License Agreement" : {
+            
+            "message": "Licence utilisateur final"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Terminez votre session de partage de données en tapant"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Entrer une annotation"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Entrer les données au clavier ou par copier/coller"
+        },
+        "Enter first known value" : {
+            
+            "message": "Entrer la première valeur connue"
+        },
+        "Enter second known value" : {
+            
+            "message": "Entrer la seconde valeur connue"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Entrez le volume précis de solution titrante dans l'éprouvette graduée"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Entrez l'ID de la source :"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "Entrer dans le mode Catégorie"
+        },
+        "Equation" : {
+            
+            "message": "Equation"
+        },
+        "Error" : {
+            
+            "message": "Erreur"
+        },
+        "Error Bar Info" : {
+            
+            "message": "Info Barre d'erreur"
+        },
+        "Error Bars" : {
+            
+            "message": "Barres d'erreurs"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Erreur : accès au presse-papiers refusé."
+        },
+        "Event" : {
+            
+            "message": "Evénement"
+        },
+        "Event Based" : {
+            
+            "message": "Manuel"
+        },
+        "Event Mode" : {
+            
+            "message": "Mode manuel"
+        },
+        "Event Name" : {
+            
+            "message": "Nom événement"
+        },
+        "Events with Entry" : {
+            
+            "message": "Manuel avec entrée"
+        },
+        "Events With Entry" : {
+            
+            "message": "Manuel avec entrée"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Exemple : 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Exemple : kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Exp - 1"
+        },
+        "Expand" : {
+            
+            "message": "Montrer"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Etendre ID Hôte"
+        },
+        "Experiment Name" : {
+            
+            "message": "Nom d'expérience"
+        },
+        "Experimental Features" : {
+            
+            "message": "Fonctionnalités expérimentales"
+        },
+        "Exponent" : {
+            
+            "message": "Exposant"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Exponentielle Base 2"
+        },
+        "Export" : {
+            
+            "message": "Exporter"
+        },
+        "Export CSV" : {
+            
+            "message": "Exporter CSV"
+        },
+        "Expression" : {
+            
+            "message": "Expression"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Date Calibration d'usine"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Poussée ventilateur"
+        },
+        "FFT" : {
+            
+            "message": "TFR"
+        },
+        "FFT options" : {
+            
+            "message": "Options TFR"
+        },
+        "File Menu" : {
+            
+            "message": "Menu Fichier"
+        },
+        "File saved" : {
+            
+            "message": "Fichier enregistré"
+        },
+        "Filename" : {
+            
+            "message": "Nom de fichier"
+        },
+        "Filter Device List" : {
+            
+            "message": "Filtrer la liste des appareils"
+        },
+        "Firmware" : {
+            
+            "message": "Firmware"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Information de mise à jour Firmware"
+        },
+        "First Derivative" : {
+            
+            "message": "Dérivée première"
+        },
+        "Fit Expression" : {
+            
+            "message": "Expression Régression"
+        },
+        "Fit Name" : {
+            
+            "message": "Nom Régression"
+        },
+        "Fit Options" : {
+            
+            "message": "Options Regression"
+        },
+        "Fixed Value" : {
+            
+            "message": "Valeur fixe"
+        },
+        "Flag Width" : {
+            
+            "message": "Largeur barre"
+        },
+        "Flags" : {
+            
+            "message": "Drapeaux"
+        },
+        "Floor" : {
+            
+            "message": "Minorant"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Pour les objets Vernier, l'espacement et le nombre de barres sont affichés pour l'objet choisi. Pour le ruban adhésif rayé, entrer le nombre de barres."
+        },
+        "Frequency" : {
+            
+            "message": "Fréquence"
+        },
+        "From Vernier.com" : {
+            
+            "message": "de Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Fonction"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Les fonctions et la variable indépendante doivent être en minuscules."
+        },
+        "Gate Separation" : {
+            
+            "message": "Séparation portes"
+        },
+        "Gate State" : {
+            
+            "message": "Etat Porte"
+        },
+        "Gate timing" : {
+            
+            "message": "Chrono Porte"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "carte des capteurs GDX"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Donnez ce code ID aux autres pour qu'ils puissent rejoindre votre session"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Capteurs Go Direct"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Aller au début de la vidéo"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Go! Link" : {
+            
+            "message": "Go! Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Graph" : {
+            
+            "message": "Graphe"
+        },
+        "Graph %s" : {
+            
+            "message": "Graphe %s"
+        },
+        "Graph 1" : {
+            
+            "message": "Graphe 1"
+        },
+        "Graph 2" : {
+            
+            "message": "Graphe 2"
+        },
+        "Graph 3" : {
+            
+            "message": "Graphe 3"
+        },
+        "Graph Display" : {
+            
+            "message": "Affichage Graphe"
+        },
+        "Graph Inset" : {
+            
+            "message": "Graphe encadré"
+        },
+        "Graph Legend" : {
+            
+            "message": "Légende graphe"
+        },
+        "Graph Match" : {
+            
+            "message": "Reproduire un graphe"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Options Reproduire un graphe"
+        },
+        "Graph Options" : {
+            
+            "message": "Options Graphe"
+        },
+        "Graph Shape" : {
+            
+            "message": "Forme du graphe"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Information Graphical Analysis Pro"
+        },
+        "Graphs" : {
+            
+            "message": "Graphes"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "En-tête 1"
+        },
+        "Heading 2" : {
+            
+            "message": "En-tête 2"
+        },
+        "Heading 3" : {
+            
+            "message": "En-tête 3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "Aide pour connecter un appareil"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "Aide pour connecter un appareil"
+        },
+        "Hide" : {
+            
+            "message": "Cacher"
+        },
+        "Hide Details" : {
+            
+            "message": "Cacher les détails"
+        },
+        "High-pass Filter" : {
+            
+            "message": "Filtre Passe-haut"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Mode haute-résolution"
+        },
+        "Histogram" : {
+            
+            "message": "Histogramme"
+        },
+        "Histogram options" : {
+            
+            "message": "Options Histogramme"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Graduation horizontale"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Herberger une session de partage"
+        },
+        "How To Distribute" : {
+            
+            "message": "Comment distribuer"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Cosinus hyperbolique"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Sinus hyperbolique"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Tangente hyperbolique"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Hypoténuse"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Identifier"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "Si un autre appareil est nécessaire, répéter la procédure."
+        },
+        "Ignore" : {
+            
+            "message": "Ignorer"
+        },
+        "Import Video" : {
+            
+            "message": "Importer Film"
+        },
+        "increase" : {
+            
+            "message": "augmente"
+        },
+        "increasing" : {
+            
+            "message": "augmente"
+        },
+        "Insert Expression" : {
+            
+            "message": "Insérer une expression"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Insérer la sonde dans le flacon sans que l'extrémité ne touche l'eau ou l'éponge."
+        },
+        "Integral" : {
+            
+            "message": "Intégrale"
+        },
+        "Intercept" : {
+            
+            "message": "Ordonnée en 0"
+        },
+        "Interpolate" : {
+            
+            "message": "Interpoler"
+        },
+        "Interval" : {
+            
+            "message": "Période"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Equation non valide"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Expression non valide"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Cosinus inverse"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Cosinus hyperbolique inverse"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Sinus hyperbolique inverse"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Tangente hyperbolique inverse"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Sinus inverse"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Tangente inverse"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Tangente 2 inverse"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "Rectangle vertical vide"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "Triangle inversé vide"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "Rectangle vertical plein"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "Triangle inversé plein"
+        },
+        "is" : {
+            
+            "message": " "
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "n'est pas encore supporté. Essayez un autre."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Il est fortement recommandé de faire une calibration après un changement de membrane."
+        },
+        "Italic" : {
+            
+            "message": "Italique"
+        },
+        "Join New Experiment" : {
+            
+            "message": "Rejoindre une Nouvelle Expérience"
+        },
+        "Keep" : {
+            
+            "message": "Garder"
+        },
+        "Keep Point" : {
+            
+            "message": "Garder le point"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Maintenez la sonde verticalement dans ce milieu pendant au moins 60 secondes puis choississez \"Calibrer maintenant\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Les valeurs connues doivent être différentes pour une calibration à 2 points."
+        },
+        "LabQuest" : {
+            
+            "message": "LabQuest"
+        },
+        "LabQuest Devices" : {
+            
+            "message": "Appareils LabQuests"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Grand"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Dernière calibration le"
+        },
+        "Launch Speed" : {
+            
+            "message": "Vitesse de lancement"
+        },
+        "Left" : {
+            
+            "message": "Gauche"
+        },
+        "Left Axis" : {
+            
+            "message": "Axe à Gauche"
+        },
+        "Left manual fit handle" : {
+            
+            "message": "Poignée gauche de régression manuelle"
+        },
+        "Left y-axis range" : {
+            
+            "message": "Echelle axe-Y gauche"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Type Fichier Ancien"
+        },
+        "License Key" : {
+            
+            "message": "Clé de licence"
+        },
+        "License Key is expired." : {
+            
+            "message": "La clé de licence a expirée."
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "La clé de licence n'est pas valide pour cette voie."
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "La clé de licence n'est pas valide pour ce produit."
+        },
+        "License Key is required." : {
+            
+            "message": "La clé de licence est nécessaire."
+        },
+        "License Key is suspended." : {
+            
+            "message": "La clé de licence est suspendue."
+        },
+        "License Key not recognized." : {
+            
+            "message": "La clé de licence n'est pas reconnue."
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "La validation de la clé de licence nécessite une connexion Internet. Vérifiez votre connexion."
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "Le serveur de validation de clé de licence ne peut pas être atteint."
+        },
+        "Licensed To" : {
+            
+            "message": "Licence accordée à"
+        },
+        "Licensed to" : {
+            
+            "message": "Licence accordée à"
+        },
+        "Line Shade" : {
+            
+            "message": "Ombre Ligne"
+        },
+        "Linear Motion" : {
+            
+            "message": "Mouvement rectiligne"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "Info Mvt Linéaire"
+        },
+        "Lines" : {
+            
+            "message": "Lignes"
+        },
+        "Link" : {
+            
+            "message": "Lien"
+        },
+        "Link Copied" : {
+            
+            "message": "Lien copié"
+        },
+        "list item" : {
+            
+            "message": "Elément de liste"
+        },
+        "Load Experiment" : {
+            
+            "message": "Charger l'expérience"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "Copie locale non sync. Rafraichissement..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Log Base 2"
+        },
+        "Log Base b" : {
+            
+            "message": "Log Base b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": "Enregistrements sur l'appareil"
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Filtre Passe-bas"
+        },
+        "Main Content" : {
+            
+            "message": "Contenu principal"
+        },
+        "Manual" : {
+            
+            "message": "Manuelle"
+        },
+        "Manual %s" : {
+            
+            "message": "Manuelle %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Entrée manuelle"
+        },
+        "Manual Fit" : {
+            
+            "message": "Régession manuelle"
+        },
+        "Manual Scaling" : {
+            
+            "message": "Echelle manuelle"
+        },
+        "Manually" : {
+            
+            "message": "Manuellement"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Date de fabrication"
+        },
+        "Mark" : {
+            
+            "message": "Marque"
+        },
+        "Max" : {
+            
+            "message": "Max"
+        },
+        "Maximize Application" : {
+            
+            "message": "Maximiser l'application"
+        },
+        "Mean" : {
+            
+            "message": "Moyenne"
+        },
+        "Measurement" : {
+            
+            "message": "Mesure"
+        },
+        "Medium" : {
+            
+            "message": "Moyenne"
+        },
+        "Meter Actions" : {
+            
+            "message": "Actions Cadrans"
+        },
+        "Meter All Columns" : {
+            
+            "message": "Afficher toutes les colonnes dans des cadrans"
+        },
+        "Meter Size" : {
+            
+            "message": "Taille Cadran"
+        },
+        "Meter View Options" : {
+            
+            "message": "Options Affichage Cadran"
+        },
+        "Metered" : {
+            
+            "message": "Affiché dans un cadran"
+        },
+        "metering on all columns" : {
+            
+            "message": "Cadrans pour toutes les colonnes"
+        },
+        "Meters" : {
+            
+            "message": "Cadrans"
+        },
+        "min" : {
+            
+            "message": "min"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "Minimize Application" : {
+            
+            "message": "Minimiser l'application"
+        },
+        "Mode" : {
+            
+            "message": "Mode"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "Mode modifié en Manuel avec Entrée."
+        },
+        "Modulo" : {
+            
+            "message": "Modulo"
+        },
+        "Move Down" : {
+            
+            "message": "Déplacer vers le bas"
+        },
+        "Move Up" : {
+            
+            "message": "Déplacer vers le haut"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Des barres multiples et régulièrement espacées sur un objet sont utilisées pour déterminer la position quand l'objet passe la barrière. Le premier événement Bloqué définit la position zéro. Les événements Bloqués suivants augmentent la position de la valeur d'espacement. Les données de vitesse et d'accélération sont calculées en utilisant les dérivées premières et secondes de la position par rapport au temps."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Des rayons multiples et régulièrement espacés sur une roue sont utilisés pour déterminer la position angulaire de la roue quand elle tourne. Le premier événement Bloqué définit l'angle zéro. Les événements Bloqués suivants augmentent l'angle de 2π/n radians, où n est le nombre de rayons de la roue. Les données de vitesse angulaire et d'accélération sont calculées en utilisant les dérivées premières et secondes de l'angle par rapport au temps."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "La multiplication peut être explicite ou implicite."
+        },
+        "Mute Audio" : {
+            
+            "message": "Couper le son"
+        },
+        "My-File-Name" : {
+            
+            "message": "Mon-Nom-Fichier"
+        },
+        "Name" : {
+            
+            "message": "Nom"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Le nom ne peut pas excéder %s caractères"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Exponentielle"
+        },
+        "Natural Log" : {
+            
+            "message": "Ln"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Ln 1 +X"
+        },
+        "Never" : {
+            
+            "message": "Jamais"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Les nouvelles calibrations seront utilisées jusqu'à ce que vous commenciez une nouvelle expérience ou ouvriez un fichier."
+        },
+        "New Experiment" : {
+            
+            "message": "Nouvelle expérience"
+        },
+        "Next After" : {
+            
+            "message": "Next After"
+        },
+        "No Columns" : {
+            
+            "message": "Pas de colonne"
+        },
+        "No Device Connected" : {
+            
+            "message": "Aucun appareil connecté"
+        },
+        "No device connected." : {
+            
+            "message": "Aucun appareil connecté."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Aucun appareil connecté"
+        },
+        "No expiration date" : {
+            
+            "message": "Pas de date d'expiration"
+        },
+        "No sensor connected" : {
+            
+            "message": "Pas de capteurs connectés"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "Aucun capteur connecté"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Aucune source détectée. Vérifiez que le partage de données est activé sur votre source et que les deux appareils sont reliés au même réseau. Si le problème persiste, choisissez Spécifier la source et connectez vous manuellement à la source de données."
+        },
+        "Normal" : {
+            
+            "message": "Normale"
+        },
+        "not" : {
+            
+            "message": "Non"
+        },
+        "Not Capable" : {
+            
+            "message": "Non capable"
+        },
+        "Note" : {
+            
+            "message": "Note"
+        },
+        "Notes" : {
+            
+            "message": "Notes"
+        },
+        "Number list" : {
+            
+            "message": "Numéro de liste"
+        },
+        "Number of flags" : {
+            
+            "message": "Nombre de barres"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "Nombre de points utilisés pour le calcul des dérivées :"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "Nombre de points utilisés pour les calculs de lissage :"
+        },
+        "Number of spokes" : {
+            
+            "message": "Nombre de rayons"
+        },
+        "Numeric" : {
+            
+            "message": "Numérique"
+        },
+        "Object" : {
+            
+            "message": "Objet"
+        },
+        "Object Width" : {
+            
+            "message": "Largeur Objet"
+        },
+        "Offline" : {
+            
+            "message": "Déconnecté"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "Ok" : {
+            
+            "message": "Ok"
+        },
+        "On a triggering event" : {
+            
+            "message": "Sur une valeur de déclenchement"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "Sur LabQuest, appuyer sur le symbole WI-Fi"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Sur Logger Pro, aller dans Fichier -> Partage de données"
+        },
+        "One-point calibration" : {
+            
+            "message": "Calibration à un point"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Partage de données en ligne"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "N'activer le ventilateur que pendant la mesure"
+        },
+        "Open failed" : {
+            
+            "message": "Echec de l'ouverture"
+        },
+        "Open Saved File" : {
+            
+            "message": "Ouvrir un fichier enregistré"
+        },
+        "Open Update Information" : {
+            
+            "message": "Ouvrir l'information de Mise à jour"
+        },
+        "Open..." : {
+            
+            "message": "Ouvrir..."
+        },
+        "or" : {
+            
+            "message": "ou"
+        },
+        "Order Code" : {
+            
+            "message": "Référence"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Autre / Personnalisé"
+        },
+        "Other Options" : {
+            
+            "message": "Autres options"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Autre/Personnalisé : Entrer l'espacement et le nombre de barres comme montré ci-dessus. Si votre objet est une roue, la valeur d'espacement doit être le périmètre de la roue divisé par le nombre de rayons."
+        },
+        "Outlined Circle" : {
+            
+            "message": "Cercle vide"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "Losange vide"
+        },
+        "Outlined Plus" : {
+            
+            "message": "Signe plus vide"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "Rectangle horizontal plein"
+        },
+        "Outlined Square" : {
+            
+            "message": "Carré vide"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "Triangle vide"
+        },
+        "Paragraph" : {
+            
+            "message": "Paragraphe"
+        },
+        "Parameter %s" : {
+            
+            "message": "Paramètre %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Les paramètres ne peuvent pas être répétés dans une expression."
+        },
+        "Paste" : {
+            
+            "message": "Coller"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "L'action de Coller n'est pas disponible dans le menu Edition. Utiliser CTRL-V ou CMD-V pour coller."
+        },
+        "Pause replay" : {
+            
+            "message": "Mettre en pause le Play-back"
+        },
+        "Pause Video" : {
+            
+            "message": "Mettre en pause la vidéo"
+        },
+        "Peak Frequency" : {
+            
+            "message": "Fréquence Pic"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Période Pendule"
+        },
+        "Percentage" : {
+            
+            "message": "Pourcentage"
+        },
+        "Perform a" : {
+            
+            "message": "Faire une"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Chrono Barrière"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Les barrières lumineuses peuvent chronométrer les objets qui passent ou donner la période d'oscillation d'un pendule. La durée entre les événements bloqués successifs est nommée durée intervalle. Quand deux barrières sont utilisées, les deux barrières doivent être bloquées avant qu'une valeur soit donnée."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Image dans l'image"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Placer votre capteur Go Direct près de l'ordinateur, téléphone ou tablette"
+        },
+        "Play replay" : {
+            
+            "message": "Lire Play-back"
+        },
+        "Play Video" : {
+            
+            "message": "Lire la vidéo"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "Multiplicateur Vitesse de play-back"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Veuillez entrer l'adresse IP de la source :"
+        },
+        "Plot" : {
+            
+            "message": "Afficher"
+        },
+        "Plot Manager" : {
+            
+            "message": "Gestionnaire de graphes"
+        },
+        "Plus" : {
+            
+            "message": "Signe plus plein"
+        },
+        "point" : {
+            
+            "message": "point"
+        },
+        "Point Colors" : {
+            
+            "message": "Couleurs de points"
+        },
+        "Point Symbols" : {
+            
+            "message": "Marques de points"
+        },
+        "points" : {
+            
+            "message": "points"
+        },
+        "Points" : {
+            
+            "message": "Points"
+        },
+        "points before trigger" : {
+            
+            "message": "points avant le déclenchement"
+        },
+        "Power" : {
+            
+            "message": "Puissance"
+        },
+        "Prediction" : {
+            
+            "message": "Prédiction"
+        },
+        "Prediction Name" : {
+            
+            "message": "Nom Prédiction"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Le nom d'une prédiction est limité à %s caractères."
+        },
+        "Prediction Options" : {
+            
+            "message": "Options prédiction"
+        },
+        "Prediction Title" : {
+            
+            "message": "Titre de la prédiction"
+        },
+        "Predictions" : {
+            
+            "message": "Prédictions"
+        },
+        "Preview mode" : {
+            
+            "message": "Prévisualisation"
+        },
+        "Primary:" : {
+            
+            "message": "Primaire :"
+        },
+        "Privacy Notice" : {
+            
+            "message": "Notice de confidentialité"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": "Alerte expiration abonnement Pro"
+        },
+        "Projectile Info" : {
+            
+            "message": "Info Projectile"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Lanceur de projectile"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Donnez ce code ID aux autres pour qu'ils puissent se connecter à votre appareil"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Connection à proximité"
+        },
+        "Pulse timing" : {
+            
+            "message": "Chrono Impulsion"
+        },
+        "Quote" : {
+            
+            "message": "Guillemets"
+        },
+        "radians" : {
+            
+            "message": "radians"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radians (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Rythme"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Les fréquences supérieures à 200 mesures/s nécessitent une durée définie."
+        },
+        "Reconnect" : {
+            
+            "message": "Reconnecter"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": "Rebrancher l'appareil pour récupérer les enregistrements."
+        },
+        "Rectangle" : {
+            
+            "message": "Rectangle horizontal plein"
+        },
+        "Regular" : {
+            
+            "message": "Standard"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Valeur relativement stable"
+        },
+        "Remainder" : {
+            
+            "message": "Reste"
+        },
+        "Remote Logging" : {
+            
+            "message": "Mesures à distance"
+        },
+        "Remote Logging in Process" : {
+            
+            "message": "Mesures à distance en cours"
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": "L'enregistrement à distance n'est possible que sur un capteur à la fois."
+        },
+        "Remote Logging Started" : {
+            
+            "message": "L' enregistrement à distance a commencé"
+        },
+        "Remote Logging Status" : {
+            
+            "message": "Etat de l'enregistrement à distance"
+        },
+        "Remove" : {
+            
+            "message": "Supprimer"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Supprimer Tendance linéaire"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Supprimer Capteur Soft"
+        },
+        "Rename" : {
+            
+            "message": "Renommer"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Renommer la série"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Renommer Prédiction"
+        },
+        "Replay" : {
+            
+            "message": "Replay"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Info Synchro play-back vidéo"
+        },
+        "Reported Reading" : {
+            
+            "message": "Valeur reportée"
+        },
+        "Reset" : {
+            
+            "message": "Réinitialiser"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Réinitialiser (Zéro) au début des mesures"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Réinitialiser par défaut"
+        },
+        "Restart app" : {
+            
+            "message": "Relancer l'application"
+        },
+        "Restart Replay" : {
+            
+            "message": "Redémarrer le Play-back"
+        },
+        "Restore All" : {
+            
+            "message": "Tout restaurer"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": "Récupérer et Effacer"
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": "Récupérer et Effacer le capteur"
+        },
+        "Retry Calibration" : {
+            
+            "message": "Réessayer la calibration"
+        },
+        "Reverse" : {
+            
+            "message": "Inverser"
+        },
+        "revolution" : {
+            
+            "message": "révolution"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Tours (Tr)"
+        },
+        "Right" : {
+            
+            "message": "Droite"
+        },
+        "Right Axis" : {
+            
+            "message": "Axe à droite"
+        },
+        "Right manual fit handle" : {
+            
+            "message": "Poignée droite de la régression manuelle"
+        },
+        "Right y-axis" : {
+            
+            "message": "Axe-Y droit"
+        },
+        "Right y-axis range" : {
+            
+            "message": "Echelle axe-Y droit"
+        },
+        "RMS" : {
+            
+            "message": "RMS"
+        },
+        "RMSE" : {
+            
+            "message": "Erreur Type"
+        },
+        "Round" : {
+            
+            "message": "Arrondi"
+        },
+        "Row Number" : {
+            
+            "message": "Num Ligne"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "mesure"
+        },
+        "Sample Data" : {
+            
+            "message": "Données exemple"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Exemples d'expériences"
+        },
+        "samples" : {
+            
+            "message": "mesures"
+        },
+        "Samples" : {
+            
+            "message": "Echantillons"
+        },
+        "samples per second" : {
+            
+            "message": "mesures par seconde"
+        },
+        "samples scheduled" : {
+            
+            "message": "mesures à faire"
+        },
+        "Save" : {
+            
+            "message": "Enregistrer"
+        },
+        "Save AMBL" : {
+            
+            "message": "Enregistrer AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Enregistrer et Fermer l'App"
+        },
+        "Save As..." : {
+            
+            "message": "Enregistrer sous..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Enregistrer les modifications ?"
+        },
+        "Save CSV" : {
+            
+            "message": "Enregistrer CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Enregistrer l'expérience"
+        },
+        "Save failed" : {
+            
+            "message": "Echec de l'enregistrement"
+        },
+        "Save PDF" : {
+            
+            "message": "Enregistrer PDF"
+        },
+        "Save Pending" : {
+            
+            "message": "Sauvegarde en suspens"
+        },
+        "Save PNG" : {
+            
+            "message": "Enregistrer PNG"
+        },
+        "Saved" : {
+            
+            "message": "Enregistré"
+        },
+        "Saving" : {
+            
+            "message": "Sauvegarde"
+        },
+        "Scale Factor" : {
+            
+            "message": "Facteur d'échelle"
+        },
+        "Scaling" : {
+            
+            "message": "Echelle"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Recherche d'appareils..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "La tension du second point de calibration doit varier de celle du premier point d'au moins 0.05V."
+        },
+        "Second Derivative" : {
+            
+            "message": "Dérivée seconde"
+        },
+        "Secondary:" : {
+            
+            "message": "Secondaire :"
+        },
+        "seconds" : {
+            
+            "message": "secondes"
+        },
+        "See Experiments" : {
+            
+            "message": "Voir Expériences"
+        },
+        "See sample experiments" : {
+            
+            "message": "Voir les exemples d'expériences"
+        },
+        "Select Data Set" : {
+            
+            "message": "Choisir une série"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Choisir l'unité souhaitée pour la position angulaire."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "Choisir le type d'appareil que vous voulez connecter."
+        },
+        "select/deselect meter" : {
+            
+            "message": "Sélectionner/Désélectionner Cadran"
+        },
+        "Selected Events" : {
+            
+            "message": "Manuel"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Actions capteur"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Voies Capteurs"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Mesure avec des capteurs"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Configuration capteur"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Tension capteur"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Capteur mis à zéro"
+        },
+        "Sensors" : {
+            
+            "message": "Capteurs"
+        },
+        "Session 1 Name" : {
+            
+            "message": "Nom Session 1"
+        },
+        "Session 2 Name" : {
+            
+            "message": "Nom Session 2"
+        },
+        "Session 3 Name" : {
+            
+            "message": "Nom Session 3"
+        },
+        "Session 4 Name" : {
+            
+            "message": "Nom Session 4"
+        },
+        "Session ended by Host" : {
+            
+            "message": "Session terminée par l'hôte"
+        },
+        "Session Preferences" : {
+            
+            "message": "Préférences Session"
+        },
+        "Settings saved" : {
+            
+            "message": "Paramètres enregistrés"
+        },
+        "Share AMBL" : {
+            
+            "message": "Partager AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Partager une expérience avec d'autres par une connexion réseau"
+        },
+        "Share CSV" : {
+            
+            "message": "Partager CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Partager Image"
+        },
+        "Share PDF" : {
+            
+            "message": "Partager PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Afficher toutes les versions"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": "Afficher les instructions de Marquage des données"
+        },
+        "Show Details" : {
+            
+            "message": "Montrer les détails"
+        },
+        "Show Error Bars" : {
+            
+            "message": "Afficher Barres d'erreurs"
+        },
+        "Show FFT" : {
+            
+            "message": "Montrer TFR"
+        },
+        "Show Histogram" : {
+            
+            "message": "Montrer Histogramme"
+        },
+        "Show Less" : {
+            
+            "message": "Afficher moins"
+        },
+        "Show Menu" : {
+            
+            "message": "Afficher le menu"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Afficher temps moyen à travers la barrière"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Montrer Graphe original"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": "Afficher les instructions de Mesures à distance"
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": "Afficher l'incertitude des paramètres de la régression"
+        },
+        "Significant Figures" : {
+            
+            "message": "Chiffres significatifs"
+        },
+        "Sine" : {
+            
+            "message": "Sinus"
+        },
+        "Slope" : {
+            
+            "message": "Pente"
+        },
+        "Small" : {
+            
+            "message": "Petit"
+        },
+        "Spacing" : {
+            
+            "message": "Espacement"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Espacement = Périmètre / Nombre de fentes"
+        },
+        "Specify source" : {
+            
+            "message": "Spécifier la source"
+        },
+        "Spectrum" : {
+            
+            "message": "Spectre"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Vitesse à travers la porte"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "Info Vitesse à travers la porte"
+        },
+        "Spokes:" : {
+            
+            "message": "Fentes :"
+        },
+        "Square" : {
+            
+            "message": "Carré plein"
+        },
+        "Square Root" : {
+            
+            "message": "Racine carrée"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Démarrer une session de partage de données"
+        },
+        "Start a New Session" : {
+            
+            "message": "Démarrer une nouvelle session"
+        },
+        "Start Collection" : {
+            
+            "message": "Démarrer la mesure"
+        },
+        "Start collection when" : {
+            
+            "message": "Démarrer la mesure quand"
+        },
+        "Start Logging" : {
+            
+            "message": "Démarrer l'enregistrement"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Commencer une nouvelle expérience ?"
+        },
+        "Start Session" : {
+            
+            "message": "Démarrer Session"
+        },
+        "Statistics" : {
+            
+            "message": "Statistiques"
+        },
+        "Std dev" : {
+            
+            "message": "Ec Type"
+        },
+        "Step Backward" : {
+            
+            "message": "En arrière"
+        },
+        "Step Forward" : {
+            
+            "message": "En avant"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "Aller une image en arrière"
+        },
+        "Step Video Forward" : {
+            
+            "message": "Aller une image en avant"
+        },
+        "Stop" : {
+            
+            "message": "Stop"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Arrêtez d'ajouter des gouttes quand le volume atteint 9 à 10 mL."
+        },
+        "Stop Collection" : {
+            
+            "message": "Arrêter les mesures"
+        },
+        "Stop Sharing" : {
+            
+            "message": "Arrêter le partage"
+        },
+        "Strikethrough" : {
+            
+            "message": "Rayer les cellules"
+        },
+        "Subject" : {
+            
+            "message": "Sujet"
+        },
+        "Submit" : {
+            
+            "message": "Soumettre"
+        },
+        "Subscript" : {
+            
+            "message": "Indice"
+        },
+        "Subscription Ends" : {
+            
+            "message": "L'abonnement se termine"
+        },
+        "Subscription ends" : {
+            
+            "message": "L'abonnement se termine"
+        },
+        "Superscript" : {
+            
+            "message": "Exposant"
+        },
+        "Supported Functions" : {
+            
+            "message": "Fonctions supportées"
+        },
+        "Symbol" : {
+            
+            "message": "Symbole"
+        },
+        "Sync data with video" : {
+            
+            "message": "Synchroniser les mesures à la vidéo"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Sync Vidéo aux mesures"
+        },
+        "Syntax" : {
+            
+            "message": "Syntaxe"
+        },
+        "Table" : {
+            
+            "message": "Tableau"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Prendre une mesure du capteur (i.e, pH, conductivité) à chaque goutte."
+        },
+        "Tangent" : {
+            
+            "message": "Tangente"
+        },
+        "Target" : {
+            
+            "message": "Graphe à reproduire"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "La connexion Bluetooth a été perdue"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Le nom de colonne est obligatoire"
+        },
+        "the current file" : {
+            
+            "message": "le fichier courant"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "La série de mesures va commencer le play-back %s s avant la vidéo"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Cette expression sera utilisée comme nom de régression si aucun nom n'est saisi."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "La vitesse de lancer est la vitesse moyenne du projectile au passage des deux barrières du lanceur."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "La vitesse du lancer est la vitesse moyenne du projectile au passage de la première barrière du lanceur."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "La largeur de barre/objet est divisée par la durée pendant laquelle la barrière est bloquée (Durée Blocage-Porte) pour déterminer la vitesse de l'objet à travers la barrière."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": "La fréquence et la durée demandées ne peuvent pas être respectées. La fréquence maximale est %.2f mesures/%s pour %d%s."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Le temps entre deux événements Bloqués successifs est nommé Intervalle."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "Il ne peut pas y avoir plus de sept paramètres dans une expression."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "Un nouveau Firmware est disponible pour ce capteur pour corriger des valeurs erronées quand le capteur est dans un environnement inférieur à 0°C. Le processus de mise à jour ne peut pas être fait avec Graphical Analysis actif."
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Il y a un nouveau firmware pour ce capteur, mais la mise à jour ne peut être appliquée à l'appareil. Pour mettre à jour ce capteur, il faut le connecter avec le cable USB à un ordinateur macOS, Windows ou ChromeOS et exécuter Graphical Analysis.  Il faut ensuite aller à la liste des appareils connectés et initier la mise à jour."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Il y a un nouveau firmware disponible pour ce capteur. Le processus de mise à jour nécessite que le capteur soit branché avec le cable USB et que Graphical Analysis soit arrêté temporairement. Connecter le capteur par USB s'il est connecté en mode sans fil."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Il y a eu un problème lors de l'enregistrement des paramètres"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Cette colonne a été générée automatiquement et ne peut être changée"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Cette suppression ne pourra pas être annulée."
+        },
+        "This feature requires a" : {
+            
+            "message": "Cette fonctionnalité nécessite un"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Ce nombre définit la fraction d'un tour dont la position angulaire change à chaque événement Bloqué."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Cette version de Windows ne supporte que la connexion USB avec les capteurs Go Direct."
+        },
+        "Time" : {
+            
+            "message": "Temps"
+        },
+        "Time Based" : {
+            
+            "message": "En fonction du temps"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "Mode de mesure En fonction du temps - Un graphe"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "Mode de mesure En fonction du temps - Trois graphes"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "Mode de mesure En fonction du temps - Deux graphes"
+        },
+        "Time between gates" : {
+            
+            "message": "Temps entre les barrières"
+        },
+        "Time Decay Filter" : {
+            
+            "message": "Filtre Temporel"
+        },
+        "Time measurements" : {
+            
+            "message": "Mesures de temps"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Accessoire Durée de vol,"
+        },
+        "Time Units" : {
+            
+            "message": "Unité de temps"
+        },
+        "Timer" : {
+            
+            "message": "Chrono"
+        },
+        "Timer Info" : {
+            
+            "message": "Info Chronomètre"
+        },
+        "Timer or Period" : {
+            
+            "message": "Chrono ou Période"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Astuce : pour avoir les meilleurs résultats, vérifier que le capteur souhaité est à moins de 2 mètres de votre ordinateur, téléphone ou tablette."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Astuce : La connexion à proximité se base sur des estimations de distance. Si cela n'est pas fiable dans votre environnement, utiliser la liste de connexion pour choisir le capteur."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Astuce : Les capteurs doivent clignoter en rouge pour être disponible pour une connexion."
+        },
+        "Title" : {
+            
+            "message": "Titre"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Pour créer une %s personnalisée, utiliser les fonctions supportées avec les opérateurs supportés"
+        },
+        "To locate the address:" : {
+            
+            "message": "Pour trouver l'adresse :"
+        },
+        "to make the key available for use." : {
+            
+            "message": "pour rendre la clé utilisable."
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Pour démarrer une session de partage de données :"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Passer au mode sombre"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Passer au mode clair"
+        },
+        "Too few points" : {
+            
+            "message": "Trop peu de points"
+        },
+        "Toolbar" : {
+            
+            "message": "Barre d'outils"
+        },
+        "Top" : {
+            
+            "message": "Haut"
+        },
+        "Total samples" : {
+            
+            "message": "Nombre de mesures"
+        },
+        "Triangle" : {
+            
+            "message": "Triangle plein"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Les fonctions trigonométriques sont évaluées en radians sauf si la colonne utilisée pour l'axe horizontale a comme unité"
+        },
+        "Truncate" : {
+            
+            "message": "Troncature"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Calibration à 2 points"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Poulie à fentes - intérieur"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Poulie à fentes - extérieur"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Impossible de se connecter ou de trouver une source de ce nom."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Impossible de se connecter à "
+        },
+        "Units" : {
+            
+            "message": "Unité"
+        },
+        "Unknown" : {
+            
+            "message": "Inconnu"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "Erreur Clé de licence inconnue"
+        },
+        "Unmute Audio" : {
+            
+            "message": "Activer le son"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "Navigateur non supporté"
+        },
+        "Untitled" : {
+            
+            "message": "Sans titre"
+        },
+        "Update Available" : {
+            
+            "message": "Mise à jour disponible"
+        },
+        "Update error" : {
+            
+            "message": "Erreur de mise à jour"
+        },
+        "Update Firmware" : {
+            
+            "message": "Mettre à jour le firmware"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Téléchargement de la mise à jour en cours..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Mettre à jour votre clé de licence"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "Appareil USB"
+        },
+        "Use Column Value" : {
+            
+            "message": "Utiliser la colonne"
+        },
+        "Use gate separation" : {
+            
+            "message": "Utiliser la distance entre les barrières"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Utiliser Largeur Objet / Barre"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Utiliser le diamètre du projectile"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Utiliser la notation scientifique"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "Utiliser le bouton USB ou Sans fil selon vos besoins."
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": "Utiliser cette zone pour mettre des notes ou du texte explicatif à propos de votre expérience. Pour voir le formatage utilisé, passer en mode Prévisualisation."
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Utilisez cette option pour étudier la vitesse en fonction du temps. La date donnée est la date du point milieu entre l'instant où la porte est bloquée et l'instant où la porte est à nouveau débloquée."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Utiliser le Pad durée du vol"
+        },
+        "Use Windowing" : {
+            
+            "message": "Utiliser Fenêtrage"
+        },
+        "User Manual" : {
+            
+            "message": "Manuel utilisateur"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Utiliser la calibration usine depuis"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "Utilisation de la version stockée localement de cette expérience."
+        },
+        "Value must be between " : {
+            
+            "message": "La valeur doit être comprise entre "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "Graphical Analysis&reg; est un outil pour les étudiants en sciences pour faire des mesures avec les capteurs Vernier, les représenter graphiquement et les analyser."
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "L'accès à Graphical Analysis® Pro expire dans ${this.daysRemaining} jours"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "L'abonnement à Vernier Graphical Analysis® Pro se termine aujourd'hui"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Plaque rayée Vernier"
+        },
+        "Version" : {
+            
+            "message": "Version"
+        },
+        "Vertical Divider" : {
+            
+            "message": "Graduation verticale"
+        },
+        "Video" : {
+            
+            "message": "Film"
+        },
+        "Video Time" : {
+            
+            "message": "Date Vidéo"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "La vidéo va commencer le play-back %s s avant le play-back des mesures"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "La vidéo va commencer le play-back en même temps que les mesures"
+        },
+        "View Experiment" : {
+            
+            "message": "Voir Expérience"
+        },
+        "View Integral" : {
+            
+            "message": "Voir l'intégrale"
+        },
+        "View Options" : {
+            
+            "message": "Options Affichage"
+        },
+        "View Statistics" : {
+            
+            "message": "Voir les statistiques"
+        },
+        "Voltage" : {
+            
+            "message": "Tension"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Attente que %s %s et passe par %s %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "Nous avons détecté que le clé de licence est valide, mais l'accord de licence doit être accepté avant de pouvoir l'utiliser. "
+        },
+        "What's New" : {
+            
+            "message": "Nouveautés"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Quand Pendule est sélectionné, la durée entre les événements Bloqués en prenant un événement sur deux est reporté comme la période car un pendule bloque la barrière 3 fois pendant une période."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "En utilisant deux barrières, vous pouvez utiliser la distance entre les barrières à la place de Largeur Objet / Barre pour calculer la vitesse. La vitesse reportée sera la vitesse entre les deux barrières."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Windows 10 est nécessaire pour une connexion sans fil."
+        },
+        "Wireless" : {
+            
+            "message": "Sans fil"
+        },
+        "Working..." : {
+            
+            "message": "Travail en cours..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "Echelle axe-x"
+        },
+        "x-range" : {
+            
+            "message": "Echelle-x"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "Echelle axe-y"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "Vous pouvez connecter un appareil par une liaison USB filaire ou en sans fil."
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "Vous pouvez donner accès à cette application aux autres personnes de votre école en partageant cette URL par email, texte ou d'autres moyens."
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": "Vous n'avez pas besoin d'attendre la fin des mesures pour récupérer les données."
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": "Vous avez entré des valeurs non numériques. Voulez-vous convertir cette colonne en données de catégorie ?"
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "Vous avez un appareil connecté qui n'est pas nécessaire pour cette expérience."
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "Vous avez saisi un code d'activation mais pas de clé de licence."
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "Le navigateur va afficher les appareil disponibles. Choisissez celui que vous voulez et cliquer sur Jumeler."
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Votre source de partage de données commence une nouvelle expérience. Vous pouvez continuer votre expérience ou rejoindre la nouvelle expérience."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "La licence vous permet de partager Graphical Analysis® uniquement avec les élèves et enseignants de votre établissement. Merci de ne pas le partager en dehors de votre établissement."
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "La licence vous permet de partager Video Analysis uniquement avec les élèves et enseignants de votre établissement. Merci de ne pas le partager en dehors de votre établissement."
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": "Votre capteur a été débranché."
+        },
+        "Zero" : {
+            
+            "message": "Zéro"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Zoom sur toutes les données"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Zoom sur la sélection"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ axe- x ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ axe-y ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier Science Education"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "Accéléromètre 25g"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "Accéléromètre 3D (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "Accéléromètre 3D (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "Accéléromètre 3D (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "Tension (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbance"
+        },
+        "Acceleration" : {
+            
+            "message": "Accélération"
+        },
+        "Accelerometer" : {
+            
+            "message": "Accéléromètre"
+        },
+        "Ammonium" : {
+            
+            "message": "Ammonium"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Ammonium ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "Analyseur"
+        },
+        "Anemometer" : {
+            
+            "message": "Anémomètre"
+        },
+        "Angle" : {
+            
+            "message": "Angle"
+        },
+        "Barometer" : {
+            
+            "message": "Baromètre"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Baromètre (Ancienne réf)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Capteur de pression 1.5 atm"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Pression artérielle"
+        },
+        "Calcium" : {
+            
+            "message": "Calcium"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Calcium ISE"
+        },
+        "Charge" : {
+            
+            "message": "Charge"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Capteur de charge"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Capteur de charge 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Capteur de charge 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Capteur de charge 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Chlorure"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Chlorure ISE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Gaz High"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Gaz Low"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 gaz (ancien)"
+        },
+        "Colorimeter" : {
+            
+            "message": "Colorimètre"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Colorimètre (ancien)"
+        },
+        "Concentration" : {
+            
+            "message": "Concentration"
+        },
+        "Conductivity" : {
+            
+            "message": "Conductivité"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Conductivité 20000 µS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Conductivité 2000 µS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Conductivité 200 µS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Système à courant constant"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Pression Brassard"
+        },
+        "Current" : {
+            
+            "message": "Courant"
+        },
+        "Current Probe" : {
+            
+            "message": "Capteur de courant"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Capteur de courant 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastolique"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Tension différentielle"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Unité de commande numérique"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Temp Direct-Connect"
+        },
+        "Displacement" : {
+            
+            "message": "Distance"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "CO2 dissous"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Oxygène dissous"
+        },
+        "Distance" : {
+            
+            "message": "Distance"
+        },
+        "DO" : {
+            
+            "message": "OD"
+        },
+        "Drop Counter" : {
+            
+            "message": "Compteur de Gouttes"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Force 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Force 50 N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Chariots de début 2021 uniquement"
+        },
+        "EKG" : {
+            
+            "message": "ECG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Ampli d'électrode"
+        },
+        "Energy" : {
+            
+            "message": "Energie"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Intensité Capteur d'énergie"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Tension Capteur d'énergie"
+        },
+        "Ethanol" : {
+            
+            "message": "Ethanol"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Capteur d'éthanol"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Capteur Temp. grande longueur"
+        },
+        "Flow Rate" : {
+            
+            "message": "Débit"
+        },
+        "Fluorescence" : {
+            
+            "message": "Fluorescence"
+        },
+        "Force" : {
+            
+            "message": "Force"
+        },
+        "Force Plate" : {
+            
+            "message": "Plaque de force"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Plaque de force 3500 N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Plaque de force 850 N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Capteur de Pression"
+        },
+        "Gate State" : {
+            
+            "message": "Etat Porte"
+        },
+        "Gate Time" : {
+            
+            "message": "Temps Porte"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Ampli d'électrode Go Wireless"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Rythme cardiaque Go Wireless"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Capteur pH Go Wireless"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Capteur de température Go Wireless"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniomètre"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Dynamomètre à main"
+        },
+        "Heart Rate" : {
+            
+            "message": "Rythme cardiaque"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Détecteur rythme cardiaque"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Capteur de courant 10 A"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Lumière haute sensibilité 1µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Lumière haute sensibilité 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Lumière haute sensibilité 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Illumination"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Ampli d'instrumentation"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Ampli d'instrument. +/-1 V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Ampli d'instrument. +/-200 mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Ampli d'instrument. +/-20 mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Ampli d'instrument. 1 V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Ampli d'instrument. 200 mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Ampli d'instrument. 20 mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intensité"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "Capteur de température IR"
+        },
+        "Irradiance" : {
+            
+            "message": "Irradiance"
+        },
+        "Launch Speed" : {
+            
+            "message": "Vitesse de lancer"
+        },
+        "Light" : {
+            
+            "message": "Lumière"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Lumière 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Lumière 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Lumière 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Niveau luminosité"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Capteur position linéaire"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Accéléromètre 5g"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Champ magnétique"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Champ magnétique 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Champ magnétique 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Press artérielle moyenne"
+        },
+        "Melt Station" : {
+            
+            "message": "Station de fusion"
+        },
+        "Microphone" : {
+            
+            "message": "Microphone"
+        },
+        "mol/L" : {
+            
+            "message": "mol/L"
+        },
+        "Motion" : {
+            
+            "message": "Mouvement"
+        },
+        "Motion Detector" : {
+            
+            "message": "Détecteur de Mouvement"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Chariot encodeur"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitrate"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitrate ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Capteur d'oxygène Optique %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Capteur d'oxygène Optique mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Oxygène Gaz"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Oxygène gazeux (ancien)"
+        },
+        "PAR Sensor" : {
+            
+            "message": "Capteur RPA"
+        },
+        "Period" : {
+            
+            "message": "Période"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "Amplificateurs pH/mV/ORP"
+        },
+        "Photogate" : {
+            
+            "message": "Barrière lumineuse"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Conductivité Cellule-Pt"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimètre"
+        },
+        "Position" : {
+            
+            "message": "Position"
+        },
+        "Potassium" : {
+            
+            "message": "Potassium"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Potassium ISE"
+        },
+        "Potential" : {
+            
+            "message": "Tension"
+        },
+        "Power" : {
+            
+            "message": "Puissance"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Courant Ampli Puiss"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Pression"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Capteur de pression 6,8 atm (ancienne réf)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Capteur de pression 4 atm"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Lanceur de projectile"
+        },
+        "Pulse" : {
+            
+            "message": "Impulsion"
+        },
+        "Pulse Time" : {
+            
+            "message": "Durée d'impulsion"
+        },
+        "Pyranometer" : {
+            
+            "message": "Pyranomètre"
+        },
+        "Radiation" : {
+            
+            "message": "Rayonnement"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Détecteur de radiations"
+        },
+        "Raw" : {
+            
+            "message": "Brut"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Tension brute (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Humidité relative"
+        },
+        "Resistance" : {
+            
+            "message": "Résistance"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Ceinture de respiration"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Rythme respiratoire"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Capteur de rotation"
+        },
+        "Salinity" : {
+            
+            "message": "Salinité"
+        },
+        "Signal" : {
+            
+            "message": "Signal"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Humidité du sol"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Capteur d'humidité du sol"
+        },
+        "Sound Level" : {
+            
+            "message": "Niveau sonore"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Sonomètre"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Pression Sonore"
+        },
+        "Speed" : {
+            
+            "message": "Vitesse"
+        },
+        "Spirometer" : {
+            
+            "message": "Spiromètre"
+        },
+        "Standard" : {
+            
+            "message": "Standard"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Capteur température Standard"
+        },
+        "Student Force" : {
+            
+            "message": "Capteur de force 20 N"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Capteur de radiations SRM"
+        },
+        "Systolic" : {
+            
+            "message": "Systolique"
+        },
+        "Temperature" : {
+            
+            "message": "Température"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Capteur de Température"
+        },
+        "Thermocouple" : {
+            
+            "message": "Thermocouple"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Thermocouple (ancien)"
+        },
+        "TI Light" : {
+            
+            "message": "Lumière TI"
+        },
+        "Time of Flight" : {
+            
+            "message": "Durée de vol"
+        },
+        "Transmittance" : {
+            
+            "message": "Transmittance"
+        },
+        "Turbidity" : {
+            
+            "message": "Turbidité"
+        },
+        "UVA Intensity" : {
+            
+            "message": "Intensité UVA"
+        },
+        "UVA Sensor" : {
+            
+            "message": "Capteur UVA"
+        },
+        "UVB Intensity" : {
+            
+            "message": "Intensité UVB"
+        },
+        "UVB Sensor" : {
+            
+            "message": "Capteur UVB"
+        },
+        "Velocity" : {
+            
+            "message": "Vitesse"
+        },
+        "Voltage" : {
+            
+            "message": "Tension"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Tension (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Volume"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "Déplacement VSMT"
+        },
+        "VSMT Force" : {
+            
+            "message": "Force VSMT"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Capteur de température 330°C"
+        },
+        "X Acceleration" : {
+            
+            "message": "Accélération X"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Accélération Y"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Accélération Z"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": "*umol m-2 s-1*"
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": "*µmol m⁻² s⁻¹*"
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Humidité absolue"
+        },
+        "Acceleration G" : {
+            
+            "message": "Accélération V"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Vecteur accélération"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Accélération J"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Volume ajusté"
+        },
+        "Altitude" : {
+            
+            "message": "Altitude"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Calibration à un point Altitude"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitude"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Angle (haute résolution)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Rotation"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Zéro Auto au démarrage"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Mode port auxiliaire"
+        },
+        "BE Current Range" : {
+            
+            "message": "Gamme courante BE"
+        },
+        "BE Duration" : {
+            
+            "message": "Durée BE"
+        },
+        "BE Potential" : {
+            
+            "message": "Potentiel BE"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "Echantillonnage BE"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Pression barométrique"
+        },
+        "Battery Level" : {
+            
+            "message": "Niveau de la batterie"
+        },
+        "Battery Percent" : {
+            
+            "message": "Pourcentage Batterie"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Tension Batterie"
+        },
+        "Blank calibration" : {
+            
+            "message": "Calibration Blanc"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Tension Pont"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "Equivalent CO₂"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ Gaz"
+        },
+        "CVS Current Range" : {
+            
+            "message": "Gamme courante CVS"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "Potentiel Final CVS"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "Potentiel Initial CVS"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "Nb de cycles CVS"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "Nombre de segments CVS"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "Vitesse de balayage CVS"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "Potentiel d'inversion CVS 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "Potentiel d'inversion CVS 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "coefficient de calibration"
+        },
+        "Calibration power" : {
+            
+            "message": "puissance pour la calibration"
+        },
+        "Cap number" : {
+            
+            "message": "Numéro de membrane"
+        },
+        "Cell" : {
+            
+            "message": "Cellule"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Constante Cellule (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Constante Cellule (active)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Coefficient-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Coefficient-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Coefficient-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Conductivité - 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": "Facteur de correction"
+        },
+        "Counts" : {
+            
+            "message": "Comptes"
+        },
+        "Current pressure" : {
+            
+            "message": "Pression courante"
+        },
+        "Current state" : {
+            
+            "message": "Etat courant"
+        },
+        "Current temperature" : {
+            
+            "message": "Température courante"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Fréquence de coupure"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Volume courant"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Source Volume courant"
+        },
+        "DAC value" : {
+            
+            "message": "Valeur CAN"
+        },
+        "DO Concentration" : {
+            
+            "message": "Concentration OD"
+        },
+        "DO Salinity" : {
+            
+            "message": "Salinité OD"
+        },
+        "DO Saturation" : {
+            
+            "message": "Saturation OD"
+        },
+        "Data source" : {
+            
+            "message": "Source Données"
+        },
+        "Declination" : {
+            
+            "message": "Déclinaison"
+        },
+        "Demo" : {
+            
+            "message": "Démo"
+        },
+        "Dew Point" : {
+            
+            "message": "Point de rosée"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Coefficient Diastolique"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Pression différentielle"
+        },
+        "Drops" : {
+            
+            "message": "Gouttes"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG rectifié"
+        },
+        "Electrode Current" : {
+            
+            "message": "Courant Electrode"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Tension Electrode"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Nettoyage Electrode"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Entrer la valeur de flux 0%"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Entrer la valeur de flux 100%"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Entrer la valeur de flux 50%"
+        },
+        "Enter altitude" : {
+            
+            "message": "Entrer Altitude"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Entrer Pression barométrique"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Entrer la température courante"
+        },
+        "Enter first known value" : {
+            
+            "message": "Entrer la première valeur connue"
+        },
+        "Enter k value" : {
+            
+            "message": "Entrer Valeur k"
+        },
+        "Enter known value" : {
+            
+            "message": "Entrer la valeur connue"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Entrer la valeur multiplicative"
+        },
+        "Enter n value" : {
+            
+            "message": "Entrer valeur n"
+        },
+        "Enter offset value" : {
+            
+            "message": "Entrer la valeur de décalage"
+        },
+        "Enter power value" : {
+            
+            "message": "Entrer la valeur de puissance"
+        },
+        "Enter second known value" : {
+            
+            "message": "Entrer la seconde valeur connue"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Entrer altitude de la station"
+        },
+        "Enter third known value" : {
+            
+            "message": "Entrer la troisième valeur connue"
+        },
+        "Envelope" : {
+            
+            "message": "Enveloppe"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Moyenne enveloppe"
+        },
+        "Error" : {
+            
+            "message": "Erreur"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Ethanol Gaz"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Ethanol Gaz avec HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Ethanol Ticks"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Ethanol Vapeur"
+        },
+        "Experiment Type" : {
+            
+            "message": "Type d'expérience"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Volume de réserve expiratoire"
+        },
+        "FAN PWM" : {
+            
+            "message": "Ventilateur PWM"
+        },
+        "FWD" : {
+            
+            "message": "FWD"
+        },
+        "Fan" : {
+            
+            "message": "Fan"
+        },
+        "Fan Mode" : {
+            
+            "message": "Mode ventilateur"
+        },
+        "Final hold time" : {
+            
+            "message": "Durée de maintien final"
+        },
+        "Final temperature" : {
+            
+            "message": "Température finale"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Calibration à 5 points"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Filtre Débit"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Polarité Débit inspiratoire"
+        },
+        "Force G" : {
+            
+            "message": "Force V"
+        },
+        "Force Y" : {
+            
+            "message": "Force J"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Forcer la calibration à un point"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Forcer la calibration à deux points"
+        },
+        "Forward" : {
+            
+            "message": "Avant"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Porte 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Porte 1 - Etat Porte"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Etat Porte 1"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Porte 1/A distance - Chrono"
+        },
+        "Gate 2" : {
+            
+            "message": "Porte 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Porte 2 - Etat Porte"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Etat Porte 2"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Capteur de champ magnétique 3 axes Go Direct®"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Accélération Go Direct®"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Pression artérielle Go Direct®"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Capteur CO₂ Gaz Go Direct®"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Colorimètre Go Direct®"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Capteur de conductivité Go Direct®"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Système à courant constant Go Direct®"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Capteur de courant Go Direct®"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Système Voltampéramétrie cyclique Go Direct®"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Compteur de gouttes Go Direct®"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "ECG Go Direct®"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Amplificateur d'électrode Go Direct®"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Energie Go Direct®"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Capteur Ethanol Go Direct®"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Ethanol Vapeur Go Direct®"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Capteur de force et accélération Go Direct®"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Chromatographe Gaz Go Direct®"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Capteur de pression Go Direct®"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Dynamomètre à main Go Direct®"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Amplificateur d'électrode ionique Go Direct®"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Capteur de lumière et couleurs Go Direct®"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Station de fusion Go Direct®"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Détecteur de mouvements Go Direct®"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Oxygène dissous optique Go Direct®"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "O₂ Gaz Go Direct®"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": "Capteur PAR Go Direct®"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Barrière lumineuse Go Direct®"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Capteur de conductivité Sonde Pt Go Direct®"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Polarimètre Go Direct®"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Lanceur de projectile Go Direct®"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Oxymètre de pouls Go Direct®"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": "Pyranomètre Go Direct®"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Détecteur de radiations Go Direct®"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Ceinture de respiration Go Direct®"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Capteur de rotation Go Direct®"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Chariot Go Direct® (Vert)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Chariot Go Direct® (Jaune)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Son Go Direct®"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Spiromètre Go Direct®"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": "Charge électrostatique Go Direct®"
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Testeur de structures et matériaux Go Direct®"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Température de surface Go Direct®"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Capteur de température Go Direct®"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Amplificateur de thermocouple Go Direct®"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Capteur de tension Go Direct®"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Météo Go Direct®"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Capteur de température 330°C Go Direct®"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Capteur de pression 4 atm Go Direct®"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Capteur de champ magnétique 3 axes Go Direct®"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Accélération Go Direct®"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Pression artérielle Go Direct™"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "CO₂ Gaz Go Direct™"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Colorimètre Go Direct®"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Capteur de conductivité Go Direct®"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Système à courant constant Go Direct®"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Capteur de courant Go Direct®"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Système Voltampérométrie cyclique Go Direct™"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Compteur de gouttes Go Direct®"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "ECG Go Direct®"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Amplificateur d'électrode Go Direct®"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Energie Go Direct®"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Capteur Ethanol Go Direct™"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Ethanol Vapeur Go Direct™"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Capteur de force et accélération Go Direct®"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Chromatographe Gaz Go Direct™"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Capteur de pression Go Direct®"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Dynamomètre à main Go Direct™"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Amplificateur d'électrode ionique Go Direct™"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Capteur de lumière et couleurs Go Direct®"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Station de fusion Go Direct®"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Détecteur de mouvements Go Direct®"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Oxygène dissous optique Go Direct®"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "O₂ Gaz Go Direct™"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": "Capteur PAR Go Direct™"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Barrière lumineuse Go Direct™"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Capteur de conductivité Sonde Pt Go Direct™"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Polarimètre Go Direct™"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Lanceur de projectiles Go Direct™"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Oxymètre de pouls Go Direct™"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": "Pyranomètre Go Direct™"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Capteur de radiations Go Direct®"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Ceinture de respiration Go Direct®"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Capteur de rotation Go Direct®"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Chariot Go Direct® (Vert)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Chariot Go Direct® (Jaune)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Son Go Direct™"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Spiromètre Go Direct™"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": "Charge électrostatique Go Direct™"
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Testeur de structures et matériaux Go Direct™"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Capteur de température de surface Go Direct®"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Capteur de température Go Direct®"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Amplificateur de thermocouple Go Direct™"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Capteur de tension Go Direct®"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Météo Go Direct™"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Capteur de température 330°C Go Direct®"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "capteur de pression 4 atm Go Direct™"
+        },
+        "Heat Index" : {
+            
+            "message": "Index de chaleur"
+        },
+        "Hold time" : {
+            
+            "message": "Durée de maintien"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Hydrogen Ticks"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "Illumination"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Illumination Brute"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Fréquence hélice"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Volume de réserve inspiratoire"
+        },
+        "Instrument status" : {
+            
+            "message": "Etat Instrument"
+        },
+        "Internal Current" : {
+            
+            "message": "Courant interne"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Tension interne"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "Diagnostic LED"
+        },
+        "LED magnitude" : {
+            
+            "message": "Magnitude LED"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Porte Laser - Etat Porte"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Etat Porte Laser"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Porte Laser/A distance - Chrono"
+        },
+        "Launch Angle" : {
+            
+            "message": "Angle de lancer"
+        },
+        "Linear Motion" : {
+            
+            "message": "Mouvement rectiligne"
+        },
+        "Live" : {
+            
+            "message": "Live"
+        },
+        "Load cell gain" : {
+            
+            "message": "Charger Gain cellule"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Microphone-FIXE"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Microphone-FIXE pondération A"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Microphone-FIXE pondération C"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Mouvement (chariot)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Accélération Mvt"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Vitesse Mvt"
+        },
+        "Motion with TC" : {
+            
+            "message": "Mouvement avec Correc T°"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "Non"
+        },
+        "No smoothing" : {
+            
+            "message": "Pas de lissage"
+        },
+        "Normalized Response" : {
+            
+            "message": "Réponse normalisée"
+        },
+        "Not ready" : {
+            
+            "message": "Non prêt"
+        },
+        "OCP Duration" : {
+            
+            "message": "Durée OCP"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "Echantillonnage OCP"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Accélération Objet (plusieurs barres)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Accélération Objet (une seule barre)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Vitesse Objet"
+        },
+        "Off" : {
+            
+            "message": "Off"
+        },
+        "One-point calibration" : {
+            
+            "message": "Calibration à un point"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Rotation optique"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Annotations Oscillations"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Max Oscillation"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Min Oscillation"
+        },
+        "Oscillations" : {
+            
+            "message": "Oscillations"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Gaz"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": "Concentration O₂ Gaz"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Gaz rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": "Calibration à deux points PAR"
+        },
+        "PPFD - CF" : {
+            
+            "message": "PPFD - CF"
+        },
+        "PPFD Correction" : {
+            
+            "message": "Correction PPFD"
+        },
+        "PYR two-point calibration" : {
+            
+            "message": "Calibration à deux points PYR"
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Aire Pic"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Période Pendule"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Vitesse Pendule"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Version majeure de firmware"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Version mineure de firmware"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Révision de firmware"
+        },
+        "Position Direction" : {
+            
+            "message": "Direction Position"
+        },
+        "Position G" : {
+            
+            "message": "Position V"
+        },
+        "Position Vector" : {
+            
+            "message": "Vecteur position"
+        },
+        "Position Y" : {
+            
+            "message": "Position J"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Calibration Puissance à trois points"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Pression impulsion"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Rythme impulsion"
+        },
+        "REV" : {
+            
+            "message": "REV"
+        },
+        "Ramp rate" : {
+            
+            "message": "Pente rampe"
+        },
+        "Raw Diastolic" : {
+            
+            "message": "Diastolique brute"
+        },
+        "Raw MAP" : {
+            
+            "message": "PAM brute"
+        },
+        "Raw Pressure" : {
+            
+            "message": "Pression brute"
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": "Lissage Pression brute"
+        },
+        "Raw Systolic" : {
+            
+            "message": "Systolique brute"
+        },
+        "Raw Temperature" : {
+            
+            "message": "Température brute"
+        },
+        "Ready" : {
+            
+            "message": "Prêt"
+        },
+        "Ready to inject" : {
+            
+            "message": "Prêt à injecter"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Accélération A distance"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Porte A distance - Accélération Objet"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Porte A distance - Accélération Objet (une seule barre)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Porte A distance - Vitesse Objet"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Porte à distance 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Porte à distance 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Vitesse A distance"
+        },
+        "Reverse" : {
+            
+            "message": "Arrière"
+        },
+        "Running" : {
+            
+            "message": "en cours"
+        },
+        "Salinity correction" : {
+            
+            "message": "Correction Salinité"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Niveau sonore - A"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Niveau sonore - C"
+        },
+        "Start temperature" : {
+            
+            "message": "Température de départ"
+        },
+        "Starting" : {
+            
+            "message": ""
+        },
+        "Station Pressure" : {
+            
+            "message": "Pression Station"
+        },
+        "Step Rate" : {
+            
+            "message": "Rythme Pas"
+        },
+        "Steps" : {
+            
+            "message": "Pas"
+        },
+        "Stopped" : {
+            
+            "message": ""
+        },
+        "Switch USB" : {
+            
+            "message": "Switch USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Coefficient systolique"
+        },
+        "Temperature correction" : {
+            
+            "message": "Correction température"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Calibration à 3 points"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Pad durée de vol"
+        },
+        "Timing" : {
+            
+            "message": "Chrono"
+        },
+        "Total VOC" : {
+            
+            "message": "COV total"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Calibration à 2 points"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Thermocouple Type J"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Thermocouple Type K"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Thermocouple Type T"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": "UV bleu"
+        },
+        "UV Index" : {
+            
+            "message": "index UV"
+        },
+        "UV Intensity" : {
+            
+            "message": "Intensité UV"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": "Utiliser le lissage"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Max Vecteur"
+        },
+        "Vector range Min" : {
+            
+            "message": "Min Vecteur"
+        },
+        "Velocity G" : {
+            
+            "message": "Vitesse V"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Vecteur vitesse"
+        },
+        "Velocity Y" : {
+            
+            "message": "Vitesse J"
+        },
+        "Velocity2" : {
+            
+            "message": "Vitesse2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Tension - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Tension - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Facteur de correction volume"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Polarité volume inspiratoire"
+        },
+        "W/m²" : {
+            
+            "message": "W/m²"
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Amplitude Onde"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Fréquence Onde"
+        },
+        "Wind Chill" : {
+            
+            "message": "Effet du vent"
+        },
+        "Wind Direction" : {
+            
+            "message": "Direction Vent"
+        },
+        "Wind Speed" : {
+            
+            "message": "Vitesse Vent"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Calibration Direction du vent"
+        },
+        "X magnetic field" : {
+            
+            "message": "Champ magnétique X"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "Champ magnétique X 130 mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "Vitesse angulaire-X"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "Accélération axe-X"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "Accélération axe-X V"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "Accélération axe-X J"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "Calibration à un point accélération axe-X"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "Accélération Axe-X high"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "Calibration à un point Accélération axe-X high"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "Vitesse angulaire axe-X"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "Vitesse angulaire (vert) axe-X"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "Vitesse angulaire (jaune) axe-X"
+        },
+        "X-axis gyro" : {
+            
+            "message": "Gyro axe-X"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Champ magnétique Y"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Champ magnétique Y 130 mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Vitesse angulaire-Y"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Accélération axe-Y"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Accélération axe-Y V"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Accélération Axe-Y J"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Calibration à un point accélération axe-Y"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Accélération axe-Y high"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Calibration à un point accélération axe-Y high"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Vitesse angulaire axe-Y"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Vitesse angulaire (vert) axe-Y"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Vitesse angulaire (jaune) axe-Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Gyro Axe-Y"
+        },
+        "Yes" : {
+            
+            "message": "Oui"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Champ magnétique Z"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Champ magnétique Z 130 mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Vitesse angulaire-Z"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Accélération axe-Z"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Accélération axe-Z V"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Accélération axe-Z J"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Calibration à un point accélération axe-Z"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Accélération axe-Z high"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Calibration à un point accélération axe-Z high"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Vitesse angulaire axe-Z"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Vitesse angulaire (vert) axe-Z"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Vitesse angulaire (jaune) axe-Z"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Gyro axe-Z"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "bpm"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "comptes"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "in"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "noeuds"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": "nC"
+        },
+        "pC" : {
+            
+            "message": "pC"
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "tension brute"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "tr"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "pas/min"
+        },
+        "steps" : {
+            
+            "message": "pas"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": "umol m-2 s-1"
+        },
+        "units/s" : {
+            
+            "message": "unité/s"
+        },
+        "units/s²" : {
+            
+            "message": "unité/s²"
+        },
+        "velocity2" : {
+            
+            "message": "vitesse2"
+        },
+        "xxx0" : {
+            
+            "message": ""
+        },
+        "xxx1" : {
+            
+            "message": ""
+        },
+        "xxx2" : {
+            
+            "message": ""
+        },
+        "xxx3" : {
+            
+            "message": ""
+        },
+        "xxx4" : {
+            
+            "message": ""
+        },
+        "xxx5" : {
+            
+            "message": ""
+        },
+        "xxx6" : {
+            
+            "message": ""
+        },
+        "xxx7" : {
+            
+            "message": ""
+        },
+        "xxx8" : {
+            
+            "message": ""
+        },
+        "xxx9" : {
+            
+            "message": ""
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": "µmol m⁻² s⁻¹"
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Cosinus"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Cosinus carré"
+        },
+        "Inverse" : {
+            
+            "message": "Inverse"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Inverse carré"
+        },
+        "Linear" : {
+            
+            "message": "Affine"
+        },
+        "Modified Power" : {
+            
+            "message": "Puissance modifiée"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Exponentielle"
+        },
+        "Natural Log" : {
+            
+            "message": "Logarithme népérien"
+        },
+        "Not defined" : {
+            
+            "message": "Non défini"
+        },
+        "Power" : {
+            
+            "message": "Puissance"
+        },
+        "Proportional" : {
+            
+            "message": "Linéaire"
+        },
+        "Quadratic" : {
+            
+            "message": "Quadratique"
+        },
+        "Sine" : {
+            
+            "message": "Sinus"
+        },
+        "Slope" : {
+            
+            "message": "Pente"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Expression personnalisée"
+        }
+        
+    }
+}

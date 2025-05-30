@@ -1,0 +1,32 @@
+{
+  "d36336f190094951873ed6138ac208d8": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "savesPath": "",
+    "showFps": false,
+    "useGameMode": false,
+    "battlEyeRuntime": false,
+    "eacRuntime": false,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "verboseLogs": false,
+    "wineVersion": {
+      "bin": "/usr/share/steam/compatibilitytools.d/proton-ge-custom/proton",
+      "name": "Proton - proton-ge-custom",
+      "type": "proton"
+    },
+    "winePrefix": "/home/xion/Games/Heroic/Prefixes/default/Sifu",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}

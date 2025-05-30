@@ -1,0 +1,6474 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d підєднано клієнтів"
+        },
+        "%s All" : {
+            
+            "message": "%s Все"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s Усі набори даних"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s варіанти зовнішнього вигляду"
+        },
+        "%s details" : {
+            
+            "message": "%s подробиці"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s в даний час збирає дані. Ви хочете зупинити збір та розпочати новий експеримент?"
+        },
+        "%s Options" : {
+            
+            "message": "Опції"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(відстань,швидкість, прискорення)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 Графік"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1-а похідна"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "Зрушення першої похідної за часом"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1-а похідна(Y,X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 Графік"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 Графіка"
+        },
+        "2nd derivative" : {
+            
+            "message": "2-га похідна"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "Зрушення другої похідної по часу"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2-га похідна(Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 Графік"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 Графіка"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Сталася помилка зв'язку. Почніть експеримент з початку."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Помилка з'єднання призвела до зупинки вимірювань. Спробуйте, будь ласка, спочатку."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A In(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "Ви можете налаштувати параметри A, B і C. X, Y і Z - це існуючі колонки вашої таблиці."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Про програму"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "Спеціальні підходи кривої"
+        },
+        "Absolute Value" : {
+            
+            "message": "Абсолютне значення"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "прийняти Ліцензійну угоду End Sir і Повідомлення про конфіденційність"
+        },
+        "Accessories" : {
+            
+            "message": "Аксесуари"
+        },
+        "across" : {
+            
+            "message": "через"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Активуйте додаткові функції за допомогою ліцензійного ключа"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "Активуйте, щоб додати вручну"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Активуйте, щоб застосувати FFT"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Активуйте, щоб застосувати гістограму"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Активуйте, щоб відновити ушкоджені ряди"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Активуйте, щоб показати невизначеність параметрів відповідності"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Активуйте, щоб закреслити рядки"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Активуйте, щоб увімкнути закреслення"
+        },
+        "Activate to use %s" : {
+            
+            "message": "Активуйте, щоб використовувати %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Активуйте, щоб використовувати стовбчикову діаграму"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "Активуйте, щоб використовувати Notes"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Активуйте, щоб використовувати Інтернет -обмін даними"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Активуйте, щоб використовувати відео"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Додайте обчислюваний стовпець"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Додати сюди назву графіка"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Додайте стовпець вручну"
+        },
+        "Add Annotation" : {
+            
+            "message": "Додати опис"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Додати обчислювальну колонку"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Додайте дистильованої води в пляшку до верху губки."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Додати відповідність графіків"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Додати стовпчик ручного введення"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "Додайте ручну підгонку"
+        },
+        "add meters" : {
+            
+            "message": "додати датчик"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Додати нову таблицю даних"
+        },
+        "Add Prediction" : {
+            
+            "message": "Додати прогноз"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Додати м'який датчик"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Додайте розчин по краплях через лічильник крапель в 10міллілітровий градуйований циліндр."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Додати/Видалити лічильники"
+        },
+        "Advanced" : {
+            
+            "message": "Додатково"
+        },
+        "After" : {
+            
+            "message": "Після"
+        },
+        "After set number of flags" : {
+            
+            "message": "Після встановлення кількості прапорів"
+        },
+        "All" : {
+            
+            "message": "Все"
+        },
+        "Always Show 0" : {
+            
+            "message": "Завжди показувати 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Амплітуда"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Вираз повинен включати незалежну змінну та принаймні один параметр."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Для підключення до сесій спільної обробки даних вимагається Інтернет. Восстановите зв'язок і натисніть повторити спробу з'єднання."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Для підключення до сетевого розподілу даних потрібно Інтернет-з'єднання"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Для спільної роботи з данними потрібно Інтернет-з'єднання"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Для спільної обробки даних потрібно Інтернет. Восстановите зв'язок, потім розпочніть нову сесію спільної обробки даних."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "необов'язкова деталь катапульти, що використовується для повідомлення про час польоту снаряду."
+        },
+        "and " : {
+            
+            "message": "і "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "і натисніть ВІДКЛЮЧИТИ СПІЛЬНИЙ ДОСТУП"
+        },
+        "Angle units" : {
+            
+            "message": "Кутові одиниці"
+        },
+        "Angular Motion" : {
+            
+            "message": "Кутовий рух"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Інформація про кутовий рух"
+        },
+        "App is up to date" : {
+            
+            "message": "Оновлення не потрібне"
+        },
+        "App Preferences" : {
+            
+            "message": "Налаштування програми"
+        },
+        "App Updates" : {
+            
+            "message": "Доступні оновлення"
+        },
+        "Appearance" : {
+            
+            "message": "Зовнішній вигляд"
+        },
+        "Append" : {
+            
+            "message": "Додати"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Додайте додаткові дані до поточного набору даних або створити новий набір даних?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Додати або створити новий?"
+        },
+        "Apply" : {
+            
+            "message": "Застосувати"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Застосувати неліній.прибл"
+        },
+        "Apply FFT" : {
+            
+            "message": "Застосувати FFT"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Застосувати Гістограму"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Область"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Поки Ви вимірюєте, вони будуть бачити результати в своїх копіях Graphical Analysis"
+        },
+        "Auto" : {
+            
+            "message": "Авто"
+        },
+        "Automatic" : {
+            
+            "message": "Автоматично"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Усереднити виміряне по 10 секунд"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Усереднити по 10 секунд"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Розмір мітки осі"
+        },
+        "Back" : {
+            
+            "message": "Назад"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Смуговий фільтр"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Смуговий фільтр"
+        },
+        "Bar Tape" : {
+            
+            "message": "Стрічка"
+        },
+        "Bars" : {
+            
+            "message": "Смуги"
+        },
+        "Base" : {
+            
+            "message": "Основа"
+        },
+        "Base Axis" : {
+            
+            "message": "Базова вісь"
+        },
+        "Battery" : {
+            
+            "message": "Батарея"
+        },
+        "Battery Level" : {
+            
+            "message": "Заряд батареї"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Початкове значення кошика"
+        },
+        "Bin Width" : {
+            
+            "message": "Ширина кошика"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Пристрій Bluetooth"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth вимкнено"
+        },
+        "Bold" : {
+            
+            "message": "жирний"
+        },
+        "Book" : {
+            
+            "message": "Книга"
+        },
+        "Book Title" : {
+            
+            "message": "Назва книги"
+        },
+        "Both" : {
+            
+            "message": "Обидва"
+        },
+        "Bottom" : {
+            
+            "message": "Мінімум"
+        },
+        "Bottom Bar" : {
+            
+            "message": "Нижня панель"
+        },
+        "Bullet list" : {
+            
+            "message": "Маркований список"
+        },
+        "Calculated %s" : {
+            
+            "message": "Обчислено: %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Розрахована колонка"
+        },
+        "Calibrate" : {
+            
+            "message": "Калібрування"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Калібрувати зараз"
+        },
+        "Calibrating..." : {
+            
+            "message": "Калібруємо..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Калібрування завершено"
+        },
+        "Calibration failed" : {
+            
+            "message": "Помилка калібрування"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Калібрування успішно скинуто"
+        },
+        "Calibration Type" : {
+            
+            "message": "Тип калібрування"
+        },
+        "Cancel" : {
+            
+            "message": "Відміна"
+        },
+        "cancel" : {
+            
+            "message": "скасувати"
+        },
+        "Capable" : {
+            
+            "message": "здатний"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Контрольні вставки"
+        },
+        "Categorical" : {
+            
+            "message": "Категоричний"
+        },
+        "Categorical Data" : {
+            
+            "message": "Дані категорії"
+        },
+        "Ceiling" : {
+            
+            "message": "Верхня межа"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "Центральна ручна"
+        },
+        "Change left y-axis" : {
+            
+            "message": "Змінити ліву вісь у"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Змінити праву вісь у"
+        },
+        "Change x-axis" : {
+            
+            "message": "Змінити абсцису"
+        },
+        "Change y-axis" : {
+            
+            "message": "Змінити ординату"
+        },
+        "Channels" : {
+            
+            "message": "Канали"
+        },
+        "Charging," : {
+            
+            "message": "Заряджається,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Перевірте наявність оновлень прошивки"
+        },
+        "Check for software updates" : {
+            
+            "message": "Перевірте наявність оновлень програмного забезпечення"
+        },
+        "Check for Updates" : {
+            
+            "message": "Перевірити оновлення"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Перевірте датчик спалаху світлодіода"
+        },
+        "Checking for update..." : {
+            
+            "message": "Пошук оновлень ..."
+        },
+        "Choose File" : {
+            
+            "message": "Виберіть файл"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Виберіть директорію..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Виберіть цей параметр, щоб підключити датчики Go Direct через USB."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Виберіть це, щоб підключити датчик Go!Temp."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "Виберіть це, щоб під’єднати інтерфейс LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini або LabQuest Stream через USB."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "Потрібен Chrome 102 або новішої версії. iPad і iPhone не підтримуються."
+        },
+        "Circle" : {
+            
+            "message": "Коло"
+        },
+        "Clear Expression" : {
+            
+            "message": "Очистити вираз"
+        },
+        "Clear Filter" : {
+            
+            "message": "Скинути фільтр"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Натисніть (торкніться) ПОЧАТИ СЕСІЮ, щоб створити її ID"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "Натисніть кнопку Позначити під час збирання, щоб додати позначку даних у поточний час."
+        },
+        "Close" : {
+            
+            "message": "Закрити"
+        },
+        "Close Alert" : {
+            
+            "message": "Закрити сповіщення"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Закрийте програму і оновіть прошивку"
+        },
+        "Close Application" : {
+            
+            "message": "Закрити програму"
+        },
+        "Close Dialog" : {
+            
+            "message": "Зарити діалог"
+        },
+        "Close FFT" : {
+            
+            "message": "Закрити FFT"
+        },
+        "Close graph legend" : {
+            
+            "message": "Закрити легенду гарфіку"
+        },
+        "Close Histogram" : {
+            
+            "message": "Закрити Гістограму"
+        },
+        "Close Infobox" : {
+            
+            "message": "Закрити Infobox"
+        },
+        "Close Menu" : {
+            
+            "message": "Закрити меню"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Закрити частоту піків"
+        },
+        "Close Popover" : {
+            
+            "message": "Закрити Popover"
+        },
+        "Close Replay" : {
+            
+            "message": "Закрити перегляд"
+        },
+        "Close Start Page" : {
+            
+            "message": "Закрити початок сторінки"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Закрийте діалог  для продовження"
+        },
+        "Code" : {
+            
+            "message": "Код"
+        },
+        "Coefficient" : {
+            
+            "message": "Коефіцієнт"
+        },
+        "Collapse" : {
+            
+            "message": "Згорнути"
+        },
+        "Collect" : {
+            
+            "message": "Почати вимірювання"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Вимірювання за допомогою датчиків Vernier"
+        },
+        "Collecting" : {
+            
+            "message": "Вимірювання"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "Зібрати %d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Скупчення великої кількості точок знижує продуктивність."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Здійснюються вимірювання через ${eventParams.accumulate} seconds"
+        },
+        "Collection Parameters" : {
+            
+            "message": "Параметри колекції"
+        },
+        "Column %s" : {
+            
+            "message": "Стовпець %s"
+        },
+        "Column Options" : {
+            
+            "message": "Параметри стовпчика"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Стовпчик буде видалено зі всіх таблиць. Скасування буде неможливим."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Відокремлені значення комами"
+        },
+        "Complementary Error" : {
+            
+            "message": "Помилка заповення"
+        },
+        "Configurator" : {
+            
+            "message": "Конфігуратор"
+        },
+        "Confirm" : {
+            
+            "message": "Підтвердити"
+        },
+        "Connect" : {
+            
+            "message": "Підключитися"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Підключіть <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">підтримуваний USB пристрій від Vernier</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Підключіть пристрій"
+        },
+        "Connect a Device" : {
+            
+            "message": "Підключити пристрій"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Підключити LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Підключіться до LabQuest 2 або LoggerPro по WiFI"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "Підключіть ці пристрої для збору даних."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Підключіть ці пристрої для збору даних."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Підключіться до сесій спільного використання даних з джерела Graphical Analysis"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Підключитись до джерела LabQuest, Logger Pro або Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Підключіться до попередньо створеного сеансу, щоб поділитися налаштуваннями сеансу, даними тощо, або створіть новий сеанс."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Підключіть бездротовий пристрій, що вказаний нижче, або підключіть по USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Підключіть бездротовий пристрій, що вказаний нижче."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Підключитися до попереднього сеансу"
+        },
+        "connected" : {
+            
+            "message": "підключено"
+        },
+        "Connected Devices" : {
+            
+            "message": "Підключені пристрої"
+        },
+        "Connecting" : {
+            
+            "message": "Підключення"
+        },
+        "Connection error" : {
+            
+            "message": "Помилка з'єднання"
+        },
+        "Connection Lost" : {
+            
+            "message": "Розрив з'єднання"
+        },
+        "Connection status info" : {
+            
+            "message": "Інформація про стан підключення"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Не вдалось підключитись до %s"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "%s підєднано успішно"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "Перейдіть до параметрів отримання"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "Продовжити без потрібних пристроїв"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Продовжити без потрібних пристроїв"
+        },
+        "Copy" : {
+            
+            "message": "Копіювати"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Скопіювати гістограм"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Копіювати ідентифікатор хоста"
+        },
+        "Copy Link" : {
+            
+            "message": "Копіювати посилання"
+        },
+        "Copy Sign" : {
+            
+            "message": "Скопіювати знак"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Копіювати в буфер обміну"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Копіювати в буфер обміну"
+        },
+        "Cosine" : {
+            
+            "message": "Косинус"
+        },
+        "Count Interval" : {
+            
+            "message": "Інтервал підрахунку"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Створіть власну форму"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Створити новий набір даних"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Створення власної розрахункової колонки"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Створення користувацької кривої"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Корінь кубічний"
+        },
+        "Curve Fit" : {
+            
+            "message": "Нелін.прибл"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Власні вираховуємі стовпчики"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Власні не лінійні наближення"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Користувацька інформація Curvefit"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Інформація про користувацький вираз"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Спеціальні підходи зберігаються у файлах документів програми. Коли ви починаєте новий сеанс або повторно запускаєте програму, пристосування видаляються."
+        },
+        "Custom Session" : {
+            
+            "message": "Спеціальна сесія"
+        },
+        "Cut" : {
+            
+            "message": "Вирізати"
+        },
+        "Dark" : {
+            
+            "message": "Темний"
+        },
+        "Darker" : {
+            
+            "message": "Темніше"
+        },
+        "Darkest" : {
+            
+            "message": "Найтемніший"
+        },
+        "Data" : {
+            
+            "message": "Дані"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "Розпочато збір даних у режимі журналювання."
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Налаштування вимірів"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Вимірювання автоматично припиняться після того, як всі фотоворота зафіксують очікувану кількість положень (за кількістю встановлених прапорців). Якщо почати вимірювання заново, буде сформована нова таблиця."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Збір даних автоматично зупиниться після того, як усі ворота мають очікувану кількість вимірювань положення (така ж, як кількість прапорів). Початок колекції знову почне новий набір даних."
+        },
+        "Data Mark" : {
+            
+            "message": "Позначка даних"
+        },
+        "Data Marking" : {
+            
+            "message": "Маркування даних"
+        },
+        "Data Set %d" : {
+            
+            "message": "Дані %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Назва таблиці"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Довжина назви експеримента не більше: %s."
+        },
+        "Data Set Options" : {
+            
+            "message": "Параметри набору даних"
+        },
+        "Data Set Time" : {
+            
+            "message": "Час таблиці"
+        },
+        "Data Share" : {
+            
+            "message": "Спільна робота"
+        },
+        "Data Sharing" : {
+            
+            "message": "Спільна робота"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Йде спільна робота з даними"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Початок сесії спільної роботи з даними"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Статус сеансу обміну даними"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Статус спільної роботи з даними"
+        },
+        "Data Table" : {
+            
+            "message": "Таблиця даних"
+        },
+        "Data Type" : {
+            
+            "message": "Тип даних"
+        },
+        "Data Type Info" : {
+            
+            "message": "Інформація про тип даних"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Параметри перегляду набору даних"
+        },
+        "Decimal Format" : {
+            
+            "message": "Десятинний формат"
+        },
+        "Decimal Places" : {
+            
+            "message": "Знаків після коми"
+        },
+        "decrease" : {
+            
+            "message": "зменшення"
+        },
+        "decreasing" : {
+            
+            "message": "зменшуватися"
+        },
+        "degrees" : {
+            
+            "message": "градуси"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Градуси (°)"
+        },
+        "Delete" : {
+            
+            "message": "Видалити"
+        },
+        "Delete %s?" : {
+            
+            "message": "Видалити %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Видалити стовпець"
+        },
+        "Delete Column" : {
+            
+            "message": "Видалити стовпчик"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Видалити стовпчик %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Видалити позначку даних"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Видалити множину даних"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Видалити відповідність графіків"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Видалити прогнозування"
+        },
+        "Delete Video" : {
+            
+            "message": "Видалити відео"
+        },
+        "Delta" : {
+            
+            "message": "Дельта"
+        },
+        "Device Error" : {
+            
+            "message": "Помилка пристрою"
+        },
+        "Device Information" : {
+            
+            "message": "Інформація про пристрій"
+        },
+        "Device information" : {
+            
+            "message": "Інформація про пристрій"
+        },
+        "Devices" : {
+            
+            "message": "Пристрої"
+        },
+        "Diameter" : {
+            
+            "message": "Діаметр"
+        },
+        "Diamond" : {
+            
+            "message": "діамант"
+        },
+        "Dimension" : {
+            
+            "message": "Розмір"
+        },
+        "Disabled" : {
+            
+            "message": "Вимкнено"
+        },
+        "Disconnect" : {
+            
+            "message": "Відключити"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "Відключити та продовжити реєстрацію"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "Від’єднайте кабель USB."
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "Відключитися без очищення даних"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Знайдені пристрої"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Знайдені бездротові пристрої"
+        },
+        "Display Meters" : {
+            
+            "message": "Дисплей Метри"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Відображені стовпці"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Відображені набори даних"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Відображувана точність"
+        },
+        "Distance" : {
+            
+            "message": "Відстань"
+        },
+        "Distance between gates" : {
+            
+            "message": "Відстань між воротами"
+        },
+        "Distribute App" : {
+            
+            "message": "Розповсюджувати додаток"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "Розповсюдження графічного аналізу Vernier"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Ви бажаєте остаточно видалити цю позначку даних?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Хочете зберегти зміни у файлі% s? У разі відмови все зміни будуть втрачені."
+        },
+        "Don't Save" : {
+            
+            "message": "Не зерігати"
+        },
+        "Done" : {
+            
+            "message": "Готово"
+        },
+        "done" : {
+            
+            "message": "зроблено"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Завантаження закінчено. Оновлення будуть встановлені в момент наступного запуску програми"
+        },
+        "Download Experiment" : {
+            
+            "message": "Завантажити Експеримент"
+        },
+        "Download Update" : {
+            
+            "message": "Завантажити оновлення"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Накреслити прогноз"
+        },
+        "Drop Counting" : {
+            
+            "message": "Підрахунок крапель"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Вимірювання перервані. Будь ласка, почніть експеримент заново, встановивши меншу частоту замірів."
+        },
+        "Drops" : {
+            
+            "message": "Краплі"
+        },
+        "Drops/mL" : {
+            
+            "message": "Капель/мл"
+        },
+        "duration" : {
+            
+            "message": "тривалість"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "напруга 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "напр., 007 або TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Редагувати властивості графіка"
+        },
+        "Edit mode" : {
+            
+            "message": "Режим редагування"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Увімкніть Bluetooth щоб під'єднатись до бездротових пристроїв."
+        },
+        "Enable Replay" : {
+            
+            "message": "Відтворити"
+        },
+        "Enabled" : {
+            
+            "message": "Увімкнено"
+        },
+        "End Collection" : {
+            
+            "message": "Завершити вимірювання"
+        },
+        "End data collection" : {
+            
+            "message": "Завершити збір даних"
+        },
+        "End User License Agreement" : {
+            
+            "message": "Ліцензійна угода кінцевого користувача"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Перестати спільно працювати з даними, натиснувши"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Введіть опис"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Ввести дані використовуючи копіювання і вставку з клавіатури"
+        },
+        "Enter first known value" : {
+            
+            "message": "Введіть перше відоме значення"
+        },
+        "Enter second known value" : {
+            
+            "message": "Введіть друге відоме значення"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Введіть точний об'єм розчину з градуйованого циліндра"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Введіть ID джерела:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "Вхід у категорійний режим"
+        },
+        "Equation" : {
+            
+            "message": "Рівняння"
+        },
+        "Error" : {
+            
+            "message": "Помилка"
+        },
+        "Error Bar Info" : {
+            
+            "message": "Інформація про панель помилок"
+        },
+        "Error Bars" : {
+            
+            "message": "Смуги помилок"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Помилка: відмовлено у доступі до буфера обміну."
+        },
+        "Event" : {
+            
+            "message": "Подія"
+        },
+        "Event Based" : {
+            
+            "message": "На основі подій"
+        },
+        "Event Mode" : {
+            
+            "message": "Режим подій"
+        },
+        "Event Name" : {
+            
+            "message": "Назва події"
+        },
+        "Events with Entry" : {
+            
+            "message": "Реєстр.з ввд.дан"
+        },
+        "Events With Entry" : {
+            
+            "message": "Події з входом"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Наприклад: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Приклад: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Рівняння-1"
+        },
+        "Expand" : {
+            
+            "message": "Розгорнути"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Розгорніть ідентифікатор хоста"
+        },
+        "Experiment Name" : {
+            
+            "message": "Назва експерименту"
+        },
+        "Experimental Features" : {
+            
+            "message": "експериментальні нововведения"
+        },
+        "Exponent" : {
+            
+            "message": "Експонента"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Експоненціальна основа 2"
+        },
+        "Export" : {
+            
+            "message": "Експорт"
+        },
+        "Export CSV" : {
+            
+            "message": "Експортувати CSV"
+        },
+        "Expression" : {
+            
+            "message": "Вираз"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Дата первісного калібрування"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Тяга вентелятору"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT властивості"
+        },
+        "File Menu" : {
+            
+            "message": "Меню файл"
+        },
+        "File saved" : {
+            
+            "message": "Файл збережений"
+        },
+        "Filename" : {
+            
+            "message": "Ім'я файла"
+        },
+        "Filter Device List" : {
+            
+            "message": "Відфільтрувати список пристроїв"
+        },
+        "Firmware" : {
+            
+            "message": "Прошивка"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Інформація по оновленню прошивки"
+        },
+        "First Derivative" : {
+            
+            "message": "Перша похідна"
+        },
+        "Fit Expression" : {
+            
+            "message": "Підходящий вираз"
+        },
+        "Fit Name" : {
+            
+            "message": "Відповідне ім’я"
+        },
+        "Fit Options" : {
+            
+            "message": "Параметри Fit"
+        },
+        "Fixed Value" : {
+            
+            "message": "Параметри Fit"
+        },
+        "Flag Width" : {
+            
+            "message": "ширина прапорця"
+        },
+        "Flags" : {
+            
+            "message": "Прапорці"
+        },
+        "Floor" : {
+            
+            "message": "Нижня межа"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Для об'єктів Vernier для вибраного об'єкта відображається число відстаней та прапорців. Для стрічки, введіть кількість прапорців."
+        },
+        "Frequency" : {
+            
+            "message": "Мітка вертикальної осі для гістограми"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Від Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Функція"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Функції та незалежна змінна мають бути малими."
+        },
+        "Gate Separation" : {
+            
+            "message": "Розділення фотозатвору"
+        },
+        "Gate State" : {
+            
+            "message": "Статус затвору"
+        },
+        "Gate timing" : {
+            
+            "message": "Час воріт"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "Карта датчиків GDX"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Передайте інший цей  ID, щоб вони могли приєднатися до Вашої сесії"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Датчики Go Direct"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Перейти до початку відео"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Go! Link" : {
+            
+            "message": "Go! Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Graph" : {
+            
+            "message": "Графік"
+        },
+        "Graph %s" : {
+            
+            "message": "Графік %s"
+        },
+        "Graph 1" : {
+            
+            "message": "Граф 1"
+        },
+        "Graph 2" : {
+            
+            "message": "Граф 2"
+        },
+        "Graph 3" : {
+            
+            "message": "Граф 3"
+        },
+        "Graph Display" : {
+            
+            "message": "Графічний дисплей"
+        },
+        "Graph Inset" : {
+            
+            "message": "Вставка графіка"
+        },
+        "Graph Legend" : {
+            
+            "message": "Легенда графіку"
+        },
+        "Graph Match" : {
+            
+            "message": "Співставлення графіків"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Налаштування відповідності графіків"
+        },
+        "Graph Options" : {
+            
+            "message": "Параметри графіку"
+        },
+        "Graph Shape" : {
+            
+            "message": "Графічна форма"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Інформація про Graphical Analysis Pro"
+        },
+        "Graphs" : {
+            
+            "message": "Граф"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "Заголовок 1"
+        },
+        "Heading 2" : {
+            
+            "message": "Заголовок 2"
+        },
+        "Heading 3" : {
+            
+            "message": "Заголовок 3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "Допоможіть підключити пристрій"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "Допомога підключення пристрою"
+        },
+        "Hide" : {
+            
+            "message": "Сховати"
+        },
+        "Hide Details" : {
+            
+            "message": "Приховати деталі"
+        },
+        "High-pass Filter" : {
+            
+            "message": "Фільтр високих частот"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Режим з висковою роздільною здатністю"
+        },
+        "Histogram" : {
+            
+            "message": "Гістограм"
+        },
+        "Histogram options" : {
+            
+            "message": "Властивості ГІстограми"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Горизонтальний роздільник"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Провести сеанс обміну даними"
+        },
+        "How To Distribute" : {
+            
+            "message": "Поширювати як"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Гіперболічний косинус"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Гіперболічний синус"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Гіперболічний тангенс"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Гіпотенуза"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Визначити"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "Якщо потрібен додатковий пристрій, повторіть процес."
+        },
+        "Ignore" : {
+            
+            "message": "Ігнорувати"
+        },
+        "Import Video" : {
+            
+            "message": "Імпортувати відео"
+        },
+        "increase" : {
+            
+            "message": "Збільшенння"
+        },
+        "increasing" : {
+            
+            "message": "збільшуватися"
+        },
+        "Insert Expression" : {
+            
+            "message": "Вставити вираз"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Вставте сенсор в пляшку так, щоб кінчик не торкався губки або води."
+        },
+        "Integral" : {
+            
+            "message": "Інтеграл"
+        },
+        "Intercept" : {
+            
+            "message": "Перетин"
+        },
+        "Interpolate" : {
+            
+            "message": "Інтерполяція"
+        },
+        "Interval" : {
+            
+            "message": "Інтервал"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Недійсне рівняння"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Недійсний вираз"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Зворотний косинус"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Зворотний гіперболічний косинус"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Зворотний гіперболічний синус"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Зворотний гіперболічний тангенс"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Зворотний синус"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Зворотній тангенс"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Зворотній тангенс 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "Перевернутий окреслений прямокутник"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "Перевернутий окреслений трикутник"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Triangle" : {
+            
+            "message": ""
+        },
+        "is" : {
+            
+            "message": "є"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "зараз не підтримується. Спробуйте інше."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Настійно рекомендується калібрувати після заміни ковпачка."
+        },
+        "Italic" : {
+            
+            "message": ""
+        },
+        "Join New Experiment" : {
+            
+            "message": "Підключіться до нового експерименту"
+        },
+        "Keep" : {
+            
+            "message": "Зберегти"
+        },
+        "Keep Point" : {
+            
+            "message": "Зберегти точку"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Тримайте ковпачок вертикально в цьому положенні мінімум 60 секунд, потім натисніть \"калібрувати зараз.\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Введені значення повинні відрізнятися для різних точок калібрування."
+        },
+        "LabQuest" : {
+            
+            "message": ""
+        },
+        "LabQuest Devices" : {
+            
+            "message": ""
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Великий"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Попередній раз було проведена калібрування"
+        },
+        "Launch Speed" : {
+            
+            "message": "Швидкість запуску"
+        },
+        "Left" : {
+            
+            "message": "Мін"
+        },
+        "Left Axis" : {
+            
+            "message": ""
+        },
+        "Left manual fit handle" : {
+            
+            "message": ""
+        },
+        "Left y-axis range" : {
+            
+            "message": "Діапазон лівої осі Y"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Тип файлу застарів"
+        },
+        "License Key" : {
+            
+            "message": ""
+        },
+        "License Key is expired." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": ""
+        },
+        "License Key is required." : {
+            
+            "message": ""
+        },
+        "License Key is suspended." : {
+            
+            "message": ""
+        },
+        "License Key not recognized." : {
+            
+            "message": ""
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": ""
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": ""
+        },
+        "Licensed To" : {
+            
+            "message": "Ліцензовано на"
+        },
+        "Licensed to" : {
+            
+            "message": "Ліцензовано на"
+        },
+        "Line Shade" : {
+            
+            "message": "Відтінок лінії"
+        },
+        "Linear Motion" : {
+            
+            "message": "Лінійний рух"
+        },
+        "Linear Motion Info" : {
+            
+            "message": ""
+        },
+        "Lines" : {
+            
+            "message": "Лінії"
+        },
+        "Link" : {
+            
+            "message": ""
+        },
+        "Link Copied" : {
+            
+            "message": ""
+        },
+        "list item" : {
+            
+            "message": ""
+        },
+        "Load Experiment" : {
+            
+            "message": ""
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": ""
+        },
+        "Log" : {
+            
+            "message": "Журнал"
+        },
+        "Log Base 2" : {
+            
+            "message": "Основа журналу 2"
+        },
+        "Log Base b" : {
+            
+            "message": "База журналу b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": ""
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Фільтр низьких частот"
+        },
+        "Main Content" : {
+            
+            "message": ""
+        },
+        "Manual" : {
+            
+            "message": "Вручну"
+        },
+        "Manual %s" : {
+            
+            "message": "Вручну %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Ручний ввід"
+        },
+        "Manual Fit" : {
+            
+            "message": ""
+        },
+        "Manual Scaling" : {
+            
+            "message": "Масштабирования в ручному режимі"
+        },
+        "Manually" : {
+            
+            "message": "В ручному режимі"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Дата виготовлення"
+        },
+        "Mark" : {
+            
+            "message": ""
+        },
+        "Max" : {
+            
+            "message": "Макс"
+        },
+        "Maximize Application" : {
+            
+            "message": "Максимальне застосування"
+        },
+        "Mean" : {
+            
+            "message": "Головне"
+        },
+        "Measurement" : {
+            
+            "message": "Вимірювання"
+        },
+        "Medium" : {
+            
+            "message": ""
+        },
+        "Meter Actions" : {
+            
+            "message": ""
+        },
+        "Meter All Columns" : {
+            
+            "message": "Вимірюйте всі стовпці"
+        },
+        "Meter Size" : {
+            
+            "message": "Розмірність"
+        },
+        "Meter View Options" : {
+            
+            "message": "Параметри перегляду вимірювача"
+        },
+        "Metered" : {
+            
+            "message": "Дозований"
+        },
+        "metering on all columns" : {
+            
+            "message": "вимірювання на всіх колонах"
+        },
+        "Meters" : {
+            
+            "message": "Вимірювання"
+        },
+        "min" : {
+            
+            "message": "хв"
+        },
+        "Min" : {
+            
+            "message": "Мін"
+        },
+        "Minimize Application" : {
+            
+            "message": "Згорнути додаток"
+        },
+        "Mode" : {
+            
+            "message": "Режим"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "вимірювання на всіх колонах"
+        },
+        "Modulo" : {
+            
+            "message": "Модуль"
+        },
+        "Move Down" : {
+            
+            "message": "Рухатися вниз"
+        },
+        "Move Up" : {
+            
+            "message": "Рухатися вгору"
+        },
+        "ms" : {
+            
+            "message": "мс"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Кілька, рівномірно розташованих прапорців на об'єкті використовуються для визначення позиції, коли об'єкт проходить через фотоворота. Перша заблокована подія визначає нульову позицію. Подальші заблоковані події збільшують положення за значенням інтервалу. Дані швидкості та прискорення розраховуються з використанням першого та другого похідних позиції по часу."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Кільцеві, рівномірно розташовані спиці на колесі використовуються для визначення кутового положення колеса при його поверненні. Перша заблокована подія визначає нульовий кут. Подальші заблоковані події збільшують кут на 2π / n радіана, де n - кількість спиць на колесі. Дані кутової швидкості та прискорення розраховуються з використанням першої та другої похідних кута відносно часу."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Множення може бути явним або прихованим."
+        },
+        "Mute Audio" : {
+            
+            "message": "Вимкнути звук"
+        },
+        "My-File-Name" : {
+            
+            "message": "Назва мого файлу"
+        },
+        "Name" : {
+            
+            "message": "Ім'я"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Довжина назви не може перевищувати %s"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Природна експоненція"
+        },
+        "Natural Log" : {
+            
+            "message": "Натуральний журнал"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Натуральний журнал 1 + X"
+        },
+        "Never" : {
+            
+            "message": "ніколи"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Нові калібрування будуть використовуватися, поки ви не відкриєте інший файл або експеримент."
+        },
+        "New Experiment" : {
+            
+            "message": "Створити експеримент"
+        },
+        "Next After" : {
+            
+            "message": "Далі після"
+        },
+        "No Columns" : {
+            
+            "message": "Немає стовпчиків"
+        },
+        "No Device Connected" : {
+            
+            "message": "Немає підєднаних пристроїв"
+        },
+        "No device connected." : {
+            
+            "message": "Немає підєднаних пристроїв."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Немає підключених пристроїв"
+        },
+        "No expiration date" : {
+            
+            "message": "Назавжди"
+        },
+        "No sensor connected" : {
+            
+            "message": "Датчики не підключені"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "Сенсор не приєднано"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Джерела не виявлені. Переконайтеся, що на Вашому джерелі включена / дозволена спільна обробка даних і обидва пристрої підключені до однієї і тієї ж мережі. Якщо проблема зберігається, виберіть \"Вказати джерело\" і вручну встановіть з'єднання з Вашим джерелом спільних даних."
+        },
+        "Normal" : {
+            
+            "message": "Звичайний"
+        },
+        "not" : {
+            
+            "message": "ні"
+        },
+        "Not Capable" : {
+            
+            "message": "Рухатися вгору"
+        },
+        "Note" : {
+            
+            "message": "Нотатка"
+        },
+        "Notes" : {
+            
+            "message": "Примітки"
+        },
+        "Number list" : {
+            
+            "message": "Номер списку"
+        },
+        "Number of flags" : {
+            
+            "message": "Кількість прапорів"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "Кількість точок, що використовуються для розрахунків похідних:"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "Кількість точок, що використовуються для розрахунків похідних:"
+        },
+        "Number of spokes" : {
+            
+            "message": "Кількість спиць"
+        },
+        "Numeric" : {
+            
+            "message": "Числовий"
+        },
+        "Object" : {
+            
+            "message": "Об'єкт"
+        },
+        "Object Width" : {
+            
+            "message": "Ширина об'єкту"
+        },
+        "Offline" : {
+            
+            "message": "Поза зоною"
+        },
+        "OK" : {
+            
+            "message": "Ок"
+        },
+        "Ok" : {
+            
+            "message": "Так"
+        },
+        "On a triggering event" : {
+            
+            "message": "По тригеру"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "Торкніться іконки Wi-Fi в LabQuest"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Перейдіть Файл-> Спільна обробка"
+        },
+        "One-point calibration" : {
+            
+            "message": "Калібрування по одній точці"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Інтернет -обмін даними"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Увімкніть вентилятор лише під час збору даних"
+        },
+        "Open failed" : {
+            
+            "message": "Відкрити файл"
+        },
+        "Open Saved File" : {
+            
+            "message": "Відкрити збережений файл"
+        },
+        "Open Update Information" : {
+            
+            "message": "Відкрити інформацію оновлення"
+        },
+        "Open..." : {
+            
+            "message": "Відкрити..."
+        },
+        "or" : {
+            
+            "message": "або"
+        },
+        "Order Code" : {
+            
+            "message": "Номер замовлення"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Інше / визначено користувачем"
+        },
+        "Other Options" : {
+            
+            "message": "Інші опції"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Інше / Визначене користувачем: Введіть пробіл та номер прапорця, як показано вище. Якщо ваш об'єкт - це колесо, то значення інтервалу буде окружністю колеса, поділеного на кількість спиць."
+        },
+        "Outlined Circle" : {
+            
+            "message": "Окреслене коло"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "Окреслений алмаз"
+        },
+        "Outlined Plus" : {
+            
+            "message": "Окереслити плюс"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "Окреслений прямокутник"
+        },
+        "Outlined Square" : {
+            
+            "message": "Окреслений квадрат"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "Окреслений трикутник"
+        },
+        "Paragraph" : {
+            
+            "message": "параграф"
+        },
+        "Parameter %s" : {
+            
+            "message": "Параметр %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Параметри неможливо повторити у виразі."
+        },
+        "Paste" : {
+            
+            "message": "Вставити"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Вставка недоступна в меню правки. Варто використовувати Ctrl+v(Mac: cmnd+v)."
+        },
+        "Pause replay" : {
+            
+            "message": "Призупинити перегляд"
+        },
+        "Pause Video" : {
+            
+            "message": "Пауза"
+        },
+        "Peak Frequency" : {
+            
+            "message": "Пікова частота"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Маятниковий період"
+        },
+        "Percentage" : {
+            
+            "message": "Відсоток"
+        },
+        "Perform a" : {
+            
+            "message": "Виконати а"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Хронометраж фотоворіт"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Фотоворота можуть рахувати об'єкти, що проходять між воротами, або повідомляють період коливань маятника. Час між послідовними заблокованими подіями повідомляється як інтервал часу. Коли використовуються точно два ворота, обидва ворота повинні бути заблоковані до того, як буде вказано значення."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Картинка в картинці"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Покладіть ваш датчик Go Direct біля пристрою"
+        },
+        "Play replay" : {
+            
+            "message": "Відтворити знову"
+        },
+        "Play Video" : {
+            
+            "message": "Грати відео"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "Множник швидкості відтворення"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Введіть, будь ласка, IP адресу джерела:"
+        },
+        "Plot" : {
+            
+            "message": "Побудувати"
+        },
+        "Plot Manager" : {
+            
+            "message": "Менеджер ділянок"
+        },
+        "Plus" : {
+            
+            "message": ""
+        },
+        "point" : {
+            
+            "message": "точка"
+        },
+        "Point Colors" : {
+            
+            "message": "Колір крапки"
+        },
+        "Point Symbols" : {
+            
+            "message": "Колір символів"
+        },
+        "points" : {
+            
+            "message": "точки"
+        },
+        "Points" : {
+            
+            "message": "Крапки"
+        },
+        "points before trigger" : {
+            
+            "message": "точок до триггеру"
+        },
+        "Power" : {
+            
+            "message": "Сила"
+        },
+        "Prediction" : {
+            
+            "message": "Прогноз"
+        },
+        "Prediction Name" : {
+            
+            "message": "Назва прогнозу"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Назва прогнозу обмежена% s символами."
+        },
+        "Prediction Options" : {
+            
+            "message": "Налаштування прогнозування"
+        },
+        "Prediction Title" : {
+            
+            "message": "Заголовок прогноза"
+        },
+        "Predictions" : {
+            
+            "message": "Прогнози"
+        },
+        "Preview mode" : {
+            
+            "message": ""
+        },
+        "Primary:" : {
+            
+            "message": "Основний:"
+        },
+        "Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": ""
+        },
+        "Projectile Info" : {
+            
+            "message": ""
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Пусковий пристрій"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Визначте цей ID, щоб інші учасники могли підключитися до Вашого пристрою"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Підключення при наближенні"
+        },
+        "Pulse timing" : {
+            
+            "message": "Час імпульсу"
+        },
+        "Quote" : {
+            
+            "message": ""
+        },
+        "radians" : {
+            
+            "message": "Радіани"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Радіан (рад)"
+        },
+        "Rate" : {
+            
+            "message": "Частота"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Частота, що перевищує 200 вимірювань в секунду вимагає рівномірної тривалості."
+        },
+        "Reconnect" : {
+            
+            "message": "Переключіться"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "Rectangle" : {
+            
+            "message": ""
+        },
+        "Regular" : {
+            
+            "message": "Регулярні"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Відносна стабільність читання"
+        },
+        "Remainder" : {
+            
+            "message": "Залишок"
+        },
+        "Remote Logging" : {
+            
+            "message": ""
+        },
+        "Remote Logging in Process" : {
+            
+            "message": ""
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": ""
+        },
+        "Remote Logging Started" : {
+            
+            "message": ""
+        },
+        "Remote Logging Status" : {
+            
+            "message": ""
+        },
+        "Remove" : {
+            
+            "message": ""
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Видалити лінійну тенденцію"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Зніміть м'який датчик"
+        },
+        "Rename" : {
+            
+            "message": "Перейменувати"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Перейменувати дані"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Перейменувати прогнозування"
+        },
+        "Replay" : {
+            
+            "message": "Повторити"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Повторно відтворити інформацію про синхронізацію відео"
+        },
+        "Reported Reading" : {
+            
+            "message": "Показники"
+        },
+        "Reset" : {
+            
+            "message": ""
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Скинути (обнулити) перед вимірами"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Повернутись до налаштувань за замовчуванням"
+        },
+        "Restart app" : {
+            
+            "message": "Перезапустіть додаток"
+        },
+        "Restart Replay" : {
+            
+            "message": "Відтворити спочатку"
+        },
+        "Restore All" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": ""
+        },
+        "Retry Calibration" : {
+            
+            "message": "Повторити спробу калібрування"
+        },
+        "Reverse" : {
+            
+            "message": "Реверс"
+        },
+        "revolution" : {
+            
+            "message": "оберт"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Оберти (об)"
+        },
+        "Right" : {
+            
+            "message": "Макс"
+        },
+        "Right Axis" : {
+            
+            "message": ""
+        },
+        "Right manual fit handle" : {
+            
+            "message": ""
+        },
+        "Right y-axis" : {
+            
+            "message": ""
+        },
+        "Right y-axis range" : {
+            
+            "message": "Діапазон правої осі Y"
+        },
+        "RMS" : {
+            
+            "message": ""
+        },
+        "RMSE" : {
+            
+            "message": "Середньоквадратичне відхилення"
+        },
+        "Round" : {
+            
+            "message": "Круглий"
+        },
+        "Row Number" : {
+            
+            "message": "Номер рядка"
+        },
+        "s" : {
+            
+            "message": "с"
+        },
+        "sample" : {
+            
+            "message": "зразок"
+        },
+        "Sample Data" : {
+            
+            "message": "Приклад файлу експеримента"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Приклади експериментів"
+        },
+        "samples" : {
+            
+            "message": "зразки"
+        },
+        "Samples" : {
+            
+            "message": "Зразки"
+        },
+        "samples per second" : {
+            
+            "message": ""
+        },
+        "samples scheduled" : {
+            
+            "message": ""
+        },
+        "Save" : {
+            
+            "message": "Зберегти"
+        },
+        "Save AMBL" : {
+            
+            "message": "Зберегти AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Зберегти і закрити додаток"
+        },
+        "Save As..." : {
+            
+            "message": "Зберегти як..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Зберегти зміни?"
+        },
+        "Save CSV" : {
+            
+            "message": "Зберегти CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Зберегти експеримент"
+        },
+        "Save failed" : {
+            
+            "message": "Помилка збереження"
+        },
+        "Save PDF" : {
+            
+            "message": "Зберегти PDF"
+        },
+        "Save Pending" : {
+            
+            "message": ""
+        },
+        "Save PNG" : {
+            
+            "message": "Зберегти PNG"
+        },
+        "Saved" : {
+            
+            "message": "Збережено"
+        },
+        "Saving" : {
+            
+            "message": ""
+        },
+        "Scale Factor" : {
+            
+            "message": "Фактор масштабу"
+        },
+        "Scaling" : {
+            
+            "message": "Масштабування"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Пошук пристроїв..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Друга точка вольтажа при калібрування датчика повинна відрізнятися від першої не менше, ніж на 0.05В."
+        },
+        "Second Derivative" : {
+            
+            "message": "Другий похідний"
+        },
+        "Secondary:" : {
+            
+            "message": "Другорядний:"
+        },
+        "seconds" : {
+            
+            "message": "секунд"
+        },
+        "See Experiments" : {
+            
+            "message": "Дивитись експерименти"
+        },
+        "See sample experiments" : {
+            
+            "message": "Дивіться зразки експериментів"
+        },
+        "Select Data Set" : {
+            
+            "message": "Вибрати дані"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Виберіть потрібні одиниці для повідомлення про кутове положення."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": ""
+        },
+        "select/deselect meter" : {
+            
+            "message": ""
+        },
+        "Selected Events" : {
+            
+            "message": "Автомат. реєстр"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Дії з датчиком"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Канали датчика"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Виміри датчика"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Налаштування датчика"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Напруга на датчику"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Датчик обнулено"
+        },
+        "Sensors" : {
+            
+            "message": "Датчики"
+        },
+        "Session 1 Name" : {
+            
+            "message": ""
+        },
+        "Session 2 Name" : {
+            
+            "message": ""
+        },
+        "Session 3 Name" : {
+            
+            "message": ""
+        },
+        "Session 4 Name" : {
+            
+            "message": ""
+        },
+        "Session ended by Host" : {
+            
+            "message": "Сесія завершена адміністратором"
+        },
+        "Session Preferences" : {
+            
+            "message": ""
+        },
+        "Settings saved" : {
+            
+            "message": "Налаштування збережені"
+        },
+        "Share AMBL" : {
+            
+            "message": "Роздати AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Надайте іншим доступ для вашого експерименту через Інтернет"
+        },
+        "Share CSV" : {
+            
+            "message": "Поділитися CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Поділитися зображенням"
+        },
+        "Share PDF" : {
+            
+            "message": "Поділитися PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Показати всі версії"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": ""
+        },
+        "Show Details" : {
+            
+            "message": ""
+        },
+        "Show Error Bars" : {
+            
+            "message": ""
+        },
+        "Show FFT" : {
+            
+            "message": "Показати FFT"
+        },
+        "Show Histogram" : {
+            
+            "message": "Показати гістограму"
+        },
+        "Show Less" : {
+            
+            "message": "Показати менше"
+        },
+        "Show Menu" : {
+            
+            "message": ""
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Покажіть середину часу через ворота"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Показати оригінальний графік"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": ""
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Significant Figures" : {
+            
+            "message": "Значущих цифр"
+        },
+        "Sine" : {
+            
+            "message": "Синус"
+        },
+        "Slope" : {
+            
+            "message": "Нахил"
+        },
+        "Small" : {
+            
+            "message": "Маленький"
+        },
+        "Spacing" : {
+            
+            "message": "Проміжок часу"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Відстань = Довжина кола / Кількість спиць"
+        },
+        "Specify source" : {
+            
+            "message": "Вказати джерело"
+        },
+        "Spectrum" : {
+            
+            "message": "Спектр"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Швидкість повз затвор"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": ""
+        },
+        "Spokes:" : {
+            
+            "message": "Спиці:"
+        },
+        "Square" : {
+            
+            "message": ""
+        },
+        "Square Root" : {
+            
+            "message": "Квадратний корінь"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Почати сумісну роботу з даними"
+        },
+        "Start a New Session" : {
+            
+            "message": "Почати нову сесію"
+        },
+        "Start Collection" : {
+            
+            "message": "Почати вимірювання"
+        },
+        "Start collection when" : {
+            
+            "message": "Почати вимірювання, коли показання"
+        },
+        "Start Logging" : {
+            
+            "message": ""
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Почати експеримент?"
+        },
+        "Start Session" : {
+            
+            "message": "Почати сесію"
+        },
+        "Statistics" : {
+            
+            "message": "Статистика"
+        },
+        "Std dev" : {
+            
+            "message": "Стндт.Викл"
+        },
+        "Step Backward" : {
+            
+            "message": "Покадровий перегляд назад"
+        },
+        "Step Forward" : {
+            
+            "message": "Покадровий перегляд вперед"
+        },
+        "Step Video Backwards" : {
+            
+            "message": ""
+        },
+        "Step Video Forward" : {
+            
+            "message": ""
+        },
+        "Stop" : {
+            
+            "message": "Зупинити"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Перестаньте капати, коли обсяг досягне позначки між 9 і 10 мл."
+        },
+        "Stop Collection" : {
+            
+            "message": ""
+        },
+        "Stop Sharing" : {
+            
+            "message": "Припинити спільний доступ"
+        },
+        "Strikethrough" : {
+            
+            "message": ""
+        },
+        "Subject" : {
+            
+            "message": "Тема"
+        },
+        "Submit" : {
+            
+            "message": "Відправити"
+        },
+        "Subscript" : {
+            
+            "message": ""
+        },
+        "Subscription Ends" : {
+            
+            "message": "Підписка закінчується"
+        },
+        "Subscription ends" : {
+            
+            "message": ""
+        },
+        "Superscript" : {
+            
+            "message": ""
+        },
+        "Supported Functions" : {
+            
+            "message": "Підтримка функціоналу"
+        },
+        "Symbol" : {
+            
+            "message": "Символ"
+        },
+        "Sync data with video" : {
+            
+            "message": "Синхронізувати дані і відео"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Синхронізувати відео з даними"
+        },
+        "Syntax" : {
+            
+            "message": "Синтаксис"
+        },
+        "Table" : {
+            
+            "message": "Таблиця"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Зчитувати з датчика (pH, ємність ...) на кожну краплю."
+        },
+        "Tangent" : {
+            
+            "message": "Дотична"
+        },
+        "Target" : {
+            
+            "message": "Ціль"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "З'єднання з блютуз втрачено"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Потрібна назва колонки"
+        },
+        "the current file" : {
+            
+            "message": "поточний файл"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Відтворення даних починається з %s до відео"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Вираз буде використано як ім'я кривої, якщо його явно не введено."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Початкова швидкість - це середнє значення снаряду при прольоті між воротами."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Початкова швидкість - це середнє значення швидкості снаряду при проходженні перших воріт."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Ширина об'єкта / прапора ділиться на час блокування фотоворіт (тривалість блокованого вогню), щоб визначити швидкість об'єкта через ворота."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": ""
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Час між послідовними заблокованими подіями відображається як інтервал."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "У виразі може бути не більше семи параметрів."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": ""
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Для цього датчика доступна нова прошивка, але оновлення не може бути застосоване до нього. Підключіть датчик по USB-кабелю до комп'ютера masOS, Windows або ChromeOS, відкрийте список пристроїв і замовте оновлення."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Для цього датчика доступна нова прошивка. Процес оновлення потребує підключення сенсора по USB-кабелю до комп'ютера і тимчасового виключення Graphical Analysis. Підключіть датчик по кабелю, якщо зараз він підключений по бездротовому з'єднанню."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Виникла проблема збереження налаштувань"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Цей стовпець створений автоматично і не може бути змінений"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Видалення буде незворотнім."
+        },
+        "This feature requires a" : {
+            
+            "message": "Ця функція потребує"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Це число визначає частку повороту, коли змінюється кутове положення з кожною заблокованою подією."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Ця версія Windows підтримує лише USB з'єднання з датчиками Go Direct."
+        },
+        "Time" : {
+            
+            "message": "Час"
+        },
+        "Time Based" : {
+            
+            "message": "Засновані на часі"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": ""
+        },
+        "Time between gates" : {
+            
+            "message": "Час між воротами"
+        },
+        "Time Decay Filter" : {
+            
+            "message": ""
+        },
+        "Time measurements" : {
+            
+            "message": "Вимірювання часу"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Час польоту"
+        },
+        "Time Units" : {
+            
+            "message": "Одиниці часу"
+        },
+        "Timer" : {
+            
+            "message": "Таймер"
+        },
+        "Timer Info" : {
+            
+            "message": ""
+        },
+        "Timer or Period" : {
+            
+            "message": "Таймер або Період"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Підказка: для найкращих результатів упевніться, що тільки один сенсор знаходиться в межах 2-х метрів від Вашого комп'ютера, телефону або планшета - який Ви збираєтеся використовувати."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Підказка: підключення при наближенні спирається на оцінки відстані. Якщо підключення ненадійно у вашому середовищі, використовуйте список підключень, щоб вибрати датчик."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Підказка: сенсори, доступні для підключення, блимають червоним вогником."
+        },
+        "Title" : {
+            
+            "message": "Заголовок"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Щоб створити користувацький %s, використовуйте будь -яку з підтримуваних функцій з будь -яким із підтримуваних операторів"
+        },
+        "To locate the address:" : {
+            
+            "message": "Вкажіть адресу:"
+        },
+        "to make the key available for use." : {
+            
+            "message": ""
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Щоб почати працювати з даними спільно:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Увімкнути / вимкнути темний режим"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Переключити режим світла"
+        },
+        "Too few points" : {
+            
+            "message": "Занадто мало точок"
+        },
+        "Toolbar" : {
+            
+            "message": ""
+        },
+        "Top" : {
+            
+            "message": "Макс"
+        },
+        "Total samples" : {
+            
+            "message": "Всього замірів"
+        },
+        "Triangle" : {
+            
+            "message": ""
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Тригонометричні функції обчислюються в радіанах, за винятком випадків, коли стовпець, нанесений на горизонтальну вісь, має одиниці"
+        },
+        "Truncate" : {
+            
+            "message": "Зрізати"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Двоточкова калібрування"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Ultra Pulley - в паз"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Ultra Pulley - зовнішній край"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Неможливо знайти пристрій з таким ім'ям або підключитися до нього."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Помилка з'єднання із "
+        },
+        "Units" : {
+            
+            "message": "Одиниці"
+        },
+        "Unknown" : {
+            
+            "message": "Невідомий"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": ""
+        },
+        "Unmute Audio" : {
+            
+            "message": "Увімкнути звук"
+        },
+        "Unsupported Browser" : {
+            
+            "message": ""
+        },
+        "Untitled" : {
+            
+            "message": "Безіменний"
+        },
+        "Update Available" : {
+            
+            "message": "Доступні оновлення"
+        },
+        "Update error" : {
+            
+            "message": "Помилка оновлення"
+        },
+        "Update Firmware" : {
+            
+            "message": "Оновити прошивку"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Завантажуються оновлення..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Оновіть свій ліцензійний ключ"
+        },
+        "USB" : {
+            
+            "message": ""
+        },
+        "USB Device" : {
+            
+            "message": "USB-пристрій"
+        },
+        "Use Column Value" : {
+            
+            "message": ""
+        },
+        "Use gate separation" : {
+            
+            "message": "Використовуйте воріт розділення"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Використовуйте ширину об'єкта / прапора"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Використовувати діаметр пристрою"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Використовувати стандартний вид числа"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": ""
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": ""
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Використовуйте цю опцію, для дослідження залежності швидкості від часу. Час, збережений в таблиці - це середнє між часом відкриття і закриття фотоворіт."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Використовувати час Flight Pad"
+        },
+        "Use Windowing" : {
+            
+            "message": "Використовуйте вікно"
+        },
+        "User Manual" : {
+            
+            "message": "Керівництво користувача"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Використовувати початкове налаштування"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": ""
+        },
+        "Value must be between " : {
+            
+            "message": "Значення має бути між "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": ""
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Контрольна пластикова вставка"
+        },
+        "Version" : {
+            
+            "message": "Версія"
+        },
+        "Vertical Divider" : {
+            
+            "message": ""
+        },
+        "Video" : {
+            
+            "message": "Відео"
+        },
+        "Video Time" : {
+            
+            "message": "Час відео"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Відтворення відео починається з %s до вимірів"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Відтворення відео починається одночасно з вимірюваннями"
+        },
+        "View Experiment" : {
+            
+            "message": "Перегляд експерименту"
+        },
+        "View Integral" : {
+            
+            "message": "Подивитися інтеграл"
+        },
+        "View Options" : {
+            
+            "message": "Налаштування перегляду"
+        },
+        "View Statistics" : {
+            
+            "message": "Показати статистику"
+        },
+        "Voltage" : {
+            
+            "message": "Напруга"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Очікується %s до %s через %s %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": ""
+        },
+        "What's New" : {
+            
+            "message": "Оновлення"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Коли вибирається маятник, час між кожною секундою заблокованої події повідомляється як Період, оскільки маятник блокує ворота тричі, коли він завершує один поворот."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "При використанні двох фотоворіт можна використовувати відстань між воротами замість ширини об'єкта / прапора для обчислення швидкості. Зазначена швидкість буде швидкістю між двома воротами."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Для бездротового з'єднання потрібен Windows 10."
+        },
+        "Wireless" : {
+            
+            "message": ""
+        },
+        "Working..." : {
+            
+            "message": "Опрацювання..."
+        },
+        "x" : {
+            
+            "message": "х"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "діапазон осі Х"
+        },
+        "x-range" : {
+            
+            "message": "інтервал х"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "Діапазон осі Y"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": ""
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": ""
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": ""
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": ""
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": ""
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": ""
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Власник сесії спільної роботи з даними почав новий експеримент. Ви можете приєднатися або продовжити свій."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": ""
+        },
+        "Zero" : {
+            
+            "message": "Обнулити"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Масштабувати до всіх даних"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Масштабувати до виділеного"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ вісь x ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ вісь y ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": ""
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-г Акселерометр"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3-вісьовий акселерометр (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3-вісьовий акселерометр (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3-вісьовий акселерометр (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "30В Напруга (+/- 30В)"
+        },
+        "Absorbance" : {
+            
+            "message": "Абсорбент"
+        },
+        "Acceleration" : {
+            
+            "message": "Прискорення"
+        },
+        "Accelerometer" : {
+            
+            "message": "Акселерометр"
+        },
+        "Ammonium" : {
+            
+            "message": "Амоній"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Конц. амонія"
+        },
+        "Analyzer" : {
+            
+            "message": "Аналізатор"
+        },
+        "Anemometer" : {
+            
+            "message": "Анемометр"
+        },
+        "Angle" : {
+            
+            "message": "Кут"
+        },
+        "Barometer" : {
+            
+            "message": "Барометр"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Барометр (не продається)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Біологічний Тиск Газу"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Кров'яний тиск"
+        },
+        "Calcium" : {
+            
+            "message": "Кальцій"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Конц. кальція"
+        },
+        "Charge" : {
+            
+            "message": "Зарядити"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Датчик заряду"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Діапазон: + 100nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Діапазон: + 20nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Діапазон: + 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Хлорид"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Конц. хлорида"
+        },
+        "CO2" : {
+            
+            "message": "СО2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "Висока концентрація СО2"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "Низька концентрація СО2"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "Старий датчик СО2"
+        },
+        "Colorimeter" : {
+            
+            "message": "Колориметр"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Старий колориметр"
+        },
+        "Concentration" : {
+            
+            "message": "Концентрація"
+        },
+        "Conductivity" : {
+            
+            "message": "Провідність"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Діапазон: + 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Діапазон: + 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Діапазон: + 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Система постійного струму"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Тиск в манжеті"
+        },
+        "Current" : {
+            
+            "message": "Поточний"
+        },
+        "Current Probe" : {
+            
+            "message": "Амперметр"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Амперметр + 1.2 А"
+        },
+        "Diastolic" : {
+            
+            "message": "Діастоличний"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Диференційна напруга"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Цифровий контролер"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Контактн. термометр"
+        },
+        "Displacement" : {
+            
+            "message": "Зміщення"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Розчинений CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Розчинений кисень"
+        },
+        "Distance" : {
+            
+            "message": "Відстань"
+        },
+        "DO" : {
+            
+            "message": "ЦВ"
+        },
+        "Drop Counter" : {
+            
+            "message": "Лічильник крапель"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Діапазон: + 10 Н"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Діапазон: + 50 Н"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Лише візки початку 2021 року"
+        },
+        "EKG" : {
+            
+            "message": "ЕКГ"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Електродний підсилювач"
+        },
+        "Energy" : {
+            
+            "message": "Енергія"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Струм датчика струму"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Напруга датчик напруги"
+        },
+        "Ethanol" : {
+            
+            "message": "Етанол"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Датчик етанолу"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Подовжений термодатчик"
+        },
+        "Flow Rate" : {
+            
+            "message": "Швидкість потоку"
+        },
+        "Fluorescence" : {
+            
+            "message": "Флуоресценція"
+        },
+        "Force" : {
+            
+            "message": "Сила"
+        },
+        "Force Plate" : {
+            
+            "message": "Модуль Сила"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Діапазон: 3500Н"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Діапазон: 850Н"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Датчик тиску газу"
+        },
+        "Gate State" : {
+            
+            "message": "Стан фотоворіт"
+        },
+        "Gate Time" : {
+            
+            "message": "Час воріт"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Бездротовий електронний підсилювач"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Бездротовий тахометр"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Бездротовий pHметр"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Бездротовий термометр"
+        },
+        "Go! Motion" : {
+            
+            "message": "Детектор руху"
+        },
+        "Go! Temp" : {
+            
+            "message": "Датчик температури"
+        },
+        "Goniometer" : {
+            
+            "message": "Гоніометр"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Ручний динамометр"
+        },
+        "Heart Rate" : {
+            
+            "message": "Серцевий ритм"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Пульсометр"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Датчик високого струму"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Високочутливий фотометр 1µВт"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Високочутливий фотометр 10µВт"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Високочутливий фотометр 100µВт"
+        },
+        "Illumination" : {
+            
+            "message": "Підсвічування"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Вимірювальний підсилювач"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Діапазон + -1В"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Діапазон: + -200 мВ"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Діапазон: + -20 мВ"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Діапазон: 1 В"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Діапазон: 0- 200 мВ"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Діапазон: 0-20 мВ"
+        },
+        "Intensity" : {
+            
+            "message": "Інтенсивність"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "Інфрачервоний термометр"
+        },
+        "Irradiance" : {
+            
+            "message": "Опромінення"
+        },
+        "Launch Speed" : {
+            
+            "message": "Почакова швидкість"
+        },
+        "Light" : {
+            
+            "message": "Освітленість"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Діапазон: 150тис. люкс"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Діапазон: 600 люкс"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Діапазон: 6 тис. люкс"
+        },
+        "Light Level" : {
+            
+            "message": "Рівень освітлення"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Лінійний датчик відстані"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "LGA-BTA"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Магнітне поле"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Магнітне поле 0.3 мТл"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Магнітне поле 6.4 мТл"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Середній артеріальний тиск"
+        },
+        "Melt Station" : {
+            
+            "message": "Датчик плавлення"
+        },
+        "Microphone" : {
+            
+            "message": "Мікрофон"
+        },
+        "mol/L" : {
+            
+            "message": "mol/L"
+        },
+        "Motion" : {
+            
+            "message": "Рух"
+        },
+        "Motion Detector" : {
+            
+            "message": "Датчик руху"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Діаграма датчику руху"
+        },
+        "Nitrate" : {
+            
+            "message": "Нітрат"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "нітрат ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Цифровий оптичний зонд %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Цифровий оптичний зонд мг/л"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Кисень"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Старий датчик кисню"
+        },
+        "PAR Sensor" : {
+            
+            "message": "УФ-А датчик"
+        },
+        "Period" : {
+            
+            "message": "Період"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "Підсилювачі pH / mV / ORP"
+        },
+        "Photogate" : {
+            
+            "message": "Фотоворота"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Платиновий електрод"
+        },
+        "Polarimeter" : {
+            
+            "message": "Поляриметр"
+        },
+        "Position" : {
+            
+            "message": "Положення"
+        },
+        "Potassium" : {
+            
+            "message": "Калій"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Конц. калія"
+        },
+        "Potential" : {
+            
+            "message": "Потенціал"
+        },
+        "Power" : {
+            
+            "message": "Потужність"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Струм підсилювача потужності"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Тиск"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Датчик тиску (не продається)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Датчик тиску 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Балістичний пістолет"
+        },
+        "Pulse" : {
+            
+            "message": "Імпульс"
+        },
+        "Pulse Time" : {
+            
+            "message": "Тривалість імпульсу"
+        },
+        "Pyranometer" : {
+            
+            "message": "Пиранометр"
+        },
+        "Radiation" : {
+            
+            "message": "Випромінювання"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Дозиметр"
+        },
+        "Raw" : {
+            
+            "message": ""
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Діапазон: 0-5В"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Відносна вологість"
+        },
+        "Resistance" : {
+            
+            "message": "Опір"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Датчик дихання"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Частота дихання"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Круговий рух"
+        },
+        "Salinity" : {
+            
+            "message": "Мінералізація"
+        },
+        "Signal" : {
+            
+            "message": "Сигнал"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Вологоємність грунту"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Датчик вологоємності грунту"
+        },
+        "Sound Level" : {
+            
+            "message": "Рівень гучності"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Датчик рівня гучності"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Звуковий тиск"
+        },
+        "Speed" : {
+            
+            "message": "Швидкість"
+        },
+        "Spirometer" : {
+            
+            "message": "Спірометр"
+        },
+        "Standard" : {
+            
+            "message": "Стандартний"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Звичайна температура"
+        },
+        "Student Force" : {
+            
+            "message": "Сила студента"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Вимірювання опромінення студента"
+        },
+        "Systolic" : {
+            
+            "message": "Систолічний"
+        },
+        "Temperature" : {
+            
+            "message": "Температура"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Датчик температури"
+        },
+        "Thermocouple" : {
+            
+            "message": "Термопара"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Стара термопара"
+        },
+        "TI Light" : {
+            
+            "message": "Освітленість TI"
+        },
+        "Time of Flight" : {
+            
+            "message": ""
+        },
+        "Transmittance" : {
+            
+            "message": "Пропускна здатність"
+        },
+        "Turbidity" : {
+            
+            "message": "Каламутність"
+        },
+        "UVA Intensity" : {
+            
+            "message": "Інтенсивність УФ-А"
+        },
+        "UVA Sensor" : {
+            
+            "message": "УФ-А датчик"
+        },
+        "UVB Intensity" : {
+            
+            "message": "Інтенсивність УФ-В"
+        },
+        "UVB Sensor" : {
+            
+            "message": "УФ-B датчик"
+        },
+        "Velocity" : {
+            
+            "message": "Швидкість"
+        },
+        "Voltage" : {
+            
+            "message": "Напруга"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Діапазон: +/- 10В"
+        },
+        "Volume" : {
+            
+            "message": "Об'єм"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "Зміщення VSMT"
+        },
+        "VSMT Force" : {
+            
+            "message": "Сила VSMT"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Широкодіапазонний Датчик Температури"
+        },
+        "X Acceleration" : {
+            
+            "message": "Прискорення по Х"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Прискорення по Y"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Прискорення по Z"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": "*umol m-2 s-1*"
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": "*µmol m⁻² s⁻¹*"
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 нм"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 нм"
+        },
+        "615 nm" : {
+            
+            "message": "615 нм"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "А"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Абсолютна вологість"
+        },
+        "Acceleration G" : {
+            
+            "message": "Прискорення G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Вектор прискорення"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Прискорення Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Регульована гучність"
+        },
+        "Altitude" : {
+            
+            "message": "Висота"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Одноточкове калібрування по висоті"
+        },
+        "Amplitude" : {
+            
+            "message": "Амплітуда"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Кут (висока роздільна здатність)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Коловий рух"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Обнулити перед початком автоматично"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Режим допоміжного порту"
+        },
+        "BE Current Range" : {
+            
+            "message": "Діапазон струму"
+        },
+        "BE Duration" : {
+            
+            "message": "Тривалість"
+        },
+        "BE Potential" : {
+            
+            "message": "Потенціал"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "Частота вимирів"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Тиск"
+        },
+        "Battery Level" : {
+            
+            "message": "Рівень заряду"
+        },
+        "Battery Percent" : {
+            
+            "message": "Відсоток заряду"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Напруга батраеї"
+        },
+        "Blank calibration" : {
+            
+            "message": "Калібрування без значень"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Напруга мосту"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ Еквівалент"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "Газ CO₂"
+        },
+        "CVS Current Range" : {
+            
+            "message": "Діапазон струму CVS"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "Кінцевий потенціал CVS"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "Початковий потенціал CVS"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "Початковий потенціал CVS"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "Кількість сигментів CVS"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "Швидкість розгортки CVS"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS Потенціал переключення 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS Потенціал переключення 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Калібрувальний коефіцієнт"
+        },
+        "Calibration power" : {
+            
+            "message": "Ступінь калібрування"
+        },
+        "Cap number" : {
+            
+            "message": "Номер кришки"
+        },
+        "Cell" : {
+            
+            "message": "Секція"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Постійна комірка (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Постійна комірка (active)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Коефіцієнт-А"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Коефіцієн-В"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Коефіцієн-С"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Провідність - 0% ТС"
+        },
+        "Correction Factor" : {
+            
+            "message": "Поправочний коефіцієнт"
+        },
+        "Counts" : {
+            
+            "message": "Підрахунки"
+        },
+        "Current pressure" : {
+            
+            "message": "Поточний тиск"
+        },
+        "Current state" : {
+            
+            "message": "Стан"
+        },
+        "Current temperature" : {
+            
+            "message": "Поточна температура"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Частота обрізання"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Обсяг циклу"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Джерело гучності циклу"
+        },
+        "DAC value" : {
+            
+            "message": "значення DAC"
+        },
+        "DO Concentration" : {
+            
+            "message": "Концентрація розчиненого кисню"
+        },
+        "DO Salinity" : {
+            
+            "message": "Солоність"
+        },
+        "DO Saturation" : {
+            
+            "message": "Насичення розчиненого кисню"
+        },
+        "Data source" : {
+            
+            "message": "Джерело даних"
+        },
+        "Declination" : {
+            
+            "message": "Схил"
+        },
+        "Demo" : {
+            
+            "message": "Демо"
+        },
+        "Dew Point" : {
+            
+            "message": "Точка роси"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Діастолічний коефіцієнт"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Диференціальний тиск"
+        },
+        "Drops" : {
+            
+            "message": "Каплі"
+        },
+        "EMG" : {
+            
+            "message": "ЕМГ"
+        },
+        "EMG Rectified" : {
+            
+            "message": "випрямлена ЕМГ"
+        },
+        "Electrode Current" : {
+            
+            "message": "Струм електроду"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Напруга електроду"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Очистка електроду"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Введіть відоме значення для потоку 0%"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Введіть відоме значення для потоку 100%"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Введіть відоме значення для потоку 50%"
+        },
+        "Enter altitude" : {
+            
+            "message": "Введіть висоту"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Введіть тиск"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Введіть поточну температуру"
+        },
+        "Enter first known value" : {
+            
+            "message": "Введіть перше відоме значення"
+        },
+        "Enter k value" : {
+            
+            "message": "Введіть значення k"
+        },
+        "Enter known value" : {
+            
+            "message": "Введіть відоме значення"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Введіть кратне значення"
+        },
+        "Enter n value" : {
+            
+            "message": "Введіть значення n"
+        },
+        "Enter offset value" : {
+            
+            "message": "Введіть значення зміщення"
+        },
+        "Enter power value" : {
+            
+            "message": "Введіть значення потужності"
+        },
+        "Enter second known value" : {
+            
+            "message": "Введіть друге відоме значення"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Введіть висоту станції"
+        },
+        "Enter third known value" : {
+            
+            "message": "Введіть третє відоме значення"
+        },
+        "Envelope" : {
+            
+            "message": "Конверт"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Усереднення конвертів"
+        },
+        "Error" : {
+            
+            "message": "Помилка"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Пари етанолу"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Пари етанолу з HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Захоплення етанолу"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Пари етанолу"
+        },
+        "Experiment Type" : {
+            
+            "message": "Тип експерименту"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Об'єм експіраційного піку"
+        },
+        "FAN PWM" : {
+            
+            "message": "Вентелятор PWM"
+        },
+        "FWD" : {
+            
+            "message": "FWD"
+        },
+        "Fan" : {
+            
+            "message": "Пропелер"
+        },
+        "Fan Mode" : {
+            
+            "message": "Режим вентилятора"
+        },
+        "Final hold time" : {
+            
+            "message": "Залишковий час утримання"
+        },
+        "Final temperature" : {
+            
+            "message": "Кінцева температура"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Калібрування за 5-ма точками"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Фільтр витрат"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Полярність входу потоку"
+        },
+        "Force G" : {
+            
+            "message": "Сила G"
+        },
+        "Force Y" : {
+            
+            "message": "Сила Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Одноточкове калібрування сили"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Двоточкове калібрування сили"
+        },
+        "Forward" : {
+            
+            "message": "Вперед"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Ворота 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Стан затвору 1"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Стан затвору 1"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Віддалений затвор 1 -час"
+        },
+        "Gate 2" : {
+            
+            "message": "Ворота 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Стан затвору 2"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Стан затвору 2"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Тривісний датчик магнітного поля Go Direct®"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Датчик прискорення Go Direct®"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® Кров'яний тиск"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ Газ"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Колориметр Go Direct®"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Датчик провідності Go Direct®"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Система постійного струму Go Direct®"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Датчик струму Go Direct®"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Система циклічної вольтометрії Go Direct®"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Лічильник крапель Go Direct®"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "ЕКГ Go Direct®"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Електродний підсилювач Go Direct®"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Електроенергія Go Direct®"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Go Direct® Датчик етанолу"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Датчик парів етанолу Go Direct®"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Динамометр і датчик прискорення Go Direct®"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Газовий хроматограф Go Direct®"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Датчик тиску газу Go Direct®"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® Ручний динамометр"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® Іон-селективний електрод"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Датчик світла і кольору Go Direct®"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Станція плавлення Go Direct®"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Датчик руху Go Direct®"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Оптичний розчинений кисень від Go Direct®"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ Газ"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": "Go Direct® PAR Sensor"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® Фотоворота"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Платиновий електрод провідності"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct®Поляримет"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® катапульта"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct®ПульсОксиметр"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": "Go Direct® Pyranometer"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Монітор радіації Go Direct®"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Дихальний пояс Go Direct®"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Датчик обертання Go Direct®"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Зелений візок датчиків Go Direct®"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Жовтий візок Go Direct®"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Звуковимірювач Go Direct®"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Спірометр Go Direct®"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": "Go Direct® Статичний заряд"
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Тестер структури та матеріалів Go Direct®"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Температура поверхні Go Direct®"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Датчик температури Go Direct®"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Підсилювач термопари Go Direct®"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Вольтметр Go Direct®"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Погода Go Direct®"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Широкодіапазонний датчик температури Go Direct®"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Широкого діапазону тиску"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Тривісний магнітометр Go Direct ™"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Датчик прискорення Go Direct™"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Кров'яний тиск Go Direct™"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ CO₂ Газ"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Колориметр Go Direct™"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Датчик провідності Go Direct™"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Система постійного струму Go Direct ™"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Амперметр Go Direct™"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ Циклічний вольтметр"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Лічильник крапель Go Direct™"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "ЕКГ Go Direct®"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Електродний підсилювач Go Direct ™"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Електроенергія Go Direct®"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Go Direct® Датчик етанолу"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Датчик парів етанолу Go Direct™"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Динамометр і акселерометр Go Direct ™"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ Газовий хроматограф"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Датчик тиску газу Go Direct™"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct® Ручний динамометр"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Іон-селективний електрод"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Датчик світла і кольору Go Direct ™"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Станція плавлення Go Direct™"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Датчик руху Go Direct™"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Оптично розчинений кисень Go Direct®"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ O₂ Газ"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": "Go Direct™ PAR Sensor"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ Фотоворота"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Platinum-Електропровідність"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™Поляриметр"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct® катапульта"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™ПульсОксиметр"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Радіаційний монітор Go Direct ™"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Пояс-датчик дихання Go Direct ™"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Датчик обертання Go Direct ™"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Зелений візок Go Direct®"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Жовтий візок Go Direct®"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Звуковимірювач Go Direct®"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Спірометр Go Direct™"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": "Go Direct™ Статичний заряд"
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Тестер структури і матеріалів Go Direct™"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Температура поверхні від Go Direct ™"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Датчик температури Go Direct™"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Підсилювач термопари Go Direct™"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Вольтметр Go Direct™"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Погода Go Direct™"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Широкодіапазонний термометр Go Direct ™"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™Широкого діапазону тиску"
+        },
+        "Heat Index" : {
+            
+            "message": "Індекс нагріву"
+        },
+        "Hold time" : {
+            
+            "message": "Фіксування часу"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Захоплювач гідрогену"
+        },
+        "Hz" : {
+            
+            "message": "Гц"
+        },
+        "Illuminance" : {
+            
+            "message": "освітленість"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Освітлення сире"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Частота крильчатки"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Об'єм пікового дихання"
+        },
+        "Instrument status" : {
+            
+            "message": "Стан проби"
+        },
+        "Internal Current" : {
+            
+            "message": "Внутрішній струм"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Внутрішня напруга"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "К"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "л/с"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED діагностика"
+        },
+        "LED magnitude" : {
+            
+            "message": "Інтентивність LED"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Стан лазерного затвору"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Стан лазерного затвору"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Час між лазерним затвором і віддаленим"
+        },
+        "Launch Angle" : {
+            
+            "message": "Кут до горизонту"
+        },
+        "Linear Motion" : {
+            
+            "message": "Прямолінійний рух"
+        },
+        "Live" : {
+            
+            "message": "В режимі реального часу"
+        },
+        "Load cell gain" : {
+            
+            "message": "Завантажте посилення комірок"
+        },
+        "Mag-X" : {
+            
+            "message": "Маг-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Маг-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Маг-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Зафіксований мікрофон"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Закріплений мікрофон для А-зважування"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Закріплений мікрофон для C-зважування"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Рух (візок)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Прискорення"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Швидкість руху"
+        },
+        "Motion with TC" : {
+            
+            "message": "Рух з ДС"
+        },
+        "N" : {
+            
+            "message": "H"
+        },
+        "N/kg" : {
+            
+            "message": "Н/кг"
+        },
+        "No" : {
+            
+            "message": "Ні"
+        },
+        "No smoothing" : {
+            
+            "message": "Без згладжування"
+        },
+        "Normalized Response" : {
+            
+            "message": "Нормалізований відгук"
+        },
+        "Not ready" : {
+            
+            "message": "Не готовий"
+        },
+        "OCP Duration" : {
+            
+            "message": "Тривалість вимірювань потенціалу розімкнутого ланцюга"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "Частота вимірювань потенціалу розімкнутого ланцюга"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Прискорення об'єкта (за кількома прапорцями)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Прискорення об'єкта (по одному прапорцю)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Швидкість об'єкту"
+        },
+        "Off" : {
+            
+            "message": "Вимкнений"
+        },
+        "One-point calibration" : {
+            
+            "message": "Одноточкове калібрування"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Оптичне обертання"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Анотації коливань"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Максимальне коливання"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Мінімальне коливання"
+        },
+        "Oscillations" : {
+            
+            "message": "Коливання"
+        },
+        "O₂ Gas" : {
+            
+            "message": "Газ O₂"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": "O₂Концентрація"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "Газ O₂ бкт"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": "PAR калібрування по двом точкам"
+        },
+        "PPFD - CF" : {
+            
+            "message": "PPFD - CF"
+        },
+        "PPFD Correction" : {
+            
+            "message": "PPFD Correction"
+        },
+        "PYR two-point calibration" : {
+            
+            "message": "PYR калібрування по двом точкам"
+        },
+        "Pa" : {
+            
+            "message": "Па"
+        },
+        "Peak Area" : {
+            
+            "message": "Площа піку"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Період маятника"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Швидкість маятнику"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Основна версія прошивки Pine"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Проміжна версія прошивки Pine"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Версія оновлення Pine"
+        },
+        "Position Direction" : {
+            
+            "message": "Напрямок розміщення"
+        },
+        "Position G" : {
+            
+            "message": "Положення G"
+        },
+        "Position Vector" : {
+            
+            "message": "Розташування вектору"
+        },
+        "Position Y" : {
+            
+            "message": "Положення Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Калібрування ступеневе по трьом точкам"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Тиск імпульсу"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Пульс"
+        },
+        "REV" : {
+            
+            "message": "REV"
+        },
+        "Ramp rate" : {
+            
+            "message": "Швидкість руху"
+        },
+        "Raw Diastolic" : {
+            
+            "message": "Сирий діастолічний"
+        },
+        "Raw MAP" : {
+            
+            "message": "Сирий MAP"
+        },
+        "Raw Pressure" : {
+            
+            "message": "Сирий тиск"
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": "Необроблене згладжування тиску"
+        },
+        "Raw Systolic" : {
+            
+            "message": "Сирий систолічний"
+        },
+        "Raw Temperature" : {
+            
+            "message": "Температура без калібрування"
+        },
+        "Ready" : {
+            
+            "message": "Готовий"
+        },
+        "Ready to inject" : {
+            
+            "message": "Готовий до введення"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Віддалене прискорення"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Віддалений затвор - прискорення об'єкта"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Віддалений затвор - прискорення об'єкта (один прапорець)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Віддалений затвор-швидкість"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Віддалені ворота 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Віддалені ворота 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Віддалена швидкість"
+        },
+        "Reverse" : {
+            
+            "message": "Розгорнути"
+        },
+        "Running" : {
+            
+            "message": "Виконується"
+        },
+        "Salinity correction" : {
+            
+            "message": "Корекція солоності"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "А-зважений рівень гучності"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "С-зважений рівень гучності"
+        },
+        "Start temperature" : {
+            
+            "message": "Стартова температура"
+        },
+        "Starting" : {
+            
+            "message": "Початок"
+        },
+        "Station Pressure" : {
+            
+            "message": "Тиск станції"
+        },
+        "Step Rate" : {
+            
+            "message": "Частота кроків"
+        },
+        "Steps" : {
+            
+            "message": "Кроки"
+        },
+        "Stopped" : {
+            
+            "message": "Зупинено"
+        },
+        "Switch USB" : {
+            
+            "message": "Переключити USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Систолічний коефіцієнт"
+        },
+        "Temperature correction" : {
+            
+            "message": "Корекція температури"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Трьохточкове калібрування"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Планшет часу польоту"
+        },
+        "Timing" : {
+            
+            "message": "Час"
+        },
+        "Total VOC" : {
+            
+            "message": "Загальний VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Двохточкове калібрування"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Термопара типу J"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Термопара типу К"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Термопара типу Т"
+        },
+        "UV" : {
+            
+            "message": "УФ"
+        },
+        "UV Blue" : {
+            
+            "message": "УФ Синій"
+        },
+        "UV Index" : {
+            
+            "message": "УФ індекс"
+        },
+        "UV Intensity" : {
+            
+            "message": "Інтенсивність УФ"
+        },
+        "UVA" : {
+            
+            "message": "УФа"
+        },
+        "UVB" : {
+            
+            "message": "УФб"
+        },
+        "Use smoothing" : {
+            
+            "message": "Використовуйте згладжування"
+        },
+        "V" : {
+            
+            "message": "В"
+        },
+        "Vector range Max" : {
+            
+            "message": "Діапазон вектора Макс"
+        },
+        "Vector range Min" : {
+            
+            "message": "Діапазон вектору"
+        },
+        "Velocity G" : {
+            
+            "message": "Швидкість G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Вектор швидкості"
+        },
+        "Velocity Y" : {
+            
+            "message": "Швидкість Y"
+        },
+        "Velocity2" : {
+            
+            "message": "Швидкість2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Напруга - 1В"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Напруга - 20В"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Коефіцієнт корекції гучності"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Об'ємна полярність вдиху"
+        },
+        "W/m²" : {
+            
+            "message": "W/m²"
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Амплітуда"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Частота"
+        },
+        "Wind Chill" : {
+            
+            "message": "Охолодження вітром"
+        },
+        "Wind Direction" : {
+            
+            "message": "Напрямок вітру"
+        },
+        "Wind Speed" : {
+            
+            "message": "Швидкість вітру"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Калібрування напрямку вітру"
+        },
+        "X magnetic field" : {
+            
+            "message": "Магнітне поле по осі Х"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "Магнітне поле Х 130мТл"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-кутова швидкість"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "Прискорення по осі Х"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "Прискорення по осі X G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "Прискорення по осі X Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "Одноточкове калібрування прискорення по осі X"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "Високе прискорення по осі Х"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "Високе прискорення по осі X, одноточкове калібрування"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "кутова швидкість по осі Х"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "Кутова швидкість G осі X"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "Кутова швидкість G осі Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "гіроскоп по осі Х"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Магнітне поле по осі Y"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Магнітне поле у 130мТл"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-кутова швидкість"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Прискорення по осі Y"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Прискорення по осі Y G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Прискорення по осі Y Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Одноточкове калібрування прискорення по осі Y"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Високе прискорення по осі У"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "високе прискорення по осі У, одноточкове калібрування"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "кутова швидкість по осі Y"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Кутова швидкість 3 навколо осі Y"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Кутова швидкість Y навколо осі Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "гіроскоп по осі Y"
+        },
+        "Yes" : {
+            
+            "message": "Так"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Магнітне поле по осі Z"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Магнітне поле по осі z 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-кутова швидкість"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "прискорення по осі z"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Прискорення по осі Z G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Прискорення по осі Z Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Одноточкове калібрування прискорення по осі Z"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Високе прискорення по осі Z"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "високе прискорення по осі Z, одноточкове калібрування"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "кутова швидлкість по осі z"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Кутова швидкість G осі Z"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Кутова швидкість Z осі Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "гіроскоп по осі z"
+        },
+        "atm" : {
+            
+            "message": "атм"
+        },
+        "bpm" : {
+            
+            "message": "уд/м"
+        },
+        "cm" : {
+            
+            "message": "см"
+        },
+        "cm/s" : {
+            
+            "message": "см/с"
+        },
+        "cm/s²" : {
+            
+            "message": "см/c²"
+        },
+        "counts" : {
+            
+            "message": "підрахунки"
+        },
+        "dB" : {
+            
+            "message": "дБ"
+        },
+        "dS/m" : {
+            
+            "message": "дСм/м"
+        },
+        "ft" : {
+            
+            "message": "фт"
+        },
+        "ft/s" : {
+            
+            "message": "фт/с"
+        },
+        "ft/s²" : {
+            
+            "message": "фт/с²"
+        },
+        "g" : {
+            
+            "message": "г"
+        },
+        "g/m³" : {
+            
+            "message": "г/м³"
+        },
+        "hPa" : {
+            
+            "message": "гПа"
+        },
+        "in" : {
+            
+            "message": "в"
+        },
+        "inHg" : {
+            
+            "message": "рт.ст."
+        },
+        "kPa" : {
+            
+            "message": "кПа"
+        },
+        "kg" : {
+            
+            "message": "кг"
+        },
+        "km/h" : {
+            
+            "message": "км/ч"
+        },
+        "knots" : {
+            
+            "message": "вузли"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "люкс"
+        },
+        "m" : {
+            
+            "message": "м"
+        },
+        "m/s" : {
+            
+            "message": "м/c"
+        },
+        "m/s²" : {
+            
+            "message": "м/c²"
+        },
+        "mA" : {
+            
+            "message": "мА"
+        },
+        "mL" : {
+            
+            "message": "мл"
+        },
+        "mT" : {
+            
+            "message": "мТл"
+        },
+        "mV" : {
+            
+            "message": "мВ"
+        },
+        "mW" : {
+            
+            "message": "мВт"
+        },
+        "mW/m²" : {
+            
+            "message": "мВт/м²"
+        },
+        "mbar" : {
+            
+            "message": "мбар"
+        },
+        "mg/L" : {
+            
+            "message": "мг/л"
+        },
+        "mg/m³" : {
+            
+            "message": "мг/м³"
+        },
+        "mm" : {
+            
+            "message": "мм"
+        },
+        "mmHg" : {
+            
+            "message": "мм рт.ст."
+        },
+        "mph" : {
+            
+            "message": "міль на годину"
+        },
+        "nC" : {
+            
+            "message": "nC"
+        },
+        "pC" : {
+            
+            "message": "pC"
+        },
+        "ppb" : {
+            
+            "message": "ппб"
+        },
+        "ppm" : {
+            
+            "message": "10^(−6)"
+        },
+        "ppt" : {
+            
+            "message": "10^(−12)"
+        },
+        "psi" : {
+            
+            "message": "фунт/м²"
+        },
+        "rad" : {
+            
+            "message": "рад"
+        },
+        "rad/s" : {
+            
+            "message": "рад/c"
+        },
+        "rad/s²" : {
+            
+            "message": "рад/с²"
+        },
+        "raw voltage" : {
+            
+            "message": "напруга без калібрування"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "обр"
+        },
+        "s" : {
+            
+            "message": "c"
+        },
+        "spm" : {
+            
+            "message": "шгвм"
+        },
+        "steps" : {
+            
+            "message": "кроки"
+        },
+        "torr" : {
+            
+            "message": "торр"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": "umol m-2 s-1"
+        },
+        "units/s" : {
+            
+            "message": "од/с"
+        },
+        "units/s²" : {
+            
+            "message": "од/c²"
+        },
+        "velocity2" : {
+            
+            "message": "швидкість2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx8"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/c"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "мкСм/см"
+        },
+        "µm" : {
+            
+            "message": "µA"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": "µmol m⁻² s⁻¹"
+        },
+        "ΔmmHg" : {
+            
+            "message": "Δмм рт.ст."
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Косинус"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Косинус в квадраті"
+        },
+        "Inverse" : {
+            
+            "message": "Зворотня"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Зворотньо-квадратична"
+        },
+        "Linear" : {
+            
+            "message": "Лінійна"
+        },
+        "Modified Power" : {
+            
+            "message": "Змінна потужність"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Натуральна експонента"
+        },
+        "Natural Log" : {
+            
+            "message": "Натуральний логарифм"
+        },
+        "Not defined" : {
+            
+            "message": "Не визначено"
+        },
+        "Power" : {
+            
+            "message": "Ступінь"
+        },
+        "Proportional" : {
+            
+            "message": "Пропорційна"
+        },
+        "Quadratic" : {
+            
+            "message": "Квадратична"
+        },
+        "Sine" : {
+            
+            "message": "Синус"
+        },
+        "Slope" : {
+            
+            "message": "Нахил"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Власний вираз"
+        }
+        
+    }
+}

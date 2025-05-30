@@ -1,0 +1,544 @@
+:host {
+  display: block;
+  font-family: var(--vst-font-family);
+  box-sizing: border-box;
+  line-height: 1.5;
+  color: var(--vst-color-fg-primary);
+}
+
+:host([hidden]),
+*[hidden] {
+  display: none !important;
+}
+
+:host([capture-target]),
+:host([capture-target='full']) *,
+[capture-target],
+[capture-target='full'] * {
+  transform: none !important;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  min-block-size: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+input,
+input:before,
+input:after {
+  -webkit-user-select: initial;
+  -khtml-user-select: initial;
+  -moz-user-select: initial;
+  -ms-user-select: initial;
+  user-select: initial;
+}
+
+a {
+  color: var(--vst-color-brand);
+}
+a:hover {
+  color: var(--vst-color-brand-400);
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  width: 1.125rem;
+  height: 1.125rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--vst-color-bg-primary);
+  border-radius: 2rem;
+  border: 0.3rem solid transparent;
+  background-clip: padding-box;
+  min-block-size: 2.5rem;
+  min-inline-size: 2.5rem;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--vst-color-fg-tertiary);
+  border-width: 0.225rem;
+}
+
+html {
+  --vst-color-brand-400: hsl(183deg 100% 14%);
+  --vst-color-brand-300: hsl(182deg 100% 23%);
+  --vst-color-brand-200: hsl(182deg 100% 31%);
+  --vst-color-brand-100: hsl(180deg 60% 92%);
+
+  --vst-color-brand-dark: var(--vst-color-brand-400);
+  --vst-color-brand: var(--vst-color-brand-300);
+  --vst-color-brand-bg: var(--vst-color-brand-100);
+
+  --vst-color-success-400: hsl(142deg 100% 20%);
+  --vst-color-success-300: hsl(135deg 96% 28%);
+  --vst-color-success-200: hsl(138deg 90% 35%);
+  --vst-color-success-100: hsl(127deg 46% 93%);
+
+  --vst-color-success-dark: var(--vst-color-success-400);
+  --vst-color-success: var(--vst-color-success-300);
+  --vst-color-success-ui: var(--vst-color-success-200);
+  --vst-color-success-bg: var(--vst-color-success-100);
+
+  --vst-color-warning-400: hsl(20deg 98% 36.9%);
+  --vst-color-warning-300: hsl(19deg 87.1% 53.6%);
+  --vst-color-warning-200: hsl(20deg 92% 64%);
+  --vst-color-warning-100: hsl(32deg 100% 96.5%);
+
+  --vst-color-warning: var(--vst-color-warning-300);
+  --vst-color-warning-ui: var(--vst-color-warning-200);
+  --vst-color-warning-bg: var(--vst-color-warning-100);
+
+  --vst-color-info-300: hsl(219deg 86% 38%);
+  --vst-color-info-200: hsl(214deg 94% 55%);
+  --vst-color-info-100: hsl(211deg 60% 91%);
+
+  --vst-color-info: var(--vst-color-info-300);
+  --vst-color-info-ui: var(--vst-color-info-200);
+  --vst-color-info-bg: var(--vst-color-info-100);
+
+  --vst-color-important: hsl(266, 52%, 48%);
+  --vst-color-important-bg: hsl(265, 49%, 89%);
+
+  --vst-color-danger-400: hsl(0deg 98% 34%);
+  --vst-color-danger-300: hsl(0deg 78% 47%);
+  --vst-color-danger-200: hsl(0deg 89% 56%);
+  --vst-color-danger-100: hsl(0deg 59% 90%);
+
+  --vst-color-danger-dark: var(--vst-color-danger-400);
+  --vst-color-danger: var(--vst-color-danger-300);
+  --vst-color-danger-ui: var(--vst-color-danger-200);
+  --vst-color-danger-bg: var(--vst-color-danger-100);
+
+  --vst-color-graph-red: hsl(356, 70%, 49%);
+  --vst-color-graph-baby-blue: hsl(206, 58%, 51%);
+  --vst-color-graph-vomit: hsl(56, 72%, 42%);
+  --vst-color-graph-blue: hsl(230, 54%, 43%);
+  --vst-color-graph-pink: hsl(335, 69%, 63%);
+  --vst-color-graph-purple: hsl(291, 38%, 28%);
+
+  --vst-color-dark-300: hsl(200deg 6% 10%);
+  --vst-color-dark-200: hsl(200deg 4% 16%);
+  --vst-color-dark-100: hsl(195deg 3% 25%);
+  --vst-color-neutral: hsl(197deg 3% 46%);
+  --vst-color-light-300: hsl(200deg 4% 69%);
+  --vst-color-light-200: hsl(204deg 9% 89%);
+  --vst-color-light-100: hsl(210deg 11% 96%);
+  --vst-color-bg-dark: hsl(200deg, 10%, 7%);
+  --vst-color-bg-light: #fefefe;
+
+  --vst-color-fg-primary: var(--vst-color-dark-300);
+  --vst-color-fg-secondary: var(--vst-color-dark-200);
+  --vst-color-fg-tertiary: var(--vst-color-dark-100);
+  --vst-color-bg-primary: var(--vst-color-light-300);
+  --vst-color-bg-secondary: var(--vst-color-light-200);
+  --vst-color-bg-tertiary: var(--vst-color-light-100);
+  --vst-color-bg: var(--vst-color-bg-light);
+
+  /* Elements */
+  --vst-color-btn: var(--vst-color-fg-primary);
+  --vst-color-btn-bg: var(--vst-color-bg);
+  --vst-color-btn-bg-hover: var(--vst-color-bg);
+  --vst-color-btn-bg-active: var(--vst-color-bg-tertiary);
+  --vst-color-btn-border: var(--vst-color-neutral);
+  --vst-color-btn-text-bg-hover: var(--vst-color-bg-tertiary);
+  --vst-color-btn-danger: var(--vst-color-danger-400);
+  --vst-color-btn-danger-hover: var(--vst-color-danger-400);
+  --vst-color-btn-danger-bg-hover: var(--vst-color-danger-100);
+  --vst-color-toolbar-bg: var(--vst-color-bg-secondary);
+  --vst-color-btn-toolbar-bg: var(--vst-color-bg-secondary);
+  --vst-color-btn-toolbar-bg-hover: var(--vst-color-bg);
+  --vst-color-media-btn-bg-hover: var(--vst-color-bg-tertiary);
+  --vst-color-icon-hover: var(--vst-color-bg-tertiary);
+  --vst-color-btn-graph-bg: #fff;
+  --vst-color-btn-graph-border: var(--vst-color-bg-primary);
+  --vst-color-btn-graph-bg-hover: #fff;
+  --vst-color-btn-graph-border-hover: var(--vst-color-bg-secondary);
+  --vst-color-examine-handle-bg: var(--vst-color-bg-secondary);
+  --vst-color-prediction-toolbar-bg: var(--vst-color-bg);
+  --vst-color-sensor-bg: var(--vst-color-bg);
+  --vst-color-proximity-connect-bg: var(--vst-color-warning-bg);
+  --vst-color-proximity-connect-text: var(--vst-color-warning);
+  --vst-color-connect-pane-bg: var(--vst-color-warning-bg);
+  --vst-color-connect-pane-text: var(--vst-color-warning);
+  --vst-color-inner-popover-bg: var(--vst-color-bg);
+  --vst-grid-selected-background-color: var(--vst-color-info-bg);
+  --vst-grid-selected-border-color: var(--vst-color-info);
+  --vst-grid-body-background-color: var(--vst-color-bg);
+  --vst-grid-border-color: var(--vst-color-bg-primary);
+  --vst-shadow-btn-hover: var(--vst-shadow-m);
+  --vst-color-sample-video-bg: var(--vst-color-bg);
+  --vst-color-notes-bg: var(--vst-color-bg);
+  --vst-opacity-disabled: 0.45;
+  --vst-color-predictions-overlay-bg: rgba(255, 255, 255, 0.65);
+  --vst-color-popover-border: transparent;
+  --vst-color-text-brand: var(--vst-color-brand);
+  --vst-color-text-brand-hover: var(--vst-color-brand-dark);
+  --vst-color-text-success: var(--vst-color-success);
+  --vst-color-text-success-hover: var(--vst-color-success-dark);
+  --vst-color-text-info: var(--vst-color-info-ui);
+  --vst-color-text-info-hover: var(--vst-color-info);
+  --vst-color-text-warning: var(--vst-color-warning);
+  --vst-color-text-warning-hover: var(--vst-color-warning);
+  --vst-color-text-important: var(--vst-color-important);
+  --vst-color-text-important-hover: var(--vst-color-important-dark);
+  --vst-color-text-danger: var(--vst-color-danger);
+  --vst-color-text-danger-hover: var(--vst-color-danger-dark);
+  --vst-color-tag-brand-bg: var(--vst-color-brand-bg);
+  --vst-color-tag-brand-border: var(--vst-color-brand-dark);
+  --vst-color-tag-brand: var(--vst-color-brand-dark);
+  --vst-color-tag-success-bg: var(--vst-color-success-bg);
+  --vst-color-tag-success-border: var(--vst-color-success-dark);
+  --vst-color-tag-success: var(--vst-color-success-dark);
+  --vst-color-tag-info-bg: var(--vst-color-info-bg);
+  --vst-color-tag-info-border: var(--vst-color-info-dark);
+  --vst-color-tag-info: var(--vst-color-info-dark);
+  --vst-color-tag-warning-bg: var(--vst-color-warning-bg);
+  --vst-color-tag-warning-border: var(--vst-color-warning);
+  --vst-color-tag-warning: var(--vst-color-warning);
+  --vst-color-tag-important-bg: var(--vst-color-important-bg);
+  --vst-color-tag-important-border: var(--vst-color-important);
+  --vst-color-tag-important: var(--vst-color-important);
+  --vst-color-tag-danger-bg: var(--vst-color-danger-bg);
+  --vst-color-tag-danger-border: var(--vst-color-danger-dark);
+  --vst-color-tag-danger: var(--vst-color-danger-dark);
+  --vst-color-divider-thumb-bg: var(--vst-color-bg-tertiary);
+  --vst-color-divider-thumb-border: var(--vst-color-bg-primary);
+  --vst-color-divider-thumb-bg-active: var(--vst-color-fg-secondary);
+  --vst-color-logo: #5a5b5d;
+  --vst-color-input-bg: var(--vst-color-bg);
+  --vst-color-bg-graph: var(--vst-color-bg);
+  --vst-color-calibration-bg: var(--vst-color-success-bg);
+  --vst-color-calibration-border: var(--vst-color-success-dark);
+  --vst-color-calibration-rsr-bg: rgba(255, 255, 255, 0.7);
+  --vst-color-calibration-rsr-border: transparent;
+
+  /* Font Family
+    https://css-tricks.com/snippets/css/system-font-stack/ */
+  --vst-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu,
+    Cantarell, 'Helvetica Neue', sans-serif;
+  --vst-font-family-mono: Consolas, Monaco, monospace;
+
+  /* Font Size */
+  /* Clamp prevents font sizes from getting too big or too small when a user changes their default font sizes */
+  /* Safari 12 fallback, TODO: convert to clamp when we drop Safari 12 support */
+  --vst-font-size-2xs: min(max(6px, 0.5rem), 12px);
+  --vst-font-size-xs: min(max(8px, 0.75rem), 18px);
+  --vst-font-size-s: min(max(10px, 0.875rem), 22px);
+  --vst-font-size-m: min(max(12px, 1rem), 24px);
+  --vst-font-size-l: min(max(20px, 1.5rem), 36px);
+  --vst-font-size-xl: min(max(24px, 2rem), 48px);
+  --vst-font-size-2xl: min(max(32px, 2.5rem), 72px);
+  --vst-font-size-3xl: min(max(48px, 4rem), 96px);
+
+  /* Line Height */
+  --vst-line-height-s: 1.3;
+  --vst-line-height-m: 1.5;
+
+  /* Spacing */
+  /* Use px for spacing to differentiate zoom from default font size change and keep ui from getting too big or too small at different font sizes */
+  --vst-space-3xs: 2px;
+  --vst-space-2xs: 4px;
+  --vst-space-xs: 8px;
+  --vst-space-s: 12px;
+  --vst-space-m: 16px;
+  --vst-space-l: 24px;
+  --vst-space-xl: 32px;
+  --vst-space-2xl: 48px;
+  --vst-space-3xl: 64px;
+
+  /* Sizing */
+  /* Safari 12 fallback TODO: convert to clamp when we drop Safari 12 support */
+  --vst-toolbar-height: min(max(32px, 3rem), 54px);
+  --vst-dialog-header-height: min(max(28px, 2.75rem), 48px);
+
+  --vst-icon-size-2xs: min(max(8px, 0.75rem), 16px);
+  --vst-icon-size-xs: min(max(14px, 1rem), 20px);
+  --vst-icon-size-s: min(max(16px, 1.25rem), 24px);
+  --vst-icon-size-m: min(max(20px, 1.5rem), 28px);
+  --vst-icon-size-l: min(max(28px, 2rem), 36px);
+
+  /* Transition */
+  --vst-transition-easing: cubic-bezier(0.4, 0, 0.2, 1);
+  --vst-transition-speed-fast: 0.1s;
+  --vst-transition-speed: 0.3s;
+  --vst-transition-speed-slow: 0.5s;
+  --vst-transition-fast: all var(--vst-transition-speed-fast) var(--vst-transition-easing);
+  --vst-transition: all var(--vst-transition-speed) var(--vst-transition-easing);
+  --vst-transition-slow: all var(--vst-transition-speed-slow) var(--vst-transition-easing);
+
+  /* Animations */
+  --startup-animation-duration: 0.4s;
+  --startup-animation-timing-function: cubic-bezier(0.21, 0.1, 0.11, 0.95);
+  --startup-animation-base-delay: 0.3s;
+  --startup-animation-secondary-delay: calc(
+    var(--startup-animation-base-delay) + var(--startup-animation-duration)
+  );
+
+  /* Border Radius */
+  --vst-radius: 4px;
+  --vst-radius-pill: 9999px;
+  --vst-radius-circle: 50%;
+
+  /* Shadow */
+  --vst-shadow-xs: 0px 1px 1px rgba(0, 0, 0, 0.1);
+  --vst-shadow-s: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  --vst-shadow-m: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  --vst-shadow-l: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  --vst-shadow-xl: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+
+  /* Z-Index
+(https://philipwalton.com/articles/what-no-one-told-you-about-z-index/) */
+  --vst-z-graph-tools-btn: 75;
+  --vst-z-toolbar: 100;
+  --vst-z-selection: 125;
+  --vst-z-annotation: 150;
+  --vst-z-infobox: 175;
+  --vst-z-graph-legend: 180;
+  --vst-z-minigraph: 185;
+  --vst-z-popover: 200;
+  --vst-z-dialog: 300;
+  --vst-z-soft-alert: 400;
+
+  /* Breakpoints -  Used by JS to check what screen size we are */
+  --vst-screen-size: xs;
+
+  /* from globals - deprecated */
+  --gutter: 0.5625rem;
+  --transition-easing: cubic-bezier(0.4, 0, 0.2, 1);
+
+  --transition-default-speed: 0.4s;
+  --transition-fastest-speed: 0.125s;
+  --transition-faster-speed: 0.25s;
+  --transition-slower-speed: 0.6s;
+  --transition-default: all var(--transition-default-speed) var(--transition-easing);
+  --transition-faster: all var(--transition-faster-speed) var(--transition-easing);
+  --transition-slower: all var(--transition-slower-speed) var(--transition-easing);
+
+  --box-shadow-default-rotated: -1px 0 1px rgba(0, 0, 0, 0.1);
+  --box-shadow-inset: inset 0 0 1px 1px rgba(0, 0, 0, 0.15);
+  --box-shadow-inset-darker: inset 0 0 1px 1px rgba(0, 0, 0, 0.5);
+}
+@media (min-width: 30em) {
+  html {
+    --vst-screen-size: s;
+  }
+}
+@media (min-width: 42em) {
+  html {
+    --vst-screen-size: m;
+  }
+}
+@media (min-width: 60em) {
+  html {
+    --vst-screen-size: l;
+  }
+}
+@media (min-width: 85em) {
+  html {
+    --vst-screen-size: xl;
+  }
+}
+@media (min-width: 30em) {
+  html {
+    --vst-space-l: 2rem;
+  }
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: var(--vst-color-bg);
+  color: var(--vst-color-fg-primary);
+  margin: 0;
+  font-family: var(--vst-font-family);
+  max-inline-size: 100%;
+  min-block-size: 100vh;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  max-inline-size: 500px;
+  min-inline-size: 300px;
+  block-size: 100%;
+  flex-grow: 1;
+}
+
+.main-content {
+  padding: var(--vst-space-l);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper__inner {
+  background-color: var(--vst-color-bg-tertiary);
+  border: 1px solid var(--vst-color-bg-secondary);
+  padding: var(--vst-space-l);
+  border-radius: var(--vst-radius);
+  margin-block-end: var(--vst-space-l);
+}
+
+.accept__input-wrapper {
+  display: grid;
+  grid-gap: var(--vst-space-xs);
+  grid-template-columns: 1fr auto;
+  grid-auto-flow: column;
+}
+.accept__label {
+  font-size: var(--vst-font-size-m, 1rem);
+  font-weight: bold;
+  margin: 0;
+  display: block;
+  margin-block-end: var(--vst-space-s);
+}
+
+p,
+label {
+  font-size: var(--vst-font-size-s);
+  line-height: var(--vst-line-height-m);
+}
+
+.accept__input {
+  font-family: var(--vst-font-family);
+  font-size: 1rem;
+  line-height: 1.5;
+  height: 2.625rem;
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: var(--vst-space-xs);
+  border: 1px solid var(--vst-color-bg-primary);
+  border-radius: var(--vst-radius);
+}
+
+.accept__input:focus {
+  outline: none;
+  box-shadow: 0px 0px 0px 2px var(--vst-color-bg-tertiary), 0px 0px 0px 4px var(--vst-color-brand);
+}
+
+.accept__submit-btn {
+  appearance: none;
+  font-family: var(--vst-font-family);
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 1.5 !important;
+  color: var(--vst-color-fg-secondary);
+  padding: 0.125rem 0.375rem;
+  transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  display: inline-block;
+  text-align: center;
+  text-transform: uppercase;
+  overflow: visible;
+  border: 1px solid #00696d;
+  font-weight: bold;
+  border-radius: var(--vst-radius);
+  padding: var(--vst-space-xs) 1rem;
+  font-size: calc(var(--vst-font-size-m) * 0.875);
+  background-color: var(--vst-color-brand);
+  color: #fff;
+}
+.accept__submit-btn::-moz-focus-inner,
+.accept__submit-btn::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+.accept__submit-btn * {
+  pointer-events: none;
+}
+.accept__submit-btn button,
+.accept__submit-btn a {
+  pointer-events: auto;
+}
+.accept__submit-btn:active {
+  outline: 0;
+}
+.accept__submit-btn[disabled] {
+  opacity: 0.2;
+  cursor: default;
+  pointer-events: none;
+}
+.accept__submit-btn:hover {
+  background-color: var(--vst-color-brand-400);
+}
+.accept__submit-btn:active {
+  background-color: var(--vst-color-brand-400);
+  box-shadow: inset 0 0 1px 1px rgba(0, 0, 0, 0.5);
+}
+.accept__message {
+  margin: 0;
+  line-height: 1.5;
+  overflow-wrap: break-word;
+}
+.accept__message--error {
+  color: var(--vst-color-danger);
+}
+.accept__message--success {
+  color: var(--vst-color-success);
+}
+
+.eula {
+  display: block;
+  margin: 1.5rem auto 1.5rem auto;
+}
+
+.support {
+  text-align: center;
+}
+
+.vernier-logo {
+  display: flex;
+  flex-grow: 1;
+  inline-size: 100%;
+  max-inline-size: 9.125rem;
+  margin-block-end: 1rem;
+}
+
+.ga-logo {
+  display: block;
+  width: 100%;
+  margin: 0 auto 1.5rem auto;
+}
+
+.terms {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  padding: var(--vst-space-m);
+}
+
+@media (min-width: 42em) {
+  .terms {
+    flex-direction: row;
+  }
+}
+
+.terms__link {
+  color: var(--vst-color-brand);
+  line-height: 1.5;
+}
+.terms__link:hover {
+  color: var(--vst-color-warning);
+}
+.terms__link:not(:last-of-type) {
+  margin-block-end: var(--vst-space-m);
+}
+
+@media (min-width: 42em) {
+  .terms__link:not(:last-of-type) {
+    margin: 0;
+    margin-inline-end: var(--vst-space-xs);
+  }
+}

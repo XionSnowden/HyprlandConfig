@@ -1,0 +1,6386 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "접속자 %d 명"
+        },
+        "%s All" : {
+            
+            "message": "%s 모두"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s 모든 데이터 세트"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s 표시 옵션"
+        },
+        "%s details" : {
+            
+            "message": "%s 상세 보기"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s은 데이터를 수집하고 있습니다. 데이터 수집을 중지하고 새로운 실험을 시작하시겠습니까?"
+        },
+        "%s Options" : {
+            
+            "message": "%s 옵션"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(거리, 속도, 가속도)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 그래프"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1차 미분"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1차 미분 시간 시프트"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1차 미분(Y,X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 그래프"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 그래프"
+        },
+        "2nd derivative" : {
+            
+            "message": "2차 미분"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2차 미분 시간차"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2차 미분(Y,X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 그래프"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 그래프"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "통신 오류가 발생하였습니다. 계속하시려면 새로운 실험으로 시작하십시오."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "통신 오류로 인해 데이터 수집이 중지 되었습니다. 다시 시도하십시오."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B, C는 설정 가능한 상수입니다. X, Y, Z는 기존 데이터 테이블의 열입니다."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "프로그램 정보"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "사용자 맞춤 곡선 정보"
+        },
+        "Absolute Value" : {
+            
+            "message": "절대값"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "최종 사용자 사용권 계약 및 개인 정보 보호 고지에 동의합니다"
+        },
+        "Accessories" : {
+            
+            "message": "악세서리"
+        },
+        "across" : {
+            
+            "message": "기준값 :"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "그래프 분석 프로 기능 활성화를 위한 라이선스 키 입력"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": ""
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "FFT 기능을 사용하려면 별도의 라이선스가 필요합니다. 제품 공급사로 문의하십시오"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "히스토그램을 사용하려면 별도의 라이선스가 필요합니다. 제품 공급사로 문의하십시오"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "취소된 모든 행 복원을 위해 활성화"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "회귀 매개변수 불확실성 표시를 위해 활성화"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "행 취소를 활성화합니다"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "취소선 전환을 위해 활성화"
+        },
+        "Activate to use %s" : {
+            
+            "message": "%s을 사용하려면 별도의 라이선스가 필요합니다. 제품 공급사로 문의하십시오"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "바 그래프 기능을 사용하려면 별도의 라이선스가 필요합니다. 제품 공급사로 문의하십시오"
+        },
+        "Activate to use Notes" : {
+            
+            "message": ""
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "온라인 데이터 공유 기능을 사용하려면 별도의 라이선스가 필요합니다. 제품 공급사로 문의하십시오"
+        },
+        "Activate to use Video" : {
+            
+            "message": "동영상 동기화 기능을 사용하려면 별도의 라이선스가 필요합니다. 제품 공급사로 문의하십시오"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "계산된 열 추가"
+        },
+        "Add a graph title here" : {
+            
+            "message": "그래프 제목 입력"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "수동 열 추가"
+        },
+        "Add Annotation" : {
+            
+            "message": "텍스트 주석 넣기"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "계산된 열 생성"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "스폰지 위의 보관 병에 증류수를 넣으십시오."
+        },
+        "Add Graph Match" : {
+            
+            "message": "예상 그래프 그리기"
+        },
+        "Add Manual Column" : {
+            
+            "message": "수동 열 생성"
+        },
+        "Add Manual Fit" : {
+            
+            "message": ""
+        },
+        "add meters" : {
+            
+            "message": "미터 추가"
+        },
+        "Add New Data Set" : {
+            
+            "message": "새로운 데이터 세트 생성"
+        },
+        "Add Prediction" : {
+            
+            "message": "예상 그래프 그리기"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Add Soft Sensor"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "10 mL 매스 실린더에 방울계수기를 거쳐 적정 용액이 한 방울 씩 떨어지도록 합니다."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "미터 추가/삭제"
+        },
+        "Advanced" : {
+            
+            "message": "고급"
+        },
+        "After" : {
+            
+            "message": "자동 모드"
+        },
+        "After set number of flags" : {
+            
+            "message": "설정한 차단면 개수 이후"
+        },
+        "All" : {
+            
+            "message": "모두"
+        },
+        "Always Show 0" : {
+            
+            "message": "항상 0 표시"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "세기"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "수식에는 X축의 값을 나타내는 변수 x와 하나 이상의 상수가 포함되어야 합니다."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "데이터 공유에 참여하려면 인터넷에 연결해야 합니다. 인터넷에 연결하고 연결을 누르십시오."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "온라인 데이터 공유에 접속 하려면 인터넷 연결이 필요합니다"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "데이터 공유를 하려면 인터넷 연결이 필요합니다"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "데이터 공유를 하려면 인터넷에 연결되어야 합니다. 인터넷에 연결한 다음 데이터 공유 세션을 선택하고 실험 데이터 공유를 할 수 있습니다."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "포물선 실험장치의 옵션 액세서리이며, 발사체의 비행 시간을 보고하는 데 사용됩니다."
+        },
+        "and " : {
+            
+            "message": "그리고 "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "아이콘을 눌러 공유 중지를 누르십시오"
+        },
+        "Angle units" : {
+            
+            "message": "각도 단위"
+        },
+        "Angular Motion" : {
+            
+            "message": "각 운동"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "각운동 정보"
+        },
+        "App is up to date" : {
+            
+            "message": "앱은 최신입니다"
+        },
+        "App Preferences" : {
+            
+            "message": "프로그램 설정"
+        },
+        "App Updates" : {
+            
+            "message": "프로그램 업데이트"
+        },
+        "Appearance" : {
+            
+            "message": "모양"
+        },
+        "Append" : {
+            
+            "message": "추가"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "현재 데이터 세트에 새로운 데이터를 추가하거나 새 데이터 세트를 만드시겠습니까?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "추가 아니면 새로 만들기?"
+        },
+        "Apply" : {
+            
+            "message": "적용"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "곡선 맞춤 적용"
+        },
+        "Apply FFT" : {
+            
+            "message": "FFT 적용"
+        },
+        "Apply Histogram" : {
+            
+            "message": "히스토그램 적용"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "면적"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "세션에 참여하면 실험자의 실험 데이터를 다른 실험자의 그래프 분석 프로그램에서 실시간으로 확인할 수 있습니다"
+        },
+        "Auto" : {
+            
+            "message": "자동"
+        },
+        "Automatic" : {
+            
+            "message": "자동"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "10초간 측정된 값의 평균값"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "10초간 평균 측정중"
+        },
+        "Axis Label Size" : {
+            
+            "message": "XY축 문자 크기"
+        },
+        "Back" : {
+            
+            "message": "뒤로가기"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "대역통과필터"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "대역차단필터"
+        },
+        "Bar Tape" : {
+            
+            "message": "바 테이프"
+        },
+        "Bars" : {
+            
+            "message": "막대"
+        },
+        "Base" : {
+            
+            "message": "기반"
+        },
+        "Base Axis" : {
+            
+            "message": ""
+        },
+        "Battery" : {
+            
+            "message": "배터리"
+        },
+        "Battery Level" : {
+            
+            "message": "배터리 잔량"
+        },
+        "Bin Start Value" : {
+            
+            "message": "구간 나누기 시작 값"
+        },
+        "Bin Width" : {
+            
+            "message": "구간 폭"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "블루투스 장치"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "블루투스가 활성화되지 않았습니다"
+        },
+        "Bold" : {
+            
+            "message": ""
+        },
+        "Book" : {
+            
+            "message": "책"
+        },
+        "Book Title" : {
+            
+            "message": "책 제목"
+        },
+        "Both" : {
+            
+            "message": "둘 다"
+        },
+        "Bottom" : {
+            
+            "message": "아래"
+        },
+        "Bottom Bar" : {
+            
+            "message": ""
+        },
+        "Bullet list" : {
+            
+            "message": ""
+        },
+        "Calculated %s" : {
+            
+            "message": "계산 된 %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "계산된 열"
+        },
+        "Calibrate" : {
+            
+            "message": "보정"
+        },
+        "Calibrate Now" : {
+            
+            "message": "지금 보정"
+        },
+        "Calibrating..." : {
+            
+            "message": "보정 중..."
+        },
+        "Calibration complete" : {
+            
+            "message": "보정 완료"
+        },
+        "Calibration failed" : {
+            
+            "message": "보정 실패"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "보정 리셋이 성공하였습니다"
+        },
+        "Calibration Type" : {
+            
+            "message": "보정 타입"
+        },
+        "Cancel" : {
+            
+            "message": "취소"
+        },
+        "cancel" : {
+            
+            "message": "취소"
+        },
+        "Capable" : {
+            
+            "message": ""
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "카트 피켓 펜스"
+        },
+        "Categorical" : {
+            
+            "message": "카테고리형"
+        },
+        "Categorical Data" : {
+            
+            "message": "카테고리형 데이터"
+        },
+        "Ceiling" : {
+            
+            "message": "올림"
+        },
+        "Center manual fit handle" : {
+            
+            "message": ""
+        },
+        "Change left y-axis" : {
+            
+            "message": "왼쪽 Y 축 변경"
+        },
+        "Change right y-axis" : {
+            
+            "message": "오른쪽 Y 축 변경"
+        },
+        "Change x-axis" : {
+            
+            "message": "x축 바꾸기"
+        },
+        "Change y-axis" : {
+            
+            "message": "y축 바꾸기"
+        },
+        "Channels" : {
+            
+            "message": ""
+        },
+        "Charging," : {
+            
+            "message": "충전중,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "펌웨어 업데이트 확인"
+        },
+        "Check for software updates" : {
+            
+            "message": "소프트웨어 업데이트 확인"
+        },
+        "Check for Updates" : {
+            
+            "message": "업데이트 확인"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "이 기기와 연결된 센서의 LED가 깜박입니다"
+        },
+        "Checking for update..." : {
+            
+            "message": "업데이트 확인..."
+        },
+        "Choose File" : {
+            
+            "message": "파일 선택"
+        },
+        "Choose Folder..." : {
+            
+            "message": "폴더 선택..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "USB로 무선 센서를 연결하려면 이 옵션을 선택하십시오."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "고 템프 온도 센서를 연결하려면 이 옵션을 선택하세요."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "USB로 랩퀘스트, 랩퀘스트2, 랩퀘스트3, 랩퀘스트 미니 또는 랩퀘스트 스트림을 연결하려면 이 옵션을 선택하세요."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "ChromeOS 102 이상의 버전이 필요합니다. 아이패드와 아이폰은 지원하지 않습니다."
+        },
+        "Circle" : {
+            
+            "message": "원"
+        },
+        "Clear Expression" : {
+            
+            "message": "명확한 표현"
+        },
+        "Clear Filter" : {
+            
+            "message": "필터 지우기"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "세션 개설 버튼을 눌러 실험자의 세션 ID를 생성하십시오"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "데이터 수집 중 표시 버튼을 클릭하여 그래프에 특정 지점의 데이터를 나타낼 수 있습니다."
+        },
+        "Close" : {
+            
+            "message": "닫기"
+        },
+        "Close Alert" : {
+            
+            "message": "알림 닫기"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "앱을 닫고 펌웨어를 업데이트할 수 있습니다"
+        },
+        "Close Application" : {
+            
+            "message": "프로그램 닫기"
+        },
+        "Close Dialog" : {
+            
+            "message": "대화상자 닫기"
+        },
+        "Close FFT" : {
+            
+            "message": "FFT 닫기"
+        },
+        "Close graph legend" : {
+            
+            "message": "그래프 영역 닫기"
+        },
+        "Close Histogram" : {
+            
+            "message": "히스토그램 닫기"
+        },
+        "Close Infobox" : {
+            
+            "message": "정보상자 닫기"
+        },
+        "Close Menu" : {
+            
+            "message": ""
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "피크 주파수 닫기"
+        },
+        "Close Popover" : {
+            
+            "message": "닫기"
+        },
+        "Close Replay" : {
+            
+            "message": "동영상 옵션 닫기"
+        },
+        "Close Start Page" : {
+            
+            "message": "시작 페이지 닫기"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "계속하려면 이 창을 닫으십시오"
+        },
+        "Code" : {
+            
+            "message": ""
+        },
+        "Coefficient" : {
+            
+            "message": "계수"
+        },
+        "Collapse" : {
+            
+            "message": "접기"
+        },
+        "Collect" : {
+            
+            "message": "수집"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "버니어 센서를 이용한 실험 데이터 수집"
+        },
+        "Collecting" : {
+            
+            "message": "수집 중"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "%d %s 수집 중"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "수집 데이터가 너무 많으면 센서 성능에 영향을 줍니다."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "$ {eventParams.accumulate} 초 동안 데이터 수집 중"
+        },
+        "Collection Parameters" : {
+            
+            "message": ""
+        },
+        "Column %s" : {
+            
+            "message": "열 %s"
+        },
+        "Column Options" : {
+            
+            "message": "열 옵션"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "모든 데이터세트에서 이 열이 삭제 됩니다. 삭제하면 취소할 수 없습니다."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "엑셀 파일로 추출"
+        },
+        "Complementary Error" : {
+            
+            "message": "상보 오차"
+        },
+        "Configurator" : {
+            
+            "message": ""
+        },
+        "Confirm" : {
+            
+            "message": ""
+        },
+        "Connect" : {
+            
+            "message": "연결"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "<a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">지원되는 Vernier USB 기기 </a>.를 연결합니다."
+        },
+        "Connect a device" : {
+            
+            "message": "장치 연결"
+        },
+        "Connect a Device" : {
+            
+            "message": "장치 연결"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "랩퀘스트 스트림 연결"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "WiFi를 이용해 랩퀘스트 또는 로거프로에 연결"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "데이터 수집을 위해 장치를 연결합니다."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "데이터 수집을 위해 이 장치를 연결하십시오."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "버니어 그래프 분석 데이터 공유 세션에 연결"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "랩퀘스트, 로거프로 또는 그래프 분석에 연결"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "이전에 만든 세션에 연결하여 세션 설정, 데이터 등을 공유하거나 새로운 세션을 만듭니다."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "아래 검색되는 무선 센서를 연결하거나 USB를 이용해 연결합니다."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "아래 검색되는 무선 센서를 연결합니다."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "이전 세션에 연결"
+        },
+        "connected" : {
+            
+            "message": "연결됨"
+        },
+        "Connected Devices" : {
+            
+            "message": "연결된 장치"
+        },
+        "Connecting" : {
+            
+            "message": "연결중"
+        },
+        "Connection error" : {
+            
+            "message": "연결 오류"
+        },
+        "Connection Lost" : {
+            
+            "message": "연결이 끊어짐"
+        },
+        "Connection status info" : {
+            
+            "message": "연결 상태 정보"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "%s에 연결이 실패했습니다"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "%s에 연결되었습니다"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": ""
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": ""
+        },
+        "Cookie Notice" : {
+            
+            "message": "쿠키 고지"
+        },
+        "Copy" : {
+            
+            "message": "복사"
+        },
+        "Copy Histogram" : {
+            
+            "message": "히스토그램 복사"
+        },
+        "Copy Host ID" : {
+            
+            "message": "호스트 ID 복사"
+        },
+        "Copy Link" : {
+            
+            "message": "링크 복사"
+        },
+        "Copy Sign" : {
+            
+            "message": "사인 복사"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "클립보드에 복사"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "클립보드에 복사"
+        },
+        "Cosine" : {
+            
+            "message": "코사인"
+        },
+        "Count Interval" : {
+            
+            "message": "구간 카운트"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "수식 만들기"
+        },
+        "Create new Data Set" : {
+            
+            "message": "새로운 데이터 세트 만들기"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "새로운 계산열 만들기"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "곡선 맞춤 수식 만들기"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "세제곱근"
+        },
+        "Curve Fit" : {
+            
+            "message": "수식 선택"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "계산된 열들"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "사용자 함수 입력 기능"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "맞춤형 곡선 추세선 정보"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "내가 만든 수식 정보"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "사용자 함수 입력 기능의 수식은 앱 문서 파일에 임시로 저장됩니다. 새로운 세션을 시작하거나 앱을 다시 실행하면 만들었던 수식은 지워집니다."
+        },
+        "Custom Session" : {
+            
+            "message": "맞춤 세션"
+        },
+        "Cut" : {
+            
+            "message": "자르기"
+        },
+        "Dark" : {
+            
+            "message": "어둡게"
+        },
+        "Darker" : {
+            
+            "message": "더 어둡게"
+        },
+        "Darkest" : {
+            
+            "message": "가장 어둡게"
+        },
+        "Data" : {
+            
+            "message": "데이터"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": ""
+        },
+        "Data Collection Settings" : {
+            
+            "message": "데이터 수집 설정"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "모든 게이트가 설정한 회수의 측정 을 마친 후에 데이터 수집은 자동으로 중지됩니다. 수집을 다시 시작하면 새 데이터 세트가 시작됩니다."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "수동으로 클릭하거나 중지를 누를 때까지 데이터 수집은 계속됩니다. 데이터 수집이 중지 될 때까지 위치 값은 간격 값만큼 계속 증가합니다."
+        },
+        "Data Mark" : {
+            
+            "message": "데이터 표시"
+        },
+        "Data Marking" : {
+            
+            "message": "데이터 표시 기능"
+        },
+        "Data Set %d" : {
+            
+            "message": "데이터 세트 %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "데이터 세트 이름"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "데이터 세트 이름은 %s 자 제한이 있습니다."
+        },
+        "Data Set Options" : {
+            
+            "message": ""
+        },
+        "Data Set Time" : {
+            
+            "message": "데이터 세트 시간"
+        },
+        "Data Share" : {
+            
+            "message": "데이터 공유"
+        },
+        "Data Sharing" : {
+            
+            "message": "데이터 공유"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "데이터 공유 세션 활성화"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "데이터 공유 세션 개설"
+        },
+        "Data sharing session status" : {
+            
+            "message": "데이터 쉐어링 세션 상태"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "데이터 공유 상태"
+        },
+        "Data Table" : {
+            
+            "message": "데이터 테이블"
+        },
+        "Data Type" : {
+            
+            "message": "데이터 형"
+        },
+        "Data Type Info" : {
+            
+            "message": "데이터 유형 정보"
+        },
+        "Dataset View Options" : {
+            
+            "message": "데이터 세트 표시 옵션"
+        },
+        "Decimal Format" : {
+            
+            "message": "10진수 형식"
+        },
+        "Decimal Places" : {
+            
+            "message": "소수점 자리"
+        },
+        "decrease" : {
+            
+            "message": "감소"
+        },
+        "decreasing" : {
+            
+            "message": "기준값 이하"
+        },
+        "degrees" : {
+            
+            "message": "도"
+        },
+        "Degrees (°)" : {
+            
+            "message": "도(°)"
+        },
+        "Delete" : {
+            
+            "message": "삭제"
+        },
+        "Delete %s?" : {
+            
+            "message": "삭제 %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "열 삭제"
+        },
+        "Delete Column" : {
+            
+            "message": "열 삭제"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "%s 열을 삭제하시겠습니까?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "데이터 표시 삭제"
+        },
+        "Delete Data Set" : {
+            
+            "message": "데이터 세트 삭제"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "그래프 맞추기 삭제"
+        },
+        "Delete Prediction" : {
+            
+            "message": "예측 삭제"
+        },
+        "Delete Video" : {
+            
+            "message": "비디오 삭제"
+        },
+        "Delta" : {
+            
+            "message": "Δ"
+        },
+        "Device Error" : {
+            
+            "message": "장치 오류"
+        },
+        "Device Information" : {
+            
+            "message": "장치 정보"
+        },
+        "Device information" : {
+            
+            "message": "기기 정보"
+        },
+        "Devices" : {
+            
+            "message": "장치"
+        },
+        "Diameter" : {
+            
+            "message": "직경"
+        },
+        "Diamond" : {
+            
+            "message": "다이아몬드"
+        },
+        "Dimension" : {
+            
+            "message": "차원"
+        },
+        "Disabled" : {
+            
+            "message": "비활성화"
+        },
+        "Disconnect" : {
+            
+            "message": "연결 해제"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": ""
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": ""
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": ""
+        },
+        "Discovered Devices" : {
+            
+            "message": "발견된 장치"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "검색된 무선 센서"
+        },
+        "Display Meters" : {
+            
+            "message": "미터 표시"
+        },
+        "Displayed Columns" : {
+            
+            "message": "표시된 열"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "표시된 데이터 세트"
+        },
+        "Displayed Precision" : {
+            
+            "message": "표시 정밀도"
+        },
+        "Distance" : {
+            
+            "message": "거리"
+        },
+        "Distance between gates" : {
+            
+            "message": "게이트 간의 거리"
+        },
+        "Distribute App" : {
+            
+            "message": "프로그램 공유"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "버니어 그래프 분석 프로그램 공유"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "이 데이터 표시를 영구적으로 삭제 하시겠습니까?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "%s 의 변경된 내용을 저장 하시겠습니까? 저장하지 않으면 변경된 내용은 손실됩니다."
+        },
+        "Don't Save" : {
+            
+            "message": "저장 안 함"
+        },
+        "Done" : {
+            
+            "message": "완료"
+        },
+        "done" : {
+            
+            "message": "완료"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "다운로드가 완료되었습니다. 앱을 다시 실행하면 업데이트가 설치됩니다"
+        },
+        "Download Experiment" : {
+            
+            "message": "실험 다운로드"
+        },
+        "Download Update" : {
+            
+            "message": "업데이트 다운로드"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "예상 그래프 그리기"
+        },
+        "Drop Counting" : {
+            
+            "message": "방울계수기 모드"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "누락된 측정점이 있습니다. 새로운 실험을 시작하고 데이터 수집 속도를 낮추세요."
+        },
+        "Drops" : {
+            
+            "message": "방울수"
+        },
+        "Drops/mL" : {
+            
+            "message": "방울수/mL"
+        },
+        "duration" : {
+            
+            "message": "수집시간"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "e.g. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "예) 007 or TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "그래프 옵션 편집"
+        },
+        "Edit mode" : {
+            
+            "message": ""
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "무선 센서에 연결하기 위해 블루투스를 켜세요."
+        },
+        "Enable Replay" : {
+            
+            "message": "재생 가능"
+        },
+        "Enabled" : {
+            
+            "message": "활성화"
+        },
+        "End Collection" : {
+            
+            "message": "수집 종료"
+        },
+        "End data collection" : {
+            
+            "message": "데이터 수집 종료"
+        },
+        "End User License Agreement" : {
+            
+            "message": "최종 사용자 라이센스 계약"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "데이터 공유 세션을 중지하려면 이 창을 닫고"
+        },
+        "Enter an annotation" : {
+            
+            "message": "주석 입력"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "데이터를 수동으로 입력하거나 복사하는 모드"
+        },
+        "Enter first known value" : {
+            
+            "message": "알고 있는 첫 번째 값 입력"
+        },
+        "Enter second known value" : {
+            
+            "message": "알고 있는 두 번째 값 입력"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "눈금이 표시된 실린더에서 정확한 부피를 입력합니다"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "소스 ID 입력:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": ""
+        },
+        "Equation" : {
+            
+            "message": "수식"
+        },
+        "Error" : {
+            
+            "message": "오류"
+        },
+        "Error Bar Info" : {
+            
+            "message": "오차 막대 정보"
+        },
+        "Error Bars" : {
+            
+            "message": "오류 표시줄"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "오류: 클립보드 액세스가 거부되었습니다."
+        },
+        "Event" : {
+            
+            "message": "이벤트"
+        },
+        "Event Based" : {
+            
+            "message": "이벤트 모드"
+        },
+        "Event Mode" : {
+            
+            "message": "이벤트 모드"
+        },
+        "Event Name" : {
+            
+            "message": "축 이름"
+        },
+        "Events with Entry" : {
+            
+            "message": "수동 기록"
+        },
+        "Events With Entry" : {
+            
+            "message": "입력 값에 대한 데이터 수집"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "예: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "예: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "수식-1"
+        },
+        "Expand" : {
+            
+            "message": "확장"
+        },
+        "Expand Host ID" : {
+            
+            "message": "호스트 ID 확인"
+        },
+        "Experiment Name" : {
+            
+            "message": "실험 이름"
+        },
+        "Experimental Features" : {
+            
+            "message": "실험 기능"
+        },
+        "Exponent" : {
+            
+            "message": "거듭제곱"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "2의 거듭제곱"
+        },
+        "Export" : {
+            
+            "message": "내보내기"
+        },
+        "Export CSV" : {
+            
+            "message": "CSV 내보내기"
+        },
+        "Expression" : {
+            
+            "message": "수식"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "공장 보정일"
+        },
+        "Fan Thrust" : {
+            
+            "message": "팬 추력"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT 옵션"
+        },
+        "File Menu" : {
+            
+            "message": "파일 메뉴"
+        },
+        "File saved" : {
+            
+            "message": "파일이 저장됨"
+        },
+        "Filename" : {
+            
+            "message": "파일 이름"
+        },
+        "Filter Device List" : {
+            
+            "message": "장치 검색 필터"
+        },
+        "Firmware" : {
+            
+            "message": "펌웨어"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "펌웨어 업데이트 정보"
+        },
+        "First Derivative" : {
+            
+            "message": "1차 미분"
+        },
+        "Fit Expression" : {
+            
+            "message": "사용자 함수"
+        },
+        "Fit Name" : {
+            
+            "message": "수식명"
+        },
+        "Fit Options" : {
+            
+            "message": "맞춤 옵션"
+        },
+        "Fixed Value" : {
+            
+            "message": "고정값"
+        },
+        "Flag Width" : {
+            
+            "message": "차단면의 폭"
+        },
+        "Flags" : {
+            
+            "message": "차단면"
+        },
+        "Floor" : {
+            
+            "message": "내림"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "버니어의 제품을 선택하면 제품의 간격 및 차단면 개수가 자동으로 표시됩니다.바 테이프를 쓸 때에는 차단면 개수를 입력합니다."
+        },
+        "Frequency" : {
+            
+            "message": "주파수"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "함수"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "함수와 독립 변수는 반드시 소문자로 해야 합니다."
+        },
+        "Gate Separation" : {
+            
+            "message": "게이트 분리"
+        },
+        "Gate State" : {
+            
+            "message": "게이트 상태"
+        },
+        "Gate timing" : {
+            
+            "message": "게이트 타이밍"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "고 무선 센서 맵"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "실험자의 실시간 데이터 공유에 참여할 수 있도록 세션 개설 버튼을 누르고 생성된 ID를 다른 사람들에게 공유하십시오"
+        },
+        "Go Direct" : {
+            
+            "message": "고 무선"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "고 무선 센서"
+        },
+        "Go Direct USB" : {
+            
+            "message": "고 무선 USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "동영상 시작 부분으로 이동"
+        },
+        "Go!Temp" : {
+            
+            "message": "고! 템프"
+        },
+        "Go! Link" : {
+            
+            "message": ""
+        },
+        "Go! Motion" : {
+            
+            "message": ""
+        },
+        "Graph" : {
+            
+            "message": "그래프"
+        },
+        "Graph %s" : {
+            
+            "message": "그래프 %s"
+        },
+        "Graph 1" : {
+            
+            "message": ""
+        },
+        "Graph 2" : {
+            
+            "message": ""
+        },
+        "Graph 3" : {
+            
+            "message": ""
+        },
+        "Graph Display" : {
+            
+            "message": "그래프 표시"
+        },
+        "Graph Inset" : {
+            
+            "message": "그래프 인셋"
+        },
+        "Graph Legend" : {
+            
+            "message": "그래프 범례"
+        },
+        "Graph Match" : {
+            
+            "message": "그래프 맞추기"
+        },
+        "Graph Match Options" : {
+            
+            "message": "그래프 맞추기 옵션"
+        },
+        "Graph Options" : {
+            
+            "message": "그래프 옵션"
+        },
+        "Graph Shape" : {
+            
+            "message": "그래프 비율"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "그래프 분석 프로 정보"
+        },
+        "Graphs" : {
+            
+            "message": ""
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": ""
+        },
+        "Heading 2" : {
+            
+            "message": ""
+        },
+        "Heading 3" : {
+            
+            "message": ""
+        },
+        "Help connecting a device" : {
+            
+            "message": "장치 연결 도움말"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "장치 연결 도움말"
+        },
+        "Hide" : {
+            
+            "message": "숨김"
+        },
+        "Hide Details" : {
+            
+            "message": "세부정보 숨기기"
+        },
+        "High-pass Filter" : {
+            
+            "message": "하이패스 필터"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "고분해능 모드"
+        },
+        "Histogram" : {
+            
+            "message": "히스토그램"
+        },
+        "Histogram options" : {
+            
+            "message": "히스토그램 옵션"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "수평 분할선"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "데이터 공유 세션 만들기"
+        },
+        "How To Distribute" : {
+            
+            "message": "프로그램 공유 방법"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "쌍곡코사인"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "쌍곡사인"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "쌍곡탄젠트"
+        },
+        "Hypotenuse" : {
+            
+            "message": "빗변"
+        },
+        "ID" : {
+            
+            "message": "세션 ID"
+        },
+        "Identify" : {
+            
+            "message": "센서 확인"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "추가 장치가 필요한 경우 이 과정을 반복합니다."
+        },
+        "Ignore" : {
+            
+            "message": "닫기"
+        },
+        "Import Video" : {
+            
+            "message": "동영상 불러오기"
+        },
+        "increase" : {
+            
+            "message": "증가"
+        },
+        "increasing" : {
+            
+            "message": "기준값 이상"
+        },
+        "Insert Expression" : {
+            
+            "message": "수식 삽입"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "프로브 팁이 물이나 스폰지에 닿지 않도록 병에 넣으십시오."
+        },
+        "Integral" : {
+            
+            "message": "적분"
+        },
+        "Intercept" : {
+            
+            "message": "절편"
+        },
+        "Interpolate" : {
+            
+            "message": "데이터 사이 값 추정"
+        },
+        "Interval" : {
+            
+            "message": "간격"
+        },
+        "Invalid Equation" : {
+            
+            "message": "잘못된 방정식"
+        },
+        "Invalid Expression" : {
+            
+            "message": "잘못된 식"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "코사인에 반비례"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "쌍곡코사인에 반비례"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "쌍곡사인에 반비례"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "쌍곡탄젠트에 반비례"
+        },
+        "Inverse Sine" : {
+            
+            "message": "사인에 반비례"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "탄젠트에 반비례"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "탄젠트2에 반비례"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "뒤집힌 윤곽의 직사각형"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "반전된 윤곽의 삼각형"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "역직사각형"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "역삼각형"
+        },
+        "is" : {
+            
+            "message": "의 값이"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "현재 지원하지 않습니다. 다른 것을 해보세요."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "캡 교체 후에는 꼭 보정을 수행하는 것을 권장합니다."
+        },
+        "Italic" : {
+            
+            "message": ""
+        },
+        "Join New Experiment" : {
+            
+            "message": "새로운 실험에 참여"
+        },
+        "Keep" : {
+            
+            "message": "기록"
+        },
+        "Keep Point" : {
+            
+            "message": "측정값 입력"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "현재 위치에서 센서를 최소 60 초 동안 수직으로 유지 한 다음 \"지금 보정\"을 누릅니다."
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "두지점 보정을 하려면 알고 있는 값들은 반드시 달라야 합니다."
+        },
+        "LabQuest" : {
+            
+            "message": ""
+        },
+        "LabQuest Devices" : {
+            
+            "message": "랩퀘스트 장치"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "랩퀘스트 스트림"
+        },
+        "Large" : {
+            
+            "message": "크게"
+        },
+        "Last calibrated on" : {
+            
+            "message": "마지막 보정"
+        },
+        "Launch Speed" : {
+            
+            "message": "발사 속도"
+        },
+        "Left" : {
+            
+            "message": "왼쪽"
+        },
+        "Left Axis" : {
+            
+            "message": ""
+        },
+        "Left manual fit handle" : {
+            
+            "message": ""
+        },
+        "Left y-axis range" : {
+            
+            "message": "왼쪽 Y축 범위"
+        },
+        "Legacy File Type" : {
+            
+            "message": "이전 버전 파일 타입"
+        },
+        "License Key" : {
+            
+            "message": "라이선스 키"
+        },
+        "License Key is expired." : {
+            
+            "message": "라이선스 키가 만료되었습니다."
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "라이선스 키는 이 채널에서 유효하지 않습니다."
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "라이선스 키가 이 제품에 유효하지 않습니다."
+        },
+        "License Key is required." : {
+            
+            "message": "라이선스 키가 필요합니다."
+        },
+        "License Key is suspended." : {
+            
+            "message": "라이선스 키가 일시 중단되었습니다."
+        },
+        "License Key not recognized." : {
+            
+            "message": "라이선스 키를 확인할 수 없습니다."
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "라이센스 키를 확인하려면 인터넷 연결이 필요합니다. 연결을 확인합니다."
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "라이센스 키 유효성을 확인하기 위한 서버에 연결할 수 없습니다."
+        },
+        "Licensed To" : {
+            
+            "message": "라이선스 허가"
+        },
+        "Licensed to" : {
+            
+            "message": "라이센스"
+        },
+        "Line Shade" : {
+            
+            "message": "그래프 눈금 명암"
+        },
+        "Linear Motion" : {
+            
+            "message": "선운동"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "선형 운동 정보"
+        },
+        "Lines" : {
+            
+            "message": "선"
+        },
+        "Link" : {
+            
+            "message": ""
+        },
+        "Link Copied" : {
+            
+            "message": "복사된 링크"
+        },
+        "list item" : {
+            
+            "message": ""
+        },
+        "Load Experiment" : {
+            
+            "message": "실험 로드"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "로컬 사본이 동기화되지 않았습니다. 새로 고침 중..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Log2(X)"
+        },
+        "Log Base b" : {
+            
+            "message": "Log b(X)"
+        },
+        "Logged Data on Device" : {
+            
+            "message": ""
+        },
+        "Low-pass Filter" : {
+            
+            "message": "로우 패스 필터"
+        },
+        "Main Content" : {
+            
+            "message": ""
+        },
+        "Manual" : {
+            
+            "message": "수동"
+        },
+        "Manual %s" : {
+            
+            "message": "수동 %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "수기 모드"
+        },
+        "Manual Fit" : {
+            
+            "message": ""
+        },
+        "Manual Scaling" : {
+            
+            "message": "수동 크기 조정"
+        },
+        "Manually" : {
+            
+            "message": "수동 수집 모드"
+        },
+        "Manufacture Date" : {
+            
+            "message": "제조 일자"
+        },
+        "Mark" : {
+            
+            "message": "표시"
+        },
+        "Max" : {
+            
+            "message": "최대"
+        },
+        "Maximize Application" : {
+            
+            "message": "창 최대화"
+        },
+        "Mean" : {
+            
+            "message": "평균"
+        },
+        "Measurement" : {
+            
+            "message": "측정"
+        },
+        "Medium" : {
+            
+            "message": "중간"
+        },
+        "Meter Actions" : {
+            
+            "message": "미터 액션"
+        },
+        "Meter Size" : {
+            
+            "message": "미터 크기"
+        },
+        "Meter View Options" : {
+            
+            "message": "미터 표시 옵션"
+        },
+        "Metered" : {
+            
+            "message": "계량"
+        },
+        "metering on all columns" : {
+            
+            "message": "모든 열에 대한 미터링"
+        },
+        "Meters" : {
+            
+            "message": "미터"
+        },
+        "min" : {
+            
+            "message": "분"
+        },
+        "Min" : {
+            
+            "message": "최소"
+        },
+        "Minimize Application" : {
+            
+            "message": "창 최소화"
+        },
+        "Mode" : {
+            
+            "message": "모드"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "수동 입력 모드로 변경되었습니다."
+        },
+        "Modulo" : {
+            
+            "message": "나머지연산"
+        },
+        "Move Down" : {
+            
+            "message": "아래로 이동"
+        },
+        "Move Up" : {
+            
+            "message": "위로 이동"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "물체에 일정한 간격을 둔 차단면을 사용하여 물체의 위치를 결정합니다.첫 번째 차단면이 게이트를 통과할 때의 위치가 0이 됩니다.그 다음 차단면이 통과하면 간격 값만큼 위치가 증가합니다.속도 및 가속도 데이터는 시간에 대한 위치의 1 차 및 2 차 미분을 사용하여 계산됩니다."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "바퀴에 있는 균일하게 간격의 바퀴살을 통해 회전시 바퀴의 각위치를 계산합니다. 첫 번째 차단 이벤트는 제로 각도를 결정합니다. 다음 차단 이벤트는 각을 2π / n 라디안만큼 증가시킵니다. 여기서 n은 바퀴살의 개수입니다. 각속도 및 가속도 데이터는 시간에 대한 각도의 1 차 및 2 차 미분을 사용하여 계산됩니다"
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "곱셈 기호는 안 써도 됩니다."
+        },
+        "Mute Audio" : {
+            
+            "message": "음소거"
+        },
+        "My-File-Name" : {
+            
+            "message": "내-파일-이름"
+        },
+        "Name" : {
+            
+            "message": "이름"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "이름은 %s 자를 초과할 수 없습니다"
+        },
+        "Natural Exponential" : {
+            
+            "message": "자연지수함수"
+        },
+        "Natural Log" : {
+            
+            "message": "자연로그"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "자연로그 1 + X"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "새로운 보정은 새로운 실험을 시작하거나 파일을 열기 전까지 사용됩니다."
+        },
+        "New Experiment" : {
+            
+            "message": "새로운 실험"
+        },
+        "Next After" : {
+            
+            "message": "다음"
+        },
+        "No Columns" : {
+            
+            "message": "열 표시안함"
+        },
+        "No Device Connected" : {
+            
+            "message": "연결된 장치 없음"
+        },
+        "No device connected." : {
+            
+            "message": "연결된 장치가 없습니다."
+        },
+        "No Devices Connected" : {
+            
+            "message": "장치가 연결되지 않았습니다"
+        },
+        "No expiration date" : {
+            
+            "message": "만료일 없음"
+        },
+        "No sensor connected" : {
+            
+            "message": "연결된 센서가 없습니다"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "연결된 센서 없음"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "데이터 공유가 가능한 장치가 검색되지 않습니다. 데이터 공유를 하려는 장치가 동일 네트워크에 연결되어 있는지 확인하십시오. 문제가 지속되면 소스 확인을 이용해 수동으로 연결하십시오."
+        },
+        "Normal" : {
+            
+            "message": "일반"
+        },
+        "Not Capable" : {
+            
+            "message": ""
+        },
+        "Note" : {
+            
+            "message": "노트"
+        },
+        "Notes" : {
+            
+            "message": "메모"
+        },
+        "Number list" : {
+            
+            "message": ""
+        },
+        "Number of flags" : {
+            
+            "message": "차단면 개수"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "미분 계산에 사용되는 포인트 수:"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "평활 계산에 사용되는 포인트 수:"
+        },
+        "Number of spokes" : {
+            
+            "message": "바퀴살 개수"
+        },
+        "Numeric" : {
+            
+            "message": "수치"
+        },
+        "Object" : {
+            
+            "message": "물체"
+        },
+        "Object Width" : {
+            
+            "message": "물체의 폭"
+        },
+        "Offline" : {
+            
+            "message": "오프라인"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "On a triggering event" : {
+            
+            "message": "자동 수집 모드"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "랩퀘스트에서 Wi-Fi 아이콘을 누르세요"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "로거프로에서 파일->데이터 공유를 선택합니다"
+        },
+        "One-point calibration" : {
+            
+            "message": "1 포인트 보정"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "데이터 공유 기능"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "데이터 수집중에만 팬을 작동"
+        },
+        "Open failed" : {
+            
+            "message": "열기 실패"
+        },
+        "Open Saved File" : {
+            
+            "message": "저장된 실험 파일 열기"
+        },
+        "Open Update Information" : {
+            
+            "message": "업데이트 정보 열기"
+        },
+        "Open..." : {
+            
+            "message": "열기..."
+        },
+        "Order Code" : {
+            
+            "message": "장치 코드"
+        },
+        "Other / User Defined" : {
+            
+            "message": "기타/ 사용자 정의"
+        },
+        "Other Options" : {
+            
+            "message": "추가 옵션"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "기타/사용자 정의 : 위에서 보이는 것 처럼 간격과 차단면의 개수를 입력합니다. 만약 물체가 도르래라면 간격은 도르래의 둘레를 바퀴살의 개수로 나눈 값입니다."
+        },
+        "Paragraph" : {
+            
+            "message": ""
+        },
+        "Parameter %s" : {
+            
+            "message": "상수 %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "식 내에서 상수이름을 반복할 수 없습니다."
+        },
+        "Paste" : {
+            
+            "message": "붙여넣기"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "편집 메뉴에서는 붙여 넣기 작업을 사용할 수 없습니다. CTRL-V 또는 CMD-V를 사용하여 붙여 넣습니다."
+        },
+        "Pause replay" : {
+            
+            "message": "재생 일시 중지"
+        },
+        "Pause Video" : {
+            
+            "message": "비디오 일시 중지"
+        },
+        "Peak Frequency" : {
+            
+            "message": "피크 주파수"
+        },
+        "Pendulum Period" : {
+            
+            "message": "진자의 주기"
+        },
+        "Percentage" : {
+            
+            "message": "백분율"
+        },
+        "Perform a" : {
+            
+            "message": "실행"
+        },
+        "Photogate Timing" : {
+            
+            "message": "포토게이트 모드"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "포토게이트는 물체가 게이트 사이를 지나는 시간이나 진자가 흔들리는 주기를 측정할 수 있습니다. 게이트가 차단된 시간 간격 은 인터벌타임으로 표시됩니다."
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "연결하고자 하는 무선 센서를 스마트 기기에 가까이 놓고 기다리십시오."
+        },
+        "Play replay" : {
+            
+            "message": "재생 시작"
+        },
+        "Play Video" : {
+            
+            "message": "비디오 재생"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "재생 속도 조정"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "IP 주소 입력:"
+        },
+        "point" : {
+            
+            "message": "포인트"
+        },
+        "Point Colors" : {
+            
+            "message": "포인트 색상"
+        },
+        "Point Symbols" : {
+            
+            "message": "포인트 기호"
+        },
+        "points" : {
+            
+            "message": "포인트"
+        },
+        "Points" : {
+            
+            "message": "포인트"
+        },
+        "points before trigger" : {
+            
+            "message": "개의 실험 데이터를 미리 수집"
+        },
+        "Power" : {
+            
+            "message": "거듭제곱함수"
+        },
+        "Prediction" : {
+            
+            "message": "예상"
+        },
+        "Prediction Name" : {
+            
+            "message": "예상 이름"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "예상 이름에 %s 글자 수 제한이 있습니다."
+        },
+        "Prediction Options" : {
+            
+            "message": "예상 옵션"
+        },
+        "Prediction Title" : {
+            
+            "message": "예상 제목"
+        },
+        "Predictions" : {
+            
+            "message": "예상"
+        },
+        "Preview mode" : {
+            
+            "message": ""
+        },
+        "Primary:" : {
+            
+            "message": "1차:"
+        },
+        "Privacy Notice" : {
+            
+            "message": "개인정보 알림"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": ""
+        },
+        "Projectile Info" : {
+            
+            "message": "발사체 정보"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "포물선 실험장치"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "다른 사람이 귀하의 장치에 연결할 수 있도록 ID코드를 제공하십시오"
+        },
+        "Proximity Connect" : {
+            
+            "message": "근접 연결"
+        },
+        "Pulse timing" : {
+            
+            "message": "펄스 타이밍"
+        },
+        "Quote" : {
+            
+            "message": ""
+        },
+        "radians" : {
+            
+            "message": "라디안"
+        },
+        "Radians (rad)" : {
+            
+            "message": "라디안(rad)"
+        },
+        "Rate" : {
+            
+            "message": "속도"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "200 샘플/초 를 초과하면 수집 시간을 정해야 합니다."
+        },
+        "Reconnect" : {
+            
+            "message": "다시 연결"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "Rectangle" : {
+            
+            "message": "사각"
+        },
+        "Regular" : {
+            
+            "message": "보통"
+        },
+        "Relative stability reading" : {
+            
+            "message": "상대적 안정 값"
+        },
+        "Remainder" : {
+            
+            "message": "나머지"
+        },
+        "Remote Logging" : {
+            
+            "message": ""
+        },
+        "Remote Logging in Process" : {
+            
+            "message": ""
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": ""
+        },
+        "Remote Logging Started" : {
+            
+            "message": ""
+        },
+        "Remote Logging Status" : {
+            
+            "message": ""
+        },
+        "Remove" : {
+            
+            "message": "삭제"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "선형 편차 제거"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "소프트 센서 제거"
+        },
+        "Rename" : {
+            
+            "message": "이름변경"
+        },
+        "Rename Data Set" : {
+            
+            "message": "데이터 세트 이름변경"
+        },
+        "Rename Prediction" : {
+            
+            "message": "예측이름 바꾸기"
+        },
+        "Replay" : {
+            
+            "message": "재생"
+        },
+        "Replay video sync info" : {
+            
+            "message": "비디오 재생 동기화 정보"
+        },
+        "Reported Reading" : {
+            
+            "message": "보고된 값"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "수집 시 다시 영점"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "기본값으로 초기화"
+        },
+        "Restart app" : {
+            
+            "message": "앱 재실행"
+        },
+        "Restart Replay" : {
+            
+            "message": "재생 다시 시작"
+        },
+        "Restore All" : {
+            
+            "message": "데이터 복원"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": ""
+        },
+        "Retry Calibration" : {
+            
+            "message": "보정 재시도"
+        },
+        "Reverse" : {
+            
+            "message": "방향 반전"
+        },
+        "revolution" : {
+            
+            "message": "회전"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "회전(rev)"
+        },
+        "Right" : {
+            
+            "message": "오른쪽"
+        },
+        "Right Axis" : {
+            
+            "message": "오른쪽 축"
+        },
+        "Right manual fit handle" : {
+            
+            "message": ""
+        },
+        "Right y-axis" : {
+            
+            "message": "오른쪽 y축"
+        },
+        "Right y-axis range" : {
+            
+            "message": "오른쪽 Y축 범위"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": "반올림"
+        },
+        "Row Number" : {
+            
+            "message": "행번호"
+        },
+        "s" : {
+            
+            "message": "초"
+        },
+        "sample" : {
+            
+            "message": "샘플"
+        },
+        "Sample Data" : {
+            
+            "message": "샘플 데이터"
+        },
+        "Sample Experiments" : {
+            
+            "message": "실험 샘플"
+        },
+        "samples" : {
+            
+            "message": "샘플"
+        },
+        "Samples" : {
+            
+            "message": "샘플"
+        },
+        "samples per second" : {
+            
+            "message": ""
+        },
+        "samples scheduled" : {
+            
+            "message": ""
+        },
+        "Save" : {
+            
+            "message": "저장"
+        },
+        "Save AMBL" : {
+            
+            "message": "AMBL 파일로 저장"
+        },
+        "Save and Close App" : {
+            
+            "message": "어플을 저장하고 닫기"
+        },
+        "Save As..." : {
+            
+            "message": "다른이름으로 저장"
+        },
+        "Save Changes?" : {
+            
+            "message": "변경된 내용을 저장하시겠습니까?"
+        },
+        "Save CSV" : {
+            
+            "message": "CSV 엑셀 파일로 저장"
+        },
+        "Save Experiment" : {
+            
+            "message": "실험 저장"
+        },
+        "Save failed" : {
+            
+            "message": "저장을 실패하였습니다"
+        },
+        "Save PDF" : {
+            
+            "message": "PDF 문서로 저장"
+        },
+        "Save Pending" : {
+            
+            "message": "보류 중인 저장"
+        },
+        "Save PNG" : {
+            
+            "message": "PNG 그림으로 저장"
+        },
+        "Saved" : {
+            
+            "message": "저장됨"
+        },
+        "Saving" : {
+            
+            "message": "저장"
+        },
+        "Scale Factor" : {
+            
+            "message": "배율"
+        },
+        "Scaling" : {
+            
+            "message": "배율"
+        },
+        "Searching for devices..." : {
+            
+            "message": "무선 센서를 검색 중..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "두 번째 보정값의 센서 전압은 처음 값과 최소 0.05V가 차이나야 합니다."
+        },
+        "Second Derivative" : {
+            
+            "message": "2차 미분"
+        },
+        "Secondary:" : {
+            
+            "message": "2차:"
+        },
+        "seconds" : {
+            
+            "message": "초"
+        },
+        "See Experiments" : {
+            
+            "message": "실험 보기"
+        },
+        "See sample experiments" : {
+            
+            "message": "예제 실험 보기"
+        },
+        "Select Data Set" : {
+            
+            "message": "데이터 세트 선택"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "변위각의 단위 선택."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "연결할 장치 유형을 선택합니다."
+        },
+        "select/deselect meter" : {
+            
+            "message": "미터 선택/해제"
+        },
+        "Selected Events" : {
+            
+            "message": "자동 기록"
+        },
+        "Sensor Actions" : {
+            
+            "message": "센서 동작"
+        },
+        "Sensor Channels" : {
+            
+            "message": "센서 채널"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "센서 데이터 수집 모드"
+        },
+        "Sensor Setup" : {
+            
+            "message": "센서 설정"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "센서 전압"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "센서 영점"
+        },
+        "Sensors" : {
+            
+            "message": "센서"
+        },
+        "Session 1 Name" : {
+            
+            "message": "세션 1 이름"
+        },
+        "Session 2 Name" : {
+            
+            "message": "세션 2 이름"
+        },
+        "Session 3 Name" : {
+            
+            "message": "세션 3 이름"
+        },
+        "Session 4 Name" : {
+            
+            "message": "세션 4 이름"
+        },
+        "Session ended by Host" : {
+            
+            "message": "호스트에 의한 세션 종료"
+        },
+        "Session Preferences" : {
+            
+            "message": "세션 환경설정"
+        },
+        "Settings saved" : {
+            
+            "message": "설정 저장"
+        },
+        "Share AMBL" : {
+            
+            "message": "AMBL 파일 공유"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "네트워크 연결을 이용해 실험 데이터를 실시간 공유 및 분석"
+        },
+        "Share CSV" : {
+            
+            "message": "CSV 파일 공유"
+        },
+        "Share Image" : {
+            
+            "message": "이미지 파일 공유"
+        },
+        "Share PDF" : {
+            
+            "message": "PDF 파일 공유"
+        },
+        "Show All Releases" : {
+            
+            "message": "모든 릴리즈 확인"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": ""
+        },
+        "Show Details" : {
+            
+            "message": "세부 정보 표시"
+        },
+        "Show FFT" : {
+            
+            "message": "FFT 보기"
+        },
+        "Show Histogram" : {
+            
+            "message": "히스토 그램 보기"
+        },
+        "Show Less" : {
+            
+            "message": "간단히 보기"
+        },
+        "Show Menu" : {
+            
+            "message": ""
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "게이트의 중간에 있을 때의 시간 보기"
+        },
+        "Show Original Graph" : {
+            
+            "message": "그래프 보기"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": ""
+        },
+        "Significant Figures" : {
+            
+            "message": "유효 숫자"
+        },
+        "Sine" : {
+            
+            "message": "사인"
+        },
+        "Slope" : {
+            
+            "message": "기울기"
+        },
+        "Small" : {
+            
+            "message": "작게"
+        },
+        "Spacing" : {
+            
+            "message": "간격"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "간격 = 원둘레 / 바퀴살의 수"
+        },
+        "Specify source" : {
+            
+            "message": "소스 확인"
+        },
+        "Spectrum" : {
+            
+            "message": "스펙트럼"
+        },
+        "Speed through Gate" : {
+            
+            "message": "게이트 통과 속도"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "게이트 통과 속도 정보"
+        },
+        "Spokes:" : {
+            
+            "message": "바퀴살:"
+        },
+        "Square" : {
+            
+            "message": "사각형"
+        },
+        "Square Root" : {
+            
+            "message": "제곱근"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "데이터 공유 세션 시작하기"
+        },
+        "Start a New Session" : {
+            
+            "message": "새로운 세션 시작"
+        },
+        "Start Collection" : {
+            
+            "message": "수집 시작"
+        },
+        "Start collection when" : {
+            
+            "message": "데이터 자동 수집 환경설정"
+        },
+        "Start Logging" : {
+            
+            "message": ""
+        },
+        "Start New Experiment?" : {
+            
+            "message": "새로 실험을 시작할 까요?"
+        },
+        "Start Session" : {
+            
+            "message": "세션 개설"
+        },
+        "Statistics" : {
+            
+            "message": "통계"
+        },
+        "Std dev" : {
+            
+            "message": "표준 편차"
+        },
+        "Step Backward" : {
+            
+            "message": "한 스텝 뒤로"
+        },
+        "Step Forward" : {
+            
+            "message": "한 스텝 앞으로"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "동영상 뒤로 이동"
+        },
+        "Step Video Forward" : {
+            
+            "message": "동영상 앞으로 이동"
+        },
+        "Stop" : {
+            
+            "message": "중지"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "9mL~ 10mL 사이까지 차면 방울 수 추가를 중지 합니다."
+        },
+        "Stop Collection" : {
+            
+            "message": "수집 중지"
+        },
+        "Stop Sharing" : {
+            
+            "message": "공유 중지"
+        },
+        "Strikethrough" : {
+            
+            "message": "취소선"
+        },
+        "Subject" : {
+            
+            "message": "주제"
+        },
+        "Submit" : {
+            
+            "message": "등록"
+        },
+        "Subscript" : {
+            
+            "message": ""
+        },
+        "Subscription Ends" : {
+            
+            "message": "라이선스 종료일"
+        },
+        "Subscription ends" : {
+            
+            "message": "구독 종료일"
+        },
+        "Superscript" : {
+            
+            "message": ""
+        },
+        "Supported Functions" : {
+            
+            "message": "지원되는 기능"
+        },
+        "Symbol" : {
+            
+            "message": "부호"
+        },
+        "Sync data with video" : {
+            
+            "message": "동영상과 데이터를 동기화"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "동영상과 데이터 동기화"
+        },
+        "Syntax" : {
+            
+            "message": "구문"
+        },
+        "Table" : {
+            
+            "message": "테이블"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "매 방울마다 센서에서 값을 가져오기."
+        },
+        "Tangent" : {
+            
+            "message": "기울기"
+        },
+        "Target" : {
+            
+            "message": "목표"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "블루투스 연결이 해제 되었습니다"
+        },
+        "The Column Name is required" : {
+            
+            "message": "열 이름이 필요합니다"
+        },
+        "the current file" : {
+            
+            "message": "현재 파일"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "동영상을 시작하기 %s 초 전에 데이터세트가 시작됩니다"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "수식명을 입력하지 않은 경우 그 수식이 이름으로 사용됩니다."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "발사 속도는 구슬이 내장된 두개의 게이트 사이를 통과 할 때의 평균 속도입니다."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "발사 속도는 구슬이 첫 번째 내장된 게이트를 통과 할 때의 속도입니다."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "물체가 게이트를 통과한 속도를 결정하기 위해서는 물체 또는 차단면의 폭을 포토게이트가 닫힌 동안의 시간으로 나눕니다."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": ""
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "두 게이트의 차단된 시간 차를 표시합니다."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "식에는 7개 이상의 상수를 사용할 수 없습니다."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "이 센서가 사용할 수 있는 새로운 펌웨어가 있습니다. 센서가 0°C 미만의 환경에 있을 때, 잘못된 측정값을 해결합니다. 업데이트는 Graphical Analysis에서 진행할 수 없습니다."
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "센서에 적용할 새로운 펌웨어가 있지만 이 장치에서는 업데이트 할 수 없습니다. 이 센서를 업데이트하려면 MacOS, Windows 또는 ChromeOS PC에서 USB로 연결해야 합니다. 그 다음 연결된 장치 목록으로 이동하여 업데이트를 진행할 수 있습니다."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "센서에 새로운 펌웨어를 사용할 수 있습니다. 센서를 USB로 연결하고 프로그램을 종료해야 합니다. 센서가 무선으로 연결된 경우에는 USB로 연결해야합니다."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "설정 저장 중에 문제가 발생"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "이 열은 자동생성이 되어 변경할 수 없습니다"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "삭제하면 되돌릴 수 없습니다."
+        },
+        "This feature requires a" : {
+            
+            "message": "이 기능을 사용하려면"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "그 다음 가려지는 이벤트 사이에 얼마나 회전 하는지를 의미합니다."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "이 Windows 버전은 USB로만 고 무선 센서를 연결할 수 있습니다."
+        },
+        "Time" : {
+            
+            "message": "시간"
+        },
+        "Time Based" : {
+            
+            "message": "시간기반 모드"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "시간 기반 데이터 수집 - 1 그래프"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "시간 기반 데이터 수집 - 3 그래프"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "시간 기반 데이터 수집 - 2 그래프"
+        },
+        "Time between gates" : {
+            
+            "message": "게이트 간의 시간"
+        },
+        "Time measurements" : {
+            
+            "message": "시간 측정값"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "버니어 자동 탄착 패드,"
+        },
+        "Time Units" : {
+            
+            "message": "시간 단위"
+        },
+        "Timer" : {
+            
+            "message": "타이머"
+        },
+        "Timer Info" : {
+            
+            "message": "타이머 정보"
+        },
+        "Timer or Period" : {
+            
+            "message": "타이머 또는 주기"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "팁: 사용자의 컴퓨터, 스마트폰 또는 태블릿에서 가장 가까운 센서가 1개가 연결됩니다. 사용하고자 하는 센서를 스마트기기에 가까이 두십시오."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "팁: 근접 연결은 센서와 스마트기기의 거리가 기준이 됩니다. 근접 연결을 사용하기 어려운 환경이라면, 연결 목록에서 직접 센서를 선택할 수 있습니다."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "팁: 무선 센서를 연결하려면 무선 센서 본체의 빨간색 LED 표시등이 깜박여야 합니다."
+        },
+        "Title" : {
+            
+            "message": "제목"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "제공되는 함수와 연산자를 사용해서 새로운 %s을 만드세요."
+        },
+        "To locate the address:" : {
+            
+            "message": "IP 주소를 찾으려면:"
+        },
+        "to make the key available for use." : {
+            
+            "message": "키를 사용할 수 있도록 설정합니다."
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "실시간 데이터 공유를 시작하기 위해서 :"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "다크모드"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "화이트 모드"
+        },
+        "Too few points" : {
+            
+            "message": "측정 개수 부족"
+        },
+        "Toolbar" : {
+            
+            "message": ""
+        },
+        "Top" : {
+            
+            "message": "위"
+        },
+        "Total samples" : {
+            
+            "message": "총 샘플수"
+        },
+        "Triangle" : {
+            
+            "message": "삼각형"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "수평 축에 표시된 열에 단위가 있는 경우를 제외하고 삼각 함수는 라디안으로 계산됩니다"
+        },
+        "Truncate" : {
+            
+            "message": "자리버림"
+        },
+        "Two-point calibration" : {
+            
+            "message": "2-포인트 보정"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "도르래 - 홈에서"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "도르래 - 테두리"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "연결 할 수 없거나 소스를 찾을 수 없습니다."
+        },
+        "Unable to connect to " : {
+            
+            "message": "다음으로 연결 할 수 없습니다. "
+        },
+        "Units" : {
+            
+            "message": "단위"
+        },
+        "Unknown" : {
+            
+            "message": "미지의"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "알 수 없는 라이센스 키 오류"
+        },
+        "Unmute Audio" : {
+            
+            "message": "오디오 음소거 해제"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "지원되지 않는 브라우저"
+        },
+        "Untitled" : {
+            
+            "message": "제목없음"
+        },
+        "Update Available" : {
+            
+            "message": "업데이트 가능"
+        },
+        "Update error" : {
+            
+            "message": "업데이트 오류"
+        },
+        "Update Firmware" : {
+            
+            "message": "펌웨어 업데이트"
+        },
+        "Update is downloading..." : {
+            
+            "message": "업데이트 다운로드 중..."
+        },
+        "Update your License Key" : {
+            
+            "message": "라이센스 키를 갱신 해야합니다"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "USB 장치"
+        },
+        "Use Column Value" : {
+            
+            "message": "열 값 사용"
+        },
+        "Use gate separation" : {
+            
+            "message": "게이트 간격"
+        },
+        "Use object / flag width" : {
+            
+            "message": "물체나 차단면의 폭 사용"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "탄환의 지름 사용"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "과학적 표기법 사용"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "필요에 따라 USB 또는 WIRELESS 버튼을 사용합니다."
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": ""
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "시간으로 속도를 측정하려면 이 옵션을 사용하세요. 보고된 시간은 게이트가 가려진 시간과 열린 시간 사이의 중간입니다."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "자동 탄착 패드 사용"
+        },
+        "Use Windowing" : {
+            
+            "message": "윈도우 함수 적용"
+        },
+        "User Manual" : {
+            
+            "message": "사용자 설명서"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "공장 보정치 사용"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "이 실험의 로컬 캐시 버전을 사용합니다."
+        },
+        "Value must be between " : {
+            
+            "message": "값은 다음 값 사이여양 합니다 "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "버니어 Graphical Analysis&reg; 는 버니어 센서를 이용해 과학 실험 데이터를 수집, 그래프, 분석하는 프로그램입니다."
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "Vernier Graphical Analysis® Pro 라이선스가 ${this.daysRemaining}일 후에 만료됩니다"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "Vernier Graphical Analysis® Pro 라이선스가 오늘 만료됩니다"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "피켓 펜스"
+        },
+        "Version" : {
+            
+            "message": "버전"
+        },
+        "Vertical Divider" : {
+            
+            "message": "수직 분할선"
+        },
+        "Video" : {
+            
+            "message": "동영상"
+        },
+        "Video Time" : {
+            
+            "message": "동영상 시간"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "데이터 세트 시작 %s 초 전에 동영상을 시작합니다"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "데이터 세트와 동영상이 같은 시간에 동시에 시작됩니다"
+        },
+        "View Experiment" : {
+            
+            "message": "실험 보기"
+        },
+        "View Integral" : {
+            
+            "message": "적분"
+        },
+        "View Options" : {
+            
+            "message": "옵션 보기"
+        },
+        "View Statistics" : {
+            
+            "message": "통계"
+        },
+        "Voltage" : {
+            
+            "message": "전압"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "%s의 값이 %s하여 %s %s 될 때까지 대기 중"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "라이센스 키가 유효한 것으로 감지되었지만 사용하기 전에 최종 사용자 라이센스 계약에 동의해야합니다. 라이선스를 구입한 학교의 관리 책임자에게 문의하십시오. "
+        },
+        "What's New" : {
+            
+            "message": "프로그램 업데이트 정보"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "진자는 한 주기에 게이트를 두번 통과하기 때문에, 두번째 차단되는 시간이 주기로 표시됩니다."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "두 개의 포토 게이트를 사용할 때에는, 물체나 차단면의 폭 대신 게이트 사이의 거리를 사용하여 속도를 계산할 수 있습니다. 표시 되는 속도는 두 게이트 사이를 지나는 평균속도입니다."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "무선연결을 하려면 윈도우 10 이상이 필요합니다."
+        },
+        "Wireless" : {
+            
+            "message": "무선"
+        },
+        "Working..." : {
+            
+            "message": "작업중..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x축 범위"
+        },
+        "x-range" : {
+            
+            "message": "x-범위"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y축 범위"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "장치를 USB를 이용한 유선 연결 또는 블루투스를 이용한 무선 연결을 할 수 있습니다."
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "이 URL을 이메일, SNS 또는 다양한 수단을 이용해 공유하면 학교 내의 다른 사용자에게 프로그램에 대한 액세스 권한을 부여할 수 있습니다."
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": ""
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "이 실험에 필요하지 않은 장치가 연결되어 있습니다."
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "라이센스 키가 아닌 정품 인증 코드를 입력했습니다."
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "브라우저에 사용 가능한 장치가 표시됩니다. 장치를 선택하고 페어링을 클릭합니다."
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "데이터 공유 호스트가 새로운 실험을 시작하는 중입니다. 실험을 계속할 수도 있고 새 실험에 참여할 수도 있습니다."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "귀하의 Vernier Graphical Analysis®라이선스는 학교 내의 학생 또는 교사, 교수진 및 교직원과만 공유할 수 있도록 허용됩니다. 학교 외부 인원에서는 공유하지 마십시오."
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "귀하의 Vernier Video Analysis라이선스는 학교의 학생과 교사, 교수진 및 교직원과만 공유할 수 있도록 허용됩니다. 학교 외부 인원에게는 공유하지 마십시오."
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": ""
+        },
+        "Zero" : {
+            
+            "message": "영점"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "모든 데이터 확대"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "선택 영역 확대"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-축 ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-축 ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier Science Education"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g 가속도센서"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3차원 가속도센서 (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3차원 가속도센서 (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3차원 가속도센서 (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "고전압센서 (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "흡광도"
+        },
+        "Acceleration" : {
+            
+            "message": "가속도"
+        },
+        "Accelerometer" : {
+            
+            "message": "가속도센서"
+        },
+        "Ammonium" : {
+            
+            "message": "암모늄 이온"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "암모늄이온센서"
+        },
+        "Analyzer" : {
+            
+            "message": "분석기"
+        },
+        "Anemometer" : {
+            
+            "message": "풍속센서"
+        },
+        "Angle" : {
+            
+            "message": "각도"
+        },
+        "Barometer" : {
+            
+            "message": "기압센서"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "기압 센서 (단종)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "바이오기체압력센서"
+        },
+        "Blood Pressure" : {
+            
+            "message": "혈압센서"
+        },
+        "Calcium" : {
+            
+            "message": "칼슘 이온"
+        },
+        "Calcium ISE" : {
+            
+            "message": "칼슘이온센서"
+        },
+        "Charge" : {
+            
+            "message": "전하"
+        },
+        "Charge Sensor" : {
+            
+            "message": "검전센서"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "검전센서 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "검전센서 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "검전센서 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "염소 이온"
+        },
+        "Chloride ISE" : {
+            
+            "message": "염화이온센서"
+        },
+        "CO2" : {
+            
+            "message": "이산화탄소"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "이산화탄소센서(고범위)"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "이산화탄소센서(저범위)"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "구버전 CO2 가스"
+        },
+        "Colorimeter" : {
+            
+            "message": "색도계"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "구버전 색도계"
+        },
+        "Concentration" : {
+            
+            "message": "농도"
+        },
+        "Conductivity" : {
+            
+            "message": "전도도"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "전도도 20000µS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "전도도 2000µS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "전도도 200µS"
+        },
+        "Constant Current System" : {
+            
+            "message": "전기화학용 전류 센서"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "커프 압력"
+        },
+        "Current" : {
+            
+            "message": "전류"
+        },
+        "Current Probe" : {
+            
+            "message": "전류센서"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "전류센서 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "심박"
+        },
+        "Differential Voltage" : {
+            
+            "message": "차동전압센서"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "디지털 컨트롤 유닛"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "직접연결 온도 센서"
+        },
+        "Displacement" : {
+            
+            "message": "변위"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "용존 CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "용존산소센서"
+        },
+        "Distance" : {
+            
+            "message": "거리"
+        },
+        "DO" : {
+            
+            "message": "용존 산소"
+        },
+        "Drop Counter" : {
+            
+            "message": "방울계수기"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "힘센서 10N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "힘센서 50N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "2021년 초기 카트만 해당"
+        },
+        "EKG" : {
+            
+            "message": "EKG센서"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "전극증폭센서"
+        },
+        "Energy" : {
+            
+            "message": "에너지"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "에너지 센서 전류"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "에너지 센서 전압"
+        },
+        "Ethanol" : {
+            
+            "message": "에탄올"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "에탄올 센서"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "원거리온도센서"
+        },
+        "Flow Rate" : {
+            
+            "message": "호흡 유량"
+        },
+        "Fluorescence" : {
+            
+            "message": "형광"
+        },
+        "Force" : {
+            
+            "message": "힘"
+        },
+        "Force Plate" : {
+            
+            "message": "힘측정판"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "힘측정판 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "힘측정판 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "기체압력센서"
+        },
+        "Gate State" : {
+            
+            "message": "게이트 상태"
+        },
+        "Gate Time" : {
+            
+            "message": "게이트 시간"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "무선 전극증폭센서"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "무선 심박측정센서"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "고 무선 pH 센서"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "고 무선 온도 센서"
+        },
+        "Go! Motion" : {
+            
+            "message": "고!모션"
+        },
+        "Go! Temp" : {
+            
+            "message": "고!템프"
+        },
+        "Goniometer" : {
+            
+            "message": "고니오미터"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "악력 센서"
+        },
+        "Heart Rate" : {
+            
+            "message": "심장 박동수"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "심박측정 센서"
+        },
+        "High Current Sensor" : {
+            
+            "message": "고전류 센서"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "High Sensitivity Light 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "High Sensitivity Light 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "High Sensitivity Light 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "조도"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "전극증폭센서"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "전극증폭센서 +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "전극증폭센서 +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "전극증폭센서 +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "전극증폭센서 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "전극증폭센서 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "전극증폭센서 20mV"
+        },
+        "Intensity" : {
+            
+            "message": "강도"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "적외선온도센서"
+        },
+        "Irradiance" : {
+            
+            "message": "방사"
+        },
+        "Launch Speed" : {
+            
+            "message": "발사 속도"
+        },
+        "Light" : {
+            
+            "message": "조도"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "조도센서 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "조도센서 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "조도센서 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "조도 레벨"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "일차원 위치 센서"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "저범위가속도센서"
+        },
+        "Magnetic Field" : {
+            
+            "message": "자기장"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "자기장 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "자기장 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "평균 동맥 압"
+        },
+        "Melt Station" : {
+            
+            "message": "융점측정기"
+        },
+        "Microphone" : {
+            
+            "message": "마이크로폰"
+        },
+        "mol/L" : {
+            
+            "message": "mol/L"
+        },
+        "Motion" : {
+            
+            "message": "운동"
+        },
+        "Motion Detector" : {
+            
+            "message": "운동센서"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "모션 인코더 카트"
+        },
+        "Nitrate" : {
+            
+            "message": "질산 이온"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "질산이온센서"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "광 DO 센서 %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "광 DO 센서 mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "산소"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "구버전 산소 센서"
+        },
+        "PAR Sensor" : {
+            
+            "message": "PAR 센서"
+        },
+        "Period" : {
+            
+            "message": "기간"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP 증폭기"
+        },
+        "Photogate" : {
+            
+            "message": "포토게이트"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "고정밀 전도도 센서"
+        },
+        "Polarimeter" : {
+            
+            "message": "편광 센서"
+        },
+        "Position" : {
+            
+            "message": "거리"
+        },
+        "Potassium" : {
+            
+            "message": "칼륨 이온"
+        },
+        "Potassium ISE" : {
+            
+            "message": "칼륨이온센서"
+        },
+        "Potential" : {
+            
+            "message": "전압"
+        },
+        "Power" : {
+            
+            "message": "전력"
+        },
+        "Power Amp Current" : {
+            
+            "message": "파워 앰프 전류"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "압력"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "압력 센서 (단종)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "고범위 압력센서"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "포물선 실험장치"
+        },
+        "Pulse" : {
+            
+            "message": "맥박"
+        },
+        "Pulse Time" : {
+            
+            "message": "펄스 시간"
+        },
+        "Pyranometer" : {
+            
+            "message": "일사량센서"
+        },
+        "Radiation" : {
+            
+            "message": "방사선"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "방사선센서"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "원시 전압(0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "상대습도"
+        },
+        "Resistance" : {
+            
+            "message": "저항"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "호흡측정센서"
+        },
+        "Respiration Rate" : {
+            
+            "message": "분당 호흡 수"
+        },
+        "Rotary Motion" : {
+            
+            "message": "회전운동"
+        },
+        "Salinity" : {
+            
+            "message": "염도"
+        },
+        "Signal" : {
+            
+            "message": "신호"
+        },
+        "Soil Moisture" : {
+            
+            "message": "토양습도"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "토양습도센서"
+        },
+        "Sound Level" : {
+            
+            "message": "소음도"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "소음센서"
+        },
+        "Sound Pressure" : {
+            
+            "message": "음압"
+        },
+        "Speed" : {
+            
+            "message": "속도"
+        },
+        "Spirometer" : {
+            
+            "message": "폐활량센서"
+        },
+        "Standard Temperature" : {
+            
+            "message": "표준 온도"
+        },
+        "Student Force" : {
+            
+            "message": "학생용 힘센서"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "학생용 방사선센서"
+        },
+        "Systolic" : {
+            
+            "message": "수축기"
+        },
+        "Temperature" : {
+            
+            "message": "온도"
+        },
+        "Temperature Probe" : {
+            
+            "message": "온도 센서"
+        },
+        "Thermocouple" : {
+            
+            "message": "써모커플"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "구버전 써모커플"
+        },
+        "TI Light" : {
+            
+            "message": "TI조도센서"
+        },
+        "Time of Flight" : {
+            
+            "message": "비행 시간"
+        },
+        "Transmittance" : {
+            
+            "message": "투과율"
+        },
+        "Turbidity" : {
+            
+            "message": "탁도"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA 세기"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVA 센서"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB 세기"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVB 센서"
+        },
+        "Velocity" : {
+            
+            "message": "속도"
+        },
+        "Voltage" : {
+            
+            "message": "전압센서"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "전압센서 (+/-30V)"
+        },
+        "Volume" : {
+            
+            "message": "부피"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT 변위"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT 힘"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "광범위온도센서"
+        },
+        "X Acceleration" : {
+            
+            "message": "X 가속도"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y 가속도"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z 가속도"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": ""
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": ""
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "절대습도"
+        },
+        "Acceleration G" : {
+            
+            "message": "가속도 G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "가속도 벡터"
+        },
+        "Acceleration Y" : {
+            
+            "message": "가속도 Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "조정된 부피"
+        },
+        "Altitude" : {
+            
+            "message": "고도"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "고도 1 포인트 보정"
+        },
+        "Amplitude" : {
+            
+            "message": "진폭"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "각도(고분해능)"
+        },
+        "Angular Motion" : {
+            
+            "message": "각 운동"
+        },
+        "Auto zero at start" : {
+            
+            "message": "시작시 자동 영점"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "보조 포트 모드"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE 전류 범위"
+        },
+        "BE Duration" : {
+            
+            "message": "BE 지속시간"
+        },
+        "BE Potential" : {
+            
+            "message": "BE 포텐셜"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE 샘플링 속도"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "기압"
+        },
+        "Battery Level" : {
+            
+            "message": "배터리 용량"
+        },
+        "Battery Percent" : {
+            
+            "message": "배터리 용량"
+        },
+        "Battery Voltage" : {
+            
+            "message": "배터리 전압"
+        },
+        "Blank calibration" : {
+            
+            "message": "바탕값 보정"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "브리지 전압"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ 당량"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ 가스"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CVS 전류 범위"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS 최종 전위차"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS 초기 전위차"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS 루프 카운트"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS 구간 개수"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS 전위차 변화율"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS 스위칭 전위차 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS 스위칭 전위차 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "보정 계수"
+        },
+        "Calibration power" : {
+            
+            "message": "보정 승수"
+        },
+        "Cap number" : {
+            
+            "message": "마개의 숫자"
+        },
+        "Cell" : {
+            
+            "message": "셀"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "전극 상수 (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "전극 상수 (active)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "계수-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "계수-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "계수-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "전도도- 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": ""
+        },
+        "Counts" : {
+            
+            "message": "카운트"
+        },
+        "Current pressure" : {
+            
+            "message": "현재 압력"
+        },
+        "Current state" : {
+            
+            "message": "현재 상태"
+        },
+        "Current temperature" : {
+            
+            "message": "현재 온도"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "차단 주파수"
+        },
+        "Cycle Volume" : {
+            
+            "message": "호흡당 체적"
+        },
+        "Cycle volume source" : {
+            
+            "message": "호흡당 체적 소스"
+        },
+        "DAC value" : {
+            
+            "message": "DAC 값"
+        },
+        "DO Concentration" : {
+            
+            "message": "DO 농도"
+        },
+        "DO Salinity" : {
+            
+            "message": "염도 보정 DO"
+        },
+        "DO Saturation" : {
+            
+            "message": "DO 포화율(%)"
+        },
+        "Data source" : {
+            
+            "message": "데이터 원본"
+        },
+        "Declination" : {
+            
+            "message": "자편각"
+        },
+        "Demo" : {
+            
+            "message": "데모"
+        },
+        "Dew Point" : {
+            
+            "message": "이슬점"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "확장기 계수"
+        },
+        "Differential Pressure" : {
+            
+            "message": "압력 차이"
+        },
+        "Drops" : {
+            
+            "message": "방울"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "정류 EMG"
+        },
+        "Electrode Current" : {
+            
+            "message": "전극 전류"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "전극 전압"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "전극 세척"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "0% 유동값을 입력"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "100% 유동값을 입력"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "50% 유동값을 입력"
+        },
+        "Enter altitude" : {
+            
+            "message": "고도 입력"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "기압 입력"
+        },
+        "Enter current temperature" : {
+            
+            "message": "현재 온도 입력"
+        },
+        "Enter first known value" : {
+            
+            "message": "알고 있는 첫 번째 값을 입력"
+        },
+        "Enter k value" : {
+            
+            "message": "k 값 입력"
+        },
+        "Enter known value" : {
+            
+            "message": "알고 있는 값을 입력"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "배수 값 입력"
+        },
+        "Enter n value" : {
+            
+            "message": "n 값 입력"
+        },
+        "Enter offset value" : {
+            
+            "message": "오프셋 값 입력"
+        },
+        "Enter power value" : {
+            
+            "message": "거듭제곱수 입력"
+        },
+        "Enter second known value" : {
+            
+            "message": "알고 있는 두 번째 값을 입력"
+        },
+        "Enter station elevation" : {
+            
+            "message": "관측소 고도"
+        },
+        "Enter third known value" : {
+            
+            "message": "알고 있는 세 번째 값을 입력"
+        },
+        "Envelope" : {
+            
+            "message": "포락선"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Envelope 평균"
+        },
+        "Error" : {
+            
+            "message": "오류"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "에탄올 가스"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "탄화 수소 포함 에탄올 가스"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "에탄올 틱"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "에탄올 증기"
+        },
+        "Experiment Type" : {
+            
+            "message": "실험 타입"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "날숨 최대 체적"
+        },
+        "FAN PWM" : {
+            
+            "message": "팬 PWM"
+        },
+        "FWD" : {
+            
+            "message": "FWD"
+        },
+        "Fan" : {
+            
+            "message": "팬"
+        },
+        "Fan Mode" : {
+            
+            "message": "팬 모드"
+        },
+        "Final hold time" : {
+            
+            "message": "최종 유지 시간"
+        },
+        "Final temperature" : {
+            
+            "message": "최종 온도"
+        },
+        "Five-point calibration" : {
+            
+            "message": "5-포인트 보정"
+        },
+        "Flow rate filter" : {
+            
+            "message": "호흡량 필터"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "들숨 유량 극성"
+        },
+        "Force G" : {
+            
+            "message": "힘 G"
+        },
+        "Force Y" : {
+            
+            "message": "힘 Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "힘 1포인트 보정"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "힘 2포인트 보정"
+        },
+        "Forward" : {
+            
+            "message": "앞으로"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "게이트 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "게이트 1 - 게이트 상태"
+        },
+        "Gate 1 State" : {
+            
+            "message": "게이트 1 상태"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "게이트1/원격 게이트 - 타이밍"
+        },
+        "Gate 2" : {
+            
+            "message": "게이트 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "게이트 2 - 게이트 상태"
+        },
+        "Gate 2 State" : {
+            
+            "message": "게이트 2 상태"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "고 무선 3축 자기장 센서"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "고 무선 가속도"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "고 무선 혈압 센서"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "고 무선 이산화탄소 센서"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "고 무선 색도계"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "고 무선 전도도 센서"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "고 무선 정전류 센서"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "고 무선 전류 센서"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "고 무선 순환 전압전류 실험장치"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "고 무선 방울 계수기"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "고 무선 EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "고 무선 전극증폭센서"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "고 무선 에너지"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "고 무선 에탄올 센서"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "고 무선 에탄올 증기"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "고 무선 힘/가속도 센서"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "고 무선 가스크로마토그래프"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "고 무선 기체압력센서"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "고 무선 악력 센서"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "고 무선 이온 전극용 센서"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "고 무선 조도색도 센서"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "고무선 융점측정 센서"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "고무선 운동 센서"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "고무선 광DO 센서"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "고 무선 산소 센서"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "고 무선 포토게이트"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "고 무선 고정밀 전도도 센서"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "고 무선 화학 편광계"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "고 무선 포물선 운동 실험장치"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "고 무선 산소포화도 측정 센서"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "고 무선 방사선 모니터"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "고 무선 호흡벨트"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "고 무선 회전운동 센서"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "고 무선 카트(녹색)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "고 무선 카트(노란색)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "고 무선 소리 센서"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "고 무선 폐활량 센서"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "고 무선 구조 모형 실험장치"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "고 무선 표면온도 센서"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "고 무선 온도 센서"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "고 무선 써모커플 엠플리파이어"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "고 무선 전압 센서"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "고 무선 기상관측 센서"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "고 무선 광범위 온도센서"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "고 무선 광범위 압력 센서"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "고 무선 3축 자기장 센서"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "고 무선 가속도센서"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "고 무선 혈압 센서"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "고 무선 이산화탄소 센서"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "고 무선 색도계"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "고 무선 전도도 센서"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "고 무선 전기화학용 전류 센서"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "고 무선 전류 센서"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "고 무선 순환 전압전류 실험장치"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "고 무선 방울 계수기"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "고 무선 EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "고 무선 전극증폭 센서"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "고 무선 에너지센서"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "고 무선 에탄올 센서"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "고 무선 에탄올 증기"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "고 무선 힘가속도 센서"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "고 무선 기체 크로마토그래프"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "고 무선 기체압력 센서"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "고 무선 악력 센서"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "고 무선 이온 선택성 센서 전극"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "고 무선 조도색도 센서"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "고 무선 융점측정기"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "고 무선 운동 센서"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "고무선 광DO센서"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "고 무선 산소 센서"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "고 무선 포토게이트"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "고 무선 고정밀 전도도 센서"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "고 무선 화학 편광계"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "고 무선 포물선 운동 실험장치"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "고 무선 산소포화도 측정기"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "고 무선 방사선 모니터"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "고 무선 호흡 측정 센서"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "고 무선 회전 운동 센서"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "고무선 센서 카트 (녹색)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "고무선 센서 카트 (노란색)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "고 무선 소리 센서"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "고 무선 폐활량 센서"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "고 무선 구조 모형 실험장치"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "고 무선 표면 온도 센서"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "고 무선 온도 센서"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "고 무선 써모커플 엠플리파이어"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "고 무선 전압 센서"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "고 무선 기상관측 센서"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "고 무선 광범위 온도 센서"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "고 무선 광범위 압력 센서"
+        },
+        "Heat Index" : {
+            
+            "message": "열지수"
+        },
+        "Hold time" : {
+            
+            "message": "유지 시간"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "수소 틱"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "조도"
+        },
+        "Illumination Raw" : {
+            
+            "message": "미보정 조도"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "임펠러 주파수"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "들숨 최대 체적"
+        },
+        "Instrument status" : {
+            
+            "message": "기기 상태"
+        },
+        "Internal Current" : {
+            
+            "message": "내부 전류"
+        },
+        "Internal Voltage" : {
+            
+            "message": "내부 전압"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED 진단"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED 크기"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "레이저 게이트 - 게이트 상태"
+        },
+        "Laser Gate State" : {
+            
+            "message": "레이저 게이트 상태"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "레이저 게이트/외부 게이트 - 타이밍"
+        },
+        "Launch Angle" : {
+            
+            "message": "발사 각도"
+        },
+        "Linear Motion" : {
+            
+            "message": "선 운동"
+        },
+        "Live" : {
+            
+            "message": "라이브"
+        },
+        "Load cell gain" : {
+            
+            "message": "로드셀 증폭율"
+        },
+        "Mag-X" : {
+            
+            "message": "자기장X"
+        },
+        "Mag-Y" : {
+            
+            "message": "자기장Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "자기장Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "마이크로폰-FIXED"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "마이크로폰-(청감보정, dBA)"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "마이크로폰-보정함수C(dBC)"
+        },
+        "Motion (cart)" : {
+            
+            "message": "운동(카트)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "운동 가속도"
+        },
+        "Motion Velocity" : {
+            
+            "message": "운동 속도"
+        },
+        "Motion with TC" : {
+            
+            "message": "기온 보정 적용"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "No"
+        },
+        "No smoothing" : {
+            
+            "message": ""
+        },
+        "Normalized Response" : {
+            
+            "message": "정규화된 응답(normalized)"
+        },
+        "Not ready" : {
+            
+            "message": "준비되지 않음"
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP 시간"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP 샘플 속도"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "물체 가속도(다중 차단면)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "물체 가속도 (단일 차단면)"
+        },
+        "Object Velocity" : {
+            
+            "message": "물체 속도"
+        },
+        "Off" : {
+            
+            "message": "꺼짐"
+        },
+        "One-point calibration" : {
+            
+            "message": "원 포인트 보정"
+        },
+        "Optical Rotation" : {
+            
+            "message": "광학 회전"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "오실레이션 주석"
+        },
+        "Oscillation Max" : {
+            
+            "message": "최대 진동"
+        },
+        "Oscillation Min" : {
+            
+            "message": "최소 진동"
+        },
+        "Oscillations" : {
+            
+            "message": "진동"
+        },
+        "O₂ Gas" : {
+            
+            "message": "산소 농도"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": ""
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "실시간 온도 보정 산소 농도"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": ""
+        },
+        "PPFD - CF" : {
+            
+            "message": ""
+        },
+        "PPFD Correction" : {
+            
+            "message": ""
+        },
+        "PYR two-point calibration" : {
+            
+            "message": ""
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "피크 범위"
+        },
+        "Pendulum Period" : {
+            
+            "message": "진자의 주기"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "진자의 속도"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Pine 펌웨어 주요 버전"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Pine 펌웨어 메이저 버전"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Pine 펌웨어 개정"
+        },
+        "Position Direction" : {
+            
+            "message": "위치 방향"
+        },
+        "Position G" : {
+            
+            "message": "위치 G"
+        },
+        "Position Vector" : {
+            
+            "message": "위치 벡터"
+        },
+        "Position Y" : {
+            
+            "message": "위치 Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "전원 3-포인트 보정"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "맥박압(맥압)"
+        },
+        "Pulse Rate" : {
+            
+            "message": "맥박수"
+        },
+        "REV" : {
+            
+            "message": "REV"
+        },
+        "Ramp rate" : {
+            
+            "message": "온도 변화율"
+        },
+        "Raw Diastolic" : {
+            
+            "message": ""
+        },
+        "Raw MAP" : {
+            
+            "message": ""
+        },
+        "Raw Pressure" : {
+            
+            "message": ""
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": ""
+        },
+        "Raw Systolic" : {
+            
+            "message": ""
+        },
+        "Raw Temperature" : {
+            
+            "message": "미보정 온도"
+        },
+        "Ready" : {
+            
+            "message": "준비"
+        },
+        "Ready to inject" : {
+            
+            "message": "주입 준비 완료"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "외부 가속도"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "외부 게이트 - 물체 가속도"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "외부 게이트 - 물체 가속도 (단일)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "외부 게이트 - 물체 속도"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "외부 게이트 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "외부 게이트 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "외부 속도"
+        },
+        "Reverse" : {
+            
+            "message": "역방향"
+        },
+        "Running" : {
+            
+            "message": "실행중"
+        },
+        "Salinity correction" : {
+            
+            "message": "염도 교정"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "청감보정 소음(dBA)"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "소음(보정함수 C, dBC)"
+        },
+        "Start temperature" : {
+            
+            "message": "시작 온도"
+        },
+        "Starting" : {
+            
+            "message": "시작"
+        },
+        "Station Pressure" : {
+            
+            "message": "관측소 기압"
+        },
+        "Step Rate" : {
+            
+            "message": "일분당 걸음 수"
+        },
+        "Steps" : {
+            
+            "message": "걸음"
+        },
+        "Stopped" : {
+            
+            "message": "중지됨"
+        },
+        "Switch USB" : {
+            
+            "message": "USB 전환"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "수축 계수"
+        },
+        "Temperature correction" : {
+            
+            "message": "온도 교정"
+        },
+        "Three-point calibration" : {
+            
+            "message": "3-포인트 보정"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "자동 탄착 패드"
+        },
+        "Timing" : {
+            
+            "message": "타이밍"
+        },
+        "Total VOC" : {
+            
+            "message": "전체 VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "2-포인트 보정"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Type J 써모커플"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Type K 써모커플"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Type T 써모커플"
+        },
+        "UV" : {
+            
+            "message": "자외선"
+        },
+        "UV Blue" : {
+            
+            "message": ""
+        },
+        "UV Index" : {
+            
+            "message": "자외선 지수"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV 세기"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": ""
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "벡터 범위 최대"
+        },
+        "Vector range Min" : {
+            
+            "message": "벡터 범위 최소"
+        },
+        "Velocity G" : {
+            
+            "message": "속도 G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "속도 벡터"
+        },
+        "Velocity Y" : {
+            
+            "message": "속도 Y"
+        },
+        "Velocity2" : {
+            
+            "message": "속도2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "전압 - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "전압 - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "체적 교정 계수"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "들숨 체적 극성"
+        },
+        "W/m²" : {
+            
+            "message": ""
+        },
+        "Wave Amplitude" : {
+            
+            "message": "파동 진폭"
+        },
+        "Wave Frequency" : {
+            
+            "message": "주파수"
+        },
+        "Wind Chill" : {
+            
+            "message": "체감온도"
+        },
+        "Wind Direction" : {
+            
+            "message": "풍향"
+        },
+        "Wind Speed" : {
+            
+            "message": "풍속"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "풍향 보정"
+        },
+        "X magnetic field" : {
+            
+            "message": "X 자기장"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X 자기장 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-각 속도"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X-축 가속도"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-축 가속도 G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-축 가속도 Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-축 가속도 1 포인트 보정"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-축 가속도-high"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-축 가속도-high 1 포인트 보정"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X-축 각 속도"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "X-축 각속도 G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "X-축 각속도 Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "각속도 X"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y 자기장"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y 자기장 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-각 속도"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y-축 가속도"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-축 가속도 G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-축 가속도 Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y-축 가속도 1 포인트 보정"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y-축 가속도-high"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y-축 가속도-high 1포인트 보정"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y-축 각 속도"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y-축 각속도 G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y-축 각속도 Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "각속도 Y"
+        },
+        "Yes" : {
+            
+            "message": "예"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z 자기장"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z 자기장 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-각 속도"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z-축 가속도"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-축 가속도 G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-축 가속도 Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z-축 가속도 1포인트 보정"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z-축 가속도-high"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z-축 가속도-high 1포인트 보정"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z-축 각 속도"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z-축 각속도 G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z-축 각속도 Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "각속도 Z"
+        },
+        "atm" : {
+            
+            "message": "기압"
+        },
+        "bpm" : {
+            
+            "message": "호흡/분"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "카운트"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "in"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "knots"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": ""
+        },
+        "pC" : {
+            
+            "message": ""
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "미보정 전압"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "회전"
+        },
+        "s" : {
+            
+            "message": "초"
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "걸음"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": ""
+        },
+        "units/s" : {
+            
+            "message": "단위/초"
+        },
+        "units/s²" : {
+            
+            "message": "단위/초²"
+        },
+        "velocity2" : {
+            
+            "message": "속도2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx9"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": ""
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "코사인"
+        },
+        "Cosine Squared" : {
+            
+            "message": "코사인 제곱"
+        },
+        "Inverse" : {
+            
+            "message": "반비례"
+        },
+        "Inverse Squared" : {
+            
+            "message": "제곱에 반비례"
+        },
+        "Linear" : {
+            
+            "message": "선형"
+        },
+        "Modified Power" : {
+            
+            "message": "수정 지수 함수"
+        },
+        "Natural Exponent" : {
+            
+            "message": "자연 지수"
+        },
+        "Natural Log" : {
+            
+            "message": "자연로그"
+        },
+        "Not defined" : {
+            
+            "message": "정의되지 않음"
+        },
+        "Power" : {
+            
+            "message": "거듭제곱"
+        },
+        "Proportional" : {
+            
+            "message": "비례"
+        },
+        "Quadratic" : {
+            
+            "message": "이차 함수"
+        },
+        "Sine" : {
+            
+            "message": "사인"
+        },
+        "Slope" : {
+            
+            "message": "기울기"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "내가 만든 수식"
+        }
+        
+    }
+}

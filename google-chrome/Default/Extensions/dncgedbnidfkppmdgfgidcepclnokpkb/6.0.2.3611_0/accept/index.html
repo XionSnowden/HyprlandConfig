@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Accept User License | Vernier Graphical Analysis&reg;</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#000" />
+
+    <link rel="icon" type="image/png" href="../app_icon/favicon.ico" />
+    <link rel="apple-touch-icon" href="../app_icon/apple-icon.png" />
+    <link rel="manifest" href="../manifest.json" />
+
+    <link rel="stylesheet" href="accept.css" />
+    <script type="module" src="accept.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="main-content">
+        <ga-logo class="ga-logo"></ga-logo>
+        <div class="wrapper__inner">
+          <p class="eula">
+            The Terms of Use and Privacy Notice must be reviewed and accepted by the school contact
+            identified when the license was created in order to gain access to Vernier Graphical
+            Analysis&reg;.
+          </p>
+          <form id="key_form" method="post" hidden>
+            <label class="accept__label" for="key_input"
+              >Enter school contact email supplied at time of purchase</label
+            >
+            <div class="accept__input-wrapper">
+              <input
+                class="accept__input"
+                type="text"
+                id="email_input"
+                name="email"
+                required
+                autocomplete="off"
+                autocorrect="off"
+                autocapitalize="off"
+                spellcheck="false"
+                placeholder="contact@school.edu"
+                onClick="this.setSelectionRange(0, this.value.length)"
+              />
+            </div>
+            <div class="eula">
+              <input type="checkbox" id="eula" name="eula" required />
+              <label for="eula">
+                I agree to the Vernier Graphical Analysis&reg;
+                <a
+                  class="terms__link"
+                  href="https://www.vernier.com/legal-center/applications-terms/"
+                  target="_blank"
+                  >Terms of Use</a
+                >and the
+                <a
+                  class="terms__link"
+                  href="https://www.vernier.com/legal-center/applications-privacy/"
+                  target="_blank"
+                  >Privacy Notice</a
+                >.
+              </label>
+            </div>
+            <button class="accept__submit-btn" type="submit">Accept</button>
+          </form>
+          <div class="accept__message"><p id="message" hidden></p></div>
+          <div class="support" id="support" hidden>
+            <p>
+              Not sure who the contact email for the school is?
+              <a href="https://www.vernier.com/support/" target="_blank">Contact support</a>
+            </p>
+          </div>
+          <div>
+            <p>
+              <a href="/auth/" target="_blank">Return to Vernier Graphical Analysis&reg;</a>
+            </p>
+          </div>
+        </div>
+        <vst-ui-logo-vernier class="vernier-logo"></vst-ui-logo-vernier>
+      </div>
+    </div>
+    <footer class="terms">
+      <a
+        class="terms__link"
+        href="https://www.vernier.com/legal-center/applications-privacy/"
+        target="_blank"
+        rel="noopener"
+        >Privacy Notice</a
+      >
+      <a
+        class="terms__link"
+        href="https://www.vernier.com/legal-center/applications-terms/"
+        target="_blank"
+        rel="noopener"
+        >Terms of Use</a
+      >
+      <a class="terms__link" href="/cookies.html" target="_blank" rel="noopener">Cookie Notice</a>
+    </footer>
+  </body>
+</html>

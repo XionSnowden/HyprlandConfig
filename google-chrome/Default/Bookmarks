@@ -1,0 +1,37 @@
+{
+   "checksum": "1e54fbb25d92a354f7aeaf576726429e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13392471438944111",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13392471438944114",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13392471438944116",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CvMCCtICCIiBAhLLAiAAkgHFAgrCAgoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJVltaecs1BgARVltaecs1BgAiNAk1oTt5yzUGABADGaD1Y7WPTEd8IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAk1oTt5yzUGABADGaD1Y7WPTEd8IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAk1oTt5yzUGABADGaD1Y7WPTEd8IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAk1oTt5yzUGABADGaD1Y7WPTEd8IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAk1oTt5yzUGABADGaD1Y7WPTEd8IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpOptaecs1BgASACoYVFZiMXgwc0ZXTVBpVDN6ekRrZnNvUT09SAMSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp6WWNWNEM3WXRQZjRUclNhTys5MnhLam5hR2tpMDhUd0FZcWY4Sk5mMlRDR0JWNWUrUEJsSjhueGRNZzhqN2htMFk5MlZsGAAgACgAMLXC7sm3uY0DOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5T1hIbHBOVm0vTTNpWjA2UXYybXVzcmhLd2ZyckRCRGVCUEpQNDJDemlXQWY1VlpWM05ZemZuazQrTEJublBEbjVGRWEwUDBrb2JUQndyWTVWaG0zT1VNRUcvUT09GAAgACgAMLXC7sm3uY0DOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp4alVWYysvdHFUcFFyQ1pUOHJuVmhjRDBNU1RjL1JUZDExVk1pVndpajhXdmZESFB4cm9ibmJheXJMczhHQ0NRdXhkckFNbzhpWHU3L2JMbkgyZU9pcHVBenFXdz09GAAgACgAMLXC7sm3uY0DOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwATgA",
+   "version": 1
+}

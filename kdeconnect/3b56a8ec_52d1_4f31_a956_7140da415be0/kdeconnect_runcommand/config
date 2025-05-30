@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\"2e84eba7_ad19_4c47_93be_af64416ea28f\":{\"command\":\"systemctl reboot\",\"name\":\"Reboot\"},\"695f955a_ac57_4867_9b05_4e2814d8af35\":{\"command\":\"systemctl poweroff\",\"name\":\"Shutdown\"}})"

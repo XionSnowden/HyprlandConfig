@@ -1,0 +1,6470 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "подсоединено клиентов: %d"
+        },
+        "%s All" : {
+            
+            "message": "%s всё"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s все таблицы данных"
+        },
+        "%s appearance options" : {
+            
+            "message": "Настройки внешнего вида %s"
+        },
+        "%s details" : {
+            
+            "message": "Подробности %s"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "В настоящий момент %s ведёт измерения. Хотите прервать и начать новые?"
+        },
+        "%s Options" : {
+            
+            "message": ""
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(расстояние, скорость, ускорение)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 График"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1-я производная"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "Сдвиг первой производной по времени"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1-я производная(Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 График"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 Графика"
+        },
+        "2nd derivative" : {
+            
+            "message": "2-я производная"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "Сдвиг второй производной по времени"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2-я производная(Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 График"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 Графика"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Произошла ошибка связи. Начните эксперимент с начала."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Ошибка соединения привела к остановке измерений. Попробуйте, пожалуйста, заново."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "Вы можете настроить параметры A, B и C. X, Y и Z - это существующие колонки вашей таблицы."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "О программе"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "О пользовательских нелинейных приближениях"
+        },
+        "Absolute Value" : {
+            
+            "message": "Абсолютное значение"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Accessories" : {
+            
+            "message": "Аксессуары"
+        },
+        "across" : {
+            
+            "message": "на"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Активировать дополнительные возможности вашим лицензионным ключом"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": ""
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Активируйте для применения БПФ"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Активировать для применения Гистограммы"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Активируйте, чтобы восстановить все поврежденные ряды"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Активируйте, чтобы показать неопределенность параметров подгонки"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Активируйте, чтобы зачеркнуть строки"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Активируйте, чтобы включить зачеркивание"
+        },
+        "Activate to use %s" : {
+            
+            "message": "Активируйте, чтобы использовать %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Активируйте, чтобы использовать столбчатую диаграмму"
+        },
+        "Activate to use Notes" : {
+            
+            "message": ""
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Активировать для совместного использования данных по сети"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Активировать для использования видео"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Добавить вычисляемый столбец"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Добавить сюда название графика"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Добавить столбец и ввести данные вручную"
+        },
+        "Add Annotation" : {
+            
+            "message": "Добавить описание"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Добавить вычисляемый столбец"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Добавьте дистиллированной воды в бутылку до верха губки."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Добавить соответствие графиков"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Добавить столбец ручного ввода"
+        },
+        "Add Manual Fit" : {
+            
+            "message": ""
+        },
+        "add meters" : {
+            
+            "message": "добавить датчики"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Добавить новую таблицу данных"
+        },
+        "Add Prediction" : {
+            
+            "message": "Добавить прогноз"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Добавить мягкий сенсор"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Добавьте раствор по каплям через счетчик капель в 10миллилитровый градуированный цилиндр."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Добавить/убрать датчики"
+        },
+        "Advanced" : {
+            
+            "message": "Дополнительно"
+        },
+        "After" : {
+            
+            "message": "После"
+        },
+        "After set number of flags" : {
+            
+            "message": "После установки нескольких флагов"
+        },
+        "All" : {
+            
+            "message": "Все"
+        },
+        "Always Show 0" : {
+            
+            "message": "Всегда показывать 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Амплитуда"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Выражение должно включать в себя независимые переменные и как минимум один параметр."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Для подключения к сессии совместной обработки данных требуется Интернет. Восстановите связь и нажмите повторить попытку соединения."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Чтобы подключиться к сетевому распределеению данных, требуется интернет-соединение"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Для совместной работы с данными требуется интернет-соединение"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Для совместной обработки данных требуется Интернет. Восстановите связь, затем начните новую сессию совместной обработки данных."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "необязательная деталь катапульты, использующаяся для сообщения о времени полета снаряда."
+        },
+        "and " : {
+            
+            "message": "и "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "и нажмите ОТКЛЮЧИТЬ СОВМЕСТНЫЙ ДОСТУП"
+        },
+        "Angle units" : {
+            
+            "message": "Единицы угла"
+        },
+        "Angular Motion" : {
+            
+            "message": "Угловое движение"
+        },
+        "Angular Motion Info" : {
+            
+            "message": ""
+        },
+        "App is up to date" : {
+            
+            "message": "Обновление не требуется"
+        },
+        "App Preferences" : {
+            
+            "message": "Добавить предпочтения"
+        },
+        "App Updates" : {
+            
+            "message": "Доступны обновления"
+        },
+        "Appearance" : {
+            
+            "message": "Внешний вид"
+        },
+        "Append" : {
+            
+            "message": "Присоединить"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Присоединить дополнительные данные, либо создать новую выборку?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Присоединить или создать новые?"
+        },
+        "Apply" : {
+            
+            "message": "Применить"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Применить нелин.прибл"
+        },
+        "Apply FFT" : {
+            
+            "message": "Применить БПФ"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Применить гистограмму"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Область"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Пока Вы измеряете, они будут видеть результаты в своих копиях Graphical Analysis"
+        },
+        "Auto" : {
+            
+            "message": "Авто"
+        },
+        "Automatic" : {
+            
+            "message": "Автоматически"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Усреднить измеренное по 10 секунд"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Усреднение по 10 секунд"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Размер подписи к оси"
+        },
+        "Back" : {
+            
+            "message": "Обратно"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Фильтр полосы пропускания"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Фильтр полосы остановки"
+        },
+        "Bar Tape" : {
+            
+            "message": "Лента"
+        },
+        "Bars" : {
+            
+            "message": "Полоски"
+        },
+        "Base" : {
+            
+            "message": "Основание"
+        },
+        "Base Axis" : {
+            
+            "message": ""
+        },
+        "Battery" : {
+            
+            "message": "Батарея"
+        },
+        "Battery Level" : {
+            
+            "message": "Заряд батареи"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Начальное значение столбика"
+        },
+        "Bin Width" : {
+            
+            "message": "Ширина столбика"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Устройство Блютуз"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Блютуз отключен"
+        },
+        "Bold" : {
+            
+            "message": ""
+        },
+        "Book" : {
+            
+            "message": "Книга"
+        },
+        "Book Title" : {
+            
+            "message": "Название книги"
+        },
+        "Both" : {
+            
+            "message": "И то, и другое"
+        },
+        "Bottom" : {
+            
+            "message": "Минимум"
+        },
+        "Bottom Bar" : {
+            
+            "message": ""
+        },
+        "Bullet list" : {
+            
+            "message": ""
+        },
+        "Calculated %s" : {
+            
+            "message": "Вычисленно: %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Вычисляемый столбец"
+        },
+        "Calibrate" : {
+            
+            "message": "Калибровка"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Калибровать сейчас"
+        },
+        "Calibrating..." : {
+            
+            "message": "Калибруем..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Калибровка завершена"
+        },
+        "Calibration failed" : {
+            
+            "message": "Ошибка калибровки"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Калибровка успешно сброшена"
+        },
+        "Calibration Type" : {
+            
+            "message": "Тип калибровки"
+        },
+        "Cancel" : {
+            
+            "message": "Отмена"
+        },
+        "cancel" : {
+            
+            "message": "отмена"
+        },
+        "Capable" : {
+            
+            "message": ""
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Бортик тележки"
+        },
+        "Categorical" : {
+            
+            "message": "Категорийный"
+        },
+        "Categorical Data" : {
+            
+            "message": "Категорийные данные"
+        },
+        "Ceiling" : {
+            
+            "message": "Верх. гран."
+        },
+        "Center manual fit handle" : {
+            
+            "message": ""
+        },
+        "Change left y-axis" : {
+            
+            "message": "Изменить левую ось y"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Изменить правую ось y"
+        },
+        "Change x-axis" : {
+            
+            "message": "Изменить абсциссу"
+        },
+        "Change y-axis" : {
+            
+            "message": "Изменить ординату"
+        },
+        "Channels" : {
+            
+            "message": ""
+        },
+        "Charging," : {
+            
+            "message": "Заряжается,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Проверить обновления прошивки"
+        },
+        "Check for software updates" : {
+            
+            "message": "Проверить обновления ПО"
+        },
+        "Check for Updates" : {
+            
+            "message": "Проверить обновления"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Проверьте датчик вспышки светодиода"
+        },
+        "Checking for update..." : {
+            
+            "message": "Поиск обновлений..."
+        },
+        "Choose File" : {
+            
+            "message": "Выберите файл"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Выбрать директорию..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": ""
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": ""
+        },
+        "Circle" : {
+            
+            "message": ""
+        },
+        "Clear Expression" : {
+            
+            "message": "Очистить выражение"
+        },
+        "Clear Filter" : {
+            
+            "message": ""
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Нажмите (коснитесь) НАЧАТЬ СЕССИЮ, чтобы создать её ID"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": ""
+        },
+        "Close" : {
+            
+            "message": "Закрыть"
+        },
+        "Close Alert" : {
+            
+            "message": ""
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Закройте приложение и обновите прошивку"
+        },
+        "Close Application" : {
+            
+            "message": "Закрыть приложение"
+        },
+        "Close Dialog" : {
+            
+            "message": "Закрыть диалог"
+        },
+        "Close FFT" : {
+            
+            "message": "Закрыть БПФ"
+        },
+        "Close graph legend" : {
+            
+            "message": "Закрыть легенду"
+        },
+        "Close Histogram" : {
+            
+            "message": "Закрыть Гистограмму"
+        },
+        "Close Infobox" : {
+            
+            "message": ""
+        },
+        "Close Menu" : {
+            
+            "message": ""
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Закрыть частоту пиков"
+        },
+        "Close Popover" : {
+            
+            "message": "Закрыть всплывающее окно"
+        },
+        "Close Replay" : {
+            
+            "message": "Закрыть просмотр"
+        },
+        "Close Start Page" : {
+            
+            "message": "Закрыть страницу приветствия"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Закройте диалог для продолжения"
+        },
+        "Code" : {
+            
+            "message": ""
+        },
+        "Coefficient" : {
+            
+            "message": "Коэффициент"
+        },
+        "Collapse" : {
+            
+            "message": "Схлопнуть"
+        },
+        "Collect" : {
+            
+            "message": "Начать измерения"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Измерение данных с помощью датчиков от Vernier"
+        },
+        "Collecting" : {
+            
+            "message": "Измерение"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "Измерения %d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Накопление большого количества точек снижает производительность."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Производятся измерения через ${eventParams.accumulate} секунд"
+        },
+        "Collection Parameters" : {
+            
+            "message": ""
+        },
+        "Column %s" : {
+            
+            "message": "Столбец %s"
+        },
+        "Column Options" : {
+            
+            "message": "Параметры столбца"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Столбец будет удален изо всех таблиц. Отмена действия будет невозможна."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "(CSV) Значения, разделенные запятыми"
+        },
+        "Complementary Error" : {
+            
+            "message": "Ошибка заполнения"
+        },
+        "Configurator" : {
+            
+            "message": ""
+        },
+        "Confirm" : {
+            
+            "message": ""
+        },
+        "Connect" : {
+            
+            "message": "Подключиться"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Подключить <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">поддерживаемое USB устройство от Vernier</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Подключите устройство"
+        },
+        "Connect a Device" : {
+            
+            "message": "Подключить устройство"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Подключить LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Подключиться к LabQuest 2 либо LoggerPro по WiFi"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": ""
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Подключите это устройство для измерений."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Подключиться к сессии совместного использования данных от источника Graphical Analysis"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Подключиться к источнику LabQuest, Logger Pro или Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Подключитесь к ранее созданному сеансу, чтобы поделиться настройками сеанса, данными и т. д., или создайте новый сеанс."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Подключите беспроводное устройство, указанное ниже, либо подсоединитесь по USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Подключите беспроводное устройство, указанное ниже."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Подключиться к предыдущему сеансу"
+        },
+        "connected" : {
+            
+            "message": "подключено"
+        },
+        "Connected Devices" : {
+            
+            "message": "Подключенные устройства"
+        },
+        "Connecting" : {
+            
+            "message": "Подключение"
+        },
+        "Connection error" : {
+            
+            "message": "Ошибка соединения"
+        },
+        "Connection Lost" : {
+            
+            "message": "Разрыв соединения"
+        },
+        "Connection status info" : {
+            
+            "message": "Информация о статусе соединения"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Не удалось подключиться к %s"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "%s подключён успешно"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": ""
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": ""
+        },
+        "Cookie Notice" : {
+            
+            "message": "Предупреждение о cookie"
+        },
+        "Copy" : {
+            
+            "message": "Копировать"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Скопировать гистограмму"
+        },
+        "Copy Host ID" : {
+            
+            "message": ""
+        },
+        "Copy Link" : {
+            
+            "message": "Скопировать ссылку"
+        },
+        "Copy Sign" : {
+            
+            "message": "Скопировать знак"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Скопировать в буфер"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Скопировать В Буфер"
+        },
+        "Cosine" : {
+            
+            "message": "Косинус"
+        },
+        "Count Interval" : {
+            
+            "message": "Интервал подсчета"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Создать пользовательскую аппроксимацию"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Создать новую выборку"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Создать собственный вычисляемый столбец"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Создать собственное нелинейное приближение"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Кубический корень"
+        },
+        "Curve Fit" : {
+            
+            "message": "Нелин.прибл."
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Собственные вычисляемые столбцы"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Собственные нелинейные приближения"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Информация о пользовательской кривой"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Информация о собственном выражении"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Пользовательские аппроксимации сохраняются в файлах документов. Когда Вы начинаете новую сессию или перезагружаете приложение, они забываются."
+        },
+        "Custom Session" : {
+            
+            "message": "Пользовательский сеанс"
+        },
+        "Cut" : {
+            
+            "message": "Вырезать"
+        },
+        "Dark" : {
+            
+            "message": "Темный"
+        },
+        "Darker" : {
+            
+            "message": "Темнее"
+        },
+        "Darkest" : {
+            
+            "message": "Самый тёмный"
+        },
+        "Data" : {
+            
+            "message": "Данные"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": ""
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Настройки измерений"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Измерения автоматически прекратятся после того, как все фотозатворы зафиксируют ожидаемое количество положений (по количеству установленных флажков). Если начать измерения заново, будет сформирована новая таблица."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Измерения будут продолжаться, пока Вы не нажмете стоп вручную. Номера измерений будут возрастать, пропуская значения до окончания измерний."
+        },
+        "Data Mark" : {
+            
+            "message": "Пометка данных"
+        },
+        "Data Marking" : {
+            
+            "message": ""
+        },
+        "Data Set %d" : {
+            
+            "message": "Данные %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Название таблицы"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Длина названия эксперимента не более: %s."
+        },
+        "Data Set Options" : {
+            
+            "message": ""
+        },
+        "Data Set Time" : {
+            
+            "message": "Время таблицы"
+        },
+        "Data Share" : {
+            
+            "message": "Совместная работа"
+        },
+        "Data Sharing" : {
+            
+            "message": "Совместная работа"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Идёт совместная работа с данными"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Начало сессии совместной работы с данными"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Статус сессии совместного использования данных"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Статус совместной работы с данными"
+        },
+        "Data Table" : {
+            
+            "message": "Таблица данных"
+        },
+        "Data Type" : {
+            
+            "message": "Тип данных"
+        },
+        "Data Type Info" : {
+            
+            "message": "Информация о типе данных"
+        },
+        "Dataset View Options" : {
+            
+            "message": ""
+        },
+        "Decimal Format" : {
+            
+            "message": "Десятичный формат"
+        },
+        "Decimal Places" : {
+            
+            "message": "Цифр в числе"
+        },
+        "decrease" : {
+            
+            "message": "уменьшить"
+        },
+        "decreasing" : {
+            
+            "message": "уменьшатся"
+        },
+        "degrees" : {
+            
+            "message": "градусы"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Градусы (°)"
+        },
+        "Delete" : {
+            
+            "message": "Удалить"
+        },
+        "Delete %s?" : {
+            
+            "message": "Удалить %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Удалить столбец"
+        },
+        "Delete Column" : {
+            
+            "message": "Удалить столбец"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Удалить столбец %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": ""
+        },
+        "Delete Data Set" : {
+            
+            "message": "Удалить множество данных"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Удалить соответствие графиков"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Удалить предсказание"
+        },
+        "Delete Video" : {
+            
+            "message": "Удалить видео"
+        },
+        "Delta" : {
+            
+            "message": ""
+        },
+        "Device Error" : {
+            
+            "message": "Ошибка устройства"
+        },
+        "Device Information" : {
+            
+            "message": "Информация об устройстве"
+        },
+        "Device information" : {
+            
+            "message": "Информация об устройстве"
+        },
+        "Devices" : {
+            
+            "message": ""
+        },
+        "Diameter" : {
+            
+            "message": "Диаметр"
+        },
+        "Diamond" : {
+            
+            "message": ""
+        },
+        "Dimension" : {
+            
+            "message": "Размерность"
+        },
+        "Disabled" : {
+            
+            "message": ""
+        },
+        "Disconnect" : {
+            
+            "message": "Отключить"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": ""
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": ""
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": ""
+        },
+        "Discovered Devices" : {
+            
+            "message": "Обнаруженные устройства"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Обнаруженные беспроводные устройства"
+        },
+        "Display Meters" : {
+            
+            "message": ""
+        },
+        "Displayed Columns" : {
+            
+            "message": ""
+        },
+        "Displayed Datasets" : {
+            
+            "message": ""
+        },
+        "Displayed Precision" : {
+            
+            "message": "Отображаемая точность"
+        },
+        "Distance" : {
+            
+            "message": "Расстояние"
+        },
+        "Distance between gates" : {
+            
+            "message": "Расстояние между затворами"
+        },
+        "Distribute App" : {
+            
+            "message": ""
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": ""
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Хотите сохранить изменения в файле %s? В случае отказа все изменения будут потеряны."
+        },
+        "Don't Save" : {
+            
+            "message": "Не сохранять"
+        },
+        "Done" : {
+            
+            "message": "Готово"
+        },
+        "done" : {
+            
+            "message": ""
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Скачивание окончено. Обновления будут установлены в момент следующего запуска приложения"
+        },
+        "Download Experiment" : {
+            
+            "message": ""
+        },
+        "Download Update" : {
+            
+            "message": "Скачать обновление"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Начертить прогноз"
+        },
+        "Drop Counting" : {
+            
+            "message": "Счетчик капель"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Измерения прерваны. Пожалуйста, начние эксперимент заново, установив меньшую частоту замеров."
+        },
+        "Drops" : {
+            
+            "message": "Капли"
+        },
+        "Drops/mL" : {
+            
+            "message": "Капель/мл"
+        },
+        "duration" : {
+            
+            "message": "длительность"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "напр. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "напр., 007 или TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Редактировать свойства графика"
+        },
+        "Edit mode" : {
+            
+            "message": ""
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Включите Блютуз, чтобы подключаться к беспроводным устройствам."
+        },
+        "Enable Replay" : {
+            
+            "message": "Активировать воспроизведение"
+        },
+        "Enabled" : {
+            
+            "message": ""
+        },
+        "End Collection" : {
+            
+            "message": "Завершить измерения"
+        },
+        "End data collection" : {
+            
+            "message": "Закончить измерения"
+        },
+        "End User License Agreement" : {
+            
+            "message": ""
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Перестать совместно работать с данными, нажав"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Введите описание"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Ввести данные, используя копирование и вставку с клавиатуры"
+        },
+        "Enter first known value" : {
+            
+            "message": "Введите первое известное значение"
+        },
+        "Enter second known value" : {
+            
+            "message": "Введите второе известное значение"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Введите точный объем раствора из градуированного цилиндра"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Введите ID источника:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": ""
+        },
+        "Equation" : {
+            
+            "message": "Уравнение"
+        },
+        "Error" : {
+            
+            "message": "Ошибка"
+        },
+        "Error Bar Info" : {
+            
+            "message": ""
+        },
+        "Error Bars" : {
+            
+            "message": ""
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Ошибка: доступ к буферу обмена запрещён."
+        },
+        "Event" : {
+            
+            "message": "Событие"
+        },
+        "Event Based" : {
+            
+            "message": "Пособытийный"
+        },
+        "Event Mode" : {
+            
+            "message": "Пособытийный режим"
+        },
+        "Event Name" : {
+            
+            "message": "Название события"
+        },
+        "Events with Entry" : {
+            
+            "message": "Регстр.с ввд.данн"
+        },
+        "Events With Entry" : {
+            
+            "message": ""
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Например: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Пример: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Урав-1"
+        },
+        "Expand" : {
+            
+            "message": "Развернуть"
+        },
+        "Expand Host ID" : {
+            
+            "message": ""
+        },
+        "Experiment Name" : {
+            
+            "message": "Название эксперимента"
+        },
+        "Experimental Features" : {
+            
+            "message": "Экспериментальные нововведения"
+        },
+        "Exponent" : {
+            
+            "message": "Экспонента"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Основание степени 2"
+        },
+        "Export" : {
+            
+            "message": "Экспорт"
+        },
+        "Export CSV" : {
+            
+            "message": "Выгрузить CSV"
+        },
+        "Expression" : {
+            
+            "message": "Выражение"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Дата заводской калибровки"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Тяга вентилятора"
+        },
+        "FFT" : {
+            
+            "message": "БПФ"
+        },
+        "FFT options" : {
+            
+            "message": "Настройки БПФ"
+        },
+        "File Menu" : {
+            
+            "message": "Меню файл"
+        },
+        "File saved" : {
+            
+            "message": "Файл сохранен"
+        },
+        "Filename" : {
+            
+            "message": "Имя файла"
+        },
+        "Filter Device List" : {
+            
+            "message": "Отфильтровать список устройств"
+        },
+        "Firmware" : {
+            
+            "message": "Прошивка"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Информация по обновлению прошивки"
+        },
+        "First Derivative" : {
+            
+            "message": "Первая производная"
+        },
+        "Fit Expression" : {
+            
+            "message": "Аппроксимирующее выражение"
+        },
+        "Fit Name" : {
+            
+            "message": "Название аппроксимации"
+        },
+        "Fit Options" : {
+            
+            "message": ""
+        },
+        "Fixed Value" : {
+            
+            "message": ""
+        },
+        "Flag Width" : {
+            
+            "message": "Ширирна флажка"
+        },
+        "Flags" : {
+            
+            "message": "Флажки"
+        },
+        "Floor" : {
+            
+            "message": "Ниж. гран."
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Для объектов Vernier показываются расстояния и количество флагов. Введите количество флагов для ленты."
+        },
+        "Frequency" : {
+            
+            "message": "Частота"
+        },
+        "From Vernier.com" : {
+            
+            "message": "От Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Функция"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Функции и независимые переменные должны содержать только строчные буквы."
+        },
+        "Gate Separation" : {
+            
+            "message": "Разделение фотозатвора"
+        },
+        "Gate State" : {
+            
+            "message": "Статус затвора"
+        },
+        "Gate timing" : {
+            
+            "message": "Время затвора"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "Карта датчиков GDX"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Передайте другим этот ID, чтобы они могли присоединиться к Вашей сессии"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Датчики Go Direct"
+        },
+        "Go Direct USB" : {
+            
+            "message": ""
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": ""
+        },
+        "Go!Temp" : {
+            
+            "message": ""
+        },
+        "Go! Link" : {
+            
+            "message": ""
+        },
+        "Go! Motion" : {
+            
+            "message": ""
+        },
+        "Graph" : {
+            
+            "message": "График"
+        },
+        "Graph %s" : {
+            
+            "message": "График %s"
+        },
+        "Graph 1" : {
+            
+            "message": ""
+        },
+        "Graph 2" : {
+            
+            "message": ""
+        },
+        "Graph 3" : {
+            
+            "message": ""
+        },
+        "Graph Display" : {
+            
+            "message": ""
+        },
+        "Graph Inset" : {
+            
+            "message": "Вставка графика"
+        },
+        "Graph Legend" : {
+            
+            "message": "Легенда графика"
+        },
+        "Graph Match" : {
+            
+            "message": "Сопоставление графиков"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Настройки соответствия графиков"
+        },
+        "Graph Options" : {
+            
+            "message": "Свойства графика"
+        },
+        "Graph Shape" : {
+            
+            "message": "Форма графика"
+        },
+        "Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Информация о Graphical Analysis Pro"
+        },
+        "Graphs" : {
+            
+            "message": ""
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": ""
+        },
+        "Heading 2" : {
+            
+            "message": ""
+        },
+        "Heading 3" : {
+            
+            "message": ""
+        },
+        "Help connecting a device" : {
+            
+            "message": ""
+        },
+        "Help Connecting a Device" : {
+            
+            "message": ""
+        },
+        "Hide" : {
+            
+            "message": "Спрятать"
+        },
+        "Hide Details" : {
+            
+            "message": ""
+        },
+        "High-pass Filter" : {
+            
+            "message": "Высокопропускающий фильтр"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Режим с высоким разрешением"
+        },
+        "Histogram" : {
+            
+            "message": "Гистограмма"
+        },
+        "Histogram options" : {
+            
+            "message": "Настройки гистограммы"
+        },
+        "Horizontal Divider" : {
+            
+            "message": ""
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Упрявлять сессией совместного использования данных"
+        },
+        "How To Distribute" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Гиперболич. косинус"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Гиперболич. синус"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Гиперболич. тангенс"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Гипотенуза"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Определить"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": ""
+        },
+        "Ignore" : {
+            
+            "message": "Игнорировать"
+        },
+        "Import Video" : {
+            
+            "message": "Импортировать видео"
+        },
+        "increase" : {
+            
+            "message": "увеличить"
+        },
+        "increasing" : {
+            
+            "message": "увеличатся"
+        },
+        "Insert Expression" : {
+            
+            "message": "Вставить выражение"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Вставьте сенсор в бутылку так, чтобы кончик не касался губки или воды."
+        },
+        "Integral" : {
+            
+            "message": "Интеграл"
+        },
+        "Intercept" : {
+            
+            "message": "Пересечение"
+        },
+        "Interpolate" : {
+            
+            "message": "Интерполировать"
+        },
+        "Interval" : {
+            
+            "message": "Интервал"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Неверное уравнение"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Неверное выражение"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Обратный косинус"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Обратный гиперболический косинус"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Обратный гиперболический синус"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Обратный гиперболический тангенс"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Обратный синус"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Обратный тангенс"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Обратный тангенс 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Inverted Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Triangle" : {
+            
+            "message": ""
+        },
+        "is" : {
+            
+            "message": "  "
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "сейчас не поддерживается. Попробуйте другое."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Настоятельно рекомендуется калибровать после замены колпачка."
+        },
+        "Italic" : {
+            
+            "message": ""
+        },
+        "Join New Experiment" : {
+            
+            "message": "Подключитесь к новому эксперименту"
+        },
+        "Keep" : {
+            
+            "message": "Сохранить"
+        },
+        "Keep Point" : {
+            
+            "message": "Сохранить точку"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Держите наконечник вертикально в этом положении минимум 60 секунд, затем нажмите \"калибровать сейчас\"."
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Вводимые значения должны отличаться для различных точек калибровки."
+        },
+        "LabQuest" : {
+            
+            "message": ""
+        },
+        "LabQuest Devices" : {
+            
+            "message": ""
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Большой"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Предыдущий раз калибровалось"
+        },
+        "Launch Speed" : {
+            
+            "message": "Скорость запуска"
+        },
+        "Left" : {
+            
+            "message": "Мин"
+        },
+        "Left Axis" : {
+            
+            "message": ""
+        },
+        "Left manual fit handle" : {
+            
+            "message": ""
+        },
+        "Left y-axis range" : {
+            
+            "message": "Диапазон левой оси Y"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Тип совместимого файла"
+        },
+        "License Key" : {
+            
+            "message": ""
+        },
+        "License Key is expired." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": ""
+        },
+        "License Key is required." : {
+            
+            "message": ""
+        },
+        "License Key is suspended." : {
+            
+            "message": ""
+        },
+        "License Key not recognized." : {
+            
+            "message": ""
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": ""
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": ""
+        },
+        "Licensed To" : {
+            
+            "message": "Лицензировано"
+        },
+        "Licensed to" : {
+            
+            "message": "Лицензировано"
+        },
+        "Line Shade" : {
+            
+            "message": "Тень линии"
+        },
+        "Linear Motion" : {
+            
+            "message": "Линейное движение"
+        },
+        "Linear Motion Info" : {
+            
+            "message": ""
+        },
+        "Lines" : {
+            
+            "message": "Линии"
+        },
+        "Link" : {
+            
+            "message": ""
+        },
+        "Link Copied" : {
+            
+            "message": "Ссылка скопирована"
+        },
+        "list item" : {
+            
+            "message": ""
+        },
+        "Load Experiment" : {
+            
+            "message": ""
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": ""
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Log_2"
+        },
+        "Log Base b" : {
+            
+            "message": "Log_b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": ""
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Низкопропускающий фильтр"
+        },
+        "Main Content" : {
+            
+            "message": ""
+        },
+        "Manual" : {
+            
+            "message": "Вручную"
+        },
+        "Manual %s" : {
+            
+            "message": "Вручную %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Ввод вручную"
+        },
+        "Manual Fit" : {
+            
+            "message": ""
+        },
+        "Manual Scaling" : {
+            
+            "message": "Масштабирование вручную"
+        },
+        "Manually" : {
+            
+            "message": "Вручную"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Дата изготовления"
+        },
+        "Mark" : {
+            
+            "message": ""
+        },
+        "Max" : {
+            
+            "message": "Макс"
+        },
+        "Maximize Application" : {
+            
+            "message": "Полноэкранный режим"
+        },
+        "Mean" : {
+            
+            "message": "Главное"
+        },
+        "Measurement" : {
+            
+            "message": "Измерение"
+        },
+        "Medium" : {
+            
+            "message": ""
+        },
+        "Meter Actions" : {
+            
+            "message": ""
+        },
+        "Meter All Columns" : {
+            
+            "message": ""
+        },
+        "Meter Size" : {
+            
+            "message": ""
+        },
+        "Meter View Options" : {
+            
+            "message": ""
+        },
+        "Metered" : {
+            
+            "message": ""
+        },
+        "metering on all columns" : {
+            
+            "message": ""
+        },
+        "Meters" : {
+            
+            "message": "Метры"
+        },
+        "min" : {
+            
+            "message": "мин"
+        },
+        "Min" : {
+            
+            "message": "Мин"
+        },
+        "Minimize Application" : {
+            
+            "message": "Свернуть приложение"
+        },
+        "Mode" : {
+            
+            "message": "Режим"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": ""
+        },
+        "Modulo" : {
+            
+            "message": "Modulo"
+        },
+        "Move Down" : {
+            
+            "message": ""
+        },
+        "Move Up" : {
+            
+            "message": ""
+        },
+        "ms" : {
+            
+            "message": "мс"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Множество флажков на объекте, расположенных на одинаковом расстоянии, используются для определения положения протяженного объекта, пока он продвигается мимо фотозатвора. Первое состояние закрытого затвора начинает отсчет. Последовательные моменты закрытия затвора увеличивают расстояние на величину промежутка между флажками. Скорость и ускорение вычисляются как первая и вторая производная расстояния по времени."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Множество спиц, равномерно распределенных по колесу, используется для определения угла, на который оно повернулось. Первое состояние закрытого фотозатвора начинает отсчет. Последовательные закрытия фотозатвора изменяют угол на величину 2π/n радиан, где n - количество спиц. Угловые скорость и ускорение определяются как первая и вторая производная угла по времени."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Умножение может быть как явным так и неявным."
+        },
+        "Mute Audio" : {
+            
+            "message": "Отключить звук"
+        },
+        "My-File-Name" : {
+            
+            "message": "Название моего файла"
+        },
+        "Name" : {
+            
+            "message": "Имя"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Длина названия не может превышать %s"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Натуральная экспонента"
+        },
+        "Natural Log" : {
+            
+            "message": "Натуральный логарифм"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Натуральный логарифм 1 + Х"
+        },
+        "Never" : {
+            
+            "message": ""
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Новые калибровки будут использоваться, пока вы не откроете другой файл или эксперимент."
+        },
+        "New Experiment" : {
+            
+            "message": "Создать эксперимент"
+        },
+        "Next After" : {
+            
+            "message": "Следующий после"
+        },
+        "No Columns" : {
+            
+            "message": "Нет столбцов"
+        },
+        "No Device Connected" : {
+            
+            "message": "Нет подключённых устройств"
+        },
+        "No device connected." : {
+            
+            "message": "Нет подключённых устройств."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Нет подключенных устройств"
+        },
+        "No expiration date" : {
+            
+            "message": "Навсегда"
+        },
+        "No sensor connected" : {
+            
+            "message": "Датчики не подключены"
+        },
+        "No Sensors Connected" : {
+            
+            "message": ""
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Источники не обнаружены. Убедитесь, что на Вашем источнике включена/разрешена совместная обработка данных и оба устройства подключены к одной и той же сети. Если проблема сохраняется, выберите \"Указать источник\" и вручную подключитесь к Вашему источнику общих данных."
+        },
+        "Normal" : {
+            
+            "message": "Нормально"
+        },
+        "not" : {
+            
+            "message": "не"
+        },
+        "Not Capable" : {
+            
+            "message": ""
+        },
+        "Note" : {
+            
+            "message": ""
+        },
+        "Notes" : {
+            
+            "message": "Заметки"
+        },
+        "Number list" : {
+            
+            "message": ""
+        },
+        "Number of flags" : {
+            
+            "message": "Количество флажков"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": ""
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": ""
+        },
+        "Number of spokes" : {
+            
+            "message": "Количество спиц"
+        },
+        "Numeric" : {
+            
+            "message": "Числовой"
+        },
+        "Object" : {
+            
+            "message": "Объект"
+        },
+        "Object Width" : {
+            
+            "message": "Ширина объекта"
+        },
+        "Offline" : {
+            
+            "message": "Не в сети"
+        },
+        "OK" : {
+            
+            "message": "Ок"
+        },
+        "Ok" : {
+            
+            "message": ""
+        },
+        "On a triggering event" : {
+            
+            "message": "По триггеру"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "Коснитесь иконки Wi-Fi в LabQuest"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Перейдите Файл->Совместная обработка"
+        },
+        "One-point calibration" : {
+            
+            "message": "Калибровка по одной точке"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Сетевое совместное использование данных"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Включать вентилятор только во время измерений"
+        },
+        "Open failed" : {
+            
+            "message": ""
+        },
+        "Open Saved File" : {
+            
+            "message": "Открыть сохраненный файл"
+        },
+        "Open Update Information" : {
+            
+            "message": ""
+        },
+        "Open..." : {
+            
+            "message": "Открыть..."
+        },
+        "or" : {
+            
+            "message": "или"
+        },
+        "Order Code" : {
+            
+            "message": "Заказать код"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Другое / определенное пользователем"
+        },
+        "Other Options" : {
+            
+            "message": "Другие опции"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Другое / Определенное пользователем: Введите расстояние и количество флажков, как показано выше. Если объект - колесо, расстояние будет длиной окружности, деленой на количество спиц."
+        },
+        "Outlined Circle" : {
+            
+            "message": ""
+        },
+        "Outlined Diamond" : {
+            
+            "message": ""
+        },
+        "Outlined Plus" : {
+            
+            "message": ""
+        },
+        "Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Outlined Square" : {
+            
+            "message": ""
+        },
+        "Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Paragraph" : {
+            
+            "message": ""
+        },
+        "Parameter %s" : {
+            
+            "message": "Параметр %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Параметры не могут повторяться внутри выражения."
+        },
+        "Paste" : {
+            
+            "message": "Вставить"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Вставка недоступна в меню правки. Следует использовать Ctrl+v(Mac: cmnd+v)."
+        },
+        "Pause replay" : {
+            
+            "message": "Приостановить просмотр"
+        },
+        "Pause Video" : {
+            
+            "message": ""
+        },
+        "Peak Frequency" : {
+            
+            "message": "Частота пиков"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Период маятника"
+        },
+        "Percentage" : {
+            
+            "message": ""
+        },
+        "Perform a" : {
+            
+            "message": "Выполнить а"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Время фотозатвора"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Фотозатворы могут помочь измерить время, требующееся объекту на преодоление расстояния, либо сообщить период колебаний маятника. Время между успешными моментами закрытия затвора считается интервалом. При использовании двух фотозатворов, они оба должны быть закрыты до сообщения величины интервала времени."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Картинка в картинке"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Положите ваш датчик Go Direct около компьютера, телефона или планшета"
+        },
+        "Play replay" : {
+            
+            "message": "Воспроизвести снова"
+        },
+        "Play Video" : {
+            
+            "message": ""
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": ""
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Введите, пожалуйста, IP адрес источника:"
+        },
+        "Plot" : {
+            
+            "message": "Построить"
+        },
+        "Plot Manager" : {
+            
+            "message": "Управление рисунком"
+        },
+        "Plus" : {
+            
+            "message": ""
+        },
+        "point" : {
+            
+            "message": "точка"
+        },
+        "Point Colors" : {
+            
+            "message": "Цвета точки"
+        },
+        "Point Symbols" : {
+            
+            "message": "Символы точки"
+        },
+        "points" : {
+            
+            "message": "точки"
+        },
+        "Points" : {
+            
+            "message": "Точки"
+        },
+        "points before trigger" : {
+            
+            "message": "точек до триггера"
+        },
+        "Power" : {
+            
+            "message": "Питание"
+        },
+        "Prediction" : {
+            
+            "message": "Прогноз"
+        },
+        "Prediction Name" : {
+            
+            "message": "Название прогноза"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Название прогноза ограничено %s символами."
+        },
+        "Prediction Options" : {
+            
+            "message": "Настройки прогноза"
+        },
+        "Prediction Title" : {
+            
+            "message": "Заголовок прогноза"
+        },
+        "Predictions" : {
+            
+            "message": "Прогнозы"
+        },
+        "Preview mode" : {
+            
+            "message": ""
+        },
+        "Primary:" : {
+            
+            "message": "Основной:"
+        },
+        "Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": ""
+        },
+        "Projectile Info" : {
+            
+            "message": ""
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Пусковая установка"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Предоставьте им этот ID, чтобы другие участники могли подключиться к Вашему устройству"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Подключение при приближении"
+        },
+        "Pulse timing" : {
+            
+            "message": "Время пульса"
+        },
+        "Quote" : {
+            
+            "message": ""
+        },
+        "radians" : {
+            
+            "message": "радианы"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Радианы (рад)"
+        },
+        "Rate" : {
+            
+            "message": "Частота"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Частота, превышающая 200 измерений в секунду требует равномерной длительности."
+        },
+        "Reconnect" : {
+            
+            "message": "Переподключиться"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "Rectangle" : {
+            
+            "message": ""
+        },
+        "Regular" : {
+            
+            "message": "Обычный"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Относительная стабильность чтения"
+        },
+        "Remainder" : {
+            
+            "message": "Напоминание"
+        },
+        "Remote Logging" : {
+            
+            "message": ""
+        },
+        "Remote Logging in Process" : {
+            
+            "message": ""
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": ""
+        },
+        "Remote Logging Started" : {
+            
+            "message": ""
+        },
+        "Remote Logging Status" : {
+            
+            "message": ""
+        },
+        "Remove" : {
+            
+            "message": ""
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Удалить линейный тренд"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Удалить Soft Sensor"
+        },
+        "Rename" : {
+            
+            "message": "Переименовать"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Переименовать данные"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Переименовать прогноз"
+        },
+        "Replay" : {
+            
+            "message": "Воспроизвести"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Информация о синхронном воспроизведении"
+        },
+        "Reported Reading" : {
+            
+            "message": "Показание"
+        },
+        "Reset" : {
+            
+            "message": ""
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Сбросить (обнулить) пееред измерениями"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Вернуться к заводским настройкам"
+        },
+        "Restart app" : {
+            
+            "message": "Перезапустите приложение"
+        },
+        "Restart Replay" : {
+            
+            "message": "Воспроизвести с начала"
+        },
+        "Restore All" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": ""
+        },
+        "Retry Calibration" : {
+            
+            "message": "Повторить попытку калибровки"
+        },
+        "Reverse" : {
+            
+            "message": "Реверсировать"
+        },
+        "revolution" : {
+            
+            "message": "оборот"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Обороты (об)"
+        },
+        "Right" : {
+            
+            "message": "Макс"
+        },
+        "Right Axis" : {
+            
+            "message": ""
+        },
+        "Right manual fit handle" : {
+            
+            "message": ""
+        },
+        "Right y-axis" : {
+            
+            "message": ""
+        },
+        "Right y-axis range" : {
+            
+            "message": "Диапазон правой оси Y"
+        },
+        "RMS" : {
+            
+            "message": ""
+        },
+        "RMSE" : {
+            
+            "message": "Среднеквадратичное отклонение"
+        },
+        "Round" : {
+            
+            "message": "Округлить"
+        },
+        "Row Number" : {
+            
+            "message": "Номер строки"
+        },
+        "s" : {
+            
+            "message": "с"
+        },
+        "sample" : {
+            
+            "message": "образец"
+        },
+        "Sample Data" : {
+            
+            "message": "Пример файла эксперимента"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Примеры экспериментов"
+        },
+        "samples" : {
+            
+            "message": "образцы"
+        },
+        "Samples" : {
+            
+            "message": "Примеры"
+        },
+        "samples per second" : {
+            
+            "message": ""
+        },
+        "samples scheduled" : {
+            
+            "message": ""
+        },
+        "Save" : {
+            
+            "message": "Сохранить"
+        },
+        "Save AMBL" : {
+            
+            "message": "Сохранить AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Сохранить и закрыть приложение"
+        },
+        "Save As..." : {
+            
+            "message": "Сохранить, как..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Сохранить изменения?"
+        },
+        "Save CSV" : {
+            
+            "message": "Сохранить CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Сохранить эксперимент"
+        },
+        "Save failed" : {
+            
+            "message": "Ошибка сохранения"
+        },
+        "Save PDF" : {
+            
+            "message": "Сохранить PDF"
+        },
+        "Save Pending" : {
+            
+            "message": ""
+        },
+        "Save PNG" : {
+            
+            "message": "Сохранить PNG"
+        },
+        "Saved" : {
+            
+            "message": "Сохранено"
+        },
+        "Saving" : {
+            
+            "message": ""
+        },
+        "Scale Factor" : {
+            
+            "message": "Фактор шкалы"
+        },
+        "Scaling" : {
+            
+            "message": "Масштабирование"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Поиск устройств..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Вторая точка вольтажа при калибровке датчика должна отличаться от первой не менее, чем на 0.05В."
+        },
+        "Second Derivative" : {
+            
+            "message": "Вторая производная"
+        },
+        "Secondary:" : {
+            
+            "message": "Второстепенный:"
+        },
+        "seconds" : {
+            
+            "message": "секунд"
+        },
+        "See Experiments" : {
+            
+            "message": "Смотреть эксперименты"
+        },
+        "See sample experiments" : {
+            
+            "message": "Посмотреть примеры экспериментов"
+        },
+        "Select Data Set" : {
+            
+            "message": "Выбрать данные"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Выберите желаемую физическую величину для сообщения углового положения."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": ""
+        },
+        "select/deselect meter" : {
+            
+            "message": ""
+        },
+        "Selected Events" : {
+            
+            "message": "Автомат. регстр."
+        },
+        "Sensor Actions" : {
+            
+            "message": "Действия с датчиком"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Каналы датчика"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Измерения датчика"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Настройка датчика"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Напряжение на датчике"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Датчик обнулен"
+        },
+        "Sensors" : {
+            
+            "message": "Датчики"
+        },
+        "Session 1 Name" : {
+            
+            "message": ""
+        },
+        "Session 2 Name" : {
+            
+            "message": ""
+        },
+        "Session 3 Name" : {
+            
+            "message": ""
+        },
+        "Session 4 Name" : {
+            
+            "message": ""
+        },
+        "Session ended by Host" : {
+            
+            "message": "Сессия завершена владельцем"
+        },
+        "Session Preferences" : {
+            
+            "message": ""
+        },
+        "Settings saved" : {
+            
+            "message": "Настройки сохранены"
+        },
+        "Share AMBL" : {
+            
+            "message": "Поделиться AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Предоставьте другим доступ к Вашему эксперименту через интернет"
+        },
+        "Share CSV" : {
+            
+            "message": "Поделиться CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Поделиться изображением"
+        },
+        "Share PDF" : {
+            
+            "message": "Поделиться PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Показать все версии"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": ""
+        },
+        "Show Details" : {
+            
+            "message": ""
+        },
+        "Show Error Bars" : {
+            
+            "message": ""
+        },
+        "Show FFT" : {
+            
+            "message": "Показать БПФ"
+        },
+        "Show Histogram" : {
+            
+            "message": "Показать Гистограмму"
+        },
+        "Show Less" : {
+            
+            "message": "Показать меньше"
+        },
+        "Show Menu" : {
+            
+            "message": ""
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Показать среднее время продвижения мимо затвора"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Показать Исходный График"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": ""
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Significant Figures" : {
+            
+            "message": "Значащих цифр"
+        },
+        "Sine" : {
+            
+            "message": "Синус"
+        },
+        "Slope" : {
+            
+            "message": "Наклон"
+        },
+        "Small" : {
+            
+            "message": "Маленький"
+        },
+        "Spacing" : {
+            
+            "message": "Расстояние"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Расстояние = Длина окружности / Количество спиц"
+        },
+        "Specify source" : {
+            
+            "message": "Указать источник"
+        },
+        "Spectrum" : {
+            
+            "message": "Спектр"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Скорость мимо затвора"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": ""
+        },
+        "Spokes:" : {
+            
+            "message": "Спицы:"
+        },
+        "Square" : {
+            
+            "message": ""
+        },
+        "Square Root" : {
+            
+            "message": "Квадратный корень"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Начать совместную работу с данными"
+        },
+        "Start a New Session" : {
+            
+            "message": "Начать новую сессию"
+        },
+        "Start Collection" : {
+            
+            "message": "Начать измерения"
+        },
+        "Start collection when" : {
+            
+            "message": "Начать измерения, когда показания"
+        },
+        "Start Logging" : {
+            
+            "message": ""
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Начать эксперимент?"
+        },
+        "Start Session" : {
+            
+            "message": "Начать сессию"
+        },
+        "Statistics" : {
+            
+            "message": "Статистика"
+        },
+        "Std dev" : {
+            
+            "message": "СТАНДОТКЛ"
+        },
+        "Step Backward" : {
+            
+            "message": "Покадровый просмотр назад"
+        },
+        "Step Forward" : {
+            
+            "message": "Покадровый просмотр вперед"
+        },
+        "Step Video Backwards" : {
+            
+            "message": ""
+        },
+        "Step Video Forward" : {
+            
+            "message": ""
+        },
+        "Stop" : {
+            
+            "message": "Остановить"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Перестаньте капать, когда объем достигнет отметки между 9 и 10 мл."
+        },
+        "Stop Collection" : {
+            
+            "message": "Остановить измерения"
+        },
+        "Stop Sharing" : {
+            
+            "message": "Перестать совместно обрабатывать данные"
+        },
+        "Strikethrough" : {
+            
+            "message": ""
+        },
+        "Subject" : {
+            
+            "message": "Тема"
+        },
+        "Submit" : {
+            
+            "message": "Отправить"
+        },
+        "Subscript" : {
+            
+            "message": ""
+        },
+        "Subscription Ends" : {
+            
+            "message": "Подписка заканчивается"
+        },
+        "Subscription ends" : {
+            
+            "message": ""
+        },
+        "Superscript" : {
+            
+            "message": ""
+        },
+        "Supported Functions" : {
+            
+            "message": "Поддерживаемые функции"
+        },
+        "Symbol" : {
+            
+            "message": "Символ"
+        },
+        "Sync data with video" : {
+            
+            "message": "Синхронизовать данные и видео"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Синхронизовать видео с данными"
+        },
+        "Syntax" : {
+            
+            "message": "Синтаксис"
+        },
+        "Table" : {
+            
+            "message": "Таблица"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Считывать с датчика( pH, емкость...) на каждую каплю."
+        },
+        "Tangent" : {
+            
+            "message": "Тангенс"
+        },
+        "Target" : {
+            
+            "message": "Цель"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Соединение с блютуз потеряно"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Требуется название колонки"
+        },
+        "the current file" : {
+            
+            "message": "текущий файл"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Воспроизведение данных начинается за %s с до видео"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Выражение будет использоваться в качестве названия нелинейной интерполяции, если не ввести название явно."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Начальная скорость - это среднее значение скорости снаряда при пролете между воротами."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Начальная скорость - это среднее значение скорости снаряда при пролете первых ворот."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Ширина объекта/расстояния между флажками, делится на время между закрытиями затвора для определения скорости прохождения мимо затвора."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": ""
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Время между успешными закрытиями затворов сохраняется в переменную Интервал."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "В выражении не может быть более семи параметров."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": ""
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Для этого датчика доступна новая прошивка, но обновление не может быть применено с него. Для обновления подключите датчик по USB-кабелю к компьютеру masOS, Windows или ChromeOS, откройте список устройств и закажите обновление."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Для этого датчика доступна новая прошивка. Процесс обновления требует подключения сенсора по USB-кабелю к компьютеру и временного выключения Графического Анализа. Подключите датчик по кабелю, если сейчас он подключен по беспроводному соединению."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Возникла проблема сохранения настроек"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Этот столбец создан автоматически и не может быть изменен"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Удаление будет необратимо."
+        },
+        "This feature requires a" : {
+            
+            "message": "Эта функция требует"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Это число определяет часть оборота в виде угла, на который произведен поворот между закрытиями затвора."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Эта версия Windows поддерживает только подключение по USB к датчикам Go Direct."
+        },
+        "Time" : {
+            
+            "message": "Время"
+        },
+        "Time Based" : {
+            
+            "message": "Повременной"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": ""
+        },
+        "Time between gates" : {
+            
+            "message": "Время между затворами"
+        },
+        "Time Decay Filter" : {
+            
+            "message": ""
+        },
+        "Time measurements" : {
+            
+            "message": "Измерения времени"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Планшет времени полёта,"
+        },
+        "Time Units" : {
+            
+            "message": "Единицы времени"
+        },
+        "Timer" : {
+            
+            "message": "Таймер"
+        },
+        "Timer Info" : {
+            
+            "message": ""
+        },
+        "Timer or Period" : {
+            
+            "message": "Таймер или Период"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Подсказка: для наилучших результатов убедитесь, что только один сенсор находится в пределах 2-х метров от Вашего компьютера, телефона или планшета - который Вы собираетесь использовать."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Подсказка: подключение при приближении опирается на оценки расстояния. Если подключение ненадежно в вашей среде, используйте список подключений, чтобы выбрать датчик."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Подсказка: сенсоры, доступные для подключения, мигают красным огоньком."
+        },
+        "Title" : {
+            
+            "message": "Заголлвок"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Чтобы создать %s, используйте любые поддерживаемые функции и операции"
+        },
+        "To locate the address:" : {
+            
+            "message": "Укажите адрес:"
+        },
+        "to make the key available for use." : {
+            
+            "message": ""
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Чтобы начать работать с данными совместно:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Включить сумерки"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Включить дневной свет"
+        },
+        "Too few points" : {
+            
+            "message": "Слишком мало точек"
+        },
+        "Toolbar" : {
+            
+            "message": ""
+        },
+        "Top" : {
+            
+            "message": "Макс"
+        },
+        "Total samples" : {
+            
+            "message": "Всего замеров"
+        },
+        "Triangle" : {
+            
+            "message": ""
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Тригонометрические функции вычисляются в радианах, кроме случая, когда у колонки, отображаемой на горизонтальной оси, выбраны единицы"
+        },
+        "Truncate" : {
+            
+            "message": "Усечь"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Двухточечная калибровка"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Ультра шкив - в канавке"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Ультра шкив - за краем"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Не удается найти устройство с таким именем или подключиться к нему."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Не удалось подключиться к "
+        },
+        "Units" : {
+            
+            "message": "Единицы"
+        },
+        "Unknown" : {
+            
+            "message": "Нет информации"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": ""
+        },
+        "Unmute Audio" : {
+            
+            "message": "Включить звук"
+        },
+        "Unsupported Browser" : {
+            
+            "message": ""
+        },
+        "Untitled" : {
+            
+            "message": "Безымянный"
+        },
+        "Update Available" : {
+            
+            "message": "Доступны обновления"
+        },
+        "Update error" : {
+            
+            "message": "Ошибка обновления"
+        },
+        "Update Firmware" : {
+            
+            "message": "Обновить прошивку"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Скачиваются обновления..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Обновить ваш лицензионный ключ"
+        },
+        "USB" : {
+            
+            "message": ""
+        },
+        "USB Device" : {
+            
+            "message": "USB-устройство"
+        },
+        "Use Column Value" : {
+            
+            "message": ""
+        },
+        "Use gate separation" : {
+            
+            "message": "Использовать разделение затворов"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Использовать ширину объекта / флагов"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Использовать диаметр установки"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Использовать стандартный вид числа"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": ""
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": ""
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Используйте эту опцию, чтобы исследовать зависимость скорости от времени. Время, сохраняемое в таблице - это среднее между временем закрытия и открытия фотозатвора."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Использовать время Flight Pad"
+        },
+        "Use Windowing" : {
+            
+            "message": "Используйте окно"
+        },
+        "User Manual" : {
+            
+            "message": "Руководство пользователя"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Использовать заводскую калибровку"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": ""
+        },
+        "Value must be between " : {
+            
+            "message": "Значение должно быть между "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": ""
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Корзинка"
+        },
+        "Version" : {
+            
+            "message": "Версия"
+        },
+        "Vertical Divider" : {
+            
+            "message": ""
+        },
+        "Video" : {
+            
+            "message": "Видео"
+        },
+        "Video Time" : {
+            
+            "message": "Время видео"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Воспроизведение видео начинается за %s с до измерений"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Воспроизведение видео начинается одновременно с измерениями"
+        },
+        "View Experiment" : {
+            
+            "message": "Просмотр эксперимента"
+        },
+        "View Integral" : {
+            
+            "message": "Посмотреть интеграл"
+        },
+        "View Options" : {
+            
+            "message": "Настройки просмотра"
+        },
+        "View Statistics" : {
+            
+            "message": "Показать статистику"
+        },
+        "Voltage" : {
+            
+            "message": "Напряжение"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Ожидание %s для %s через %s %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": ""
+        },
+        "What's New" : {
+            
+            "message": "Обновления"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Когда выбран маятник, время между каждым вторым закрытием сохраняется как период, поскольку маятник закрывает фотозатвор трижды за колебание."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "При использовании двух затворов Вы можете использовать расстояние между ними вместо ширины объекта для вычисления скорости. Это будет скорость перемещения между двумя затворами."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Для беспроводного соединения требуется Windows 10."
+        },
+        "Wireless" : {
+            
+            "message": ""
+        },
+        "Working..." : {
+            
+            "message": "Обработка..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "диапазон оси X"
+        },
+        "x-range" : {
+            
+            "message": "интервал х"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "Жиапазон оси Y"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": ""
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": ""
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": ""
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": ""
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": ""
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": ""
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Владелец сессии совместной работы с данными начал новый эксперимент. Вы можете присоединиться или продолжить свой."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": ""
+        },
+        "Zero" : {
+            
+            "message": "Обнулить"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Масштабировать ко всем данным"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Масштабировать к выделенному"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ ось x ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ ось y ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": ""
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "ACC-BTA (25 g)"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3D-BTA (ось Х)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3D-BTA (ось Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3D-BTA (ось Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "Диапазон: +/-30В"
+        },
+        "Absorbance" : {
+            
+            "message": "Опт. пл. ср."
+        },
+        "Acceleration" : {
+            
+            "message": "Ускорение"
+        },
+        "Accelerometer" : {
+            
+            "message": "Акселерометр"
+        },
+        "Ammonium" : {
+            
+            "message": "Аммоний"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Конц. аммония"
+        },
+        "Analyzer" : {
+            
+            "message": "Анализатор"
+        },
+        "Anemometer" : {
+            
+            "message": "Анемометр"
+        },
+        "Angle" : {
+            
+            "message": "Угол"
+        },
+        "Barometer" : {
+            
+            "message": "Барометр"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Барометр (нет в продаже)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Биологическое Давление Газа"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Кровяное давление"
+        },
+        "Calcium" : {
+            
+            "message": "Кальций"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Конц. кальция"
+        },
+        "Charge" : {
+            
+            "message": "Заряд"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Датчик заряда"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Диапазон: + 100nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Диапазон: + 20nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Диапазон: + 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Хлорид"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Конц. хлорида"
+        },
+        "CO2" : {
+            
+            "message": "СО2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "Высокая концентрация СО2"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "Низкая концентрация СО2"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "Старый датчик CO2"
+        },
+        "Colorimeter" : {
+            
+            "message": "Колориметр"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Старый колориметр"
+        },
+        "Conductivity" : {
+            
+            "message": "Проводимость"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Диапазон: + 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Диапазон: + 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Диапазон: + 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Система постоянного тока"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Давление в манжете"
+        },
+        "Current" : {
+            
+            "message": "Текущий"
+        },
+        "Current Probe" : {
+            
+            "message": "Амперметр"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Амперметр + 1.2 А"
+        },
+        "Diastolic" : {
+            
+            "message": "Диастолический"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Дифференциальное напряжение"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Цифровой контроллер"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Контактн. термометр"
+        },
+        "Displacement" : {
+            
+            "message": "Смещение"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Угольная кислота"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Растворенный кислород"
+        },
+        "Distance" : {
+            
+            "message": "Расстояние"
+        },
+        "DO" : {
+            
+            "message": "ЦВ"
+        },
+        "Drop Counter" : {
+            
+            "message": "Счетчик капель"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Диапазон: + 10 Н"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Диапазон: + 50 Н"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Только ранние заказы 2021"
+        },
+        "EKG" : {
+            
+            "message": "ЭКГ"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Электродный усилитель"
+        },
+        "Energy" : {
+            
+            "message": "Энергия"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Ток датчика энергии"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Напряжение датчика энергии"
+        },
+        "Ethanol" : {
+            
+            "message": "Этанол"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Датчик этанола"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Удлинненный термодатчик"
+        },
+        "Flow Rate" : {
+            
+            "message": "Расход"
+        },
+        "Fluorescence" : {
+            
+            "message": ""
+        },
+        "Force" : {
+            
+            "message": "Сила"
+        },
+        "Force Plate" : {
+            
+            "message": "Напольный динамометр"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Диапазон: 3500Н"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Диапазон: 850Н"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Датчик давления газа"
+        },
+        "Gate State" : {
+            
+            "message": "Состояние затвора"
+        },
+        "Gate Time" : {
+            
+            "message": ""
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Беспроводной электродный усилитель"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Беспроводной тахометр"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Беспроводной pHметр"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Temp"
+        },
+        "Go! Motion" : {
+            
+            "message": "Детектор движения"
+        },
+        "Go! Temp" : {
+            
+            "message": "Датчик температуры"
+        },
+        "Goniometer" : {
+            
+            "message": "Гониометр"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Ручной динамометр"
+        },
+        "Heart Rate" : {
+            
+            "message": "Сердечный ритм"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Пульсометр"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Датчик сильного тока"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Высокочувствительный фотометр 1µВт"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Высокочувствительный фотометр 10µВт"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Высокочувствительный фотометр 100µВт"
+        },
+        "Illumination" : {
+            
+            "message": "Датчик освещенности"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Измерительный усилитель"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Диапазон: +-1В"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Диапазон: +-200 мВ"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Диапазон: +-20 мВ"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Диапазон: 0-1В"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Диапазон: 0-200 мВ"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Измерительный усилитель 0-20 мВ"
+        },
+        "Intensity" : {
+            
+            "message": "Интенсивность"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "Инфракрасный термометр"
+        },
+        "Irradiance" : {
+            
+            "message": "Интенсивность излучения"
+        },
+        "Launch Speed" : {
+            
+            "message": "Начальная скорость"
+        },
+        "Light" : {
+            
+            "message": "Освещенность"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Диапаз: 150тыс. люкс"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Диапаз: 600 люкс"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Диапаз: 6 тыс люкс"
+        },
+        "Light Level" : {
+            
+            "message": "Уровень освещ."
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Линейный датчик расстояния"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "LGA-BTA (5 g)"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Магнитное поле"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Магнитное поле 0.3 мТл"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Магнитное поле 6.4 мТл"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Среднее артериальное давление"
+        },
+        "Melt Station" : {
+            
+            "message": "Плавильня"
+        },
+        "Microphone" : {
+            
+            "message": "Микрофон"
+        },
+        "mol/L" : {
+            
+            "message": ""
+        },
+        "Motion" : {
+            
+            "message": "Движение"
+        },
+        "Motion Detector" : {
+            
+            "message": "Датчик движения"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Диаграмма датчика движения"
+        },
+        "Nitrate" : {
+            
+            "message": "Нитрат"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Конц. нитратов"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Цифровой оптический зонд %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Цифровой оптический зонд мг/л"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Кислород"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Старый детектор кислорода"
+        },
+        "PAR Sensor" : {
+            
+            "message": "УФ-А датчик"
+        },
+        "Period" : {
+            
+            "message": ""
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "Усилители pH/mV/ORP"
+        },
+        "Photogate" : {
+            
+            "message": "Фотозатвор"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Платиновый электрод"
+        },
+        "Polarimeter" : {
+            
+            "message": "Поляриметр"
+        },
+        "Position" : {
+            
+            "message": "Положение"
+        },
+        "Potassium" : {
+            
+            "message": "Калий"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Конц. калия"
+        },
+        "Potential" : {
+            
+            "message": "Потенциал"
+        },
+        "Power" : {
+            
+            "message": "Степень"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Ток усилителя мощности"
+        },
+        "PPFD" : {
+            
+            "message": "ППФФ"
+        },
+        "Pressure" : {
+            
+            "message": "Давление"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Датчик давления (нет в продаже)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Датчик Давления 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Катапульта"
+        },
+        "Pulse" : {
+            
+            "message": "Пульс"
+        },
+        "Pulse Time" : {
+            
+            "message": "Длительность импульса"
+        },
+        "Pyranometer" : {
+            
+            "message": "Пиранометр"
+        },
+        "Radiation" : {
+            
+            "message": "Излучение"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Дозиметр"
+        },
+        "Raw" : {
+            
+            "message": ""
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Диапазон: 0-5В"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Относительная влажность"
+        },
+        "Resistance" : {
+            
+            "message": "Сопротивление"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Монитор дыхания"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Частота дыхания"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Круговое движение"
+        },
+        "Salinity" : {
+            
+            "message": "Минерализация"
+        },
+        "Signal" : {
+            
+            "message": "Сигнал"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Влагоемкость грунта"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Датчик влагоемкости грунта"
+        },
+        "Sound Level" : {
+            
+            "message": "Уровень громкости"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Датчик уровня громкости"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Давление Звука"
+        },
+        "Speed" : {
+            
+            "message": "Скорость"
+        },
+        "Spirometer" : {
+            
+            "message": "Спирометр"
+        },
+        "Standard" : {
+            
+            "message": "Стандартный"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Нормальная температура"
+        },
+        "Student Force" : {
+            
+            "message": "Сила студента"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Измерение облучения студента"
+        },
+        "Systolic" : {
+            
+            "message": "Систолический"
+        },
+        "Temperature" : {
+            
+            "message": "Температура"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Датчик температуры"
+        },
+        "Thermocouple" : {
+            
+            "message": "Термопара"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Старая термопара"
+        },
+        "TI Light" : {
+            
+            "message": "Освещенность TI"
+        },
+        "Time of Flight" : {
+            
+            "message": ""
+        },
+        "Transmittance" : {
+            
+            "message": "Пропускная способность"
+        },
+        "Turbidity" : {
+            
+            "message": "Мутность"
+        },
+        "UVA Intensity" : {
+            
+            "message": "Интенсивность УФ-А"
+        },
+        "UVA Sensor" : {
+            
+            "message": "УФ-А датчик"
+        },
+        "UVB Intensity" : {
+            
+            "message": "Интенсивность УФ-В"
+        },
+        "UVB Sensor" : {
+            
+            "message": "УФ-B датчик"
+        },
+        "Velocity" : {
+            
+            "message": "Скорость"
+        },
+        "Voltage" : {
+            
+            "message": "Напряжение"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Диапазон: +/-10В"
+        },
+        "Volume" : {
+            
+            "message": "Объем"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "Смещение VSMT"
+        },
+        "VSMT Force" : {
+            
+            "message": "Сила VSMT"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Широкодиапазонный Датчик Температуры"
+        },
+        "X Acceleration" : {
+            
+            "message": "Ускорение по Х"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Ускорение по Y"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Ускорение по Z"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": ""
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": ""
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 нм"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 нм"
+        },
+        "615 nm" : {
+            
+            "message": "615 нм"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Абсолютная влажность"
+        },
+        "Acceleration G" : {
+            
+            "message": "Ускорение G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Acceleration Vector"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Ускорение Ж"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Регулировать громкость"
+        },
+        "Altitude" : {
+            
+            "message": "Высота"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Одноточечная калибровка по высоте"
+        },
+        "Amplitude" : {
+            
+            "message": "Амплитуда"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Угол (Высокое разрешение)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Круговое движение"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Обнулить перед началом автоматически"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Вспомогательный режим порта"
+        },
+        "BE Current Range" : {
+            
+            "message": "Диапазон тока ОЭ"
+        },
+        "BE Duration" : {
+            
+            "message": "Длительность ОЭ"
+        },
+        "BE Potential" : {
+            
+            "message": "Потенциал ОЭ"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "Частота измерений BE"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Давление"
+        },
+        "Battery Level" : {
+            
+            "message": "Уровень заряда"
+        },
+        "Battery Percent" : {
+            
+            "message": "Процент заряда"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Напряжение батареи"
+        },
+        "Blank calibration" : {
+            
+            "message": "Калибровка холостого хода"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Напряжение моста"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ эквивалент"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "Газ CO₂"
+        },
+        "CVS Current Range" : {
+            
+            "message": "Диапазон тока ЦСВ"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "Конечный потенциал ЦСВ"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "Начальный потенциал ЦСВ"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "Начальный Потенциал ЦСВ"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "Количество сегментов ЦСВ"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "Скорость развёртки ЦСВ"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "1 Потенциал переключения ЦСВ"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "2 Потенциал переключения ЦСВ"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Калибровочный коэффициент"
+        },
+        "Calibration power" : {
+            
+            "message": "Степень калибровки"
+        },
+        "Cap number" : {
+            
+            "message": "Номер колпачка"
+        },
+        "Cell" : {
+            
+            "message": "Клетка"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Клеточная постоянная"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Клеточная постоянная"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Коэффициент-А"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Коэффициент-В"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Коэффициент-С"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Проводимость - 0% ТС"
+        },
+        "Correction Factor" : {
+            
+            "message": ""
+        },
+        "Counts" : {
+            
+            "message": "Подсчеты"
+        },
+        "Current pressure" : {
+            
+            "message": "Текущее давление"
+        },
+        "Current state" : {
+            
+            "message": "Состояние"
+        },
+        "Current temperature" : {
+            
+            "message": "Текукщая температура"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Частота обрезания"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Объём цикла"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Источник объёма цикла"
+        },
+        "DAC value" : {
+            
+            "message": "Величина DAC"
+        },
+        "DO Concentration" : {
+            
+            "message": "Концентрация растворенного кислорода"
+        },
+        "DO Salinity" : {
+            
+            "message": "Солёность растворенного кислорода"
+        },
+        "DO Saturation" : {
+            
+            "message": "Насыщение растворенного кислорода"
+        },
+        "Data source" : {
+            
+            "message": "Источник данных"
+        },
+        "Declination" : {
+            
+            "message": "Наклонение"
+        },
+        "Demo" : {
+            
+            "message": "Демо"
+        },
+        "Dew Point" : {
+            
+            "message": "Точка росы"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Диастолический коэффициент"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Перепад давления"
+        },
+        "Drops" : {
+            
+            "message": "Капли"
+        },
+        "EMG" : {
+            
+            "message": "ЭМГ"
+        },
+        "EMG Rectified" : {
+            
+            "message": "выпрямленная ЭМГ"
+        },
+        "Electrode Current" : {
+            
+            "message": "Ток Электрода"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Напряжение электрода"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Очистка Электрода"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Введите известное значение для потока 0%"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Введите известное значение для потока 100%"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Введите известное значение для потока 50%"
+        },
+        "Enter altitude" : {
+            
+            "message": "Введите высоту"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Введите давление"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Введите текущую температуру"
+        },
+        "Enter first known value" : {
+            
+            "message": "Введите первое известное значение"
+        },
+        "Enter k value" : {
+            
+            "message": "Введите значение k"
+        },
+        "Enter known value" : {
+            
+            "message": "Введите известное значение"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Введите значение множителя"
+        },
+        "Enter n value" : {
+            
+            "message": "Введите значение n"
+        },
+        "Enter offset value" : {
+            
+            "message": "Введите значение сдвига"
+        },
+        "Enter power value" : {
+            
+            "message": "Введите значение мощности"
+        },
+        "Enter second known value" : {
+            
+            "message": "Введите второе известное значение"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Введите высоту станции"
+        },
+        "Enter third known value" : {
+            
+            "message": "Введите третье известное значение"
+        },
+        "Envelope" : {
+            
+            "message": "Конверт"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Усреднение огибающей"
+        },
+        "Error" : {
+            
+            "message": "Ошибка"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Пары спирта"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Пары спирта с HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Ethanol Ticks"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Пары спирта"
+        },
+        "Experiment Type" : {
+            
+            "message": "Тип эксперимента"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Пиковый объём выдоха"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "FWD" : {
+            
+            "message": "ПРД"
+        },
+        "Fan" : {
+            
+            "message": "Вент"
+        },
+        "Fan Mode" : {
+            
+            "message": "Fan Mode"
+        },
+        "Final hold time" : {
+            
+            "message": "Время сохранения конечной температуры"
+        },
+        "Final temperature" : {
+            
+            "message": "Конечная температура"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Пятиточечная калибровка"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Фильтр скорости потока"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Полярность скорости потока вдоха"
+        },
+        "Force G" : {
+            
+            "message": "Сила З"
+        },
+        "Force Y" : {
+            
+            "message": "Сила Ж"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Одноточечная калибровка силы"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Двухточечная калибровка силы"
+        },
+        "Forward" : {
+            
+            "message": "Вперед"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Затвор 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Состояние затвора 1"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Состояние затвора 1"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Удаленный затвор1 - время"
+        },
+        "Gate 2" : {
+            
+            "message": "Затвор 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Состояние затвора 2"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Состояние затвора 2"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Трехосный сенсор магнитого поля Go Direct®"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Датчик ускорения Go Direct®"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Кровяное давление Go Direct®"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Углекислый газ Go Direct® CO₂"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Колориметр Go Direct®"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Датчик проводимости Go Direct®"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Система постоянного тока Go Direct®"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Датчик тока от Go Direct®"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Система циклической вольтметрии Go Direct®"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Счетчик капель от Go Direct®"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "ЭКГ от Go Direct®"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Электродный усилитель от Go Direct®"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Электроэнергия от Go Direct®"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Датчик спирта Go Direct®"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Датчик паров спирта Go Direct®"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Динамометр и датчик ускорения от Go Direct®"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Газовый хроматограф Go Direct®"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Датчик давления газа от Go Direct®"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Ручной динамометр Go Direct®"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Калий-селективный электродный усилитель от Go Direct®"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Датчик света и цвета от Go Direct®"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Плавильня от Go Direct®"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Датчик движения Go Direct®"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Оптический растворенный кислород от Go Direct®"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Газообразный кислород Go Direct®"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Фотозатвор Go Direct®"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Проводимость платиновых ячеек"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Поляриметр Go Direct®"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Катапульта Go Direct®"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Пульсоксиметр Go Direct®"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Монитор радиации от Go Direct®"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Дыхательный пояс от Go Direct®"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Датчик вращения от Go Direct®"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Зеленая тележка датчиков Go Direct®"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Жетлая тележка от Go Direct®"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Звукомер Go Direct®"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Спирометр Go Direct®"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Тестер структуры и материалов Go Direct®"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Температура поверхности от Go Direct®"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Датчик температуры от Go Direct®"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Усилитель термопары от Go Direct®"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Вольтметр от Go Direct®"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Погода Go Direct®"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Широкодиапазонный датчик температуры от Go Direct®"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Широкодиапазонный датчик давления Go Direct®"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Трехосный магнитомер от Go Direct®"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Датчик Ускорения от Go Direct®"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Кровяное давление Go Direct™"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Углекислый газ Go Direct® CO₂"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Колориметр от Go Direct®"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Датчик проводимости от Go Direct®"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Система постоянного тока от Go Direct®"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Амперметр от Go Direct®"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Система циклической вольтметрии Go Direct™"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Счетчик капель от Go Direct®"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "ЭКГ от Go Direct®"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Электродный усилитель от Go Direct®"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Электроэнергия от Go Direct®"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Датчик спирта Go Direct™"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Датчик паров спирта Go Direct™"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Динамометр и акселерометр от Go Direct®"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Газовый хроматограф Go Direct™"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Датчик давления газа от Go Direct®"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Ручной динамометр Go Direct™"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Калий-селективный электродный усилитель от Go Direct®"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Датчик света и цвета от Go Direct®"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Плавильная станция от Go Direct®"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Датчик движения от Go Direct®"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Оптически растворенный кислород от Go Direct®"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Газообразный кислород Go Direct®"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Газообразный кислород Go Direct®"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Проводимость платиновых ячеек Go Direct®"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Поляриметр Go Direct®"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Катапульта Go Direct®"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Пульсоксиметр Go Direct®"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Радиационный монитор от Go Direct®"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Дыхательный пояс от Go Direct®"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Датчик вращения от Go Direct®"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Зеленая тележка от Go Direct®"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Желтая тележка от Go Direct®"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Звукомер Go Direct®"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Спирометр Go Direct™"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Тестер структуры и материалов Go Direct™"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Температура поверхности от Go Direct®"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Термодатчик от Go Direct®"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Усилитель термопары от Go Direct™"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Вольтметр от Go Direct®"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Погода Go Direct™"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Широкодиапазонный термометр от Go Direct®"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Широкодиапазонный датчик давления Go Direct®"
+        },
+        "Heat Index" : {
+            
+            "message": "Индекс нагрева"
+        },
+        "Hold time" : {
+            
+            "message": "Время задержки начальной температуры"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Hydrogen Ticks"
+        },
+        "Hz" : {
+            
+            "message": "Гц"
+        },
+        "Illuminance" : {
+            
+            "message": "освещенность"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Необр. освещение"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Частота крыльчатки"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Максимальный объём вдоха"
+        },
+        "Instrument status" : {
+            
+            "message": "Состояние прибора"
+        },
+        "Internal Current" : {
+            
+            "message": "Внутренний ток"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Внутреннее напряжение"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "л"
+        },
+        "L/s" : {
+            
+            "message": "л/с"
+        },
+        "LED diagnostic" : {
+            
+            "message": "Светодиодная диагностика"
+        },
+        "LED magnitude" : {
+            
+            "message": "Яркость светодиода"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Состояние лазерного затвора"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Состояние лазерного затвора"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Время между Лазерным затвором и удаленным"
+        },
+        "Launch Angle" : {
+            
+            "message": "Угол к горизонту"
+        },
+        "Linear Motion" : {
+            
+            "message": "Прямолинейное движение"
+        },
+        "Live" : {
+            
+            "message": "В режиме реального времени"
+        },
+        "Load cell gain" : {
+            
+            "message": "Усиление тензодатчика"
+        },
+        "Mag-X" : {
+            
+            "message": "Маг-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Маг-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Маг-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Закрепленный микрофон"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Закрепленный микрофон для А-взвешивания"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Закрепленный микрофон для C-взвешивания"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Движение (тележки)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Ускорение"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Скорость движения"
+        },
+        "Motion with TC" : {
+            
+            "message": "Движение с TC"
+        },
+        "N" : {
+            
+            "message": "Н"
+        },
+        "N/kg" : {
+            
+            "message": "Н/кг"
+        },
+        "No" : {
+            
+            "message": "Нет"
+        },
+        "No smoothing" : {
+            
+            "message": ""
+        },
+        "Normalized Response" : {
+            
+            "message": "Нормализованный отклик"
+        },
+        "Not ready" : {
+            
+            "message": "Не готово"
+        },
+        "OCP Duration" : {
+            
+            "message": "Продолжительность измерений потенциала разомкнутой цепи"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "Частота измерений потенциала разомкнутой цепи"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Ускорение объекта (по нескольким флагам)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Ускорение объекта (по одному флагу)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Скорость объекта"
+        },
+        "Off" : {
+            
+            "message": "Выкл"
+        },
+        "One-point calibration" : {
+            
+            "message": "Одноточечная калибровка"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Оптический поворот"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Подписи к колебаниям"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Максимум колебаний"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Минимум колебаний"
+        },
+        "Oscillations" : {
+            
+            "message": "Колебания"
+        },
+        "O₂ Gas" : {
+            
+            "message": "Газ O₂"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": ""
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "Газ O₂ бкт"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": ""
+        },
+        "PPFD - CF" : {
+            
+            "message": ""
+        },
+        "PPFD Correction" : {
+            
+            "message": ""
+        },
+        "PYR two-point calibration" : {
+            
+            "message": ""
+        },
+        "Pa" : {
+            
+            "message": "Па"
+        },
+        "Peak Area" : {
+            
+            "message": "Площадь пиков"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Период маятника"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Скорость маятника"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Основная версия прошивки Pine"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Промежуточная версия прошивки Pine"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Версия обновления Pine"
+        },
+        "Position Direction" : {
+            
+            "message": "Направление положения"
+        },
+        "Position G" : {
+            
+            "message": "Положение G"
+        },
+        "Position Vector" : {
+            
+            "message": "Position Vector"
+        },
+        "Position Y" : {
+            
+            "message": "Положение Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Трёхточечная степенная калибровка"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Давление"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Частота пульса"
+        },
+        "REV" : {
+            
+            "message": "REV"
+        },
+        "Ramp rate" : {
+            
+            "message": "Скорость нарастания"
+        },
+        "Raw Diastolic" : {
+            
+            "message": ""
+        },
+        "Raw MAP" : {
+            
+            "message": ""
+        },
+        "Raw Pressure" : {
+            
+            "message": ""
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": ""
+        },
+        "Raw Systolic" : {
+            
+            "message": ""
+        },
+        "Raw Temperature" : {
+            
+            "message": "Температура без калибровки"
+        },
+        "Ready" : {
+            
+            "message": "Готово"
+        },
+        "Ready to inject" : {
+            
+            "message": "Ready to inject"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Удаленное ускорение"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Удаленный затвор - ускорение объекта"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Удаленный затвор - ускорение объекта (один флаг)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Удаленный затвор - скорость"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Удаленный затвор 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Удаленный затвор 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Удаленная скорость"
+        },
+        "Reverse" : {
+            
+            "message": "Развернуть"
+        },
+        "Running" : {
+            
+            "message": "Running"
+        },
+        "Salinity correction" : {
+            
+            "message": "Коррекция солености"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "А-взвешенный уровень громкости"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "C-взвешенный уровень громкости"
+        },
+        "Start temperature" : {
+            
+            "message": "Начальная температура"
+        },
+        "Starting" : {
+            
+            "message": "Starting"
+        },
+        "Station Pressure" : {
+            
+            "message": "Давление станции"
+        },
+        "Step Rate" : {
+            
+            "message": "Частота шагов"
+        },
+        "Steps" : {
+            
+            "message": "Шаги"
+        },
+        "Stopped" : {
+            
+            "message": "Stopped"
+        },
+        "Switch USB" : {
+            
+            "message": "Переключить USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Систолический коэффициент"
+        },
+        "Temperature correction" : {
+            
+            "message": "Коррекция температуры"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Трехточечная калибровка"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Планшет времени полета"
+        },
+        "Timing" : {
+            
+            "message": "Время"
+        },
+        "Total VOC" : {
+            
+            "message": "Всего ЛОВ"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Двухточечная калибровка"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Термопара типа J"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Термопара типа К"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Термопара типа Т"
+        },
+        "UV" : {
+            
+            "message": "УФ"
+        },
+        "UV Blue" : {
+            
+            "message": ""
+        },
+        "UV Index" : {
+            
+            "message": "УФ индекс"
+        },
+        "UV Intensity" : {
+            
+            "message": "Интенсивность УФ"
+        },
+        "UVA" : {
+            
+            "message": "УФа"
+        },
+        "UVB" : {
+            
+            "message": "УФб"
+        },
+        "Use smoothing" : {
+            
+            "message": ""
+        },
+        "V" : {
+            
+            "message": "В"
+        },
+        "Vector range Max" : {
+            
+            "message": "Максимальный диапазон вектора"
+        },
+        "Vector range Min" : {
+            
+            "message": "Минимальный диапазон вектора"
+        },
+        "Velocity G" : {
+            
+            "message": "Скорость G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Velocity Vector"
+        },
+        "Velocity Y" : {
+            
+            "message": "Скорость Y"
+        },
+        "Velocity2" : {
+            
+            "message": "Скорость2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Напряжение - 1В"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Напряжение - 20В"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Коэффициент коррекции объема"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Полярность объёма вдоха"
+        },
+        "W/m²" : {
+            
+            "message": ""
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Амплитуда"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Частота"
+        },
+        "Wind Chill" : {
+            
+            "message": "Охлаждение ветром"
+        },
+        "Wind Direction" : {
+            
+            "message": "Направление ветра"
+        },
+        "Wind Speed" : {
+            
+            "message": "Скорость ветра"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Калибровка направления ветра"
+        },
+        "X magnetic field" : {
+            
+            "message": "Магнитное поле по оси Х"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "Магнитное поле Х 130мТл"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-угловая скорость"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "ускорение по оси Х"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "Ускорение по оси X G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "Ускорение по оси X Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "Одноточечная калибровка ускорения по оси X"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "Высокое ускорение по оси Х"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "высокое ускорение по оси X, одноточечная калибровка"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "угловая скорость по оси Х"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "Угловая скорость G оси X"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "Угловая скорость G оси Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "гироскоп по оси Х"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Магнитное поле по оси Y"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Магнитное поле у 130мТл"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-угловая скорость"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "ускорение по оси у"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Ускорение по оси Y G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Ускорение по оси Y Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Одноточечная калибровка ускорения по оси Y"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Высокое ускорение по оси У"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "высокое ускорение по оси У, одноточечная калибровка"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Угловая скорость вокруг оси Y"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Угловая скорость З вокруг оси Y"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Угловая скорость Ж вокруг оси Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "гироскоп по оси у"
+        },
+        "Yes" : {
+            
+            "message": "Yes"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Магнитное поле по оси Z"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Магнитное поле по оси z"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-угловая скорость"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "ускорение по оси z"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Ускорение по оси Z G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Ускорение по оси Z Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Одноточечная калибровка ускорения по оси Z"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Высокое ускорение по оси Z"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "высокое ускорение по оси Z, одноточечная калибровка"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "угловая скорость по оси z"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Угловая скорость G оси Z"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Угловая скорость Z оси Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "гироскоп по оси z"
+        },
+        "atm" : {
+            
+            "message": "атм"
+        },
+        "bpm" : {
+            
+            "message": "уд/м"
+        },
+        "cm" : {
+            
+            "message": "см"
+        },
+        "cm/s" : {
+            
+            "message": "см/с"
+        },
+        "cm/s²" : {
+            
+            "message": "см/c²"
+        },
+        "counts" : {
+            
+            "message": "подсчёты"
+        },
+        "dB" : {
+            
+            "message": "дБ"
+        },
+        "dS/m" : {
+            
+            "message": "дСм/м"
+        },
+        "ft" : {
+            
+            "message": "фт"
+        },
+        "ft/s" : {
+            
+            "message": "фт/с"
+        },
+        "ft/s²" : {
+            
+            "message": "фт/с²"
+        },
+        "g" : {
+            
+            "message": "г"
+        },
+        "g/m³" : {
+            
+            "message": "г/м³"
+        },
+        "hPa" : {
+            
+            "message": "гПа"
+        },
+        "in" : {
+            
+            "message": "дюймы"
+        },
+        "inHg" : {
+            
+            "message": "рт.ст."
+        },
+        "kPa" : {
+            
+            "message": "кПа"
+        },
+        "kg" : {
+            
+            "message": "кг"
+        },
+        "km/h" : {
+            
+            "message": "км/ч"
+        },
+        "knots" : {
+            
+            "message": "узлы"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "люкс"
+        },
+        "m" : {
+            
+            "message": "м"
+        },
+        "m/s" : {
+            
+            "message": "м/c"
+        },
+        "m/s²" : {
+            
+            "message": "м/c²"
+        },
+        "mA" : {
+            
+            "message": "мА"
+        },
+        "mL" : {
+            
+            "message": "мл"
+        },
+        "mT" : {
+            
+            "message": "мТл"
+        },
+        "mV" : {
+            
+            "message": "мВ"
+        },
+        "mW" : {
+            
+            "message": "мВт"
+        },
+        "mW/m²" : {
+            
+            "message": "мВт/м²"
+        },
+        "mbar" : {
+            
+            "message": "мбар"
+        },
+        "mg/L" : {
+            
+            "message": "мг/л"
+        },
+        "mg/m³" : {
+            
+            "message": "мг/м³"
+        },
+        "mm" : {
+            
+            "message": "мм"
+        },
+        "mmHg" : {
+            
+            "message": "мм рт.ст."
+        },
+        "mph" : {
+            
+            "message": "миль в час"
+        },
+        "nC" : {
+            
+            "message": ""
+        },
+        "pC" : {
+            
+            "message": ""
+        },
+        "ppb" : {
+            
+            "message": "млрд−1"
+        },
+        "ppm" : {
+            
+            "message": "10^(−6)"
+        },
+        "ppt" : {
+            
+            "message": "10^(−12)"
+        },
+        "psi" : {
+            
+            "message": "фунт/м²"
+        },
+        "rad" : {
+            
+            "message": "рад"
+        },
+        "rad/s" : {
+            
+            "message": "рад/c"
+        },
+        "rad/s²" : {
+            
+            "message": "рад/с²"
+        },
+        "raw voltage" : {
+            
+            "message": "напряжение без калибровки"
+        },
+        "rel" : {
+            
+            "message": "отн"
+        },
+        "rev" : {
+            
+            "message": "обр"
+        },
+        "s" : {
+            
+            "message": "с"
+        },
+        "spm" : {
+            
+            "message": "шгвм"
+        },
+        "steps" : {
+            
+            "message": "шаги"
+        },
+        "torr" : {
+            
+            "message": "торр"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": ""
+        },
+        "units/s" : {
+            
+            "message": "ед/с"
+        },
+        "units/s²" : {
+            
+            "message": "ед/c²"
+        },
+        "velocity2" : {
+            
+            "message": "скорость2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx9"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/c"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "мкА"
+        },
+        "µS/cm" : {
+            
+            "message": "мкСм/см"
+        },
+        "µm" : {
+            
+            "message": "мкм"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": ""
+        },
+        "ΔmmHg" : {
+            
+            "message": "Δмм рт.ст."
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Косинус"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Косинус в квадрате"
+        },
+        "Inverse" : {
+            
+            "message": "Обратная"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Обратно-квадратичная"
+        },
+        "Linear" : {
+            
+            "message": "Линейная"
+        },
+        "Modified Power" : {
+            
+            "message": "Измененная мощность"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Натуральная экспонента"
+        },
+        "Natural Log" : {
+            
+            "message": "Натуральный логарифм"
+        },
+        "Not defined" : {
+            
+            "message": "Не определено"
+        },
+        "Power" : {
+            
+            "message": "Степень"
+        },
+        "Proportional" : {
+            
+            "message": "Пропорциональная"
+        },
+        "Quadratic" : {
+            
+            "message": "Квадратичная"
+        },
+        "Sine" : {
+            
+            "message": "Синус"
+        },
+        "Slope" : {
+            
+            "message": "Наклон"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Пользовательское выражение"
+        }
+        
+    }
+}

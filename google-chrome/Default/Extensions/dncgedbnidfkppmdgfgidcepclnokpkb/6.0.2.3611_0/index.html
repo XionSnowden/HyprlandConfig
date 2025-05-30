@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="manifest" href="manifest.json" />
+    <link rel="icon" href="./app_icon/ga-icon_16.png" />
+    <meta name="theme-color" content="#FFFFFF" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no"
+    />
+    <meta name="Description" content="Vernier Graphical Analysis" />
+
+    <!-- https://*.vernierconnections.app/ - SharedArrayBuffer Cross Origin Isoloation -->
+    <meta
+      http-equiv="origin-trial"
+      content="AgJ+664rCh9mxBQM2xYxoeaXqJ36RbppNaWt6JL2zxa/DCDJZiUxyokYxwQpFRHOMq6FenzO/8MAemeUFupx3A8AAACAeyJvcmlnaW4iOiJodHRwczovL3Zlcm5pZXJjb25uZWN0aW9ucy5hcHA6NDQzIiwiZmVhdHVyZSI6IlVucmVzdHJpY3RlZFNoYXJlZEFycmF5QnVmZmVyIiwiZXhwaXJ5IjoxNjY2MTM3NTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0="
+    />
+
+    <style>
+      html {
+        --base-font-size: 1em;
+        font-size: var(--base-font-size);
+        height: 100%;
+        text-size-adjust: 100%; /* from normalize, prevent iOS text size adjust after orientation change, without disabling user zoom. */
+        overflow: hidden; /* prevent content from being pushed up on Android (height of the status bar) when the keyboard opens */
+
+        /* Work around webkit bug #237961; see https://bugs.webkit.org/show_bug.cgi?id=237961 */
+        position: fixed;
+        left: 0;
+        right: 0;
+      }
+
+      body {
+        background-color: #ededed;
+        height: 100%;
+        font-size: 1em;
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+        position: relative;
+        text-size-adjust: 100% !important; /* prevent our cordova accessibility plugin from messing with our styles */
+        -webkit-tap-highlight-color: transparent; /* https://css-tricks.com/snippets/css/remove-gray-highlight-when-tapping-links-in-mobile-safari/ */
+
+        padding-block-start: constant(safe-area-inset-top); /* iOS 11.0 Notch */
+        padding-block-start: env(safe-area-inset-top); /* iOS 11.2 Notch */
+      }
+    </style>
+    
+    <!-- INSERT SCRIPTS HERE -->
+    <script>
+      window.Module = {}; // becomes the WASM Module(s)
+
+      window.Module.postRun = () => {
+        window.wasmModuleReady = true;
+        document.dispatchEvent(new CustomEvent('wasm-ready'));
+      };
+    </script>
+    <script type="module" src="index.js" id="index"></script>
+    <title>Vernier Graphical Analysis&reg;</title>
+  </head>
+  <body>
+    <ga-app id="app">
+      <vst-ui-tooltip-wrapper
+        class="tooltip-wrapper"
+        id="tooltip_wrapper"
+        slot="tooltip_wrapper"
+      ></vst-ui-tooltip-wrapper>
+    </ga-app>
+  </body>
+</html>

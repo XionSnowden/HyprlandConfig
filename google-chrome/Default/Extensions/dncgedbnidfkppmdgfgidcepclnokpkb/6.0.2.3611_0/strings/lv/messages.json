@@ -1,0 +1,6454 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d ir savienojums"
+        },
+        "%s All" : {
+            
+            "message": "%s Visi"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s Visi dati"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s attēlot kā"
+        },
+        "%s details" : {
+            
+            "message": "%s informācija par ierīci"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s notiek datu uzkrāšana. Vēlies pārtraukt uzkrāšanu un sākt jaunu eksperimentu?"
+        },
+        "%s Options" : {
+            
+            "message": ""
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(attālums, ātrums, paātrinājums)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 Grafiks"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1 atvasinājums"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1 atvasinātā Laika maiņa"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1 atvasinājums (Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 Grafiks"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 Grafiki"
+        },
+        "2nd derivative" : {
+            
+            "message": "2 atvasinājums"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2 atvasinātā Laika maiņa"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2 atvasinājums (Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 Grafiks"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 Grafiki"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Radusies savienojuma kļūda. Lai turpinātu, sāc jaunu eksperimentu."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Apturot Datu Uzkrāšanu, radās komunikācijas kļūda. Lūdzu, mēģini vēlreiz."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B, un C parametrus var mainīt. X, Y, un Z ir eksistējošas kolonnas tavā datu tabulā."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Par Graphical Analysis"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "Pielāgotās līknes"
+        },
+        "Absolute Value" : {
+            
+            "message": "Absolūtā vērtība"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Accessories" : {
+            
+            "message": "Piederumi"
+        },
+        "across" : {
+            
+            "message": "pāri"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Aktivizē papildu funkcijas, izmantojot savu licences atslēgu"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": ""
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Aktivizē, lai lietotu FFT"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Aktivizē, lai lietotu Histogrammu"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": ""
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": ""
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": ""
+        },
+        "Activate to use %s" : {
+            
+            "message": "Aktivizē, lai lietotu %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Aktivizē, lai izmantotu Joslu Grafikus"
+        },
+        "Activate to use Notes" : {
+            
+            "message": ""
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Aktivizē, lai izmantotu tiešsaistes Datu koplietošanu"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Aktivizē, lai lietotu Video"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Pievieno jaunu Aprēķinu kolonnu"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Pievieno Grafika nosaukumu"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Pievieno Papildus kolonnu"
+        },
+        "Add Annotation" : {
+            
+            "message": "Pievieno Anotāciju"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Pievieno Aprēķinu kolonnu"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Uzglabāšanas pudeles sūkļa augšpusē pievieno destilētu ūdeni."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Pievieno Grafika sakritību"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Pievieno Papildus kolonnu"
+        },
+        "Add Manual Fit" : {
+            
+            "message": ""
+        },
+        "add meters" : {
+            
+            "message": ""
+        },
+        "Add New Data Set" : {
+            
+            "message": "Pievieno Jaunus datus"
+        },
+        "Add Prediction" : {
+            
+            "message": "Pievieno savu Prognozi"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Pievieno Sensoru"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Caur Pilienu skaitītāju pa pilienam pievieno 10ml titranta graduētā mērcilindrā."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": ""
+        },
+        "Advanced" : {
+            
+            "message": "Uzlabots"
+        },
+        "After" : {
+            
+            "message": "Pēc"
+        },
+        "After set number of flags" : {
+            
+            "message": "Pēc noteikta notikumu skaita"
+        },
+        "All" : {
+            
+            "message": "Visi"
+        },
+        "Always Show 0" : {
+            
+            "message": "Vienmēr rāda 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitūda"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Izteiksmē jāietver neatkarīgais mainīgais un vismaz viens parametrs."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Lai izveidotu savienojumu ar datu koplietošanas sesiju, nepieciešams interneta savienojums. Atkārtoti izveido savienojumu ar internetu un pēc tam spied Atkārtot savienojumu."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Lai izveidotu savienojumu ar tiešsaistes datu koplietošanu, ir nepieciešams interneta savienojums"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Lai koplietotu datus, ir nepieciešams interneta savienojums"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Lai koplietotu datus, ir nepieciešams interneta savienojums. Atkārtoti izveido savienojumu ar internetu un pēc tam sāc jaunu datu koplietošanas sesiju, lai turpinātu koplietošanu."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "papildus piederumi Lodes (šāviņa) palaidējam un tos izmanto Lidojuma šāviņa laika pierakstam."
+        },
+        "and " : {
+            
+            "message": "un "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "un spied pogu Apturēt koplietošanu"
+        },
+        "Angle units" : {
+            
+            "message": "Leņķa vienības"
+        },
+        "Angular Motion" : {
+            
+            "message": "Leņķiskā Kustība"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Leņķiskā Kustība"
+        },
+        "App is up to date" : {
+            
+            "message": "Darba vide ir aktuāla"
+        },
+        "App Preferences" : {
+            
+            "message": "Darba vides Izvēlnes"
+        },
+        "App Updates" : {
+            
+            "message": "Darba vides Atjauninājumi"
+        },
+        "Appearance" : {
+            
+            "message": "Attēlojums"
+        },
+        "Append" : {
+            
+            "message": "Pievienot"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Pievienot papildus datus vai izveidot jaunus datus?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Pievienot vai veidot Jaunu?"
+        },
+        "Apply" : {
+            
+            "message": "Apstiprināt"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Līknes pielāgošana"
+        },
+        "Apply FFT" : {
+            
+            "message": "FFT"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Histogramma"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Laukums"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Laikā, kad veicat datu uzkrāšanu, viņi redz jūsu datus savās Graphical Analysis vietnēs"
+        },
+        "Auto" : {
+            
+            "message": "Auto"
+        },
+        "Automatic" : {
+            
+            "message": "Automātiski"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Vidējais sensora mērījums pēc vairāk kā 10 sekundēm"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Vidēji vairāk kā 10 sekundes"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Ass nosaukuma izmērs"
+        },
+        "Back" : {
+            
+            "message": "Atpakaļ"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Joslu-caurejošs Filtrs"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Joslu-apturēšanas Filtrs"
+        },
+        "Bar Tape" : {
+            
+            "message": "Joslu barjera"
+        },
+        "Bars" : {
+            
+            "message": "Joslas"
+        },
+        "Base" : {
+            
+            "message": "Pamats"
+        },
+        "Base Axis" : {
+            
+            "message": ""
+        },
+        "Battery" : {
+            
+            "message": "Akumulators"
+        },
+        "Battery Level" : {
+            
+            "message": "Akumulatora uzlādes līmenis"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Sākotnējā vērtība"
+        },
+        "Bin Width" : {
+            
+            "message": "Platums"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Bluetooth Ierīce"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth nav iespējots"
+        },
+        "Bold" : {
+            
+            "message": ""
+        },
+        "Book" : {
+            
+            "message": "Grāmata"
+        },
+        "Book Title" : {
+            
+            "message": "Grāmatas nosaukums"
+        },
+        "Both" : {
+            
+            "message": "Abi"
+        },
+        "Bottom" : {
+            
+            "message": "Minimums"
+        },
+        "Bottom Bar" : {
+            
+            "message": ""
+        },
+        "Bullet list" : {
+            
+            "message": ""
+        },
+        "Calculated %s" : {
+            
+            "message": "Aprēķināts %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Aprēķinu Kolonna"
+        },
+        "Calibrate" : {
+            
+            "message": "Kalibrēt"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Kalibrēt tagad"
+        },
+        "Calibrating..." : {
+            
+            "message": "Kalibrē..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Kalibrēšana pabeigta"
+        },
+        "Calibration failed" : {
+            
+            "message": "Kalibrēšana neizdevās"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Kalibrēšana atiestatīta veiksmīgi"
+        },
+        "Calibration Type" : {
+            
+            "message": "Kalibrēšanas veids"
+        },
+        "Cancel" : {
+            
+            "message": "Atcelt"
+        },
+        "cancel" : {
+            
+            "message": "atcelt"
+        },
+        "Capable" : {
+            
+            "message": ""
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Ratiņu Šērssvītrotā barjera"
+        },
+        "Categorical" : {
+            
+            "message": "Kategorisks"
+        },
+        "Categorical Data" : {
+            
+            "message": "Kategoriski dati"
+        },
+        "Ceiling" : {
+            
+            "message": "Maksimums"
+        },
+        "Center manual fit handle" : {
+            
+            "message": ""
+        },
+        "Change left y-axis" : {
+            
+            "message": "Mainīt pa kreisi uz y-ass"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Mainīt pa labi uz y-ass"
+        },
+        "Change x-axis" : {
+            
+            "message": "Mainīt x-asis"
+        },
+        "Change y-axis" : {
+            
+            "message": "Mainīt y-asis"
+        },
+        "Channels" : {
+            
+            "message": ""
+        },
+        "Charging," : {
+            
+            "message": "Uzlādējas,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Pārbaudi programmaparatūras atjauninājumus"
+        },
+        "Check for software updates" : {
+            
+            "message": "Pārbaudi programmas atjauninājumus"
+        },
+        "Check for Updates" : {
+            
+            "message": "Pārbaudi atjauninājumus"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Pārbaudi sensora LED indikatoru"
+        },
+        "Checking for update..." : {
+            
+            "message": "Pārbauda atjauninājumus ..."
+        },
+        "Choose File" : {
+            
+            "message": "Izvēlies failu"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Izvēlies mapi..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Izvēlies šo, lai pieslēgtu Go Direct sensoru ar USB."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Izvēlies šo, lai pieslēgtu Go! Temp sensoru."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": ""
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "Izvēlies šo, lai pieslēgtu LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, vai LabQuest Stream datu uzkrājēju ar USB."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": ""
+        },
+        "Circle" : {
+            
+            "message": "Aplis"
+        },
+        "Clear Expression" : {
+            
+            "message": "Skaidra izteiksme"
+        },
+        "Clear Filter" : {
+            
+            "message": "Tīrs Filtrs"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Spied SĀKT vai pieskaries tai, lai ģenerētu sesijas ID kodu"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": ""
+        },
+        "Close" : {
+            
+            "message": "Aizvērt"
+        },
+        "Close Alert" : {
+            
+            "message": "Aizvērt brīdinājumu"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Aizvērt lietotni un atjaunināt programmaparatūru"
+        },
+        "Close Application" : {
+            
+            "message": "Aizvērt lietotni"
+        },
+        "Close Dialog" : {
+            
+            "message": "Aizvērt dialogu"
+        },
+        "Close FFT" : {
+            
+            "message": "Aizvērt FFT"
+        },
+        "Close graph legend" : {
+            
+            "message": "Aizvērt Grafika leģendu"
+        },
+        "Close Histogram" : {
+            
+            "message": "Aizvērt histogrammu"
+        },
+        "Close Infobox" : {
+            
+            "message": "Aizvērt logu"
+        },
+        "Close Menu" : {
+            
+            "message": ""
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Aizvērt Smailes frekvenci"
+        },
+        "Close Popover" : {
+            
+            "message": "Aizvērt"
+        },
+        "Close Replay" : {
+            
+            "message": "Aizvērt atkārtošanas funkciju"
+        },
+        "Close Start Page" : {
+            
+            "message": "Aizvērt Sākotnējo lapu"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Lai turpinātu, aizver šo dialogu"
+        },
+        "Code" : {
+            
+            "message": ""
+        },
+        "Coefficient" : {
+            
+            "message": "Koeficients"
+        },
+        "Collapse" : {
+            
+            "message": "Sabrukt"
+        },
+        "Collect" : {
+            
+            "message": "Uzkrāt"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Uzkrāt datus ar Vernier sensoriem"
+        },
+        "Collecting" : {
+            
+            "message": "Uzkrāšana"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "Uzkrāšana %d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Liela apjoma datu ievākšana ietekmē darba izpildi."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Datu uzkrāšana virs ${eventParams.accumulate} sekundēm"
+        },
+        "Collection Parameters" : {
+            
+            "message": ""
+        },
+        "Column %s" : {
+            
+            "message": "Kolonna %s"
+        },
+        "Column Options" : {
+            
+            "message": "Kolonna"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Kolonna tiks dzēsta visos datos. Dzēšanu nevar atcelt."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Ar komantu atdalītās vērtības"
+        },
+        "Complementary Error" : {
+            
+            "message": "Kļūda"
+        },
+        "Configurator" : {
+            
+            "message": ""
+        },
+        "Confirm" : {
+            
+            "message": ""
+        },
+        "Connect" : {
+            
+            "message": "Pievienot"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Pievienot <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">Vernier atbalstītu USB ierīci</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Pievieno ierīci"
+        },
+        "Connect a Device" : {
+            
+            "message": "Pievieno Ierīci"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Pievieno LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Pievieno pie WiFi LabQuest 2 vai Logger Pro"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": ""
+        },
+        "Connect this device for data collection." : {
+            
+            "message": ""
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Pievieno Datu koplietošanas sesijai no Graphical Analysis"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Pievieno LabQuest, Logger Pro vai Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Izveido savienojumu ar iepriekš izveidotu sesiju, lai kopīgotu sesijas iestatījumus, datus utt., vai izveidotu jaunu sesiju."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Pievieno bezvadu ierīcei vai pievieno caur USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Pievieno bezvadu ierīcei."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Pieslēgties iepriekšējai sesijai"
+        },
+        "connected" : {
+            
+            "message": "pievienots"
+        },
+        "Connected Devices" : {
+            
+            "message": "Pievienotās Ierīces"
+        },
+        "Connecting" : {
+            
+            "message": "Savienojas"
+        },
+        "Connection error" : {
+            
+            "message": "Savienojuma kļūda"
+        },
+        "Connection Lost" : {
+            
+            "message": "Savienojums zudis"
+        },
+        "Connection status info" : {
+            
+            "message": "Savienojuma statuss"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Savienojums ar %s nenotika"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "Savienojums ar %s noticis"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": ""
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": ""
+        },
+        "Cookie Notice" : {
+            
+            "message": ""
+        },
+        "Copy" : {
+            
+            "message": "Kopēt"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Kopēt Histogrammu"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Kopēt Host ID"
+        },
+        "Copy Link" : {
+            
+            "message": ""
+        },
+        "Copy Sign" : {
+            
+            "message": "Kopēt Zīmi"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Kopēt starpliktuvē"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Kopēt Starpliktuvē"
+        },
+        "Cosine" : {
+            
+            "message": "Kosinuss"
+        },
+        "Count Interval" : {
+            
+            "message": "Skaitīšanas intervāls"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Izveidot Pielāgošanu"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Izveidot jaunus Datus"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Izveido Pielāgoto aprēķinu Kolonnu"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Izveido Līknes pielāgošanu"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Kuba Sakne"
+        },
+        "Curve Fit" : {
+            
+            "message": "Līknes pielāgošana"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Aprēkinu Kolonna"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Līknes pielāgošana"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Līknes pielāgošana"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Pielāgota Izteiksme"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Pielāgojumi tiek saglabāti darba vides dokumentu failos. Sākot jaunu sesiju vai atkārtoti palaižot darba vidi, pielāgojumi tiek notīrīti."
+        },
+        "Custom Session" : {
+            
+            "message": "Pielāgota sesija"
+        },
+        "Cut" : {
+            
+            "message": "Izgriezt"
+        },
+        "Dark" : {
+            
+            "message": "Tumšs"
+        },
+        "Darker" : {
+            
+            "message": "Tumšāks"
+        },
+        "Darkest" : {
+            
+            "message": "Vistumšākais"
+        },
+        "Data" : {
+            
+            "message": "Dati"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": ""
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Datu uzkrāšanas iestatījumi"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Datu Uzkrāšana automātiski apstāsies pēc tam, kad visiem vārtiem būs paredzētais skaits pozīciju mērījumiem (tāds pats kā notikumu skaits). Uzsākot mērījumus, jauni dati tiks ievadīti."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Datu uzkrāšana turpināsies, līdz manuāli nospiedīs Stop. Pozīcijas vērtības turpinās palielināties par atstarpes vērtibu līdz datu uzkrāšana beidzas."
+        },
+        "Data Mark" : {
+            
+            "message": "Datu atzīme"
+        },
+        "Data Marking" : {
+            
+            "message": "Datu atzīmēšana"
+        },
+        "Data Set %d" : {
+            
+            "message": "Datu iestatījumi %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Nosaukums"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Nosaukumam ir %s ierobežots zīmju skaits."
+        },
+        "Data Set Options" : {
+            
+            "message": ""
+        },
+        "Data Set Time" : {
+            
+            "message": "Laiks"
+        },
+        "Data Share" : {
+            
+            "message": "Datu koplietošana"
+        },
+        "Data Sharing" : {
+            
+            "message": "Dalīšanās ar datiem"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Datu koplietošana ir aktīva"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Datu koplietošanas sesija ir sākta"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Datu koplietošanas statuss"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Datu koplietošanas statuss"
+        },
+        "Data Table" : {
+            
+            "message": "Datu tabula"
+        },
+        "Data Type" : {
+            
+            "message": "Datu veids"
+        },
+        "Data Type Info" : {
+            
+            "message": "Datu veids"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Datu skatījums"
+        },
+        "Decimal Format" : {
+            
+            "message": "Decimāls formāts"
+        },
+        "Decimal Places" : {
+            
+            "message": "Zīmes aiz komata"
+        },
+        "decrease" : {
+            
+            "message": "samazināt"
+        },
+        "decreasing" : {
+            
+            "message": "samazinās"
+        },
+        "degrees" : {
+            
+            "message": "grādi"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Grādi (°)"
+        },
+        "Delete" : {
+            
+            "message": "Dzēst"
+        },
+        "Delete %s?" : {
+            
+            "message": "Dzēst %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Dzēst Kolonnu"
+        },
+        "Delete Column" : {
+            
+            "message": "Dzēst Kolonnu"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Dzēst Kolonnu %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Dēst datu atzīmes"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Dzēst datus"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Dzēst Grafiku atbilstību"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Dzēst Prognozēšanu"
+        },
+        "Delete Video" : {
+            
+            "message": "Dzēst Video"
+        },
+        "Delta" : {
+            
+            "message": ""
+        },
+        "Device Error" : {
+            
+            "message": "Iekārtas Kļūda"
+        },
+        "Device Information" : {
+            
+            "message": "Informācija"
+        },
+        "Device information" : {
+            
+            "message": "Ierīces informācija"
+        },
+        "Devices" : {
+            
+            "message": "Ierīces"
+        },
+        "Diameter" : {
+            
+            "message": "Diametrs"
+        },
+        "Diamond" : {
+            
+            "message": "Dimants"
+        },
+        "Dimension" : {
+            
+            "message": "Dimensijas"
+        },
+        "Disabled" : {
+            
+            "message": "Atspējots"
+        },
+        "Disconnect" : {
+            
+            "message": "Atvienot"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": ""
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": ""
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": ""
+        },
+        "Discovered Devices" : {
+            
+            "message": "Identificētas ierīces"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Identificētas bezvadu ierīces"
+        },
+        "Display Meters" : {
+            
+            "message": "Mērītāji uz ekrāna"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Attēlotās kolonnas"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Attēlotie Dati"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Attēlotā Precizitāte"
+        },
+        "Distance" : {
+            
+            "message": "Attālums"
+        },
+        "Distance between gates" : {
+            
+            "message": "Attālums starp vārtiem"
+        },
+        "Distribute App" : {
+            
+            "message": ""
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Vai vēlies dzēst datu atzīmi?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Vēlies saglabāt izmaiņas uz %s? Izmaiņas var tikt zaudētas, ja tās nesaglabāsi."
+        },
+        "Don't Save" : {
+            
+            "message": "Nesaglabāt"
+        },
+        "Done" : {
+            
+            "message": "Labi"
+        },
+        "done" : {
+            
+            "message": ""
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Lejuplāde pabeigta. Atjauninājumi tiks instalēti nākamajā reizē, tiklīdz atvērsi darba vidi"
+        },
+        "Download Experiment" : {
+            
+            "message": "Lejuplādēt eksperimentu"
+        },
+        "Download Update" : {
+            
+            "message": "Lejuplādēt atjauninājumu"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Zīmēt Prognozi"
+        },
+        "Drop Counting" : {
+            
+            "message": "Pilienu skaitīšana"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Atmests mērījums(i). Lūdzu, sāc jaunu eksperimentu un izmanto mazāku datu iegūšanas ātrumu."
+        },
+        "Drops" : {
+            
+            "message": "Pilieni"
+        },
+        "Drops/mL" : {
+            
+            "message": "Pilieni/mL"
+        },
+        "duration" : {
+            
+            "message": "mērījumiem"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "piemēram, 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "piemēram, 007 vai TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Rediģēt Grafiku"
+        },
+        "Edit mode" : {
+            
+            "message": ""
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Ieslēgt bluetooth, lai pievienotu bezvadu sensorus."
+        },
+        "Enable Replay" : {
+            
+            "message": "Iespējot Atkārtošanas funkciju"
+        },
+        "Enabled" : {
+            
+            "message": "Iespējots"
+        },
+        "End Collection" : {
+            
+            "message": "Pārtraukt uzkrāšanu"
+        },
+        "End data collection" : {
+            
+            "message": "Pārtraukt datu uzkrāšanu"
+        },
+        "End User License Agreement" : {
+            
+            "message": ""
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Pieskatories pārtrauc datu koplietošanas sesiju"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Ievadi anotāciju"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Ievadi datus ar tastatūru vai Copy/Paste"
+        },
+        "Enter first known value" : {
+            
+            "message": "Ievadi pirmo zināmo vērtību"
+        },
+        "Enter second known value" : {
+            
+            "message": "Ievadi otru zināmo vērtību"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Ievadi precīzu titranta daudzumu no graduētā cilindra"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Ievadi avota ID:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": ""
+        },
+        "Equation" : {
+            
+            "message": "Vienādojums"
+        },
+        "Error" : {
+            
+            "message": "Kļūda"
+        },
+        "Error Bar Info" : {
+            
+            "message": ""
+        },
+        "Error Bars" : {
+            
+            "message": "Kļūdu diagrammas"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Kļūda: piekļuve Starpliktuvei ir liegta."
+        },
+        "Event" : {
+            
+            "message": "Mērījums"
+        },
+        "Event Based" : {
+            
+            "message": "Balstīts uz notikumu"
+        },
+        "Event Mode" : {
+            
+            "message": "Mērījuma Režīms"
+        },
+        "Event Name" : {
+            
+            "message": "Mērījuma Nosaukums"
+        },
+        "Events with Entry" : {
+            
+            "message": "Mērījums ar ievadīšanu"
+        },
+        "Events With Entry" : {
+            
+            "message": "Mērījums ar ievadīšanu"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Piemērs: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Piemērs: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Eksp - 1"
+        },
+        "Expand" : {
+            
+            "message": "Paplašināt"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Paplašināt Host ID"
+        },
+        "Experiment Name" : {
+            
+            "message": "Eksperimenta Nosaukums"
+        },
+        "Experimental Features" : {
+            
+            "message": "Eksperimentālās funkcijas"
+        },
+        "Exponent" : {
+            
+            "message": "Eksponents"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Eksponenciālā Bāze 2"
+        },
+        "Export" : {
+            
+            "message": "Eksportēt"
+        },
+        "Export CSV" : {
+            
+            "message": "Eksportēt CSV"
+        },
+        "Expression" : {
+            
+            "message": "Izteiksme"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Kalibrēšanas dati no rūpnīcas"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Ventilatora vilces spēks"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT"
+        },
+        "File Menu" : {
+            
+            "message": "Izvēlne"
+        },
+        "File saved" : {
+            
+            "message": "Fails saglabāts"
+        },
+        "Filename" : {
+            
+            "message": "Faila nosaukums"
+        },
+        "Filter Device List" : {
+            
+            "message": "Filtrs Ierīču sarakstam"
+        },
+        "Firmware" : {
+            
+            "message": "Programmaparatūra"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Informācija par programmaparatūras atjaunināšanu"
+        },
+        "First Derivative" : {
+            
+            "message": "1 atvasinājums"
+        },
+        "Fit Expression" : {
+            
+            "message": "Pielāgojuma izteiksme"
+        },
+        "Fit Name" : {
+            
+            "message": "Pielāgojuma nosaukums"
+        },
+        "Fit Options" : {
+            
+            "message": ""
+        },
+        "Fixed Value" : {
+            
+            "message": "Fiksēta vērtība"
+        },
+        "Flag Width" : {
+            
+            "message": "Notikuma platums"
+        },
+        "Flags" : {
+            
+            "message": "Notikumi"
+        },
+        "Floor" : {
+            
+            "message": "Pamats"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Vernier objektiem, atstarpe un notikuma numuri ir doti katram atzīmētajam objektam. Joslas objektam ievadi notikuma numuru."
+        },
+        "Frequency" : {
+            
+            "message": "Frekvence"
+        },
+        "From Vernier.com" : {
+            
+            "message": "No Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Funkcija"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Funkcijas un neatkarīgais mainīgais jāraksta ar mazajiem burtiem."
+        },
+        "Gate Separation" : {
+            
+            "message": "Vārtu Atdalīšana"
+        },
+        "Gate State" : {
+            
+            "message": "Vārtu Stāvoklis"
+        },
+        "Gate timing" : {
+            
+            "message": "Vārtu ilgums"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX Sensora karte"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Dod šo ID kodu citiem, lai viņi var pievienoties jūsu sesijai"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Direct Sensori"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Uz Video sākumu"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Go! Link" : {
+            
+            "message": ""
+        },
+        "Go! Motion" : {
+            
+            "message": ""
+        },
+        "Graph" : {
+            
+            "message": "Grafiks"
+        },
+        "Graph %s" : {
+            
+            "message": "Grafiks %s"
+        },
+        "Graph 1" : {
+            
+            "message": ""
+        },
+        "Graph 2" : {
+            
+            "message": ""
+        },
+        "Graph 3" : {
+            
+            "message": ""
+        },
+        "Graph Display" : {
+            
+            "message": "Grafika attēlojums"
+        },
+        "Graph Inset" : {
+            
+            "message": "Grafika ielikšana"
+        },
+        "Graph Legend" : {
+            
+            "message": "Grafika leģenda"
+        },
+        "Graph Match" : {
+            
+            "message": "Grafika atbilstība"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Grafika atbilstība"
+        },
+        "Graph Options" : {
+            
+            "message": "Grafika parametri"
+        },
+        "Graph Shape" : {
+            
+            "message": "Grafika forma"
+        },
+        "Graphical Analysis" : {
+            
+            "message": ""
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Graphical Analysis Pro"
+        },
+        "Graphs" : {
+            
+            "message": ""
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": ""
+        },
+        "Heading 2" : {
+            
+            "message": ""
+        },
+        "Heading 3" : {
+            
+            "message": ""
+        },
+        "Help connecting a device" : {
+            
+            "message": ""
+        },
+        "Help Connecting a Device" : {
+            
+            "message": ""
+        },
+        "Hide" : {
+            
+            "message": "Paslēpt"
+        },
+        "Hide Details" : {
+            
+            "message": "Paslēpt"
+        },
+        "High-pass Filter" : {
+            
+            "message": "Augstas-caurlaidības Filtrs"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Augstas izšķirtspējas režīms"
+        },
+        "Histogram" : {
+            
+            "message": "Histogramma"
+        },
+        "Histogram options" : {
+            
+            "message": "Histogramma"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Horizontāls sadalītājs"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Rīko datu koplietošanas sesiju"
+        },
+        "How To Distribute" : {
+            
+            "message": ""
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Hiperboliskais Kosinuss"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Hiperboliskais Sīnuss"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Hiperboliskais Tangenss"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Hipotenūza"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Identificēt"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": ""
+        },
+        "Ignore" : {
+            
+            "message": "Ignorēt"
+        },
+        "Import Video" : {
+            
+            "message": "Importēt Video"
+        },
+        "increase" : {
+            
+            "message": "palielināt"
+        },
+        "increasing" : {
+            
+            "message": "palielinās"
+        },
+        "Insert Expression" : {
+            
+            "message": "Ievietot izteiksmi"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Ievieto sensoru pudelē tā, lai gals nepieskartos ūdenim vai sūklim."
+        },
+        "Integral" : {
+            
+            "message": "Integrālis"
+        },
+        "Intercept" : {
+            
+            "message": "Pārķert"
+        },
+        "Interpolate" : {
+            
+            "message": "Interpolēt"
+        },
+        "Interval" : {
+            
+            "message": "Intervāls"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Nederīgs Vienādojums"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Nederīga Izteiksme"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Inversais Kosinuss"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Inversais Hiperboliskais Kosinuss"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Inversais Hiperboliskais Sinuss"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Inversais Hiperboliskais Tangenss"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Inversais Sinuss"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Inversais Tangenss"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Inversais Tangenss 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Inverted Rectangle" : {
+            
+            "message": ""
+        },
+        "Inverted Triangle" : {
+            
+            "message": ""
+        },
+        "is" : {
+            
+            "message": "ir"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "pašlaik netiek atbalsīts. Mēģini citu."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Pēc vāciņa maiņas ir ļoti ieteicams veikt kalibrēšanu."
+        },
+        "Italic" : {
+            
+            "message": ""
+        },
+        "Join New Experiment" : {
+            
+            "message": "Pievieno Jaunu Eksperimentu"
+        },
+        "Keep" : {
+            
+            "message": "Uzglabāt"
+        },
+        "Keep Point" : {
+            
+            "message": "Uzglabāt Punktu"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Turi sensoru vismaz 60 sekundes vertikāli šajā pozīcijā, pēc tam nospied \"KALIBRĒT TAGAD.\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Zināmajām vērtībām jābūt atšķirīgām no divu punktu kalibrēšanas."
+        },
+        "LabQuest" : {
+            
+            "message": ""
+        },
+        "LabQuest Devices" : {
+            
+            "message": ""
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Liels"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Pēdējo reizi kalibrēts"
+        },
+        "Launch Speed" : {
+            
+            "message": "Uzņemt ātrumu"
+        },
+        "Left" : {
+            
+            "message": "Minimums"
+        },
+        "Left Axis" : {
+            
+            "message": ""
+        },
+        "Left manual fit handle" : {
+            
+            "message": ""
+        },
+        "Left y-axis range" : {
+            
+            "message": "Kreisās y-ass diapazons"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Pārnestais faila tips"
+        },
+        "License Key" : {
+            
+            "message": ""
+        },
+        "License Key is expired." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": ""
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": ""
+        },
+        "License Key is required." : {
+            
+            "message": ""
+        },
+        "License Key is suspended." : {
+            
+            "message": ""
+        },
+        "License Key not recognized." : {
+            
+            "message": ""
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": ""
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": ""
+        },
+        "Licensed To" : {
+            
+            "message": "Licencēts"
+        },
+        "Licensed to" : {
+            
+            "message": "Licencēts"
+        },
+        "Line Shade" : {
+            
+            "message": "Līnijas Tonējums"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineāra Kustība"
+        },
+        "Linear Motion Info" : {
+            
+            "message": ""
+        },
+        "Lines" : {
+            
+            "message": "Līnijas"
+        },
+        "Link" : {
+            
+            "message": ""
+        },
+        "Link Copied" : {
+            
+            "message": ""
+        },
+        "list item" : {
+            
+            "message": ""
+        },
+        "Load Experiment" : {
+            
+            "message": ""
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": ""
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Log Bāze 2"
+        },
+        "Log Base b" : {
+            
+            "message": "Log Bāze b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": ""
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Zemas-caurlaidības Filtrs"
+        },
+        "Main Content" : {
+            
+            "message": ""
+        },
+        "Manual" : {
+            
+            "message": "Manuāls"
+        },
+        "Manual %s" : {
+            
+            "message": "Apraksts %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Manuāla Ievadīšana"
+        },
+        "Manual Fit" : {
+            
+            "message": ""
+        },
+        "Manual Scaling" : {
+            
+            "message": "Manuāla Mērogošana"
+        },
+        "Manually" : {
+            
+            "message": "Manuāli"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Ražošanas datums"
+        },
+        "Mark" : {
+            
+            "message": ""
+        },
+        "Max" : {
+            
+            "message": "Maks"
+        },
+        "Maximize Application" : {
+            
+            "message": ""
+        },
+        "Mean" : {
+            
+            "message": "Vidējais"
+        },
+        "Measurement" : {
+            
+            "message": "Mērījums"
+        },
+        "Medium" : {
+            
+            "message": ""
+        },
+        "Meter Actions" : {
+            
+            "message": ""
+        },
+        "Meter All Columns" : {
+            
+            "message": ""
+        },
+        "Meter Size" : {
+            
+            "message": ""
+        },
+        "Meter View Options" : {
+            
+            "message": ""
+        },
+        "Metered" : {
+            
+            "message": ""
+        },
+        "metering on all columns" : {
+            
+            "message": ""
+        },
+        "Meters" : {
+            
+            "message": "Mērītāji"
+        },
+        "min" : {
+            
+            "message": "min"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "Minimize Application" : {
+            
+            "message": ""
+        },
+        "Mode" : {
+            
+            "message": "Režīms"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": ""
+        },
+        "Modulo" : {
+            
+            "message": "Modulo"
+        },
+        "Move Down" : {
+            
+            "message": ""
+        },
+        "Move Up" : {
+            
+            "message": ""
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Objektam tiek izmantoti vairāki, vienmērīgi izvietoti notikumi, lai noteiktu atrašanās vietu, kad objekts iet caur gaismas vārtiem. Pirmais bloķētais notikums nosaka nulles pozīciju. Nākamie bloķētie notikumi palielina pozīciju pēc atstarpes vērtības. Ātruma un paātrinājuma dati tiek aprēķināti, izmantojot pozīcijas pirmo un otro atvasinājumu, ņemot vērā laiku."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Lai noteiktu leņķisko pozīciju ritenim tā griezšanās laikā, tiek izmantoti uz riteņa izvietotie spieķi. Pirmais bloķētais notikums nosaka nulles leņķi. Sekojošie bloķētie notikumi palielina leņķi par 2π / n radiāniem, kur n ir spieķu skaits uz riteņa. Leņķiskā ātruma un paātrinājuma dati tiek aprēķināti, izmantojot leņķa pirmo un otro atvasinājumus laikā."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Reizināšana var būt tieša vai netieša."
+        },
+        "Mute Audio" : {
+            
+            "message": "Izslēgt Audio"
+        },
+        "My-File-Name" : {
+            
+            "message": "Mana-Faila-Nosaukums"
+        },
+        "Name" : {
+            
+            "message": "Nosaukums"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Nosaukums nevar pārsniegt %s zīmes"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Naturālais Eksponenciāls"
+        },
+        "Natural Log" : {
+            
+            "message": "Naturālais Log"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Naturālais Log 1 + X"
+        },
+        "Never" : {
+            
+            "message": ""
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Tiek izmantotas jaunās kalibrēšanas, līdz sāksi jaunu eksperimentu vai atvērsi failu."
+        },
+        "New Experiment" : {
+            
+            "message": "Jauns Eksperiments"
+        },
+        "Next After" : {
+            
+            "message": "Nākamais Pēc"
+        },
+        "No Columns" : {
+            
+            "message": "Nav Kolonnu"
+        },
+        "No Device Connected" : {
+            
+            "message": "Ierīces NAV pievienotas"
+        },
+        "No device connected." : {
+            
+            "message": "Ierīce nav pievienota."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Ierīces NAV pievienotas"
+        },
+        "No expiration date" : {
+            
+            "message": "Nav derīguma termiņa"
+        },
+        "No sensor connected" : {
+            
+            "message": "Sensori Nav pievienoti"
+        },
+        "No Sensors Connected" : {
+            
+            "message": ""
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Avoti Nav konstatēti. Pārliecinies, ka jūsu Datu Koplietošanas funkcija ir ieslēgta un abas iekārtas ir savienotas ar vienu un to pašu tīklu. Ja problēma tomēr nav novērsta, izvēlies Norādīt Avotu un manuāli savieno ar Datu Koplietošanas avotu."
+        },
+        "Normal" : {
+            
+            "message": "Normāls"
+        },
+        "not" : {
+            
+            "message": "nav"
+        },
+        "Not Capable" : {
+            
+            "message": ""
+        },
+        "Note" : {
+            
+            "message": ""
+        },
+        "Notes" : {
+            
+            "message": "Piezīmes"
+        },
+        "Number list" : {
+            
+            "message": ""
+        },
+        "Number of flags" : {
+            
+            "message": "Notikumu skaits"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": ""
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": ""
+        },
+        "Number of spokes" : {
+            
+            "message": "Spieķu skaits"
+        },
+        "Numeric" : {
+            
+            "message": "Ciparu"
+        },
+        "Object" : {
+            
+            "message": "Objekts"
+        },
+        "Object Width" : {
+            
+            "message": "Objekta platums"
+        },
+        "Offline" : {
+            
+            "message": "Bezsaitē"
+        },
+        "OK" : {
+            
+            "message": "Labi"
+        },
+        "Ok" : {
+            
+            "message": ""
+        },
+        "On a triggering event" : {
+            
+            "message": "Ar trigerēšanu"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "LabQuest ierīcei nospied Wi-Fi simbolu"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Logger Pro izvēlies Fails -> Datu Koplietošana"
+        },
+        "One-point calibration" : {
+            
+            "message": "Viena punkta klibrēšana"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Datu Koplietošana Tiešsaistē"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Datu uzkrāšanas laikā ieslēdz ventilatoru"
+        },
+        "Open failed" : {
+            
+            "message": ""
+        },
+        "Open Saved File" : {
+            
+            "message": "Atvērt Saglabāto failu"
+        },
+        "Open Update Information" : {
+            
+            "message": ""
+        },
+        "Open..." : {
+            
+            "message": "Atvērt..."
+        },
+        "or" : {
+            
+            "message": "vai"
+        },
+        "Order Code" : {
+            
+            "message": "Pasūtījuma Kods"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Cits / Lietotāja definēts"
+        },
+        "Other Options" : {
+            
+            "message": "Citas Opcijas"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Cits / Lietotāja definēts: Ievadi atstarpi un notikuma numuru kā parādīts zemāk. Ja jūsu objekts ir ritenis, tad atstarpes vērtība ir vienāda ar riteņa apkārtmēru dalītu ar spieķu skaitu."
+        },
+        "Outlined Circle" : {
+            
+            "message": ""
+        },
+        "Outlined Diamond" : {
+            
+            "message": ""
+        },
+        "Outlined Plus" : {
+            
+            "message": ""
+        },
+        "Outlined Rectangle" : {
+            
+            "message": ""
+        },
+        "Outlined Square" : {
+            
+            "message": ""
+        },
+        "Outlined Triangle" : {
+            
+            "message": ""
+        },
+        "Paragraph" : {
+            
+            "message": ""
+        },
+        "Parameter %s" : {
+            
+            "message": "Parametrs %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Parametrus nevar atkārtot ar izteiksmi."
+        },
+        "Paste" : {
+            
+            "message": "Ielīmēt"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Darbība Ielīmēt nav pieejama, izmantojot izvēlni Rediģēt. Lai ielīmētu, izmanto CTRL-V vai CMD-V."
+        },
+        "Pause replay" : {
+            
+            "message": "Apturēt atkārtošanu"
+        },
+        "Pause Video" : {
+            
+            "message": ""
+        },
+        "Peak Frequency" : {
+            
+            "message": "Smailes Frekvence"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Svārsta periods"
+        },
+        "Percentage" : {
+            
+            "message": ""
+        },
+        "Perform a" : {
+            
+            "message": "Veikt"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Gaismas vārtu laiks"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Gaismas vārti var fiksēt objektus, kuri šķērso vārtus vai ziņo par svārsta svārstību periodu. Laiks starp secīgiem bloķētiem notikumiem tiek norādīts kā intervāla laiks. Ja tiek izmantoti precīzi divi vārti, abiem vārtiem jābūt bloķētiem pirms paziņojuma par vērtību."
+        },
+        "Picture in Picture" : {
+            
+            "message": ""
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Go Direct Kustības sensoru novieto blakus datoram, telefonam vai tabletei"
+        },
+        "Play replay" : {
+            
+            "message": "Atskaņot Atkārtošanu"
+        },
+        "Play Video" : {
+            
+            "message": ""
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": ""
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Lūdzu, ievadi avota IP adresi:"
+        },
+        "Plot" : {
+            
+            "message": "Lauks"
+        },
+        "Plot Manager" : {
+            
+            "message": "Apgabala Pārvaldītājs"
+        },
+        "Plus" : {
+            
+            "message": ""
+        },
+        "point" : {
+            
+            "message": "punkts"
+        },
+        "Point Colors" : {
+            
+            "message": "Punkta Krāsas"
+        },
+        "Point Symbols" : {
+            
+            "message": "Punkta Simboli"
+        },
+        "points" : {
+            
+            "message": "punkti"
+        },
+        "Points" : {
+            
+            "message": "Punkti"
+        },
+        "points before trigger" : {
+            
+            "message": "punkti pirms trigerēšanas"
+        },
+        "Power" : {
+            
+            "message": "Pakāpe"
+        },
+        "Prediction" : {
+            
+            "message": "Prognozēšana"
+        },
+        "Prediction Name" : {
+            
+            "message": "Prognozes Nosaukums"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Prognozes vārdam ir %s zīmju ierobežojums."
+        },
+        "Prediction Options" : {
+            
+            "message": "Prognozes Iespējas"
+        },
+        "Prediction Title" : {
+            
+            "message": "Prognozējuma Nosaukums"
+        },
+        "Predictions" : {
+            
+            "message": "Prognozējumi"
+        },
+        "Preview mode" : {
+            
+            "message": ""
+        },
+        "Primary:" : {
+            
+            "message": "Primārs:"
+        },
+        "Privacy Notice" : {
+            
+            "message": ""
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": ""
+        },
+        "Projectile Info" : {
+            
+            "message": ""
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Lodes (šāviņa) Palaidējs"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Norādi šo ID kodu citiem, lai viņi var izveidot savienojumu ar jūsu ierīci"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Pietuvinājuma Savienojums"
+        },
+        "Pulse timing" : {
+            
+            "message": "Pulsa laiks"
+        },
+        "Quote" : {
+            
+            "message": ""
+        },
+        "radians" : {
+            
+            "message": "radiāni"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radiāns (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Ātrums"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Ātrumam pārsniedzot 200 paraugus/s nepieciešams fiksēts darbības ilgums."
+        },
+        "Reconnect" : {
+            
+            "message": "Atkārtoti izveido savienojumu"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "Rectangle" : {
+            
+            "message": ""
+        },
+        "Regular" : {
+            
+            "message": "Regulārs"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Relatīvs stabilitātes rādījums"
+        },
+        "Remainder" : {
+            
+            "message": "Atgādinājums"
+        },
+        "Remote Logging" : {
+            
+            "message": ""
+        },
+        "Remote Logging in Process" : {
+            
+            "message": ""
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": ""
+        },
+        "Remote Logging Started" : {
+            
+            "message": ""
+        },
+        "Remote Logging Status" : {
+            
+            "message": ""
+        },
+        "Remove" : {
+            
+            "message": ""
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Noņem Lineāro virzienu"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": ""
+        },
+        "Rename" : {
+            
+            "message": "Pārdēvēt"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Pārdēvēt Datu Kopas"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Pārsaukt Prognozēšanu"
+        },
+        "Replay" : {
+            
+            "message": "Atkārtot"
+        },
+        "Replay video sync info" : {
+            
+            "message": ""
+        },
+        "Reported Reading" : {
+            
+            "message": "Aprakstīts Nolasījums"
+        },
+        "Reset" : {
+            
+            "message": ""
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Atiestatīt (Nulli) pie datu Uzkrāšanas"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Atiestatīt uz Noklusējumu"
+        },
+        "Restart app" : {
+            
+            "message": "Restartēt darba vidi"
+        },
+        "Restart Replay" : {
+            
+            "message": "Restartēt Atkārtošanu"
+        },
+        "Restore All" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear" : {
+            
+            "message": ""
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": ""
+        },
+        "Retry Calibration" : {
+            
+            "message": "Atkārtot Kalibrēšanu"
+        },
+        "Reverse" : {
+            
+            "message": "Apgriezt pretēji"
+        },
+        "revolution" : {
+            
+            "message": "apgrieziens"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Apgriezieni (rev)"
+        },
+        "Right" : {
+            
+            "message": "Maksimums"
+        },
+        "Right Axis" : {
+            
+            "message": ""
+        },
+        "Right manual fit handle" : {
+            
+            "message": ""
+        },
+        "Right y-axis" : {
+            
+            "message": ""
+        },
+        "Right y-axis range" : {
+            
+            "message": "Labās y-ass diapazons"
+        },
+        "RMS" : {
+            
+            "message": ""
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": "Apkārt"
+        },
+        "Row Number" : {
+            
+            "message": "Rindas Numurs"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "paraugs"
+        },
+        "Sample Data" : {
+            
+            "message": "Datu Paraugs"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Eksperimentu paraugi"
+        },
+        "samples" : {
+            
+            "message": "paraugi"
+        },
+        "Samples" : {
+            
+            "message": "Paraugi"
+        },
+        "samples per second" : {
+            
+            "message": ""
+        },
+        "samples scheduled" : {
+            
+            "message": ""
+        },
+        "Save" : {
+            
+            "message": "Saglabāt"
+        },
+        "Save AMBL" : {
+            
+            "message": "Saglabāt AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Saglabāt un Aizvērt darba vidi"
+        },
+        "Save As..." : {
+            
+            "message": "Saglabāt Kā..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Saglabāt izmaiņas?"
+        },
+        "Save CSV" : {
+            
+            "message": "Saglabāt CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Saglabāt Eksperimentu"
+        },
+        "Save failed" : {
+            
+            "message": "Saglabāt neizdevās"
+        },
+        "Save PDF" : {
+            
+            "message": "Saglabāt PDF"
+        },
+        "Save Pending" : {
+            
+            "message": ""
+        },
+        "Save PNG" : {
+            
+            "message": "Saglabāt PNG"
+        },
+        "Saved" : {
+            
+            "message": "Saglabāts"
+        },
+        "Saving" : {
+            
+            "message": ""
+        },
+        "Scale Factor" : {
+            
+            "message": "Skalas Faktors"
+        },
+        "Scaling" : {
+            
+            "message": "Mērogošana"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Meklē ierīces..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Otrā kalibrēšanas punkta sensora spriegumam jābūt atšķirīgam no pirmā punkta vismaz par 0.05V."
+        },
+        "Second Derivative" : {
+            
+            "message": "Otrais Atvasinājums"
+        },
+        "Secondary:" : {
+            
+            "message": "Sekundārs:"
+        },
+        "seconds" : {
+            
+            "message": "sekundes"
+        },
+        "See Experiments" : {
+            
+            "message": "Skati Eksperimentus"
+        },
+        "See sample experiments" : {
+            
+            "message": ""
+        },
+        "Select Data Set" : {
+            
+            "message": "Atzīmē Datu Kopu"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Izvēlies vajadzīgās vienības, lai ziņotu par leņķisko pozīciju."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": ""
+        },
+        "select/deselect meter" : {
+            
+            "message": ""
+        },
+        "Selected Events" : {
+            
+            "message": "Izvēlētie Mērījumi"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Sensoru darbības"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Sensora Kanāli"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Sensora Datu Uzkrāšana"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Sensora Iestatījumi"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Sensora Spriegums"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Sensoram iestatīta Nulles vērtība"
+        },
+        "Sensors" : {
+            
+            "message": "Sensori"
+        },
+        "Session 1 Name" : {
+            
+            "message": ""
+        },
+        "Session 2 Name" : {
+            
+            "message": ""
+        },
+        "Session 3 Name" : {
+            
+            "message": ""
+        },
+        "Session 4 Name" : {
+            
+            "message": ""
+        },
+        "Session ended by Host" : {
+            
+            "message": "Sesiju noslēdza Pārvaldītājs"
+        },
+        "Session Preferences" : {
+            
+            "message": ""
+        },
+        "Settings saved" : {
+            
+            "message": "Iestatījumi saglabāti"
+        },
+        "Share AMBL" : {
+            
+            "message": "Dalies ar AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Dalies ar eksperimentu, izmantojot tīkla savienojumu"
+        },
+        "Share CSV" : {
+            
+            "message": "Dalies ar CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Dalies ar Attēlu"
+        },
+        "Share PDF" : {
+            
+            "message": "Dalies ar PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Rādīt visas Relīzes"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": ""
+        },
+        "Show Details" : {
+            
+            "message": ""
+        },
+        "Show Error Bars" : {
+            
+            "message": ""
+        },
+        "Show FFT" : {
+            
+            "message": "Rādīt FFT"
+        },
+        "Show Histogram" : {
+            
+            "message": ""
+        },
+        "Show Less" : {
+            
+            "message": "Rādīt Mazāk"
+        },
+        "Show Menu" : {
+            
+            "message": ""
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Rādīt vidējo laiku caur vārtiem"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Rādīt Oriģinālo Grafiku"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": ""
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": ""
+        },
+        "Significant Figures" : {
+            
+            "message": "Zīmīgie Cipari"
+        },
+        "Sine" : {
+            
+            "message": "Sinuss"
+        },
+        "Slope" : {
+            
+            "message": "Slīpums"
+        },
+        "Small" : {
+            
+            "message": "Mazs"
+        },
+        "Spacing" : {
+            
+            "message": "Atstarpe"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Atstarpe = Apkārtmērs / Spieķu skaits"
+        },
+        "Specify source" : {
+            
+            "message": "Norādīt avotu"
+        },
+        "Spectrum" : {
+            
+            "message": "Spektrs"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Ātrums caur Vārtiem"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": ""
+        },
+        "Spokes:" : {
+            
+            "message": "Spieķi:"
+        },
+        "Square" : {
+            
+            "message": ""
+        },
+        "Square Root" : {
+            
+            "message": "Kvadrātsakne"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Sākt Datu Koplietošanu"
+        },
+        "Start a New Session" : {
+            
+            "message": "Sākt Jaunu sesiju"
+        },
+        "Start Collection" : {
+            
+            "message": "Sākt Datu uzkrāšanu"
+        },
+        "Start collection when" : {
+            
+            "message": "Sākt Datu uzkrāšanu, kad"
+        },
+        "Start Logging" : {
+            
+            "message": ""
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Sākt Jaunu Eksperimentu?"
+        },
+        "Start Session" : {
+            
+            "message": "Sākt Sesiju"
+        },
+        "Statistics" : {
+            
+            "message": "Statistika"
+        },
+        "Std dev" : {
+            
+            "message": "Std novirze"
+        },
+        "Step Backward" : {
+            
+            "message": "Solis Atpakaļ"
+        },
+        "Step Forward" : {
+            
+            "message": "Solis uz Priekšu"
+        },
+        "Step Video Backwards" : {
+            
+            "message": ""
+        },
+        "Step Video Forward" : {
+            
+            "message": ""
+        },
+        "Stop" : {
+            
+            "message": "Stop"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Pārtrauc pilienu pievienošanu, tiklīdz tilpums sasniedz 9 mL un 10mL."
+        },
+        "Stop Collection" : {
+            
+            "message": ""
+        },
+        "Stop Sharing" : {
+            
+            "message": "Pārtraukt Koplietošanu"
+        },
+        "Strikethrough" : {
+            
+            "message": ""
+        },
+        "Subject" : {
+            
+            "message": "Temats"
+        },
+        "Submit" : {
+            
+            "message": "Iesniegt"
+        },
+        "Subscript" : {
+            
+            "message": ""
+        },
+        "Subscription Ends" : {
+            
+            "message": "Abonēšana Beidzas"
+        },
+        "Subscription ends" : {
+            
+            "message": ""
+        },
+        "Superscript" : {
+            
+            "message": ""
+        },
+        "Supported Functions" : {
+            
+            "message": "Atbalstītās Funkcijas"
+        },
+        "Symbol" : {
+            
+            "message": "Simbols"
+        },
+        "Sync data with video" : {
+            
+            "message": "Sinhronizēt datus ar video"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Sinhronizēt video ar datiem"
+        },
+        "Syntax" : {
+            
+            "message": "Sintakse"
+        },
+        "Table" : {
+            
+            "message": "Tabula"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Veic mērījuma nolasījumu (piem., pH, elektrovadītspēja) pēc katra piliena."
+        },
+        "Tangent" : {
+            
+            "message": "Tangenss"
+        },
+        "Target" : {
+            
+            "message": "Mērķis"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Bluetooth savienojums ir zudis"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Nepieciešams Kolonnas Nosaukums"
+        },
+        "the current file" : {
+            
+            "message": "pašreizējais dokuments"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Datu kopu sāks atskaņot %s s pirms video"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Izteiciens tiks izmantots kā Līknes atbilstības nosaukums, ja tas nav skaidri ievadīts."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Palaidēja ātrums ir vidējais šāviņa ātrums, kad tas šķērso divus iebūvētus vārtus."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Palaidēja ātrums ir vidējais šāviņa ātrums, kad tas šķērso pirmos iebūvētos vārtus."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Objekta / notikuma platums ir dalīts ar laiku, kad Gaismas vārti ir bloķēti (Blocked-Gate Duration), lai noteiktu objekta ātrumu caur vārtiem."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": ""
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Laiks starp secīgiem bloķētiem notikumiem tiek nosaukts kā intervāls."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "Izteiksmē nedrīkst būt vairāk par septiņiem parametriem."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": ""
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Šim sensoram ir pieejama jauna programmaparatūra, bet atjauninājumu no šīs ierīces veikt nevar. Lai atjauninātu sensoru, savieno caur USB ar macOS, Windows vai ChromeOS ierīci un palaid Graphical Analysis. Dodies uz Pievienoto ierīču sarakstu un sāc atjaunināšanu."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Šim sensoram ir pieejama jauna programmaparatūra. Atjaunināšanas process prasa, lai sensors būtu savienots ar USB un Graphical Analysis būtu izslēgta. Pievieno sensoru, izmantojot USB, ja šobrīd tas ir pievienots bezvadu savienojumā."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Iestatījumu saglabāšanas laikā radās problēma"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Šī kolonna izveidota automātiski un nevar tikt izmainīta"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Šo dzēšanu nevar atsaukt."
+        },
+        "This feature requires a" : {
+            
+            "message": "Šī funkcija prasa"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Šis skaitlis nosaka apgriezienu daļu, kurā katrs bloķētais notikums mainās leņķiskā stāvoklī."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Šī Windows versija atbalsta vienīgi USB savienojumu ar Go Direct sensoriem."
+        },
+        "Time" : {
+            
+            "message": "Laiks"
+        },
+        "Time Based" : {
+            
+            "message": "Laika iestatījumi"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": ""
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": ""
+        },
+        "Time between gates" : {
+            
+            "message": "Laiks starp vārtiem"
+        },
+        "Time Decay Filter" : {
+            
+            "message": ""
+        },
+        "Time measurements" : {
+            
+            "message": "Laika mērījumi"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Lidojuma laiks,"
+        },
+        "Time Units" : {
+            
+            "message": "Laika mērvienības"
+        },
+        "Timer" : {
+            
+            "message": "Laiks"
+        },
+        "Timer Info" : {
+            
+            "message": ""
+        },
+        "Timer or Period" : {
+            
+            "message": "Laiks vai Periods"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Piezīme: Lai iegūtu labākus rezultātus, pārbaudi, vai vēlamais sensors ir vienīgais, kas atrodas 2 metru attālumā no datora, tālruņa vai planšetdatora."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Piezīme: Pietuvinājuma savienojums ir atkarīgs no attāluma. Ja nav lielas ticamības, izmanto savienojumu sarakstu, lai izvēlētos sensoru."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Piezīme: Lai savienojums būtu iespējams, sensorā jādeg sarkanai indikatora lampiņai."
+        },
+        "Title" : {
+            
+            "message": "Nosaukums"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Lai izveidotu pielāgotu % s, izmantojiet jebkuru no atbalstītajām funkcijām ar jebkuru no atbalstītajiem operatoriem"
+        },
+        "To locate the address:" : {
+            
+            "message": "Atrast adresi:"
+        },
+        "to make the key available for use." : {
+            
+            "message": ""
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Lai sāktu Datu Koplietošanas sesiju:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Pārslēgt Tumšo režīmu"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Pārslēgt Gaišo režīmu"
+        },
+        "Too few points" : {
+            
+            "message": "Pārāk maz punktu"
+        },
+        "Toolbar" : {
+            
+            "message": ""
+        },
+        "Top" : {
+            
+            "message": "Maksimums"
+        },
+        "Total samples" : {
+            
+            "message": "Kopējie paraugi"
+        },
+        "Triangle" : {
+            
+            "message": "Trijstūris"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Trigonometriskās funkcijas tiek fiksētas radiānos, izņemot gadījumus, kad kolonnā, kas ir uz horizontālās ass, ir mērvienības"
+        },
+        "Truncate" : {
+            
+            "message": "Saīsināt"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Divu punktu kalibrēšana"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Ultra Trīsis - gropē"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Ultra Trīsis - ārpus malas"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Nav iespējams pievienot vai atrast šī vārda nosaukuma avotu."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Nav iespējams pievienot "
+        },
+        "Units" : {
+            
+            "message": "Mērvienības"
+        },
+        "Unknown" : {
+            
+            "message": "Nav noteikts"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": ""
+        },
+        "Unmute Audio" : {
+            
+            "message": "Ieslēgt Audio"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "Neatbalstīta pārlūkprogramma"
+        },
+        "Untitled" : {
+            
+            "message": "IZVĒLNE"
+        },
+        "Update Available" : {
+            
+            "message": "Atjauninājumi ir pieejami"
+        },
+        "Update error" : {
+            
+            "message": "Atjaunināšanas kļūda"
+        },
+        "Update Firmware" : {
+            
+            "message": "Atjaunināt programmaparatūru"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Atjauninājumu lejupielāde ..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Atjaunināt Licences Atslēgu"
+        },
+        "USB" : {
+            
+            "message": ""
+        },
+        "USB Device" : {
+            
+            "message": "USB Ierīce"
+        },
+        "Use Column Value" : {
+            
+            "message": ""
+        },
+        "Use gate separation" : {
+            
+            "message": "Izmanto vārtu atdalīšanu"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Izmanto objekta / notikuma platumu"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Izmanto lodes diametru"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Zinātniskais apzīmējums"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": ""
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": ""
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Izmanto šo opciju, lai pētītu ātrumu attiecībā uz laiku. Ziņotais laiks ir viduspunkta laiks starp laiku, kad vārti ir bloķēti, un laiku, kad vārti tiek atbloķēti."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Izmanto Lidojuma paliktņa laiku"
+        },
+        "Use Windowing" : {
+            
+            "message": "Izmanto Windowing"
+        },
+        "User Manual" : {
+            
+            "message": "Lietošanas instrukcija"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Izmantojot rūpnīcas kalibrēšanu no"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "Tiek izmantota šī eksperimenta lokāli saglabātā versija."
+        },
+        "Value must be between " : {
+            
+            "message": "Vērtībām jābūt starp "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": ""
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": ""
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernier Šķērssvītrotā barjera"
+        },
+        "Version" : {
+            
+            "message": "Versija"
+        },
+        "Vertical Divider" : {
+            
+            "message": "Vertikālais sadalītājs"
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Time" : {
+            
+            "message": "Video Laiks"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Video sāks atskaņot % s s pirms datu kopas atskaņošanas"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Video atskaņošana tiks sākta vienlaikus ar datu kopas atskaņošanu"
+        },
+        "View Experiment" : {
+            
+            "message": "Eksperiments"
+        },
+        "View Integral" : {
+            
+            "message": "Integrālis"
+        },
+        "View Options" : {
+            
+            "message": "Iespējas"
+        },
+        "View Statistics" : {
+            
+            "message": "Statistika"
+        },
+        "Voltage" : {
+            
+            "message": "Spriegums"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Gaida %s līdz %s pāri %s %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": ""
+        },
+        "What's New" : {
+            
+            "message": "Jaunumi"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Ja tiek izvēlēts svārsts, laiks starp katru otro bloķēto notikumu tiek saukts kā Periods, jo svārsts bloķēs vārtus trīs reizes, kad tas pabeidz vienu svārstību."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Izmantojot divus gaismas vārtus, ātrumu var aprēķināt, izmantojot objektu / notikuma platumu, nevis attālumu starp vārtiem. Minētais ātrums būs ātrums starp diviem vārtiem."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Bezvadu savienojumam ir nepieciešams Windows 10."
+        },
+        "Wireless" : {
+            
+            "message": ""
+        },
+        "Working..." : {
+            
+            "message": "Apstrāde..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x-ass diapazons"
+        },
+        "x-range" : {
+            
+            "message": "x-diapazons"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-ass diapazons"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": ""
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": ""
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": ""
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": ""
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": ""
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": ""
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": ""
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Datu Koplietošanas Pārvaldnieks sāk jaunu eksperimentu. Vai turpināsi eksperimentu, vai pievienosies jaunajam eksperimentam."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": ""
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": ""
+        },
+        "Zero" : {
+            
+            "message": "Nulles iestatīšana"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Tuvināt visus datus"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Tuvināt Iezīmēto"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-asis ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-asis ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": ""
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g Paātrinātājuma mērītājs"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3-Asu Paātrinātājuma mērītājs (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3-Asu Paātrinātājuma mērītājs (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3-Asu Paātrinātājuma mērītājs (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "30V Spriegums (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbcija"
+        },
+        "Acceleration" : {
+            
+            "message": "Paātrinājums"
+        },
+        "Accelerometer" : {
+            
+            "message": "Paātrinātājuma mērītājs"
+        },
+        "Ammonium" : {
+            
+            "message": "Amonijs"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Amonija JSE"
+        },
+        "Analyzer" : {
+            
+            "message": "Analizators"
+        },
+        "Anemometer" : {
+            
+            "message": "Anemometrs"
+        },
+        "Angle" : {
+            
+            "message": "Leņķis"
+        },
+        "Barometer" : {
+            
+            "message": "Barometrs"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometrs (vairs netiek pārdots)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Bioloģijā Gāzes spiediens"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Asinsspiediens"
+        },
+        "Calcium" : {
+            
+            "message": "Kalcijs"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Kalcija JSE"
+        },
+        "Charge" : {
+            
+            "message": "Lādiņš"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Lādiņa sensors"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Lādiņa sensors 100nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Lādiņa sensors 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Lādiņa sensors 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Hlorīds"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Hlorīda JSE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Gāze Augsts"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Gāze Zems"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 Gāze Vecais"
+        },
+        "Colorimeter" : {
+            
+            "message": "Kolorimetrs"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Kolorimetrs Vecais"
+        },
+        "Concentration" : {
+            
+            "message": "Koncentrācija"
+        },
+        "Conductivity" : {
+            
+            "message": "Elektrovadītspēja"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Elektrovadītspēja 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Elektrovadītsēja 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Elektrovadītspēja 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Konstantas Strāvas Sistēma"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Aproces spiediens"
+        },
+        "Current" : {
+            
+            "message": "Strāva"
+        },
+        "Current Probe" : {
+            
+            "message": "Strāvas sensors"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Strāvas sensors 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastolisks"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Difrenciāls Spriegums"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Digitālās Vadības vienība"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Tieši-pievienota Temp"
+        },
+        "Displacement" : {
+            
+            "message": "Aizvietošana"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Izšķīdušais CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Izšķīdušais Skābeklis"
+        },
+        "Distance" : {
+            
+            "message": "Attālums"
+        },
+        "DO" : {
+            
+            "message": "Izšķ Skāb"
+        },
+        "Drop Counter" : {
+            
+            "message": "Pilienu skaitītājs"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Divu diapazonu Spēks 10N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Divu diapazonu Spēks 50N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Ratiņi tikai no 2021. gada sākuma"
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Elektroda pastiprinātājs"
+        },
+        "Energy" : {
+            
+            "message": "Enerģija"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Enerģijas sensora Strāva"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Enerģijas sensora Spriegums"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanols"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Etanola (spirta) sensors"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Īpaši garš Temperatūras sensors"
+        },
+        "Flow Rate" : {
+            
+            "message": "Plūsmas ātrums"
+        },
+        "Fluorescence" : {
+            
+            "message": "Fluorescence"
+        },
+        "Force" : {
+            
+            "message": "Spēks"
+        },
+        "Force Plate" : {
+            
+            "message": "Spēka Plāksne"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Spēka Plāksne 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Spēka Plāksne 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Gāzes Spiediena Sensors"
+        },
+        "Gate State" : {
+            
+            "message": "Vārtu Stāvoklis"
+        },
+        "Gate Time" : {
+            
+            "message": "Vārtu Laiks"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Go Wireless Elektroda pastiprinātājs"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go Wireless Sirds Puksti"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Go Wireless pH"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Temp"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Kustība"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniometrs"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Rokas Dinamometrs"
+        },
+        "Heart Rate" : {
+            
+            "message": "Sirds Puksti"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Sirds Pukstu Monitors"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Augstas Strāvas Sensors"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Augstas Jutības Apgaismojums 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Augstas Jutības Apgaismojums 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Augstas Jutības Apgaismojums 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Apgaismojums"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Instrumentālais Pastiprinātājs"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Instrumentālais Pastiprinātājs +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Instrumentālais Pastiprinātājs +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Instrumentālais Pastiprinātājs +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Instrumentālais Pastiprinātājs 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Instrumentālais Pastiprinātājs 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Instrumentālais Pastiprinātājs 20mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intensitāte"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "IS Temperatūras Sensors"
+        },
+        "Irradiance" : {
+            
+            "message": "Starojums"
+        },
+        "Launch Speed" : {
+            
+            "message": "Palaišanas ātrums"
+        },
+        "Light" : {
+            
+            "message": "Apgaismojums"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Apgaismojums 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Apgaismojums 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Apgaismojums 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Apgaismojuma līmenis"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Lineāras Pozīcijas Sensors"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Low-g Paātrinājuma mērītājs"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Magnētiskais Lauks"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Magnētiskais lauks 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Magnētiskais lauks 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Vidējais Arteriālais Spiediens"
+        },
+        "Melt Station" : {
+            
+            "message": "Kušanas punkta noteikšanas ierīce"
+        },
+        "Microphone" : {
+            
+            "message": "Mikrofons"
+        },
+        "mol/L" : {
+            
+            "message": ""
+        },
+        "Motion" : {
+            
+            "message": "Kustība"
+        },
+        "Motion Detector" : {
+            
+            "message": "Kustību Detektors"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Kustību Enkodera ratiņi"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitrāti"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitrātu JSE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Optiskais IS Sensor %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Optiskais IS Sensors mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Skābeklis Gāze"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Skābeklis Gāze Vecais"
+        },
+        "PAR Sensor" : {
+            
+            "message": "PAR sensors"
+        },
+        "Period" : {
+            
+            "message": ""
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP Pastiprinātāji"
+        },
+        "Photogate" : {
+            
+            "message": "Gaismas vārti"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Platīna šūnas Elektrovadītspēja"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimetrs"
+        },
+        "Position" : {
+            
+            "message": "Pozīcija"
+        },
+        "Potassium" : {
+            
+            "message": "Kālijs"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Kālija JSE"
+        },
+        "Potential" : {
+            
+            "message": "Potenciāls"
+        },
+        "Power" : {
+            
+            "message": "Pakāpe"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Jaudas Amp Strāva"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Spiediens"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Spiediena Sensors (Vairs Nav pārdošanā)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Spiediena Sensors 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Lodes (šāviņa) Palaidējs"
+        },
+        "Pulse" : {
+            
+            "message": "Pulss"
+        },
+        "Pulse Time" : {
+            
+            "message": "Pulsa Laiks"
+        },
+        "Pyranometer" : {
+            
+            "message": "Piranometrs"
+        },
+        "Radiation" : {
+            
+            "message": "Radiācija"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Radiācijas monitors"
+        },
+        "Raw" : {
+            
+            "message": ""
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Sākotnējais Spriegums (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Relatīvais Mitrums"
+        },
+        "Resistance" : {
+            
+            "message": "Pretestība"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Elpošanas monitors"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Elpošanas ātrums"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Rotācijas Kustība"
+        },
+        "Salinity" : {
+            
+            "message": "Sāļainība"
+        },
+        "Signal" : {
+            
+            "message": "Signāls"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Augsnes Mitrums"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Augsnes Mitruma sensors"
+        },
+        "Sound Level" : {
+            
+            "message": "Skaņas Stiprums"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Skaņas Stipruma sensors"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Skaņas Spiediens"
+        },
+        "Speed" : {
+            
+            "message": "Ātrums"
+        },
+        "Spirometer" : {
+            
+            "message": "Spirometrs"
+        },
+        "Standard" : {
+            
+            "message": "Standrts"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Standarta Temperatūra"
+        },
+        "Student Force" : {
+            
+            "message": "Studenta Spēks"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Studenta Radiācijas monitors"
+        },
+        "Systolic" : {
+            
+            "message": "Sistolisks"
+        },
+        "Temperature" : {
+            
+            "message": "Temperatūra"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Temperatūras sensors"
+        },
+        "Thermocouple" : {
+            
+            "message": "Termopāris"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Termopāris Vecais"
+        },
+        "TI Light" : {
+            
+            "message": "TI Apgaismojums"
+        },
+        "Time of Flight" : {
+            
+            "message": ""
+        },
+        "Transmittance" : {
+            
+            "message": "Caurlaidība"
+        },
+        "Turbidity" : {
+            
+            "message": "Caurredzamība"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA intensitāte"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVA sensors"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB intensitāte"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVB sensors"
+        },
+        "Velocity" : {
+            
+            "message": "Ātrums"
+        },
+        "Voltage" : {
+            
+            "message": "Spriegums"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Spriegums (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Tilpums"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT Aizvietošana"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT Spēks"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Plaša diapazona Temperatūras sensors"
+        },
+        "X Acceleration" : {
+            
+            "message": "X Paātrinājums"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y Paātrinājums"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z Paātrinājums"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": ""
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": ""
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Absolūtais Mitrums"
+        },
+        "Acceleration G" : {
+            
+            "message": "Paātrinājums G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Paātrinājuma Vektors"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Paātrinājums Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Pievienotais Tilpums"
+        },
+        "Altitude" : {
+            
+            "message": "Augstums"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Augstuma viena punkta kalibrēšana"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitūda"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Leņķis (Augsta Izšķirtspēja)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Leņķa kustība"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Nulles iestatīšana"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Papildus Porta Režīms"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE Strāvas diapazons"
+        },
+        "BE Duration" : {
+            
+            "message": "BE Ilgums"
+        },
+        "BE Potential" : {
+            
+            "message": "BE Potenciāls"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE Paraugu uzkrāšana"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Barometriskais Spiediens"
+        },
+        "Battery Level" : {
+            
+            "message": "Baterijas uzlādes līmenis"
+        },
+        "Battery Percent" : {
+            
+            "message": "Baterija Procentos"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Akumulatora Spriegums"
+        },
+        "Blank calibration" : {
+            
+            "message": "Tukšā kalibrēšana"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ Ekvivalents"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ Gāze"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CSV Strāvas diapazons"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CSV Beigu potenciāls"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CSV Sākotnējais potenciāls"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CSV Cilpu Skaits"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS Segmentu skaits"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS Procesa Ātrums"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS Komutācijas Potenciāls 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS Komutācijas Potenciāls 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Kalibrēšanas koeficients"
+        },
+        "Calibration power" : {
+            
+            "message": "Kalibrēšanas pakāpe"
+        },
+        "Cap number" : {
+            
+            "message": "Vāciņa numurs"
+        },
+        "Cell" : {
+            
+            "message": "Šūna"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Šūnas konstante (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Šūnas konstante (aktīvs)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Koeficients-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Koeficients-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Koeficients-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Elektrovadītspēja - 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": ""
+        },
+        "Counts" : {
+            
+            "message": "Skaits"
+        },
+        "Current pressure" : {
+            
+            "message": "Pašreizējais spiediens"
+        },
+        "Current state" : {
+            
+            "message": "Pašreizējais statuss"
+        },
+        "Current temperature" : {
+            
+            "message": "Pašreizējā temperatūra"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Cikla Tilpums"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Cikla tilpuma avots"
+        },
+        "DAC value" : {
+            
+            "message": "DAC vērtība"
+        },
+        "DO Concentration" : {
+            
+            "message": "ISk koncentrācija"
+        },
+        "DO Salinity" : {
+            
+            "message": "ISk sāļainība"
+        },
+        "DO Saturation" : {
+            
+            "message": "ISk piesātinājums"
+        },
+        "Data source" : {
+            
+            "message": "Datu avots"
+        },
+        "Declination" : {
+            
+            "message": "Novirze"
+        },
+        "Demo" : {
+            
+            "message": "Demo"
+        },
+        "Dew Point" : {
+            
+            "message": "Rasas punkts"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Diastoliskais koeficients"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Diferenciālais Spiediens"
+        },
+        "Drops" : {
+            
+            "message": "Pilieni"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG rektificēts"
+        },
+        "Electrode Current" : {
+            
+            "message": "Elektroda Strāva"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Elektroda Spriegums"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Elektroda tīrīšana"
+        },
+        "Enter altitude" : {
+            
+            "message": "Ievadi augstumu"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Ievadi barometrisko spiedienu"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Ievadi pašreizējo temperatūru"
+        },
+        "Enter first known value" : {
+            
+            "message": "Ievadi pirmo zināmo vērtību"
+        },
+        "Enter k value" : {
+            
+            "message": "Ievadi k vērtību"
+        },
+        "Enter known value" : {
+            
+            "message": "Ievadi zināmu vērtību"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Ievadi reizinātāja vērtību"
+        },
+        "Enter n value" : {
+            
+            "message": "Ievadi n vērtību"
+        },
+        "Enter offset value" : {
+            
+            "message": "Ievadi nobīdes vērtību"
+        },
+        "Enter power value" : {
+            
+            "message": "Ievadi pakāpes vērtību"
+        },
+        "Enter second known value" : {
+            
+            "message": "Ievadi otru zināmu vērtību"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Ievadi stacijas augstumu"
+        },
+        "Enter third known value" : {
+            
+            "message": "Ievadi trešo zināmo vērtību"
+        },
+        "Envelope" : {
+            
+            "message": "Konverts"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Konverta izlīdzināšana"
+        },
+        "Error" : {
+            
+            "message": "Kļūda"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Etanola Gāze"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Etanola Gāze ar HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Etanola Atzīme"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Etanola Tvaiks"
+        },
+        "Experiment Type" : {
+            
+            "message": "Eksperimenta veids"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Izelpas Smailes Tilpums"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "FWD" : {
+            
+            "message": "FWD"
+        },
+        "Fan" : {
+            
+            "message": "Ventilators"
+        },
+        "Fan Mode" : {
+            
+            "message": "Ventilatora režīms"
+        },
+        "Final hold time" : {
+            
+            "message": "Pēdējais aiztures laiks"
+        },
+        "Final temperature" : {
+            
+            "message": "Gala temperatūra"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Piecu punktu kalibrēšana"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Plūsmas ātruma filtrs"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Ieelpas plūsmas ātruma polaritāte"
+        },
+        "Force G" : {
+            
+            "message": "Spēks G"
+        },
+        "Force Y" : {
+            
+            "message": "Spēks Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Spēka viena punkta kalibrēšana"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Spēka divu punktu kalibrēšana"
+        },
+        "Forward" : {
+            
+            "message": "Uz priekšu"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Vārti 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Vārti 1 - Vārtu stāvoklis"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Vārti 1 Stāvoklis"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Vārti 1 / Attālinātie vārti - Laiks"
+        },
+        "Gate 2" : {
+            
+            "message": "Vārti 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Vārti 2 - Vārtu stāvoklis"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Vārti 2 Stāvoklis"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-Asu Magnētiskā Lauka Sensors"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® Paātrinājums"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® Blood Pressure"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ Gāze"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® Kolorimetrs"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® Elektrovadītspējas Sensors"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Konstantas Strāvas Sistēma"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® Strāvas Sensors"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® Cyclic Voltammetry Sistēma"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® Pilienu skaitītājs"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektrodu Pastiprinātājs"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® Enerģija"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Go Direct® Etanola sensors"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Go Direct® Etanola Tvaiks"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Spēka un Paātrinājuma Sensors"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® Gāzes Hromatogrāfs"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Gāzes Spiediena Sensors"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® Rokas dinamometrs"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® Jonu selektīvā Elektroda pastiprinātājs"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® Gaismas un Krāsas Sensors"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® Kušanas Stacija"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® Kustība"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optiskais Izšķīdušā Skābekļa sensors"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ Gāze"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® Gaismas vārti"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Platīna Šūnas Elektrovadītspēja"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct® Polarimetrs"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® Lādiņa (šāviņa) palaidējs"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct® Pulsa Oksimetrs"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® Radiācijas Monitors"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® Elpošanas josta"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® Rotācijas Kustība"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Sensoru Ratiņi (Green)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Sensoru Ratiņi (Yellow)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® Skaņa"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® Spirometrs"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Struktūras & Materiālu testeris"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® Virsmas Temperatūra"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® Temperatūras Sensors"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Termopāra pastiprinātājs"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® Sprieguma Sensors"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® Weather"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® Plaša Diapazona Temperatūra"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Plaša diapazona Spiediens"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct™ 3-Asu Magnētiskā lauka sensors"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct™ Paātrinājums"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct™ Asinsspiediena Sensors"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ CO₂ Gāze"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct™ Kolorimetrs"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct™ Elektrovadītspējas sensors"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct™ Konstantas strāvas sistēma"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct™ Strāvas sensors"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ Cyclic Voltammetry Sistēma"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct™ Pilienu skaitītājs"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct™ EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Elektrodu Pastiprinātājs"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct™ Enerģija"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Go Direct™ Etanola sensors"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Go Direct™ Etanola tvaiks"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct™ Spēka un Paātrinājuma Sensors"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ Gāzu Hromatogrāfs"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct™ Gāzes Spiediena Sensors"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct™ Rokas dinamometrs"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Jonu selektīvā Elektroda pastiprinātājs"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct™ Gaismas un Krāsas sensors"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct™ Kušanas sensors"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct™ Kustība"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct™ Optiskais Izšķīdušais Skābeklis"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ O₂ Gāze"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ Gaismas vārti"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Platīna šūnas Elektrovadītspēja"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™ Polarimetrs"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct™ Lādiņa (šāviņa) palaidējs"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™ Pulsa Oksimetrs"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct™ Radiācijas Sensors"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct™ Elpošanas josta"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct™ Rotācijas Kustība"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct™ Sensora Ratiņi (Green)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct™ Sensora Ratiņi (Yellow)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct™ Skaņa"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ Spirometrs"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ Struktūras & Materiālu testeris"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct™ Virsmas temperatūra"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct™ Temperatūras Sensors"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ Termopāra pastiprinātājs"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct™ Sprieguma Sensors"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ Weather"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct™ Plaša Diapazona Temperatūra"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™ Plaša diapazona Spiediens"
+        },
+        "Heat Index" : {
+            
+            "message": "Siltuma indekss"
+        },
+        "Hold time" : {
+            
+            "message": "Aiztures laiks"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Ūdeņradis Atzīme"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "Apgaismojums"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Sākotnējais Apgaismojums"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Lāpstiņriteņa frekvence"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Ieelpas Pīķa Tilpums"
+        },
+        "Instrument status" : {
+            
+            "message": "Instrumenta statuss"
+        },
+        "Internal Current" : {
+            
+            "message": "Iekšējā Strāva"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Iekšējais Spriegums"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED diagnostika"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED apjoms"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Lāzera vārti - Vārtu stāvoklis"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Lāzera Vārtu stāvoklis"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Lāzera vārti / Attālināti vārti - Laiks"
+        },
+        "Launch Angle" : {
+            
+            "message": "Palaišanas leņķis"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineāra kustība"
+        },
+        "Live" : {
+            
+            "message": "Tiešsaiste"
+        },
+        "Load cell gain" : {
+            
+            "message": "Slodzes šūnas palielinājums"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Mikrofons - FIKSĒTS"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Mikrofons - FIKSĒTS A svars"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Mikrofons - FIKSĒTS C svars"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Kustība (ratiņi)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Kustības paātrinājums"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Kustības ātrums"
+        },
+        "Motion with TC" : {
+            
+            "message": "Kustība ar TC"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "Nē"
+        },
+        "No smoothing" : {
+            
+            "message": ""
+        },
+        "Normalized Response" : {
+            
+            "message": "Normāla atbildes reakcija"
+        },
+        "Not ready" : {
+            
+            "message": "Nav gatavs"
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP Ilgums"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP Paraugu iegūšanas biežums"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Objekta paātrinājums (vairāki karogi)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Objekta paātrinājums (viens karogs)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Objekta ātrums"
+        },
+        "Off" : {
+            
+            "message": "Izslēgts"
+        },
+        "One-point calibration" : {
+            
+            "message": "Viena punkta kalibrēšana"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Optiskā Rotācija"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Svārstību Anotācijas"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Svārstību Maks"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Svārstību Min"
+        },
+        "Oscillations" : {
+            
+            "message": "Svārstības"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Gāze"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": ""
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Gāzes rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": ""
+        },
+        "PPFD - CF" : {
+            
+            "message": ""
+        },
+        "PPFD Correction" : {
+            
+            "message": ""
+        },
+        "PYR two-point calibration" : {
+            
+            "message": ""
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Pīķa Laukums"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Svārsta periods"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Svārsta ātrums"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Programmaparatūras galvenā versija"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Programmaparatūras mazākā versija"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Programmaparatūras pārskatīšana"
+        },
+        "Position Direction" : {
+            
+            "message": "Pozīcijas Virziens"
+        },
+        "Position G" : {
+            
+            "message": "Pozīcija G"
+        },
+        "Position Vector" : {
+            
+            "message": "Pozīcijas Vektors"
+        },
+        "Position Y" : {
+            
+            "message": "Pozīcija Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Pakāpes Trīs punktu kalibrēšana"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Pulsa Spiediens"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Pulss"
+        },
+        "REV" : {
+            
+            "message": "REV"
+        },
+        "Ramp rate" : {
+            
+            "message": "Slīpuma ātrums"
+        },
+        "Raw Diastolic" : {
+            
+            "message": ""
+        },
+        "Raw MAP" : {
+            
+            "message": ""
+        },
+        "Raw Pressure" : {
+            
+            "message": ""
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": ""
+        },
+        "Raw Systolic" : {
+            
+            "message": ""
+        },
+        "Raw Temperature" : {
+            
+            "message": "Sākotnējā Temperatūra"
+        },
+        "Ready" : {
+            
+            "message": "Gatavs"
+        },
+        "Ready to inject" : {
+            
+            "message": "Gatavs ievadīt"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Attālināts paātrinājums"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Attālināti Vārti - Objekta paātrinājums"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Attālināti vārti - Objekta paātrinājums (viens karogs)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Attālināti vārti - Objekta ātrums"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Tālvadības Vārti 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Tālvadības Vārti 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Attālināts ātrums"
+        },
+        "Reverse" : {
+            
+            "message": "Reverss"
+        },
+        "Running" : {
+            
+            "message": "Darbojas"
+        },
+        "Salinity correction" : {
+            
+            "message": "Sāļainības korekcija"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Skaņas līmenis A - svērts"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Skaņas līmenis C - svērts"
+        },
+        "Start temperature" : {
+            
+            "message": "Starta temperatūra"
+        },
+        "Starting" : {
+            
+            "message": "Uzsākt"
+        },
+        "Station Pressure" : {
+            
+            "message": "Stacijas Spiediens"
+        },
+        "Step Rate" : {
+            
+            "message": "Solis"
+        },
+        "Steps" : {
+            
+            "message": "Soļi"
+        },
+        "Stopped" : {
+            
+            "message": "Apturēts"
+        },
+        "Switch USB" : {
+            
+            "message": "Slēdzis USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Sistoliskais koeficients"
+        },
+        "Temperature correction" : {
+            
+            "message": "Temperatūras korekcija"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Triju punktu kalibrēšana"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Lidojuma paliktņa laiks"
+        },
+        "Timing" : {
+            
+            "message": "Laiks"
+        },
+        "Total VOC" : {
+            
+            "message": "Kopējais VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Divu punktu kalibrēšana"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Type J Termopāris"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Type K Termopāris"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Type T Termopāris"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": ""
+        },
+        "UV Index" : {
+            
+            "message": "UV Indekss"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV Intensitāte"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": ""
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Vektoru diapazons Maks"
+        },
+        "Vector range Min" : {
+            
+            "message": "Vektoru diapazons Min"
+        },
+        "Velocity G" : {
+            
+            "message": "Ātrums G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Ātruma Vektors"
+        },
+        "Velocity Y" : {
+            
+            "message": "Ātrums Y"
+        },
+        "Velocity2" : {
+            
+            "message": "Ātrums2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Spriegums - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Spriegums - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Tilpuma korekcijas faktors"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Ieelpas Tilpuma polaritāte"
+        },
+        "W/m²" : {
+            
+            "message": ""
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Vilņa amplitūda"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Vilņa frekvence"
+        },
+        "Wind Chill" : {
+            
+            "message": "Vēja aukstums"
+        },
+        "Wind Direction" : {
+            
+            "message": "Vēja Virziens"
+        },
+        "Wind Speed" : {
+            
+            "message": "Vēja Ātrums"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Vēja virziena kalibrēšana"
+        },
+        "X magnetic field" : {
+            
+            "message": "X magnētiskais lauks"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X magnētiskais lauks 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-leņķiskais ātrums"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X-ass paātrinājums"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-ass paātrinājums G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-ass paātrinājums Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-ass paātrinājums viena punkta kalibrēšana"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-ass paātrinājums - augsts"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-ass paātrinājums-augsts viena punkta kalibrēšana"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X-ass leņķiskais ātrums"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "X-ass leņķiskais ātrums G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "X-ass leņķiskais ātrums Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X-ass giro"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y magnētiskais lauks"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y magnētiskais lauks 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-leņķiskais ātrums"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y-ass paātrinājums"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-ass paātrinājums G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-ass paātrinājums Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y-ass paātrinājums viena punkta kalibrēšana"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y-ass paātrinājums-augsts"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y-ass paātrinājums-augsts viena punkta kalibrēšana"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y-ass leņķiskais ātrums"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y-ass leņķiskais ātrums G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y-ass leņķiskais ātrums Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y-ass giro"
+        },
+        "Yes" : {
+            
+            "message": "Jā"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z magnētiskais lauks"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z magnētiskais lauks 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-leņķiskais ātrums"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z-ass paātrinājums"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-ass paātrinājums G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-ass paātrinājums Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z-ass paātrinājums viena punkta kalibrēšana"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z-ass paātrinājums-augsts"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z-ass paātrinājums-augsts viena punkta kalibrēšana"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z-ass leņķiskais ātrums"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z-ass leņķiskais ātrums G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z-ass leņķiskais ātrums Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z-ass giro"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "sit/min"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "skaits"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "iekšā"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "mezgli"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": ""
+        },
+        "pC" : {
+            
+            "message": ""
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "sākotnējais spriegums"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "rev"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "soļi"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": ""
+        },
+        "units/s" : {
+            
+            "message": "vienības/s"
+        },
+        "units/s²" : {
+            
+            "message": "vienības/s²"
+        },
+        "velocity2" : {
+            
+            "message": "ātrums2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx9"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": ""
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Kosinuss"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Kosinuss kvadrātā"
+        },
+        "Inverse" : {
+            
+            "message": "Inverss"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Inverss Kvadrātā"
+        },
+        "Linear" : {
+            
+            "message": "Lineārs"
+        },
+        "Modified Power" : {
+            
+            "message": "Pārveidota Pakāpe"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Naturālais Eksponents"
+        },
+        "Natural Log" : {
+            
+            "message": "Naturālais Log"
+        },
+        "Not defined" : {
+            
+            "message": "Nav definēts"
+        },
+        "Power" : {
+            
+            "message": "Pakāpe"
+        },
+        "Proportional" : {
+            
+            "message": "Proporcionāls"
+        },
+        "Quadratic" : {
+            
+            "message": "Kvadrātisks"
+        },
+        "Sine" : {
+            
+            "message": "Sinuss"
+        },
+        "Slope" : {
+            
+            "message": "Slīpums"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Pielāgota izteiksme"
+        }
+        
+    }
+}

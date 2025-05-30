@@ -1,0 +1,6474 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d klienti sú pripojení"
+        },
+        "%s All" : {
+            
+            "message": "%s Všetky"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s Všetky zostavy dát"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s možnosti zobrazenia"
+        },
+        "%s details" : {
+            
+            "message": "%s detaily"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s momentálne zbiera dáta. Chcete zastaviť zber dát a spustiť nový experiment?"
+        },
+        "%s Options" : {
+            
+            "message": "%sMožnosti"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(vzdialenosť, rýchlosť, zrýchlenie)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 graf"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1. derivácia"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1. derivácia s časovým posunom"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1. derivácia (Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 grafy"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 grafy"
+        },
+        "2nd derivative" : {
+            
+            "message": "2. derivácia"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2. derivácia s časovým posunom"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2. derivácia (Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 grafy"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 grafy"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Došlo k chybe v komunikácii. Pre pokračovanie začnite nový experiment."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Chyba v komunikácii spôsobila, že sa zastavil zber dát. Skúste zber spustiť znovu."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B a C sú parametre, ktoré môžete nastaviť. X, Y a Z sú existujúce stĺpce vo vašej tabuľke dát."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "O programe"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "Informácie o používateľskom prekladaní kriviek"
+        },
+        "Absolute Value" : {
+            
+            "message": "Absolútna hodnota"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "Prijatie End User License Agreement and Privacy Notice"
+        },
+        "Accessories" : {
+            
+            "message": "Príslušenstvo"
+        },
+        "across" : {
+            
+            "message": "a prekračuje"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Aktivácia ďalších funkcií pomocou vášho licenčného kľúča"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "Aktivujte si licenciu na manuálne prekladanie kriviek"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Aktivujte si licenciu na použitie FFT"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Aktivujte si licenciu na použitie histogramu"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Aktivujte si licenciu, aby sa mohli použiť obnovu prečiarknutých riadkov"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Aktivujte si licenciu na použitie zobrazenia odchýliek parametrov preloženia"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Aktivujte si licenciu na použitie preškrtávania riadkov"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Aktivujte si licenciu na použitie preškrtávania"
+        },
+        "Activate to use %s" : {
+            
+            "message": "Aktivujte si licenciu na použitie %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Aktivujte si licenciu na použitie stĺpcových grafov"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "Aktivujte si licenciu na použitie poznámok"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Aktivujte si licenciu na použitie online zdieľania dát"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Aktivujte si licenciu na použitie videa"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Pridaj vypočítaný stĺpec"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Tu zadajte názov grafu"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Pridaj manuálny stĺpec"
+        },
+        "Add Annotation" : {
+            
+            "message": "Pridaj anotáciu"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Pridaj vypočítaný stĺpec"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Dajte do odkladacej fľaštičky destilovanú vodu po vrch špongie."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Pridaj napodobňovanie grafu"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Pridaj ručne vložený stĺpec"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "Pridaj manuálne preloženie krivky"
+        },
+        "add meters" : {
+            
+            "message": "pridaj meracie panely"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Pridaj novú zostavu dát"
+        },
+        "Add Prediction" : {
+            
+            "message": "Pridaj predpoveď"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Pridaj Soft senzor"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Kvapkajte titrant cez počítadlo kvapiek do 10 ml odmerného valca."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Pridaj/odstráň meracie panely"
+        },
+        "Advanced" : {
+            
+            "message": "Pokročilé"
+        },
+        "After" : {
+            
+            "message": "Po"
+        },
+        "After set number of flags" : {
+            
+            "message": "Po nastavení počtu značiek"
+        },
+        "All" : {
+            
+            "message": "Všetky"
+        },
+        "Always Show 0" : {
+            
+            "message": "Vždy zobrazuj 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitúda"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Výraz musí obsahovať nezávislú premennú a aspoň jeden parameter."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Na pripojenie k relácii zdieľania dát je potrebné internetové pripojenie. Znovu sa pripojte k internetu a dotknite sa pripojenia."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Na pripojenie k online zdieľaniu dát je potrebné internetové pripojenie"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Na zdieľanie dát je potrebné internetové pripojenie"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Na pripojenie k relácii zdieľania dát je potrebné internetové pripojenie. Znovu sa pripojte k internetu a spustite novú reláciu zdieľania dát."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "prídavné príslušenstvo k vystreľovaču projektilov, ktoré sa používa na meranie času letu projektilu."
+        },
+        "and " : {
+            
+            "message": "a "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "a dotknite sa ZASTAV ZDIEĽANIE"
+        },
+        "Angle units" : {
+            
+            "message": "Uhlové jednotky"
+        },
+        "Angular Motion" : {
+            
+            "message": "Uhlový pohyb"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Informácia o uhlovom pohybe"
+        },
+        "App is up to date" : {
+            
+            "message": "Aplikácia je aktuálna"
+        },
+        "App Preferences" : {
+            
+            "message": "Preferencie aplikácie"
+        },
+        "App Updates" : {
+            
+            "message": "Aktualizácia aplikácie"
+        },
+        "Appearance" : {
+            
+            "message": "Vzhľad"
+        },
+        "Append" : {
+            
+            "message": "Priložiť"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Priložiť ďalšie dáta k momentálnej zostave dát alebo vytvoriť novú zostavu dát?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Priložiť, alebo vytvoriť nový?"
+        },
+        "Apply" : {
+            
+            "message": "Použi"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Použi preloženie krivkou"
+        },
+        "Apply FFT" : {
+            
+            "message": "Použi FFT"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Aplikuj histogram"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Plocha"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Počas zberu dát ostatní tieto dáta uvidia vo svojich kópiach Graphical Analysis"
+        },
+        "Auto" : {
+            
+            "message": "Automaticky"
+        },
+        "Automatic" : {
+            
+            "message": "Automaticky"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Priemerovanie údajov zo senzora počas 10 sekúnd"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Priemerovanie počas 10 sekúnd"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Veľkosť značky osi"
+        },
+        "Back" : {
+            
+            "message": "Naspäť"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Band pass filter"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Band stop filter"
+        },
+        "Bar Tape" : {
+            
+            "message": "Páska fotobrány"
+        },
+        "Bars" : {
+            
+            "message": "Stĺpce"
+        },
+        "Base" : {
+            
+            "message": "Základňa"
+        },
+        "Base Axis" : {
+            
+            "message": "Základná os"
+        },
+        "Battery" : {
+            
+            "message": "Batéria"
+        },
+        "Battery Level" : {
+            
+            "message": "Úroveň batérie"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Počiatočná hodnota intervalu"
+        },
+        "Bin Width" : {
+            
+            "message": "Šírka intervalu"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Bluetooth zariadenie"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth nie je zapnuté"
+        },
+        "Bold" : {
+            
+            "message": "Hrubé"
+        },
+        "Book" : {
+            
+            "message": "Zbierka"
+        },
+        "Book Title" : {
+            
+            "message": "Názov zbierky"
+        },
+        "Both" : {
+            
+            "message": "Obidva"
+        },
+        "Bottom" : {
+            
+            "message": "Dolná"
+        },
+        "Bottom Bar" : {
+            
+            "message": "Spodná lišta"
+        },
+        "Bullet list" : {
+            
+            "message": "Zoznam odrážok"
+        },
+        "Calculated %s" : {
+            
+            "message": "Vypočítaný %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Vypočítaný stĺpec"
+        },
+        "Calibrate" : {
+            
+            "message": "Kalibrácia"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Kalibruj"
+        },
+        "Calibrating..." : {
+            
+            "message": "Kalibrácia..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Kalibrácia je ukončená"
+        },
+        "Calibration failed" : {
+            
+            "message": "Kalibrácia zlyhala"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Úspešný reset kalibrácie"
+        },
+        "Calibration Type" : {
+            
+            "message": "Typ kalibrácie"
+        },
+        "Cancel" : {
+            
+            "message": "Zruš"
+        },
+        "cancel" : {
+            
+            "message": "zruš"
+        },
+        "Capable" : {
+            
+            "message": "Možné"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Rastrové pravítko vozíka"
+        },
+        "Categorical" : {
+            
+            "message": "Kategorický"
+        },
+        "Categorical Data" : {
+            
+            "message": "Kategorické dáta"
+        },
+        "Ceiling" : {
+            
+            "message": "Strop"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "Rukoväť manuálneho preloženia v strede"
+        },
+        "Change left y-axis" : {
+            
+            "message": "Zmena ľavej osi y"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Zmena pravej osi y"
+        },
+        "Change x-axis" : {
+            
+            "message": "Zmena osi x"
+        },
+        "Change y-axis" : {
+            
+            "message": "Zmena osi y"
+        },
+        "Channels" : {
+            
+            "message": "Kanály"
+        },
+        "Charging," : {
+            
+            "message": "Nabíjanie,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Skontroluj, či nie sú aktualizácie firmware"
+        },
+        "Check for software updates" : {
+            
+            "message": "Skontroluj, či nie sú aktualizácie softvéru"
+        },
+        "Check for Updates" : {
+            
+            "message": "Kontrola aktualizácií"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Skontrolujte, či na senzore bliká LED"
+        },
+        "Checking for update..." : {
+            
+            "message": "Kontrola aktualizácie..."
+        },
+        "Choose File" : {
+            
+            "message": "Vyberte súbor"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Vyber priečinok..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Na pripojenie Go Direct senzorov cez USB zvoľte túto možnosť."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Na pripojenie senzora Go!Temp zvoľte túto možnosť."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": "Touto voľbou pripojíte Go! Link interfejs."
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": "Touto voľbou pripojíte Go! Motion detektor."
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "Na pripojenie interfejsov LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini alebo LabQuest Stream cez USB zvoľte túto možnosť."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "Je potrebný Chrome 102 alebo novší. iPad ani iPhone nie sú podporované."
+        },
+        "Circle" : {
+            
+            "message": "Kruh"
+        },
+        "Clear Expression" : {
+            
+            "message": "Vymaž výraz"
+        },
+        "Clear Filter" : {
+            
+            "message": "Vymaž filter"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Kliknutím alebo dotykom na SPUSTI RELÁCIU vygenerujete ID kód vašej relácie"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "Kliknutím na tlačidlo značky počas zberu dát pridáte dátovú značku v bode momentálneho času."
+        },
+        "Close" : {
+            
+            "message": "Uzavri"
+        },
+        "Close Alert" : {
+            
+            "message": "Uzatvor upozornenie"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Zatvor aplikáciu a aktualizuj firmware"
+        },
+        "Close Application" : {
+            
+            "message": "Uzatvor aplikáciu"
+        },
+        "Close Dialog" : {
+            
+            "message": "Uzavri dialóg"
+        },
+        "Close FFT" : {
+            
+            "message": "Uzavri FFT"
+        },
+        "Close graph legend" : {
+            
+            "message": "Uzatvor legendu grafu"
+        },
+        "Close Histogram" : {
+            
+            "message": "Uzatvor histogram"
+        },
+        "Close Infobox" : {
+            
+            "message": "Uzatvor informáciu"
+        },
+        "Close Menu" : {
+            
+            "message": "Uzavri menu"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Uzatvor maximovú frekvenciu"
+        },
+        "Close Popover" : {
+            
+            "message": "Uzatvor okno"
+        },
+        "Close Replay" : {
+            
+            "message": "Uzavri prehrávanie"
+        },
+        "Close Start Page" : {
+            
+            "message": "Uzatvor úvodnú stránku"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Pre pokračovanie uzatvorte tento dialóg"
+        },
+        "Code" : {
+            
+            "message": "Kód"
+        },
+        "Coefficient" : {
+            
+            "message": "Koeficient"
+        },
+        "Collapse" : {
+            
+            "message": "Zviň"
+        },
+        "Collect" : {
+            
+            "message": "Zber"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Zber dát z Vernierovych senzorov"
+        },
+        "Collecting" : {
+            
+            "message": "Zber"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "Zber %d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Zber veľkého množstva bodov má vplyv na chovanie sa systému."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Zber dát po dobu ${eventParams.accumulate} sekúnd"
+        },
+        "Collection Parameters" : {
+            
+            "message": "Parametre zberu dát"
+        },
+        "Column %s" : {
+            
+            "message": "Stĺpec %s"
+        },
+        "Column Options" : {
+            
+            "message": "Možnosti stĺpca"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Stĺpec sa vymaže zo všetkých zostáv dát. Vymazanie nie je možné vrátiť."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Hodnoty oddelené čiarkou"
+        },
+        "Complementary Error" : {
+            
+            "message": "Doplnková chyba"
+        },
+        "Configurator" : {
+            
+            "message": "Konfigurátor"
+        },
+        "Confirm" : {
+            
+            "message": "Potvrď"
+        },
+        "Connect" : {
+            
+            "message": "Pripoj"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Pripoj <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">podporované Vernierovo USB zariadenie</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Pripoj zariadenie"
+        },
+        "Connect a Device" : {
+            
+            "message": "Pripoj zariadenie"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Pripoj LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Pripoj sa cez WiFi na LabQuest 2 alebo na Logger Pro"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "Pripoj tieto zariadenia na zber dát."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Pripoj toto zariadenie na zber dát."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Pripoj sa k zdieľaniu dát relácie zo zdroja Graphical Analysis"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Pripojte sa k zdroju LabQuest, Logger Pro alebo Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Pripojte sa k posledne vytvorenej relácii, aby ste zdieľali nastavenia, dáta a pod., alebo vytvorte novú reláciu."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Pripoj nasledujúce bezdrôtové zariadenie alebo ho pripoj cez USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Pripoj nasledujúce bezdrôtové zariadenie."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Pripoj sa k predchádzajúcej relácii"
+        },
+        "connected" : {
+            
+            "message": "pripojené"
+        },
+        "Connected Devices" : {
+            
+            "message": "Pripojené zariadenia"
+        },
+        "Connecting" : {
+            
+            "message": "Pripájanie"
+        },
+        "Connection error" : {
+            
+            "message": "Chyba pri pripájaní"
+        },
+        "Connection Lost" : {
+            
+            "message": "Strata spojenia"
+        },
+        "Connection status info" : {
+            
+            "message": "Informácie o stave pripojenia"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Pripojenie ku %s zlyhalo"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "Spojenie s %s bolo úspešné"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "Pokračuj na možnosti vyhľadávania"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "Pokračuj bez požadovaného zariadenia"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Oznámenie o cookie"
+        },
+        "Copy" : {
+            
+            "message": "Kopíruj"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Kopíruj histogram"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Kopíruj Host ID"
+        },
+        "Copy Link" : {
+            
+            "message": "Kopíruj linku"
+        },
+        "Copy Sign" : {
+            
+            "message": "Kopíruj znamienko"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Skopíruj do schránky"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Kopíruj do schránky"
+        },
+        "Cosine" : {
+            
+            "message": "Kosínus"
+        },
+        "Count Interval" : {
+            
+            "message": "Interval počítania"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Vytvor používateľské preloženie"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Vytvor novú zostavu dát"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Vytvorenie používateľského vypočítaného stĺpca"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Vytvorenie používateľského preloženia krivkou"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Tretia odmocnina"
+        },
+        "Curve Fit" : {
+            
+            "message": "Preloženie krivkou"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Používateľský vypočítaný stĺpec"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Používateľské preloženia krivkou"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Informácia o používateľskom pfreložení krivkou"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Informácia o používateľskom výraze"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Používateľské preloženia sa uložia do súborov dokumentov aplikácie. Keď spustíte novú reláciu, alebo opakovane spustíte aplikáciu, preloženia sa vymažú."
+        },
+        "Custom Session" : {
+            
+            "message": "Používateľská relácia"
+        },
+        "Cut" : {
+            
+            "message": "Vystrihni"
+        },
+        "Dark" : {
+            
+            "message": "Tmavý"
+        },
+        "Darker" : {
+            
+            "message": "Tmavší"
+        },
+        "Darkest" : {
+            
+            "message": "Najtmavší"
+        },
+        "Data" : {
+            
+            "message": "Dáta"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "Zber údajov sa začal v režime zaznamenávania."
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Nastavenia zberu dát"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Zber dát sa automaticky zadstaví, keď všetky brány namerajú očakávaný počet meraní polôh (rovnaký počat ako je počet značiek). Opakované spustenie zberu spustí novú zostavu dát."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Zber dát bude pokračovať, až kým manuálne nekliknete alebo sa nedotknete Stop. Hodnoty polohy sa budú ďalej zvyšovať o hodnotu rozstupu, až do zastavenia zberu dát."
+        },
+        "Data Mark" : {
+            
+            "message": "Dátová značka"
+        },
+        "Data Marking" : {
+            
+            "message": "Označovanie dát"
+        },
+        "Data Set %d" : {
+            
+            "message": "Zostava dát %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Názov zostavy dát"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Názov zostavy dát má obmedzenie %s znakov."
+        },
+        "Data Set Options" : {
+            
+            "message": "Možnosti dátovej sady"
+        },
+        "Data Set Time" : {
+            
+            "message": "Čas zostavy dát"
+        },
+        "Data Share" : {
+            
+            "message": "Zdieľanie dát"
+        },
+        "Data Sharing" : {
+            
+            "message": "Zdieľanie dát"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Zdieľanie dát je aktívne"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Relácia zdieľania dát je spustená"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Stav relácie zdieľania dát"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Stav zdieľania dát"
+        },
+        "Data Table" : {
+            
+            "message": "Tabuľka dát"
+        },
+        "Data Type" : {
+            
+            "message": "Typ dát"
+        },
+        "Data Type Info" : {
+            
+            "message": "Informácia o type dát"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Možnosti zobrazenia zostavy dát"
+        },
+        "Decimal Format" : {
+            
+            "message": "Formát desatinného čísla"
+        },
+        "Decimal Places" : {
+            
+            "message": "Desatinné miesta"
+        },
+        "decrease" : {
+            
+            "message": "zníž"
+        },
+        "decreasing" : {
+            
+            "message": "klesajúci"
+        },
+        "degrees" : {
+            
+            "message": "stupne"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Stupne (°)"
+        },
+        "Delete" : {
+            
+            "message": "Vymaž"
+        },
+        "Delete %s?" : {
+            
+            "message": "Vymazať %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Vymaž stĺpec"
+        },
+        "Delete Column" : {
+            
+            "message": "Vymaž stĺpec"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Vymazať stĺpec %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Vymaž dátovú značku"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Vymaž zostavu dát"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Vymaž napodobňovanie grafu"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Vymaž predpoveď"
+        },
+        "Delete Video" : {
+            
+            "message": "Vymaž video"
+        },
+        "Delta" : {
+            
+            "message": "Rozdiel"
+        },
+        "Device Error" : {
+            
+            "message": "Chyba zariadenia"
+        },
+        "Device Information" : {
+            
+            "message": "Informácie o zariadení"
+        },
+        "Device information" : {
+            
+            "message": "Informácie o zariadení"
+        },
+        "Devices" : {
+            
+            "message": "Zariadenia"
+        },
+        "Diameter" : {
+            
+            "message": "Priemer"
+        },
+        "Diamond" : {
+            
+            "message": "Diamant"
+        },
+        "Dimension" : {
+            
+            "message": "Rozmer"
+        },
+        "Disabled" : {
+            
+            "message": "Zablokované"
+        },
+        "Disconnect" : {
+            
+            "message": "Odpoj"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "Odpoj a pokračuj v zaznamenávaní"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "Teraz odpojte USB kábel."
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "Odpoj bez vymazania dát"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Rozpoznané zariadenia"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Rozpoznané bezdrôtové zariadenia"
+        },
+        "Display Meters" : {
+            
+            "message": "Zobraz meradlá"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Zobrazené stĺpce"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Zobrazené zostavy dát"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Zobrazovaná presnosť"
+        },
+        "Distance" : {
+            
+            "message": "Vzdialenosť"
+        },
+        "Distance between gates" : {
+            
+            "message": "Vzdialenosť medzi bránami"
+        },
+        "Distribute App" : {
+            
+            "message": "Distribuuj aplikáciu"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "Distribuuj Vernier Graphical Analysis"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Chcete permanentne odstrániť túto dátovú značku?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Chcete uložiť urobené zmeny do %s? Ak ich neuložíte, vaše zmeny sa stratia."
+        },
+        "Don't Save" : {
+            
+            "message": "Neukladaj"
+        },
+        "Done" : {
+            
+            "message": "Hotovo"
+        },
+        "done" : {
+            
+            "message": "hotovo"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Sťahovanie ukončené. Aktualizácie sa nainštalujú pri nasledujúcom spustení aplikácie"
+        },
+        "Download Experiment" : {
+            
+            "message": "Stiahni experiment"
+        },
+        "Download Update" : {
+            
+            "message": "Stiahnuť aktualizáciu"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Kreslenie predpovede"
+        },
+        "Drop Counting" : {
+            
+            "message": "Počítanie kvapiek"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Meranie sa zastavilo. Prosím, začnite nový experiment a použite pomalší zber dát."
+        },
+        "Drops" : {
+            
+            "message": "Kvapky"
+        },
+        "Drops/mL" : {
+            
+            "message": "Kvapky/ml"
+        },
+        "duration" : {
+            
+            "message": "trvania"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "napr. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "napr. 007 alebo TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Editovanie možností grafu"
+        },
+        "Edit mode" : {
+            
+            "message": "Režim editovania"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Spustenie Bluetooth na pripojenie bezdrôtových senzorov."
+        },
+        "Enable Replay" : {
+            
+            "message": "Umožni prehrávanie"
+        },
+        "Enabled" : {
+            
+            "message": "Odblokované"
+        },
+        "End Collection" : {
+            
+            "message": "Ukončenie zberu"
+        },
+        "End data collection" : {
+            
+            "message": "Koniec zberu dát"
+        },
+        "End User License Agreement" : {
+            
+            "message": "Licenčná zmluva s koncovým použivateľom"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Dotykom ukončite reláciu zdieľania dát"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Vlož anotáciu"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Vlož dáta cez klávesnicu alebo cez kopíruj/vlož"
+        },
+        "Enter first known value" : {
+            
+            "message": "Zadaj prvú známu hodnotu"
+        },
+        "Enter second known value" : {
+            
+            "message": "Zadaj druhú známu hodnotu"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Zadajte presný objem titrantu z odmerného valca"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Zadajte ID zdroja:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "Vstup do kategorického režimu"
+        },
+        "Equation" : {
+            
+            "message": "Rovnica"
+        },
+        "Error" : {
+            
+            "message": "Chyba"
+        },
+        "Error Bar Info" : {
+            
+            "message": "Informácie o chybovom stĺpci"
+        },
+        "Error Bars" : {
+            
+            "message": "Chybové úsečky"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Error: Prístup do schránky je zakázaný."
+        },
+        "Event" : {
+            
+            "message": "Udalosť"
+        },
+        "Event Based" : {
+            
+            "message": "Na základe udalosti"
+        },
+        "Event Mode" : {
+            
+            "message": "Režim udalostí"
+        },
+        "Event Name" : {
+            
+            "message": "Názov udalosti"
+        },
+        "Events with Entry" : {
+            
+            "message": "Udalosti so vstupom"
+        },
+        "Events With Entry" : {
+            
+            "message": "Udalosti so vstupom"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Príklad: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Príklad: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Exp - 1"
+        },
+        "Expand" : {
+            
+            "message": "Rozviň"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Expanduj Host ID"
+        },
+        "Experiment Name" : {
+            
+            "message": "Názov experimentu"
+        },
+        "Experimental Features" : {
+            
+            "message": "Experimentálne funkcie"
+        },
+        "Exponent" : {
+            
+            "message": "Exponent"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Mocnina so základom 2"
+        },
+        "Export" : {
+            
+            "message": "Export"
+        },
+        "Export CSV" : {
+            
+            "message": "Export CSV"
+        },
+        "Expression" : {
+            
+            "message": "Výraz"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Dátum továrenskej kalibrácie"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Ťah ventilátora"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "Možnosti FFT"
+        },
+        "File Menu" : {
+            
+            "message": "Menu súbor"
+        },
+        "File saved" : {
+            
+            "message": "Súbor bol uložený"
+        },
+        "Filename" : {
+            
+            "message": "Názov súboru"
+        },
+        "Filter Device List" : {
+            
+            "message": "Filter zoznamu zariadení"
+        },
+        "Firmware" : {
+            
+            "message": "Firmware"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Informácie o aktualizácii firmware"
+        },
+        "First Derivative" : {
+            
+            "message": "Prvá derivácia"
+        },
+        "Fit Expression" : {
+            
+            "message": "Výraz preloženia"
+        },
+        "Fit Name" : {
+            
+            "message": "Názov preloženia"
+        },
+        "Fit Options" : {
+            
+            "message": "Možnosti preloženia"
+        },
+        "Fixed Value" : {
+            
+            "message": "Fixná hodnota"
+        },
+        "Flag Width" : {
+            
+            "message": "Šírka značky"
+        },
+        "Flags" : {
+            
+            "message": "Značky"
+        },
+        "Floor" : {
+            
+            "message": "Floor"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Pri Vernierovych objektoch sú rozstupy a počet značiek dané výberom objektu. Pri páske fotobrány zadajte počet značiek."
+        },
+        "Frequency" : {
+            
+            "message": "Frekvencia"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Z Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Funkcia"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Funkcie a nezávislé premenné musia byť zapísané malými písmenami."
+        },
+        "Gate Separation" : {
+            
+            "message": "Rozostup brán"
+        },
+        "Gate State" : {
+            
+            "message": "Stav brány"
+        },
+        "Gate timing" : {
+            
+            "message": "Časovanie brány"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "Mapa GDX senzorov"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Dajte ID kód ostatným, aby sa mohli pripojit k vašej relácii"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Direct senzory"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Prejdi na začiatok videa"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Go! Link" : {
+            
+            "message": "Go!Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go!Motion"
+        },
+        "Graph" : {
+            
+            "message": "Graf"
+        },
+        "Graph %s" : {
+            
+            "message": "Graf %s"
+        },
+        "Graph 1" : {
+            
+            "message": "Graf 1"
+        },
+        "Graph 2" : {
+            
+            "message": "Graf 2"
+        },
+        "Graph 3" : {
+            
+            "message": "Graf 3"
+        },
+        "Graph Display" : {
+            
+            "message": "Zobrazenie grafu"
+        },
+        "Graph Inset" : {
+            
+            "message": "Vložka grafu"
+        },
+        "Graph Legend" : {
+            
+            "message": "Legenda grafu"
+        },
+        "Graph Match" : {
+            
+            "message": "Napodobňovanie grafu"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Možnosti napodobňovania grafu"
+        },
+        "Graph Options" : {
+            
+            "message": "Možnosti grafu"
+        },
+        "Graph Shape" : {
+            
+            "message": "Tvar grafu"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Informácie o Graphical Analysis Pro"
+        },
+        "Graphs" : {
+            
+            "message": "Grafy"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "Hlavička 1"
+        },
+        "Heading 2" : {
+            
+            "message": "Hlavička 2"
+        },
+        "Heading 3" : {
+            
+            "message": "Hlavička 3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "Nápomoc pripojenia zariadenia"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "Nápomoc pripojenia zariadenia"
+        },
+        "Hide" : {
+            
+            "message": "Skry"
+        },
+        "Hide Details" : {
+            
+            "message": "Skry detaily"
+        },
+        "High-pass Filter" : {
+            
+            "message": "High pass filter"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Režim vysokého rozlíšenia"
+        },
+        "Histogram" : {
+            
+            "message": "Histogram"
+        },
+        "Histogram options" : {
+            
+            "message": "Možnosti histogramu"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Vodorovný rozdelovník"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Zorganizuj reláciu zdieľania dát"
+        },
+        "How To Distribute" : {
+            
+            "message": "Ako distribuovať"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Hyperbolický kosínus"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Hyperbolický sínus"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Hyperbolický tangens"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Prepona"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Identifikuj"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "Ak je potrebné ďalšie zariadenie, opakuj proces."
+        },
+        "Ignore" : {
+            
+            "message": "Ignoruj"
+        },
+        "Import Video" : {
+            
+            "message": "Importuj video"
+        },
+        "increase" : {
+            
+            "message": "zvýš"
+        },
+        "increasing" : {
+            
+            "message": "rastúci"
+        },
+        "Insert Expression" : {
+            
+            "message": "Vlož výraz"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Vložte senzor do fľaštičky tak, aby sa jeho koniec nedotýkal vody ani špongie."
+        },
+        "Integral" : {
+            
+            "message": "Integrál"
+        },
+        "Intercept" : {
+            
+            "message": "Priesečník"
+        },
+        "Interpolate" : {
+            
+            "message": "Interpolácia"
+        },
+        "Interval" : {
+            
+            "message": "Interval"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Chybná rovnica"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Chybný výraz"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Inverzný kosínus"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Inverzný hyperbolický kosínus"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Inverzný hyperbolický sínus"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Inverzný hyperbolický tangens"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Inverzný sínus"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Inverzný tangens"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Inverzný tangens 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "Prevrátený obrysový obdĺžnik"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "Prevrátený obrysový trojuholník"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "Prevrátený obdĺžnik"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "Prevrátený trojuholník"
+        },
+        "is" : {
+            
+            "message": "je"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "nie je momentálne podporované. Skúste iné."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Po výmene krytu jednoznačne odporúčame urobiť kalibráciu."
+        },
+        "Italic" : {
+            
+            "message": "Kurzíva"
+        },
+        "Join New Experiment" : {
+            
+            "message": "Pripoj sa k novému experimentu"
+        },
+        "Keep" : {
+            
+            "message": "Uchovaj"
+        },
+        "Keep Point" : {
+            
+            "message": "Uchovaj bod"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Podržte senzor vo vertikálnej polohe po dobu najmenej 60 sekúnd a potom stlačte „KALIBRUJ“."
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Pri dvojbodovej kalibrácii musia byť známe hodnoty rôzne."
+        },
+        "LabQuest" : {
+            
+            "message": "LabQuest"
+        },
+        "LabQuest Devices" : {
+            
+            "message": "Zariadenia LabQuest"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Veľký"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Posledná kalibrácia"
+        },
+        "Launch Speed" : {
+            
+            "message": "Rýchlosť výstrelu"
+        },
+        "Left" : {
+            
+            "message": "Ľavá"
+        },
+        "Left Axis" : {
+            
+            "message": "Ľavá os"
+        },
+        "Left manual fit handle" : {
+            
+            "message": "Ľavá rukoväť manuálneho preloženia"
+        },
+        "Left y-axis range" : {
+            
+            "message": "Rozsah ľavej osi y"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Starší typ súboru"
+        },
+        "License Key" : {
+            
+            "message": "Licenčný kľúč"
+        },
+        "License Key is expired." : {
+            
+            "message": "Váš licenčný kľúč vypršal."
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "Nemáte platný licenčný kľúč pre tento kanál."
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "Nemáte platný licenčný kľúč pre tento produkt."
+        },
+        "License Key is required." : {
+            
+            "message": "Je potrebný licenčný kľúč."
+        },
+        "License Key is suspended." : {
+            
+            "message": "Licenčný kľúč bol pozastavený."
+        },
+        "License Key not recognized." : {
+            
+            "message": "Licenčný kľúč nebol rozpoznaný."
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "Overenie licenčného kľúča vyžaduje internetové pripojenie. Skontrolujte pripojenie."
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "Server pre overenie licenčného kľúča nie je dostupný."
+        },
+        "Licensed To" : {
+            
+            "message": "Licencované pre"
+        },
+        "Licensed to" : {
+            
+            "message": "Držiteľ licencie"
+        },
+        "Line Shade" : {
+            
+            "message": "Tieň čiary"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineárny pohyb"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "Informácia o lineárnom pohybe"
+        },
+        "Lines" : {
+            
+            "message": "Čiary"
+        },
+        "Link" : {
+            
+            "message": "Prepojenie"
+        },
+        "Link Copied" : {
+            
+            "message": "Linka je skopírovaná"
+        },
+        "list item" : {
+            
+            "message": "položka zoznamu"
+        },
+        "Load Experiment" : {
+            
+            "message": "Natiahni experiment"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "Lokálna kópia nie je synchronizovaná, obnovovanie..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Log pri základe 2"
+        },
+        "Log Base b" : {
+            
+            "message": "Log pri základe b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": "Zaznamenané dáta v zariadení"
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Low pass filter"
+        },
+        "Main Content" : {
+            
+            "message": "Hlavný obsah"
+        },
+        "Manual" : {
+            
+            "message": "Manuálne"
+        },
+        "Manual %s" : {
+            
+            "message": "Manuálne %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Manuálny vstup"
+        },
+        "Manual Fit" : {
+            
+            "message": "Manuálne preloženie"
+        },
+        "Manual Scaling" : {
+            
+            "message": "Manuálna mierka"
+        },
+        "Manually" : {
+            
+            "message": "Manuálne"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Dátum výroby"
+        },
+        "Mark" : {
+            
+            "message": "Značka"
+        },
+        "Max" : {
+            
+            "message": "Max"
+        },
+        "Maximize Application" : {
+            
+            "message": "Maximalizuj aplikáciu"
+        },
+        "Mean" : {
+            
+            "message": "Stredná"
+        },
+        "Measurement" : {
+            
+            "message": "Meranie"
+        },
+        "Medium" : {
+            
+            "message": "Stredná"
+        },
+        "Meter Actions" : {
+            
+            "message": "Akcie meradla"
+        },
+        "Meter All Columns" : {
+            
+            "message": "Meraj všetky stĺpce"
+        },
+        "Meter Size" : {
+            
+            "message": "Veľkosť meradla"
+        },
+        "Meter View Options" : {
+            
+            "message": "Možnosti zobrazenia meradla"
+        },
+        "Metered" : {
+            
+            "message": "Merané"
+        },
+        "metering on all columns" : {
+            
+            "message": "meranie na všetkých stĺpcoch"
+        },
+        "Meters" : {
+            
+            "message": "Meradlá"
+        },
+        "min" : {
+            
+            "message": "min."
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "Minimize Application" : {
+            
+            "message": "Minimalizuj aplikáciu"
+        },
+        "Mode" : {
+            
+            "message": "Režim"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "Režim zmenený na manuálny vstup."
+        },
+        "Modulo" : {
+            
+            "message": "Modulo"
+        },
+        "Move Down" : {
+            
+            "message": "Posuň dole"
+        },
+        "Move Up" : {
+            
+            "message": "Posuň hore"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Keď objekt prechádza bránou, jeho poloha sa určuje pomocou viacerých, rovnomerne rozmiestnených značiek. Nulovú polohu určí prvá udalosť zablokovania brány. Nasledujúce udalosti zablokovania brány zvýšia hodnotu polohy o hodnotu rozstupu. Dáta rýchlosti a zrýchlenia sa počítajú pomocou prvej a druhej časovej derivácie polohy."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Uhlová poloha kolieska pri jeho otáčaní sa určuje pomocou viacerých, rovnomerne rozložených lúčov na koliesku. Nulovú polohu určí prvá udalosť zablokovania brány. Nasledujúce udalosti zablokovania brány zvýšia hodnotu uhla o 2π/n radiánov. Dáta uhlovej rýchlosti a zrýchlenia sa počítajú pomocou prvej a druhej časovej derivácie uhla."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Násobenie môže byť explicitné alebo implicitné."
+        },
+        "Mute Audio" : {
+            
+            "message": "Stíš zvuk"
+        },
+        "My-File-Name" : {
+            
+            "message": "Môj-názov-súboru"
+        },
+        "Name" : {
+            
+            "message": "Názov"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Názov nemôže byť dlhší ako %s znakov"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Prirodzený exponent"
+        },
+        "Natural Log" : {
+            
+            "message": "Prirodzený Ln"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Prirodzený Ln 1 + X"
+        },
+        "Never" : {
+            
+            "message": "Nikdy"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Nové kalibrácie sa použijú kým nespustíte nový experiment alebo neotvoríte nejaký súbor."
+        },
+        "New Experiment" : {
+            
+            "message": "Nový experiment"
+        },
+        "Next After" : {
+            
+            "message": "Nasledujúci po"
+        },
+        "No Columns" : {
+            
+            "message": "Žiadne stĺpce"
+        },
+        "No Device Connected" : {
+            
+            "message": "Nie je pripojené žiadne zariadenie"
+        },
+        "No device connected." : {
+            
+            "message": "Nie je pripojené žiadne zariadenie."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Nie sú pripojené žiadne zariadenia"
+        },
+        "No expiration date" : {
+            
+            "message": "Bez dátumu exspirácie"
+        },
+        "No sensor connected" : {
+            
+            "message": "Nie je pripojený žiadny senzor"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "Senzory nie sú pripojené"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Nebol rozpoznaný žiadny zdroj. Uberpečte sa, že zdroj má spustené zdieľanie dát, a že obidve zariadenia sú pripojené na tej istej sieti. Ak problém pretrváva, vyberte Špecifikuj zdroj a pripojte váš zdroj zdieľania dát manuálne."
+        },
+        "Normal" : {
+            
+            "message": "Normálny"
+        },
+        "not" : {
+            
+            "message": "nie"
+        },
+        "Not Capable" : {
+            
+            "message": "Nemožné"
+        },
+        "Note" : {
+            
+            "message": "Poznámka"
+        },
+        "Notes" : {
+            
+            "message": "Poznámky"
+        },
+        "Number list" : {
+            
+            "message": "Číselný zoznam"
+        },
+        "Number of flags" : {
+            
+            "message": "Počet značiek"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "Počet bodov pre výpočet derivácií:"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "Počet bodov pre výpočty vyhladenia:"
+        },
+        "Number of spokes" : {
+            
+            "message": "Počet lúčov"
+        },
+        "Numeric" : {
+            
+            "message": "Numerický"
+        },
+        "Object" : {
+            
+            "message": "Objekt"
+        },
+        "Object Width" : {
+            
+            "message": "Šírka objektu"
+        },
+        "Offline" : {
+            
+            "message": "Offline"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "Ok" : {
+            
+            "message": "Ok"
+        },
+        "On a triggering event" : {
+            
+            "message": "Pri udalosti spúšťania"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "Na LabQueste sa dotknite Wi-Fi symbolu"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Na Logger Pro prejdite do Súbor -> Zdieľanie dát"
+        },
+        "One-point calibration" : {
+            
+            "message": "Jednobodová kalibrácia"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Online zdieľanie dát"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Spusti ventilátor len počas zberu dát"
+        },
+        "Open failed" : {
+            
+            "message": "Otvorenie sa nepodarilo"
+        },
+        "Open Saved File" : {
+            
+            "message": "Otvor uložený súbor"
+        },
+        "Open Update Information" : {
+            
+            "message": "Otvor informácie o aktualizácii"
+        },
+        "Open..." : {
+            
+            "message": "Otvor..."
+        },
+        "or" : {
+            
+            "message": "alebo"
+        },
+        "Order Code" : {
+            
+            "message": "Objednávací kód"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Iný / definovaný používateľom"
+        },
+        "Other Options" : {
+            
+            "message": "Ďalšie možnosti"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Iné/používateľom definované: Zadajte rozstup a počet značiek podľa hore uvedeného. Ak je objektom koliesko, hodnota rozstupu má byť obvod kolieska podelený počtom lúčov."
+        },
+        "Outlined Circle" : {
+            
+            "message": "Obrysový kruh"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "Obrysový diamant"
+        },
+        "Outlined Plus" : {
+            
+            "message": "Obrysové plus"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "Obrysový obdĺžnik"
+        },
+        "Outlined Square" : {
+            
+            "message": "Obrysový štvorec"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "Obrysový trojuholník"
+        },
+        "Paragraph" : {
+            
+            "message": "Odstavec"
+        },
+        "Parameter %s" : {
+            
+            "message": "Parameter %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Parameter vo výraze nie je možné opakovať."
+        },
+        "Paste" : {
+            
+            "message": "Vlož"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Akcia vloženia cez menu edit nie je k dispozícii. Na vloženie použite CTRL-V alebo CMD-V."
+        },
+        "Pause replay" : {
+            
+            "message": "Pozastav prehrávanie"
+        },
+        "Pause Video" : {
+            
+            "message": "Pozastav video"
+        },
+        "Peak Frequency" : {
+            
+            "message": "Maximová frekvencia"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Perióda kyvadla"
+        },
+        "Percentage" : {
+            
+            "message": "Percento"
+        },
+        "Perform a" : {
+            
+            "message": "Urob"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Časovanie fotobrány"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Fotobrány dokážu časovať objekty, ktoré prechádzajú cez brány, alebo môžu udávať periódu kmitania kyvadla. Čas, ktorý uplynie medzi dvoma nasledujúcim zablokovaniami brány je udávaný ako čas intervalu. Ak sa použijú práve dve brány, pred udaním hodnoty musia byť zablokované obidve brány."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Obraz v obraze"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Dajte Go Direct senzor do blízkosti počítača, telefónu alebo tabletu"
+        },
+        "Play replay" : {
+            
+            "message": "Spusti prehrávanie"
+        },
+        "Play Video" : {
+            
+            "message": "Prehraj video"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "Násobič rýchlosti prehrávania"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Prosím, zadajte zdrojovú IP adresu:"
+        },
+        "Plot" : {
+            
+            "message": "Zobraz"
+        },
+        "Plot Manager" : {
+            
+            "message": "Správca grafu"
+        },
+        "Plus" : {
+            
+            "message": "Plus"
+        },
+        "point" : {
+            
+            "message": "bod"
+        },
+        "Point Colors" : {
+            
+            "message": "Farby bodov"
+        },
+        "Point Symbols" : {
+            
+            "message": "Symboly bodov"
+        },
+        "points" : {
+            
+            "message": "body"
+        },
+        "Points" : {
+            
+            "message": "Body"
+        },
+        "points before trigger" : {
+            
+            "message": "bodov pred spustením"
+        },
+        "Power" : {
+            
+            "message": "Mocnina"
+        },
+        "Prediction" : {
+            
+            "message": "Predpoveď"
+        },
+        "Prediction Name" : {
+            
+            "message": "Názov predpovede"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Názov predpovede je obmedzený na %s znakov."
+        },
+        "Prediction Options" : {
+            
+            "message": "Možnosti predpovede"
+        },
+        "Prediction Title" : {
+            
+            "message": "Názov predpovede"
+        },
+        "Predictions" : {
+            
+            "message": "Predpovede"
+        },
+        "Preview mode" : {
+            
+            "message": "Režim náhľadu"
+        },
+        "Primary:" : {
+            
+            "message": "Primárny:"
+        },
+        "Privacy Notice" : {
+            
+            "message": "Oznámenie o ochrane osobných údajov"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": "Expirácia Pro licencie"
+        },
+        "Projectile Info" : {
+            
+            "message": "Informácia o projektile"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Vystreľovač projektilov"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Dajte tento ID kód ostatným, aby samohli pripojiť k vášmu zariadeniu"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Pripojenie priblížením"
+        },
+        "Pulse timing" : {
+            
+            "message": "Časovanie pulzov"
+        },
+        "Quote" : {
+            
+            "message": "Citácia"
+        },
+        "radians" : {
+            
+            "message": "radiány"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radiány (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Rýchlosť"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Frekvencia väčšia ako 200 vzoriek/s vyžaduje pevne nastavené trvanie."
+        },
+        "Reconnect" : {
+            
+            "message": "Znovu sa pripoj"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": "Opätovným pripojením senzora načítajte zaznamenané dáta."
+        },
+        "Rectangle" : {
+            
+            "message": "Obdĺžnik"
+        },
+        "Regular" : {
+            
+            "message": "Obyčajný"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Relatívne stabilný údaj"
+        },
+        "Remainder" : {
+            
+            "message": "Zvyšok"
+        },
+        "Remote Logging" : {
+            
+            "message": "Vzdialené zaznamenávanie"
+        },
+        "Remote Logging in Process" : {
+            
+            "message": "Vzdialené zaznamenávanie v procese"
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": "Vzdialené zaznamenávanie je možné vždy len pre jeden senzor."
+        },
+        "Remote Logging Started" : {
+            
+            "message": "Vzdialené zaznamenávanie sa spustilo"
+        },
+        "Remote Logging Status" : {
+            
+            "message": "Stav vzdialeného zaznamenávania"
+        },
+        "Remove" : {
+            
+            "message": "Odstráň"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Odstráň lineárny trend"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Odstráň soft senzor"
+        },
+        "Rename" : {
+            
+            "message": "Premenuj"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Premenuj zostavu dát"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Premenuj predpoveď"
+        },
+        "Replay" : {
+            
+            "message": "Prehraj"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Znovu prehraj informácie o synchronizácii videa"
+        },
+        "Reported Reading" : {
+            
+            "message": "Indikovaná hodnota"
+        },
+        "Reset" : {
+            
+            "message": "Reset"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Resetuj (vynuluj) pri spustení zberu"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Resetuj na štandardné"
+        },
+        "Restart app" : {
+            
+            "message": "Reštart aplikácie"
+        },
+        "Restart Replay" : {
+            
+            "message": "Znovu spusti prehrávanie"
+        },
+        "Restore All" : {
+            
+            "message": "Obnov všetko"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": "Stiahni a vymaž"
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": "Stiahni a vymaž senzor"
+        },
+        "Retry Calibration" : {
+            
+            "message": "Opakuj kalibráciu"
+        },
+        "Reverse" : {
+            
+            "message": "Obrátenie smeru"
+        },
+        "revolution" : {
+            
+            "message": "otáčka"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Otáčky (rev)"
+        },
+        "Right" : {
+            
+            "message": "Pravá"
+        },
+        "Right Axis" : {
+            
+            "message": "Pravá os"
+        },
+        "Right manual fit handle" : {
+            
+            "message": "Pravá rukoväť manuálneho preloženia"
+        },
+        "Right y-axis" : {
+            
+            "message": "Pravá os y"
+        },
+        "Right y-axis range" : {
+            
+            "message": "Rozsah pravej osi y"
+        },
+        "RMS" : {
+            
+            "message": "RMS"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": "Zaokrúhlenie"
+        },
+        "Row Number" : {
+            
+            "message": "Čislo riadku"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "vzorka"
+        },
+        "Sample Data" : {
+            
+            "message": "Vzorové dáta"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Vzorové experimenty"
+        },
+        "samples" : {
+            
+            "message": "vzorky"
+        },
+        "Samples" : {
+            
+            "message": "Vzorky"
+        },
+        "samples per second" : {
+            
+            "message": "počet vzoriek za sekundu"
+        },
+        "samples scheduled" : {
+            
+            "message": "počet plánovaných vzoriek"
+        },
+        "Save" : {
+            
+            "message": "Ulož"
+        },
+        "Save AMBL" : {
+            
+            "message": "Ulož AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Ulož a uzavri aplikáciu"
+        },
+        "Save As..." : {
+            
+            "message": "Ulož ako..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Uložiť zmeny?"
+        },
+        "Save CSV" : {
+            
+            "message": "Ulož CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Ulož experiment"
+        },
+        "Save failed" : {
+            
+            "message": "Uloženie zlyhalo"
+        },
+        "Save PDF" : {
+            
+            "message": "Ulož PDF"
+        },
+        "Save Pending" : {
+            
+            "message": "Ulož čakajúce dáta"
+        },
+        "Save PNG" : {
+            
+            "message": "Ulož PNG"
+        },
+        "Saved" : {
+            
+            "message": "Uložené"
+        },
+        "Saving" : {
+            
+            "message": "Ukladanie"
+        },
+        "Scale Factor" : {
+            
+            "message": "Faktor mierky"
+        },
+        "Scaling" : {
+            
+            "message": "Mierka"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Hľadanie zariadení..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Napätie senzora pri druhom kalibračnom bode sa musí líšiť od prvého bodu najmenej o 0,05 V."
+        },
+        "Second Derivative" : {
+            
+            "message": "Druhá derivácia"
+        },
+        "Secondary:" : {
+            
+            "message": "Sekundárne:"
+        },
+        "seconds" : {
+            
+            "message": "sekundy"
+        },
+        "See Experiments" : {
+            
+            "message": "Pozri experimenty"
+        },
+        "See sample experiments" : {
+            
+            "message": "Pozri vzorové experimenty"
+        },
+        "Select Data Set" : {
+            
+            "message": "Vyber zostavu dát"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Vyberte požadované jednotky na záznam uhlovej polohy."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "Vyber typ zariadenia, ktoré chcete pripojiť."
+        },
+        "select/deselect meter" : {
+            
+            "message": "vyber/zruš meradlo"
+        },
+        "Selected Events" : {
+            
+            "message": "Vybrané udalosti"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Akcie senzorov"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Senzorové kanály"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Zber dát so senzorom"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Nastavenie senzora"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Napätie senzora"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Senzor bol vynulovaný"
+        },
+        "Sensors" : {
+            
+            "message": "Senzory"
+        },
+        "Session 1 Name" : {
+            
+            "message": "Relácia 1 Názov"
+        },
+        "Session 2 Name" : {
+            
+            "message": "Relácia 2 Názov"
+        },
+        "Session 3 Name" : {
+            
+            "message": "Relácia 3 Názov"
+        },
+        "Session 4 Name" : {
+            
+            "message": "Relácia 4 Názov"
+        },
+        "Session ended by Host" : {
+            
+            "message": "Relácia bola ukončená hostiteľom"
+        },
+        "Session Preferences" : {
+            
+            "message": "Preferencie relácie"
+        },
+        "Settings saved" : {
+            
+            "message": "Nastavenia sú uložené"
+        },
+        "Share AMBL" : {
+            
+            "message": "Zdieľaj AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Zdieľajte experiment s ostatnými cez sieťové spojenie"
+        },
+        "Share CSV" : {
+            
+            "message": "Zdieľaj CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Zdieľaj obrázok"
+        },
+        "Share PDF" : {
+            
+            "message": "Zdieľaj PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Ukáž všetky vydania"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": "Zobraz pokyny na označovanie údajov"
+        },
+        "Show Details" : {
+            
+            "message": "Ukáž detaily"
+        },
+        "Show Error Bars" : {
+            
+            "message": "Zobraz chybové úsečky"
+        },
+        "Show FFT" : {
+            
+            "message": "Zobraz FFT"
+        },
+        "Show Histogram" : {
+            
+            "message": "Ukáž histogram"
+        },
+        "Show Less" : {
+            
+            "message": "Ukáž menej"
+        },
+        "Show Menu" : {
+            
+            "message": "Zobrazit menu"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Zobraz stredný čas prechodu cez bránu"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Zobraz originálny graf"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": "Zobraz pokyny na vzdialené zaznamenávanie"
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": "Ukáž neurčitosť parametrov preloženia"
+        },
+        "Significant Figures" : {
+            
+            "message": "Významné body"
+        },
+        "Sine" : {
+            
+            "message": "Sínus"
+        },
+        "Slope" : {
+            
+            "message": "Smernica"
+        },
+        "Small" : {
+            
+            "message": "Malý"
+        },
+        "Spacing" : {
+            
+            "message": "Rozstup"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Rozstup = obvod / počet lúčov"
+        },
+        "Specify source" : {
+            
+            "message": "Špecifikuj zdroj"
+        },
+        "Spectrum" : {
+            
+            "message": "Spektrum"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Rýchlosť cez bránu"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "Informácia o rýchlosti cez bránu"
+        },
+        "Spokes:" : {
+            
+            "message": "Lúče:"
+        },
+        "Square" : {
+            
+            "message": "Štvorec"
+        },
+        "Square Root" : {
+            
+            "message": "Druhá odmocnina"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Spusti reláciu zdieľania dát"
+        },
+        "Start a New Session" : {
+            
+            "message": "Spusti novú reláciu"
+        },
+        "Start Collection" : {
+            
+            "message": "Spusti zber"
+        },
+        "Start collection when" : {
+            
+            "message": "Začni zber keď údaj"
+        },
+        "Start Logging" : {
+            
+            "message": "Spustenie zaznamenávania"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Spustiť nový experiment?"
+        },
+        "Start Session" : {
+            
+            "message": "Spusti reláciu"
+        },
+        "Statistics" : {
+            
+            "message": "Štatistika"
+        },
+        "Std dev" : {
+            
+            "message": "Štand.odchýl."
+        },
+        "Step Backward" : {
+            
+            "message": "Krok späť"
+        },
+        "Step Forward" : {
+            
+            "message": "Krok dopredu"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "Krokuj video dozadu"
+        },
+        "Step Video Forward" : {
+            
+            "message": "Krokuj video dopredu"
+        },
+        "Stop" : {
+            
+            "message": "Zastav"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Keď objem dosiahne 9 ml až 10 ml, nepridávajte už ďalšie kvapky."
+        },
+        "Stop Collection" : {
+            
+            "message": "Zastav zber"
+        },
+        "Stop Sharing" : {
+            
+            "message": "Zastav zdieľanie"
+        },
+        "Strikethrough" : {
+            
+            "message": "Preškrtnúť"
+        },
+        "Subject" : {
+            
+            "message": "Objekt"
+        },
+        "Submit" : {
+            
+            "message": "Pošli"
+        },
+        "Subscript" : {
+            
+            "message": "Index dole"
+        },
+        "Subscription Ends" : {
+            
+            "message": "Predplatné končí"
+        },
+        "Subscription ends" : {
+            
+            "message": "Končí platnosť licencie"
+        },
+        "Superscript" : {
+            
+            "message": "Index hore"
+        },
+        "Supported Functions" : {
+            
+            "message": "Podporované funkcie"
+        },
+        "Symbol" : {
+            
+            "message": "Symbol"
+        },
+        "Sync data with video" : {
+            
+            "message": "Synchr. dát s videom"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Synchr. video s dátami"
+        },
+        "Syntax" : {
+            
+            "message": "Syntax"
+        },
+        "Table" : {
+            
+            "message": "Tabuľka"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Pri každej kvapke odčítaj údaj zo senzora (napr. pH, vodivosť)."
+        },
+        "Tangent" : {
+            
+            "message": "Dotyčnica"
+        },
+        "Target" : {
+            
+            "message": "Cieľ"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Došlo k strate Bluetooth spojenia"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Vyžaduje sa názov stĺpca"
+        },
+        "the current file" : {
+            
+            "message": "momentálny súbor"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Dáta sa začnú prehrávať %s pred videom"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Výraz sa použije ako názov preloženie krivkou, ak nebude názov explicitne zadaný."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Rýchlosť výstrelu je priemerná rýchlosť prechodu projektilu medzi dvoma zabudovanými bránami."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Rýchlosť výstrelu je priemerná rýchlosť prechodu projektilu cez prvú zabudovanú bránu."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Šírka objektu/značky sa podelí časom zablokovania brány (trvanie zablokovania brány) na určenie rýchlosti prechodu objektu cez bránu."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": "Požadovanú rýchlosť a trvanie nie je možné dodržať. Maximálna rýchlosť je %.2f vzoriek/%s pre %d%s."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Čas medzi nasledujúcimi udalosťami zablokovania sa udáva ako interval."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "Vo výraze nemôže byť viac ako sedem parametrov."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "Je k dispozícii nový firmware pre tento senzor, ktorý rieši nesprávne údaje, keď je senzor v prostredí pod 0°C. Proces aktualizácíe sa nedá urobiť cez Graphical Analysis."
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Pre tento senzor existuje nový firmware, ale aktualizáciu nie je možné urobiť cez toto zariadenie. Pripojte senzor cez USB na zariadenie s macOS, Windows alebo ChromeOS a spustite Graphical Analysis. Prejdite do zoznamu pripojených zariadení a spustite aktualizáciu."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Pre tento senzor existuje nový firmware. Pri aktualizácii je potrebné, aby bol senzor pripojený cez USB a Graphical Analysis dočasne vypnutý. Ak je senzor pripojený bezdrôtovo, pripojte ho cez USB."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Pri ukladaní nastavení nastal problém"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Tento stĺpec bol generovaný automaticky a nedá sa zmeniť"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Vymazanie sa nedá vrátiť späť."
+        },
+        "This feature requires a" : {
+            
+            "message": "Táto funkcia vyžaduje"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Toto číslo definuje zlomok zmeny uhlovej polohy pripadajúcej na jednotlivú udalosť zablokovania."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Táto verzia Windowsu podporuje len USB spojenie s Go Direct senzormi."
+        },
+        "Time" : {
+            
+            "message": "Čas"
+        },
+        "Time Based" : {
+            
+            "message": "Časová základňa"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "Zber dát na základe času - jeden graf"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "Zber dát na základe času - tri grafy"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "Zber dát na základe času - dva grafy"
+        },
+        "Time between gates" : {
+            
+            "message": "Čas medzi bránami"
+        },
+        "Time Decay Filter" : {
+            
+            "message": "Filter časového rozpadu"
+        },
+        "Time measurements" : {
+            
+            "message": "Časové merania"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Podložka času letu,"
+        },
+        "Time Units" : {
+            
+            "message": "Jednotky času"
+        },
+        "Timer" : {
+            
+            "message": "Časovač"
+        },
+        "Timer Info" : {
+            
+            "message": "Informácia o časovači"
+        },
+        "Timer or Period" : {
+            
+            "message": "Čas alebo perióda"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Tip: Aby ste dosiahli čo najlepšie výsledky dbajte, aby požadovaný senzor bol jediný, ktorý je v okruhu 2 metrov od počítača, telefónu alebo tabletu."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Tip: Pripájanie priblížením sa spolieha na odhad vzdialenosti. Ak je vo vašom prostredí nespoľahlivé, zvoľte senzor zo zoznamu spojenia."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Tip: Aby boli senzory k dispozícii na spojenie, musia na nich blikať červené LED svetlá."
+        },
+        "Title" : {
+            
+            "message": "Názov"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Na vytvorenie používateľského %s, použi akúkoľvek podporovanú funkciu s akýmikoľvek podporovanými operátormi"
+        },
+        "To locate the address:" : {
+            
+            "message": "Na lokalizáciu adresy:"
+        },
+        "to make the key available for use." : {
+            
+            "message": "aby bol licenčný kľúč dostupný na použitie."
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Spustenie relácie zdieľania dát:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Prepni tmavý režim"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Prepni svetlý režim"
+        },
+        "Too few points" : {
+            
+            "message": "Príliš málo bodov"
+        },
+        "Toolbar" : {
+            
+            "message": "Nástrojová lišta"
+        },
+        "Top" : {
+            
+            "message": "Horná"
+        },
+        "Total samples" : {
+            
+            "message": "Celkovo vzoriek"
+        },
+        "Triangle" : {
+            
+            "message": "Trojuholník"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Trigonometrické funkcie sa vyhodnocujú v radiánoch, okrem prípadu, keď stĺpec vynášaný na horizontálnu os má jednotky"
+        },
+        "Truncate" : {
+            
+            "message": "Truncate"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Dvojbodová kalibrácia"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Ultra kladka - vo vidlici"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Ultra kladka - mimo vidlice"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Nedá sa pripojiť alebo nájsť zdroj s týmto názvom."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Nedá sa pripojiť k "
+        },
+        "Units" : {
+            
+            "message": "Jednotky"
+        },
+        "Unknown" : {
+            
+            "message": "Neznáme"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "Neznáma chyba licenčného kľúča"
+        },
+        "Unmute Audio" : {
+            
+            "message": "Zosilni zvuk"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "Nepodporovaný prehliadač"
+        },
+        "Untitled" : {
+            
+            "message": "Bez názvu"
+        },
+        "Update Available" : {
+            
+            "message": "Je k dispozícií aktualizácia"
+        },
+        "Update error" : {
+            
+            "message": "Chyba pri aktualizácii"
+        },
+        "Update Firmware" : {
+            
+            "message": "Aktualizuj firmware"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Sťahuje sa aktualizácia..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Aktualizuj svoj licenčný kľúč"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "USB zariadenie"
+        },
+        "Use Column Value" : {
+            
+            "message": "Použi hodnotu stĺpca"
+        },
+        "Use gate separation" : {
+            
+            "message": "Použi rozostup brán"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Použi šírku objektu / značky"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Použi priemer projektilu"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Použi vedeckú notifikáciu"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "Použi tlačidlo USB alebo WIRELESS podľa želania."
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": "Túto oblasť použite na zaznamenanie poznámok o experimente pomocou značiek alebo obyčajného textu. Ak chcete vidieť použité formátovanie, prepnite sa do režimu náhľadu."
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Túto možnosť použite na vyšetrenie rýchlosti vzhľadom na čas. Udávaný čas je stredná hodnota času medzi časom zablokovania brány a časom keď dôjde k odblokovaniu brány."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Použi podložku času letu"
+        },
+        "Use Windowing" : {
+            
+            "message": "Použi okno"
+        },
+        "User Manual" : {
+            
+            "message": "Návod na použitie"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Používa sa továrenská kalibrácia z"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "Používa sa lokálne uložená verzia experimentu."
+        },
+        "Value must be between " : {
+            
+            "message": "Hodnota musí byť medzi "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "Vernier Graphical Analysis&reg; je nástroj pre študentov prírodovedy na zber, grafické zobrazovanie a analýzu dát z Vernierových senzorov."
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "Vernier Graphical Analysis® Pro prístup exspiruje o {this.daysRemaining} dní"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "Vernier Graphical Analysis® Pro prístup exspiruje dnes"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernierovo rastrované pravítko"
+        },
+        "Version" : {
+            
+            "message": "Verzia"
+        },
+        "Vertical Divider" : {
+            
+            "message": "Zvislý rozdelovník"
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Time" : {
+            
+            "message": "Čas videa"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Video sa začne prehrávať %s pred prehrávaním zostavy dát"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Video sa začne prehrávať v rovnakom čase ako zostava dát"
+        },
+        "View Experiment" : {
+            
+            "message": "Pozri experiment"
+        },
+        "View Integral" : {
+            
+            "message": "Zobraz integrál"
+        },
+        "View Options" : {
+            
+            "message": "Možnosti zobrazenia"
+        },
+        "View Statistics" : {
+            
+            "message": "Zobraz štatistiku"
+        },
+        "Voltage" : {
+            
+            "message": "Napätie"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Čakanie na %s až %s cez %s %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "Licenčný kľúč bol detegovaný ako platný, ale pred jeho použitím musíte potvrdiť prijatie podmienok End User License Agreement. Požiadajte vášho školského nákupcu "
+        },
+        "What's New" : {
+            
+            "message": "Čo je nového"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Keď je zvolené kyvadlo, čas medzi každou druhou udalosťou zablokovania sa udáva ako perióda, pretože kyvadlo pri vykonaní jedného svojho cyklu zablokuje bránu tri razy."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Keď použijete dve fotobrány, na výpočet rýchlosti môžete namiesto šírky objektu / značky použiť vzdialenosť medzi bránami. Udávaná rýchlosť bude rýchlosťou medzi dvoma bránami."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Na bezdrôtové spojenie je potrebný Windows 10."
+        },
+        "Wireless" : {
+            
+            "message": "Bezdrôtovo"
+        },
+        "Working..." : {
+            
+            "message": "Pracujem..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x-os rozsah"
+        },
+        "x-range" : {
+            
+            "message": "x-rozsah"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-os rozsah"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "Zariadenie môžete pripojiť káblovým USB pripojením alebo bezdrôtovo."
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "Prístup k tejto aplikácií môžete dať aj iným vo vašej škole zdieľaním tejto URL adresy e-mailom, textovou správou alebo inak."
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": "Na načítanie zaznamenaných dát nemusíte čakať na dokončenie zberu dát."
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": "Zadali ste nenumerické dáta. Chcete skonvertovať tento stĺpec na kategorické dáta?"
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "Máte pripojené zariadenie, ktoré nie je pre tento experiment potrebné."
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "Zadali ste aktivačný kód, nie však licenčný kľúč."
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "Váš prehliadač zobrazí zariadenia, ktoré sú k dispozícii. Vyberte, ktoré potrebujete a kliknite na Spáruj."
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Hostiteľ zdieľania dát spúšťa nový experiment. Môžete pokračovať vo vašom experimente, alebo sa pripojit k novému experimentu."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Vaša licencia umožňuje zdieľať Vernier Graphical Analysis® len so študentmi a zamestnancami vašej školy alebo fakulty. Prosíme, nezdieľajte ju mimo vašej školy."
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Vaša licencia umožňuje zdieľať Vernier Video Analysis len so študentmi a zamestnancami vašej školy alebo fakulty. Prosíme, nezdieľajte ju mimo vašej školy."
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": "Senzor bol odpojený."
+        },
+        "Zero" : {
+            
+            "message": "Vynuluj"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Zoom na všetky dáta"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Zoom na výber"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-os ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-os ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier Science Education"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "Zrýchlenie 25 g"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "Zrýchlenie 3-osi (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "Zrýchlenie 3-osi (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "Zrýchlenie 3-osi (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "Napätie 30V (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbancia"
+        },
+        "Acceleration" : {
+            
+            "message": "Zrýchlenie"
+        },
+        "Accelerometer" : {
+            
+            "message": "Senzor zrýchlenia"
+        },
+        "Ammonium" : {
+            
+            "message": "Amónium"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Amóniová ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "Analyzátor"
+        },
+        "Anemometer" : {
+            
+            "message": "Anemometer"
+        },
+        "Angle" : {
+            
+            "message": "Uhol"
+        },
+        "Barometer" : {
+            
+            "message": "Barometer"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometer (už sa nedodáva)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Biologický tlak plynu"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Tlak krvi"
+        },
+        "Calcium" : {
+            
+            "message": "Vápnik"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Vápniková ISE"
+        },
+        "Charge" : {
+            
+            "message": "Náboj"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Senzor náboja"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Senzor náboja 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Senzor náboja 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Senzor náboja 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Chlorid"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Chloridová ISE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 plyn vysoký rozsah"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 plyn nízky rozsah"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 plyn starý"
+        },
+        "Colorimeter" : {
+            
+            "message": "Kolorimeter"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Kolorimeter starý"
+        },
+        "Concentration" : {
+            
+            "message": "Koncentrácia"
+        },
+        "Conductivity" : {
+            
+            "message": "Vodivosť"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Vodivosť 20000 μS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Vodivosť 2000 μS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Vodivosť 200 μS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Systém konštantného prúdu"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Tlak v manžete"
+        },
+        "Current" : {
+            
+            "message": "Prúd"
+        },
+        "Current Probe" : {
+            
+            "message": "Senzor prúdu"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Senzor prúdu 1,2A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastolický"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Rozdielové napätie"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Digitálna riadiaca jednotka"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Priamo pripájaný teplomer"
+        },
+        "Displacement" : {
+            
+            "message": "Posun"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Rozpustený CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Rozpustený kyslík"
+        },
+        "Distance" : {
+            
+            "message": "Vzdialenosť"
+        },
+        "DO" : {
+            
+            "message": "Rozp. kyslík"
+        },
+        "Drop Counter" : {
+            
+            "message": "Počítadlo kvapiek"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Dvojrozsahový senzor sily 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Dvojrozsahový senzor sily 50 N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Len vozíky zo začiatku 2021"
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Elektródový zosilňovač"
+        },
+        "Energy" : {
+            
+            "message": "Energia"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Prúd senzora energie"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Napätie senzora energie"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanol"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Senzor etanolu"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Extra dlhý senzor teploty"
+        },
+        "Flow Rate" : {
+            
+            "message": "Prietok"
+        },
+        "Fluorescence" : {
+            
+            "message": "Fluorescencia"
+        },
+        "Force" : {
+            
+            "message": "Sila"
+        },
+        "Force Plate" : {
+            
+            "message": "Platňa sily"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Platňa sily 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Platňa sily 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Senzor tlaku plynu"
+        },
+        "Gate State" : {
+            
+            "message": "Stav brány"
+        },
+        "Gate Time" : {
+            
+            "message": "Čas brány"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Go Wireless elektródový zosilňovač"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go Wireless monitor tepu srdca"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Go Wireless pH senzor"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless teplomer"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniometer"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Ručný dynamometer"
+        },
+        "Heart Rate" : {
+            
+            "message": "Frekvencia tepu srdca"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Monitor tepu srdca"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Senzor vysokého prúdu"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Svetlo vysoká citlivosť 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Svetlo vysoká citlivosť 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Svetlo vysoká citlivosť 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Osvetlenie"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Prístrojový zosilňovač"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Prístrojový zosilňovač +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Prístrojový zosilňovač +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Prístrojový zosilňovač +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Prístrojový zosilňovač 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Prístrojový zosilňovač 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Prístrojový zosilňovač 20mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intenzita"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "IČ teplotný senzor"
+        },
+        "Irradiance" : {
+            
+            "message": "Intenzita žiarenia"
+        },
+        "Launch Speed" : {
+            
+            "message": "Počiatočná rýchlosť projektilu"
+        },
+        "Light" : {
+            
+            "message": "Svetlo"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Svetlo 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Svetlo 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Svetlo 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Osvetlenie"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Senzor lineárnej polohy"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Senzor zrýchlenia nízkych g"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Magnetické pole"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Magnetické pole 0,3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Magnetické pole 6,4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Stredný tlak v artérii"
+        },
+        "Melt Station" : {
+            
+            "message": "Stanica tavenia"
+        },
+        "Microphone" : {
+            
+            "message": "Mikrofón"
+        },
+        "mol/L" : {
+            
+            "message": "mol/l"
+        },
+        "Motion" : {
+            
+            "message": "Pohyb"
+        },
+        "Motion Detector" : {
+            
+            "message": "Detektor pohybu"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Vozík s optickým kódovaním"
+        },
+        "Nitrate" : {
+            
+            "message": "Dusičnan"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Dusičnanová ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Optický senzor rozp. kyslíka %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Optický senzor rozp. kyslíka mg/l"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Senzor plynného kyslíka"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Plynný kyslík starý"
+        },
+        "PAR Sensor" : {
+            
+            "message": "Senzor PAR"
+        },
+        "Period" : {
+            
+            "message": "Perióda"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "Zosilňovače pH/mV/ORP"
+        },
+        "Photogate" : {
+            
+            "message": "Fotobrána"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Vodivosť platinový článok"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimeter"
+        },
+        "Position" : {
+            
+            "message": "Poloha"
+        },
+        "Potassium" : {
+            
+            "message": "Draslík"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Draslíková ISE"
+        },
+        "Potential" : {
+            
+            "message": "Potenciál"
+        },
+        "Power" : {
+            
+            "message": "Mocninová"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Prúd výkon. zosilňovača"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Tlak"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Senzor tlaku (už sa nedodáva)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Senzor tlaku 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Vystreľovač projektilov"
+        },
+        "Pulse" : {
+            
+            "message": "Pulz"
+        },
+        "Pulse Time" : {
+            
+            "message": "Čas pulzu"
+        },
+        "Pyranometer" : {
+            
+            "message": "Pyranometer"
+        },
+        "Radiation" : {
+            
+            "message": "Radiácia"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Radiačný monitor"
+        },
+        "Raw" : {
+            
+            "message": "Surové dáta"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Nespracované napätie (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Relatívna vlhkosť"
+        },
+        "Resistance" : {
+            
+            "message": "Odpor"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Monitor dýchania"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Frekvencia dýchania"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Otáčavý pohyb"
+        },
+        "Salinity" : {
+            
+            "message": "Slanosť"
+        },
+        "Signal" : {
+            
+            "message": "Signál"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Vlhkosť pôdy"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Senzor vlhkosti pôdy"
+        },
+        "Sound Level" : {
+            
+            "message": "Hladina zvuku"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Senzor úrovne zvuku"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Tlak zvuku"
+        },
+        "Speed" : {
+            
+            "message": "Rýchlosť"
+        },
+        "Spirometer" : {
+            
+            "message": "Spirometer"
+        },
+        "Standard" : {
+            
+            "message": "Štandardný"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Štandardná teplota"
+        },
+        "Student Force" : {
+            
+            "message": "Sila študenta"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Radiačný monitor študenta"
+        },
+        "Systolic" : {
+            
+            "message": "Systolický"
+        },
+        "Temperature" : {
+            
+            "message": "Teplota"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Senzor teploty"
+        },
+        "Thermocouple" : {
+            
+            "message": "Termočlánok"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Termočlánok starý"
+        },
+        "TI Light" : {
+            
+            "message": "Senzor svetla TI"
+        },
+        "Time of Flight" : {
+            
+            "message": "Doba letu"
+        },
+        "Transmittance" : {
+            
+            "message": "Transmitancia"
+        },
+        "Turbidity" : {
+            
+            "message": "Zákal"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA intenzita"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVA senzor"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB intenzita"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVB senzor"
+        },
+        "Velocity" : {
+            
+            "message": "Rýchlosť"
+        },
+        "Voltage" : {
+            
+            "message": "Napätie"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Napätie (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Objem"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT posun"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT sila"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Širokorozsahový senzor teploty"
+        },
+        "X Acceleration" : {
+            
+            "message": "Zrýchlenie X"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Zrýchlenie Y"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Zrýchlenie Z"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": "*umol m-2 s-1*"
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": "*µmol m⁻² s⁻¹*"
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Absolútna vlhkosť"
+        },
+        "Acceleration G" : {
+            
+            "message": "Zrýchlenie G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Vektor zrýchlenia"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Zrýchlenie Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Korigovaný objem"
+        },
+        "Altitude" : {
+            
+            "message": "Výška"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Jednobodová kalibrácia výšky"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitúda"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Uhol (vysoké rozlíšenie)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Uhlový pohyb"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Autom. nulovanie pri štarte"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Režim prídavného portu"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE rozsah prúdu"
+        },
+        "BE Duration" : {
+            
+            "message": "BE trvanie"
+        },
+        "BE Potential" : {
+            
+            "message": "BE potenciál"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE frekvencia vzorkovania"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Barometrický tlak"
+        },
+        "Battery Level" : {
+            
+            "message": "Úroveň batérie"
+        },
+        "Battery Percent" : {
+            
+            "message": "Percentá batérie"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Napätie batérie"
+        },
+        "Blank calibration" : {
+            
+            "message": "Prázdna kalibrácia"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Mostíkové napätie"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ ekvivalent"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ plyn"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CVS rozsah prúdu"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS finálny potenciál"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS počiatočný potenciál"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS počet slučiek"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS počet segmentov"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS frekvencia rozmietania"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS spínací potenciál 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS spínací potenciál 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Kalibračný koeficient"
+        },
+        "Calibration power" : {
+            
+            "message": "Mocnina kalibrácie"
+        },
+        "Cap number" : {
+            
+            "message": "Číslo krytu"
+        },
+        "Cell" : {
+            
+            "message": "Bunka"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Konštanta komory (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Konštanta komory (aktívna)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Koeficient-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Koeficient-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Koeficient-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Vodivosť - 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": "Korekčný faktor"
+        },
+        "Counts" : {
+            
+            "message": "Impulzy"
+        },
+        "Current pressure" : {
+            
+            "message": "Momentálny tlak"
+        },
+        "Current state" : {
+            
+            "message": "Momentálny stav"
+        },
+        "Current temperature" : {
+            
+            "message": "Momentálna teplota"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Medzná frekvencia"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Objem cyklu"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Cyklický zdroj objemu"
+        },
+        "DAC value" : {
+            
+            "message": "DAC hodnota"
+        },
+        "DO Concentration" : {
+            
+            "message": "DO koncentrácia"
+        },
+        "DO Salinity" : {
+            
+            "message": "DO slanosť"
+        },
+        "DO Saturation" : {
+            
+            "message": "DO nasýtenie"
+        },
+        "Data source" : {
+            
+            "message": "Zdroj dát"
+        },
+        "Declination" : {
+            
+            "message": "Deklinácia"
+        },
+        "Demo" : {
+            
+            "message": "Demo"
+        },
+        "Dew Point" : {
+            
+            "message": "Rosný bod"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Diastolický koeficient"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Rozdielový tlak"
+        },
+        "Drops" : {
+            
+            "message": "Kvapky"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG korigované"
+        },
+        "Electrode Current" : {
+            
+            "message": "Prúd elektródy"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Napätie elektródy"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Čistenie elektródy"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Zadaj hodnotu 0% toku"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Zadaj hodnotu 100% toku"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Zadaj hodnotu 50% toku"
+        },
+        "Enter altitude" : {
+            
+            "message": "Zadaj nadmorskú výšku"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Zadaj barometrický tlak"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Zadajte momentálnu teplotu"
+        },
+        "Enter first known value" : {
+            
+            "message": "Zadajte prvú známu hodnotu"
+        },
+        "Enter k value" : {
+            
+            "message": "Zadaj hodnotu k"
+        },
+        "Enter known value" : {
+            
+            "message": "Zadajte známu hodnotu"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Zadajte hodnotu násobenia"
+        },
+        "Enter n value" : {
+            
+            "message": "Zadaj hodnotu n"
+        },
+        "Enter offset value" : {
+            
+            "message": "Zadajte hodnotu offsetu"
+        },
+        "Enter power value" : {
+            
+            "message": "Zadajte hodnotu exponentu"
+        },
+        "Enter second known value" : {
+            
+            "message": "Zadajte druhú známu hodnotu"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Zadaj výšku stanice"
+        },
+        "Enter third known value" : {
+            
+            "message": "Zadajte tretiu známu hodnotu"
+        },
+        "Envelope" : {
+            
+            "message": "Obálka"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Obálkové priemerovanie"
+        },
+        "Error" : {
+            
+            "message": "Chyba"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Plynný etanol"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Plynný etanol s HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Etanolové značky"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Pary etanolu"
+        },
+        "Experiment Type" : {
+            
+            "message": "Typ experimentu"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Špičkový objem výdychu"
+        },
+        "FAN PWM" : {
+            
+            "message": "Ventilátor PWM"
+        },
+        "FWD" : {
+            
+            "message": "FWD"
+        },
+        "Fan" : {
+            
+            "message": "Ventilátor"
+        },
+        "Fan Mode" : {
+            
+            "message": "Režim ventilátora"
+        },
+        "Final hold time" : {
+            
+            "message": "Finálny čas zdržania"
+        },
+        "Final temperature" : {
+            
+            "message": "Finálna teplota"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Päť bodová kalibrácia"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Filter rýchlosti prietoku"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Polarita rýchlosti prietoku pri nádychu"
+        },
+        "Force G" : {
+            
+            "message": "Sila G"
+        },
+        "Force Y" : {
+            
+            "message": "Sila Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Sila, jednobodová kalibrácia"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Sila, dvojbodová kalibrácia"
+        },
+        "Forward" : {
+            
+            "message": "Dopredu"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Brána 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Brána 1 - stav brány"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Brána 1 stav"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Brána 1/Vzdialená brána - časovanie"
+        },
+        "Gate 2" : {
+            
+            "message": "Brána 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Brána 2 - stav brány"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Brána 2 stav"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-osový senzor magnetického poľa"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® Zrýchlenie"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® Tlak krvi"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ plyn"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® Kolorimeter"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® Senzor vodivosti"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Systém konštantného prúdu"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® Senzor prúdu"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® cyklický voltametrický systém"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® Počítadlo kvapiek"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektródový zosilňovač"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® Energia"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Go Direct® senzor etanolu"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Go Direct® senzor etanolových pár"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Senzor sily a zrýchlenia"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® plynový chromatograf"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Senzor tlaku plynu"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® ručný dynamometer"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® Zosilňovač iónselektívnej elektródy"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® Senzor svetla a farby"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® Stanica tavenia"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® Pohyb"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optický senzor rozpusteného kyslíka"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ plyn"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": "Go Direct® PAR Sensor"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® Fotobrána"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Platinový senzor vodivosti"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct® Polarimeter"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® Vystreľovač projektilov"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct® Pulzný oximeter"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": "Go Direct® Pyranometer"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® Radiačný monitor"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® Pás dýchania"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® Otáčavý pohyb"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Vozík so senzormi (zelený)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Vozík so senzormi (žltý)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® Zvuk"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® Spirometer"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": "Go Direct® Senzor statického náboja"
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Tester štruktúr a materiálov"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® Povrchová teplota"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® Senzor teploty"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Zosilňovač termočlánku"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® Senzor napätia"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® Senzor počasia"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® Širokorozsahový senzor teploty"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct®Širokorozsahový senzor tlaku"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct™ 3-osový senzor magnetického poľa"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct™ Zrýchlenie"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct™ Tlak krvi"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ CO₂ plyn"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct® Kolorimeter"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct® Senzor vodivosti"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct® Systém konštantného prúdu"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct® Senzor prúdu"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ cyklický voltametrický systém"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct® počítadlo kvapiek"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektródový zosilňovač"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct® Energia"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Go Direct™ senzor etanolu"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Go Direct™ senzor etanolových pár"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Senzor sily a zrýchlenia"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ plynový chromatograf"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Senzor tlaku plynu"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct™ ručný dynamometer"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Zosilňovač iónselektívnej elektródy"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct® Senzor svetla a farby"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct® Stanica tavenia"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct® Senzor pohybu"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optický senzor rozpusteného kyslíka"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ O₂ plyn"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": "Go Direct™ PAR senzor"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ Fotobrána"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Platinový senzor vodivosti"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™ Polarimeter"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct™ Vystreľovač projektilov"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™ Pulzný oximeter"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": "Go Direct™ Pyranometer"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct® Radiačný monitor"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct® Pás dýchania"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct® Otáčavý pohyb"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Vozík so senzormi (zelený)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Vozík so senzormi (žltý)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct™ Zvuk"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ Spirometer"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": "Go Direct™ Senzor statického náboja"
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ Tester štruktúr a materiálov"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct® Povrchová teplota"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct® Senzor teploty"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ Zosilňovač termočlánku"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct® Senzor napätia"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ Senzor počasia"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct® Teplomer širokého rozsahu"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™ Širokorozsahový senzor tlaku"
+        },
+        "Heat Index" : {
+            
+            "message": "Tepelný index"
+        },
+        "Hold time" : {
+            
+            "message": "Čas zdržania"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Vodíkové značky"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "Osvetlenie"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Osvetlenie nespracované"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Frekvencia vrtuľky"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Špičkový objem vdychovania"
+        },
+        "Instrument status" : {
+            
+            "message": "Stav prístroja"
+        },
+        "Internal Current" : {
+            
+            "message": "Vnútorný prúd"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Vnútorné napätie"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED diagnostika"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED magnitúda"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Laserová brána - stav brány"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Stav laserovej brány"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Laserová brána/Vzdialená brána - časovanie"
+        },
+        "Launch Angle" : {
+            
+            "message": "Uhol výstrelu"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineárny pohyb"
+        },
+        "Live" : {
+            
+            "message": "Reálne"
+        },
+        "Load cell gain" : {
+            
+            "message": "Zisk elementu záťaže"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Mikrofón-FIXOVANÝ"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Mikrofón-FIXOVANÝ A váženie"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Mikrofón-FIXOVANÝ C váženie"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Pohyb (vozík)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Zrýchlenie pohybu"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Rýchlosť pohybu"
+        },
+        "Motion with TC" : {
+            
+            "message": "Pohyb s TC"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "Nie"
+        },
+        "No smoothing" : {
+            
+            "message": "Bez vyhladenia"
+        },
+        "Normalized Response" : {
+            
+            "message": "Normalizovaná odozva"
+        },
+        "Not ready" : {
+            
+            "message": "Nepripravené"
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP trvanie"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP frekvencia vzorkovania"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Zrýchlenie objektu (viacero značiek)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Zrýchlenie objektu (jedna značka)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Rýchlosť objektu"
+        },
+        "Off" : {
+            
+            "message": "Vypnuté"
+        },
+        "One-point calibration" : {
+            
+            "message": "Jednobodová kalibrácia"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Optická rotácia"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Anotácie oscilácií"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Oscilácie maximum"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Oscilácie minimum"
+        },
+        "Oscillations" : {
+            
+            "message": "Oscilácie"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Plyn"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": "O₂ koncentrácia plynu"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Plyn rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": "PAR dvojbodová kalibrácia"
+        },
+        "PPFD - CF" : {
+            
+            "message": "PPFD - CF"
+        },
+        "PPFD Correction" : {
+            
+            "message": "PPFD korekcia"
+        },
+        "PYR two-point calibration" : {
+            
+            "message": "PYR dvojbodová kalibrácia"
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Plocha vrcholu"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Perióda kyvadla"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Rýchlosť kyvadla"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Pine firmware major verzia"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Pine firmware minor verzia"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Pine firmware revízia"
+        },
+        "Position Direction" : {
+            
+            "message": "Smer polohy"
+        },
+        "Position G" : {
+            
+            "message": "Poloha G"
+        },
+        "Position Vector" : {
+            
+            "message": "Vektor polohy"
+        },
+        "Position Y" : {
+            
+            "message": "Poloha Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Výkon trojbodová kalibrácia"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Tlak pulzu"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Frekvencia pulzov"
+        },
+        "REV" : {
+            
+            "message": "REV"
+        },
+        "Ramp rate" : {
+            
+            "message": "Rýchlosť nábehu"
+        },
+        "Raw Diastolic" : {
+            
+            "message": "Raw diastolická hodnota"
+        },
+        "Raw MAP" : {
+            
+            "message": "Raw MAP"
+        },
+        "Raw Pressure" : {
+            
+            "message": "Raw tlak"
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": "Vyhladenie Raw tlaku"
+        },
+        "Raw Systolic" : {
+            
+            "message": "Raw systolická hodnota"
+        },
+        "Raw Temperature" : {
+            
+            "message": "Nespracovaná teplota"
+        },
+        "Ready" : {
+            
+            "message": "Pripravené"
+        },
+        "Ready to inject" : {
+            
+            "message": "Pripravené na vstreknutie"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Vzdialené zrýchlenie"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Vzdialená brána - zrýchlenie objektu"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Vzdialená brána - zrýchlenie objektu (jedna značka)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Vzdialená brána - rýchlosť objektu"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Vzdialená brána 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Vzdialená brána 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Vzdialená rýchlosť"
+        },
+        "Reverse" : {
+            
+            "message": "Opačne"
+        },
+        "Running" : {
+            
+            "message": "Prebieha"
+        },
+        "Salinity correction" : {
+            
+            "message": "Korekcia slanosti"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Úroveň zvuku A-váženie"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Úroveň zvuku C-váženie"
+        },
+        "Start temperature" : {
+            
+            "message": "Začiatočná teplota"
+        },
+        "Starting" : {
+            
+            "message": "Spúšťanie"
+        },
+        "Station Pressure" : {
+            
+            "message": "Tlak na stanici"
+        },
+        "Step Rate" : {
+            
+            "message": "Rýchlosť krokov"
+        },
+        "Steps" : {
+            
+            "message": "Kroky"
+        },
+        "Stopped" : {
+            
+            "message": "Zastavené"
+        },
+        "Switch USB" : {
+            
+            "message": "Prepínač USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Systolický koeficient"
+        },
+        "Temperature correction" : {
+            
+            "message": "Korekcia teploty"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Trojbodová kalibrácia"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Čas podložky času letu"
+        },
+        "Timing" : {
+            
+            "message": "Časovanie"
+        },
+        "Total VOC" : {
+            
+            "message": "Celkovo VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Dvojbodová kalibrácia"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Termočlánok typu J"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Termočlánok typu K"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Termočlánok typu T"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": "UV modrá"
+        },
+        "UV Index" : {
+            
+            "message": "UV Index"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV Intenzita"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": "Použi vyhladenie"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Rozsah vektora maximum"
+        },
+        "Vector range Min" : {
+            
+            "message": "Rozsah vektora minimum"
+        },
+        "Velocity G" : {
+            
+            "message": "Rýchlosť G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Vektor rýchlosti"
+        },
+        "Velocity Y" : {
+            
+            "message": "Rýchlosť Y"
+        },
+        "Velocity2" : {
+            
+            "message": "Rýchlosť2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Napätia - 1V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Napätie - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Korekčný faktor objemu"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Polarita objemu nádychu"
+        },
+        "W/m²" : {
+            
+            "message": "W/m²"
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Vlnová amplitúda"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Vlnová frekvencia"
+        },
+        "Wind Chill" : {
+            
+            "message": "Veterné chladenie"
+        },
+        "Wind Direction" : {
+            
+            "message": "Smer vetra"
+        },
+        "Wind Speed" : {
+            
+            "message": "Rýchlosť vetra"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Kalibrácia smeru vetra"
+        },
+        "X magnetic field" : {
+            
+            "message": "X magnetické pole"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X magnetické pole 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-uhlová rýchlosť"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X-os zrýchlenie"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-os zrýchlenie G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-os zrýchlenie Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-os zrýchlenie jednobodová kalibrácia"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-os zrýchlenie vysoké"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-os zrýchlenie jednobodová kalibrácia"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X-os uhlová rýchlosť"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "X-os uhlová rýchlosť G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "X-os uhlová rýchlosť Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X-os gyro"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y magnetické pole"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y magnetické pole 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-uhlová rýchlosť"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y-os zrýchlenie"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-os zrýchlenie G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-os zrýchlenie Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y-os zrýchlenie jednobodová kalibrácia"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y-os zrýchlenie vysoké"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y-os zrýchlenie vysoké jednobodová kalibrácia"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y-os uhlová rýchlosť"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y-os uhlová rýchlosť G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y-os uhlová rýchlosť Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y-os gyro"
+        },
+        "Yes" : {
+            
+            "message": "Áno"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z magnetické pole"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z magnetické pole 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-uhlová rýchlosť"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z-os zrýchlenie"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-os zrýchlenie G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-os zrýchlenie Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z-os zrýchlenie jednobodová kalibrácia"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z-os zrýchlenie vysoké"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z-os zrýchlenie vysoké jednobodová kalibrácia"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z-os uhlová rýchlosť"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z-os uhlová rýchlosť G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z-os uhlová rýchlosť Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z-os gyro"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "údery/min"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "impulzy"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "in"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "uzly"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "ml"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/l"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": "nC"
+        },
+        "pC" : {
+            
+            "message": "pC"
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "nespracované napätie"
+        },
+        "rel" : {
+            
+            "message": "rel."
+        },
+        "rev" : {
+            
+            "message": "ot."
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "krok/min."
+        },
+        "steps" : {
+            
+            "message": "kroky"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": "umol m-2 s-1"
+        },
+        "units/s" : {
+            
+            "message": "jednotiek/s"
+        },
+        "units/s²" : {
+            
+            "message": "jednotiek/s²"
+        },
+        "velocity2" : {
+            
+            "message": "rýchlosť2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx9"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": "µmol m⁻² s⁻¹"
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Kosínus"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Kosínus na druhú"
+        },
+        "Inverse" : {
+            
+            "message": "Prevrátená hodnota"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Inverzná kvadratická"
+        },
+        "Linear" : {
+            
+            "message": "Lineárna"
+        },
+        "Modified Power" : {
+            
+            "message": "Exponenciálna"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Prirodzená exponenciálna"
+        },
+        "Natural Log" : {
+            
+            "message": "Prirodzený Ln"
+        },
+        "Not defined" : {
+            
+            "message": "Nie je definované"
+        },
+        "Power" : {
+            
+            "message": "Mocninová"
+        },
+        "Proportional" : {
+            
+            "message": "Priama úmera"
+        },
+        "Quadratic" : {
+            
+            "message": "Kvadratická"
+        },
+        "Sine" : {
+            
+            "message": "Sínus"
+        },
+        "Slope" : {
+            
+            "message": "Sklon"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Používateľský výraz"
+        }
+        
+    }
+}

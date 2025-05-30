@@ -1,0 +1,6474 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d 客户端已连接"
+        },
+        "%s All" : {
+            
+            "message": "%s"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s 所有的数据集"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s 栏选项"
+        },
+        "%s details" : {
+            
+            "message": "%s 详情"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s正在采集数据。您想停止采集并开始新的实验吗？"
+        },
+        "%s Options" : {
+            
+            "message": "%s 选项"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "（距离，速度，加速度）"
+        },
+        "1 Graph" : {
+            
+            "message": "图1"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "一阶导数"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "一阶时移导数"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "一阶导数（Y,X）"
+        },
+        "2 Graph" : {
+            
+            "message": "2图"
+        },
+        "2 Graphs" : {
+            
+            "message": "图2"
+        },
+        "2nd derivative" : {
+            
+            "message": "二阶导数"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "二阶时移导数"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "二阶导数（Y,X）"
+        },
+        "3 Graph" : {
+            
+            "message": "3图"
+        },
+        "3 Graphs" : {
+            
+            "message": "图3"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs（X）"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "通信中断。请重新采集。"
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "一个通信错误导致数据采集中断，请重新尝试。"
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A、B和C是可以设置的参数。X、Y和Z是数据表中现有的列。"
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "关于"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "关于自定义曲线拟合"
+        },
+        "Absolute Value" : {
+            
+            "message": "绝对值"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "接受《最终用户许可协议》和《隐私声明》"
+        },
+        "Accessories" : {
+            
+            "message": "附件"
+        },
+        "across" : {
+            
+            "message": "穿过"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "使用许可密钥激活附加功能"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "激活后添加手动拟合"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "激活后应用FFT"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "激活以应用直方图"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "激活以恢复所有被添加删除线的行"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "激活以显示拟合参数的不确定性"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "激活后添加行删除线"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "激活后切换删除线"
+        },
+        "Activate to use %s" : {
+            
+            "message": "激活以使用%s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "激活以使用条形图"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "激活后使用注释"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "激活以使用“在线数据共享”"
+        },
+        "Activate to use Video" : {
+            
+            "message": "激活后使用视频"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "添加计算栏"
+        },
+        "Add a graph title here" : {
+            
+            "message": "在此添加图形标题"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "添加手工栏"
+        },
+        "Add Annotation" : {
+            
+            "message": "添加注释"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "添加计算栏"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "将蒸馏水添加到贮藏瓶的海绵顶部。"
+        },
+        "Add Graph Match" : {
+            
+            "message": "添加图匹配"
+        },
+        "Add Manual Column" : {
+            
+            "message": "添加手工栏"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "添加手动拟合"
+        },
+        "add meters" : {
+            
+            "message": "添加仪表"
+        },
+        "Add New Data Set" : {
+            
+            "message": "添加新的数据设置"
+        },
+        "Add Prediction" : {
+            
+            "message": "添加预测"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "添加软传感器"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "滴加滴定剂至10mL量筒中，同时用滴数计测量滴数。"
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "添加/移除仪表"
+        },
+        "Advanced" : {
+            
+            "message": "拓展"
+        },
+        "After" : {
+            
+            "message": "在之后"
+        },
+        "After set number of flags" : {
+            
+            "message": "在设置了多个标志之后"
+        },
+        "All" : {
+            
+            "message": "所有"
+        },
+        "Always Show 0" : {
+            
+            "message": "总是显示0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "振幅"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "表达式必须包含自变量及至少一个参数。"
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "需要连接网络才能到数据共享会话。重新连接网络，然后点击“重新连接”。"
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "需要连接网络，才能进行在线数据共享"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "数据共享需要连接网络"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "共享数据需要连接网络。重新连接到网络，然后启动一个新的数据共享会话以继续共享。"
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "一种可选的弹发射装置，用于报告弹体的飞行时间。"
+        },
+        "and " : {
+            
+            "message": "和 "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "点击“停止共享”"
+        },
+        "Angle units" : {
+            
+            "message": "角度单位"
+        },
+        "Angular Motion" : {
+            
+            "message": "角运动"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "角运动信息"
+        },
+        "App is up to date" : {
+            
+            "message": "程序已升级至最新版"
+        },
+        "App Preferences" : {
+            
+            "message": "应用程序首选项"
+        },
+        "App Updates" : {
+            
+            "message": "应用更新"
+        },
+        "Appearance" : {
+            
+            "message": "现象"
+        },
+        "Append" : {
+            
+            "message": "附加"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "将数据附加到当前数据集或创建新的数据集?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "附加还是创建新的？"
+        },
+        "Apply" : {
+            
+            "message": "应用"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "采用曲线拟合"
+        },
+        "Apply FFT" : {
+            
+            "message": "应用FFT"
+        },
+        "Apply Histogram" : {
+            
+            "message": "应用直方图"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "反正切2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "面积"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "当您收集数据时，他们将在Graphical Analysis的副本中看到您的数据"
+        },
+        "Auto" : {
+            
+            "message": "自动"
+        },
+        "Automatic" : {
+            
+            "message": "自动"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "传感器平均读数超过10秒"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "平均超过10秒"
+        },
+        "Axis Label Size" : {
+            
+            "message": "轴标签尺寸"
+        },
+        "Back" : {
+            
+            "message": "返回"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "带通滤波器"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "带阻滤波器"
+        },
+        "Bar Tape" : {
+            
+            "message": "条状胶带"
+        },
+        "Bars" : {
+            
+            "message": "条"
+        },
+        "Base" : {
+            
+            "message": "基础"
+        },
+        "Base Axis" : {
+            
+            "message": "横坐标"
+        },
+        "Battery" : {
+            
+            "message": "电池"
+        },
+        "Battery Level" : {
+            
+            "message": "电量"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Bin 开始值"
+        },
+        "Bin Width" : {
+            
+            "message": "Bin 宽度"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "蓝牙设备"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "蓝牙未启动"
+        },
+        "Bold" : {
+            
+            "message": "加粗"
+        },
+        "Book" : {
+            
+            "message": "预定"
+        },
+        "Book Title" : {
+            
+            "message": "预定标题"
+        },
+        "Both" : {
+            
+            "message": "两个"
+        },
+        "Bottom" : {
+            
+            "message": "底部"
+        },
+        "Bottom Bar" : {
+            
+            "message": "底栏"
+        },
+        "Bullet list" : {
+            
+            "message": "项目列表"
+        },
+        "Calculated %s" : {
+            
+            "message": "计算%s"
+        },
+        "Calculated Column" : {
+            
+            "message": "计算栏"
+        },
+        "Calibrate" : {
+            
+            "message": "校准"
+        },
+        "Calibrate Now" : {
+            
+            "message": "现在开始校准"
+        },
+        "Calibrating..." : {
+            
+            "message": "正在校准……"
+        },
+        "Calibration complete" : {
+            
+            "message": "校准完成"
+        },
+        "Calibration failed" : {
+            
+            "message": "校准失败"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "校准复位成功"
+        },
+        "Calibration Type" : {
+            
+            "message": "校准类型"
+        },
+        "Cancel" : {
+            
+            "message": "取消"
+        },
+        "cancel" : {
+            
+            "message": "取消"
+        },
+        "Capable" : {
+            
+            "message": "可行的"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "小车用光栅尺"
+        },
+        "Categorical" : {
+            
+            "message": "分类的"
+        },
+        "Categorical Data" : {
+            
+            "message": "分类数据"
+        },
+        "Ceiling" : {
+            
+            "message": "上限"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "将手动拟合居中"
+        },
+        "Change left y-axis" : {
+            
+            "message": "改变左y轴"
+        },
+        "Change right y-axis" : {
+            
+            "message": "改变右y轴"
+        },
+        "Change x-axis" : {
+            
+            "message": "改变X轴"
+        },
+        "Change y-axis" : {
+            
+            "message": "改变Y轴"
+        },
+        "Channels" : {
+            
+            "message": "通道"
+        },
+        "Charging," : {
+            
+            "message": "充电中"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "检查固件更新"
+        },
+        "Check for software updates" : {
+            
+            "message": "检查软件更新"
+        },
+        "Check for Updates" : {
+            
+            "message": "检查更新"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "检查传感器的LED灯是否闪烁"
+        },
+        "Checking for update..." : {
+            
+            "message": "正在检查更新……"
+        },
+        "Choose File" : {
+            
+            "message": "选择文件"
+        },
+        "Choose Folder..." : {
+            
+            "message": "选择文件夹…"
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "选择此选项，通过USB连接Go Direct传感器。"
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "选择该选项，连接 Go!温度传感器。"
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": "选此连接到Go! Link 采集器"
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": "选此连接到Go! 运动传感器。"
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "选择该选项，通过USB连接LabQuest、LabQuest 2、LabQuest 3、LabQuest Mini或 LabQuest Stream采集器。"
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "需要Chrome 102或更高版本。不支持iPad和iPhone。"
+        },
+        "Circle" : {
+            
+            "message": "循环"
+        },
+        "Clear Expression" : {
+            
+            "message": "清除表达式"
+        },
+        "Clear Filter" : {
+            
+            "message": "清除过滤器"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "点击“开始会话”，为您的会话生成一个ID"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "在数据采集期间单击“标记”按钮，以在当前时间点添加数据标记。"
+        },
+        "Close" : {
+            
+            "message": "关闭"
+        },
+        "Close Alert" : {
+            
+            "message": "关闭警报"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "关闭应用程序并更新固件"
+        },
+        "Close Application" : {
+            
+            "message": "关闭应用"
+        },
+        "Close Dialog" : {
+            
+            "message": "关闭对话框"
+        },
+        "Close FFT" : {
+            
+            "message": "关闭FFT"
+        },
+        "Close graph legend" : {
+            
+            "message": "关闭图例"
+        },
+        "Close Histogram" : {
+            
+            "message": "关闭直方图"
+        },
+        "Close Infobox" : {
+            
+            "message": "关闭信息框"
+        },
+        "Close Menu" : {
+            
+            "message": "关闭菜单"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "接近峰值频率"
+        },
+        "Close Popover" : {
+            
+            "message": "关闭弹出窗口"
+        },
+        "Close Replay" : {
+            
+            "message": "关闭重放"
+        },
+        "Close Start Page" : {
+            
+            "message": "关闭开始页面"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "关闭此对话框后继续"
+        },
+        "Code" : {
+            
+            "message": "编码"
+        },
+        "Coefficient" : {
+            
+            "message": "系数"
+        },
+        "Collapse" : {
+            
+            "message": "展开-收起"
+        },
+        "Collect" : {
+            
+            "message": "采集"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "使用威尼尔传感器采集数据"
+        },
+        "Collecting" : {
+            
+            "message": "采集"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "采集%d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "采集大量影响性能的数据点。"
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "采集数据${eventParams.accumulate}秒"
+        },
+        "Collection Parameters" : {
+            
+            "message": "采集参数"
+        },
+        "Column %s" : {
+            
+            "message": "栏%s"
+        },
+        "Column Options" : {
+            
+            "message": "栏选项"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "所有列将被删除，删除无法撤消。"
+        },
+        "Comma Separated Values" : {
+            
+            "message": "逗号分隔值"
+        },
+        "Complementary Error" : {
+            
+            "message": "互补误差"
+        },
+        "Configurator" : {
+            
+            "message": "配置器"
+        },
+        "Confirm" : {
+            
+            "message": "确认"
+        },
+        "Connect" : {
+            
+            "message": "连接"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "连接 <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">威尼尔USB设备</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "连接设备"
+        },
+        "Connect a Device" : {
+            
+            "message": "连接到设备"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "连接上一个LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "通过 WiFi 连接到LabQuest 2 或者Logger Pro"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "连接这些设备进行数据采集。"
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "连接该设备进行数据采集。"
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "从Graphical Analysis连接到数据共享会话"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "连接到LabQuest、Logger Pro或 Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "连接到先前创建的会话以共享会话设置、数据等，或者创建一个新会话。"
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "连接到下面的无线设备或者通过USB连接。"
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "连接到下面的无线设备。"
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "连接到上一个会话"
+        },
+        "connected" : {
+            
+            "message": "已连接"
+        },
+        "Connected Devices" : {
+            
+            "message": "已连接的设备"
+        },
+        "Connecting" : {
+            
+            "message": "连接"
+        },
+        "Connection error" : {
+            
+            "message": "连接错误"
+        },
+        "Connection Lost" : {
+            
+            "message": "断开连接"
+        },
+        "Connection status info" : {
+            
+            "message": "连接状态信息"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "连接到 %s 失败"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "成功连接到 %s"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "继续检索选项"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "无需所需设备即可继续"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Cookie 通知"
+        },
+        "Copy" : {
+            
+            "message": "复制"
+        },
+        "Copy Histogram" : {
+            
+            "message": "复制直方图"
+        },
+        "Copy Host ID" : {
+            
+            "message": "复制主机 ID"
+        },
+        "Copy Link" : {
+            
+            "message": "复制链接"
+        },
+        "Copy Sign" : {
+            
+            "message": "复制标志"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "复制到剪贴板"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "复制到剪切板"
+        },
+        "Cosine" : {
+            
+            "message": "余弦"
+        },
+        "Count Interval" : {
+            
+            "message": "区间数"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "创建自定义拟合曲线"
+        },
+        "Create new Data Set" : {
+            
+            "message": "新建数据组"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "创建自定义计算栏"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "创建自定义曲线拟合"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "立方根"
+        },
+        "Curve Fit" : {
+            
+            "message": "曲线拟合"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "自定义计算栏"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "自定义曲线拟合"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "自定义曲线拟合信息"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "自定义表达式信息"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "自定义拟合函数保存在app文档文件中。当你开始一个新的会话或重新启动应用程序，拟合函数将被清除。"
+        },
+        "Custom Session" : {
+            
+            "message": "自定义会话"
+        },
+        "Cut" : {
+            
+            "message": "剪切"
+        },
+        "Dark" : {
+            
+            "message": "暗"
+        },
+        "Darker" : {
+            
+            "message": "更暗"
+        },
+        "Darkest" : {
+            
+            "message": "最暗"
+        },
+        "Data" : {
+            
+            "message": "数据"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "数据采集已在日志记录模式下开始。"
+        },
+        "Data Collection Settings" : {
+            
+            "message": "数据采集设置"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "当所有的门都有预定的位置测量值（与标记的数量相同）之后，数据采集将会自动停止。重新开始采集数据将启动一个新的数据集。"
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "数据采集将一直持续到您手动单击或点击停止。位置值将继续按间隔值递增，直到数据采集停止。"
+        },
+        "Data Mark" : {
+            
+            "message": "数据标记"
+        },
+        "Data Marking" : {
+            
+            "message": "数据标记"
+        },
+        "Data Set %d" : {
+            
+            "message": "数据组 %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "数据组名称"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "数据组名称有%s字符限制 。"
+        },
+        "Data Set Options" : {
+            
+            "message": "数据组选项"
+        },
+        "Data Set Time" : {
+            
+            "message": "数据集的时间"
+        },
+        "Data Share" : {
+            
+            "message": "数据分享"
+        },
+        "Data Sharing" : {
+            
+            "message": "数据分享中"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "数据共享已激活"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "数据共享会话启动"
+        },
+        "Data sharing session status" : {
+            
+            "message": "数据共享会话状态"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "数据共享状态"
+        },
+        "Data Table" : {
+            
+            "message": "数据表"
+        },
+        "Data Type" : {
+            
+            "message": "数据类型"
+        },
+        "Data Type Info" : {
+            
+            "message": "数据类型信息"
+        },
+        "Dataset View Options" : {
+            
+            "message": "数据集视图选项"
+        },
+        "Decimal Format" : {
+            
+            "message": "十进制"
+        },
+        "Decimal Places" : {
+            
+            "message": "小数位"
+        },
+        "decrease" : {
+            
+            "message": "减少"
+        },
+        "decreasing" : {
+            
+            "message": "减少"
+        },
+        "degrees" : {
+            
+            "message": "度数"
+        },
+        "Degrees (°)" : {
+            
+            "message": "度数（°）"
+        },
+        "Delete" : {
+            
+            "message": "删除"
+        },
+        "Delete %s?" : {
+            
+            "message": "删除%s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "删除数据栏"
+        },
+        "Delete Column" : {
+            
+            "message": "删除列"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "删除列 %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "删除数据标记"
+        },
+        "Delete Data Set" : {
+            
+            "message": "删除数据集"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "删除图匹配"
+        },
+        "Delete Prediction" : {
+            
+            "message": "删除预测"
+        },
+        "Delete Video" : {
+            
+            "message": "删除视频"
+        },
+        "Delta" : {
+            
+            "message": "Δ"
+        },
+        "Device Error" : {
+            
+            "message": "设备错误"
+        },
+        "Device Information" : {
+            
+            "message": "设备信息"
+        },
+        "Device information" : {
+            
+            "message": "设备信息"
+        },
+        "Devices" : {
+            
+            "message": "设备"
+        },
+        "Diameter" : {
+            
+            "message": "直径"
+        },
+        "Diamond" : {
+            
+            "message": "菱形"
+        },
+        "Dimension" : {
+            
+            "message": "尺寸"
+        },
+        "Disabled" : {
+            
+            "message": "禁用"
+        },
+        "Disconnect" : {
+            
+            "message": "断开"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "断开连接并继续记录"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "现在断开USB线的连接。"
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "断开连接而不清除数据"
+        },
+        "Discovered Devices" : {
+            
+            "message": "已识别的设备"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "已识别的无线设备"
+        },
+        "Display Meters" : {
+            
+            "message": "显示仪表"
+        },
+        "Displayed Columns" : {
+            
+            "message": "显示列"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "显示数据集"
+        },
+        "Displayed Precision" : {
+            
+            "message": "显示精度"
+        },
+        "Distance" : {
+            
+            "message": "距离"
+        },
+        "Distance between gates" : {
+            
+            "message": "门之间的距离"
+        },
+        "Distribute App" : {
+            
+            "message": "分发应用程序"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "分发 Vernier Graphical Analysis"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "是否要永久删除此数据标记？"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "你想保存对%s的更改吗？如果不保存，你的更改就会丢失。"
+        },
+        "Don't Save" : {
+            
+            "message": "不保存"
+        },
+        "Done" : {
+            
+            "message": "完成"
+        },
+        "done" : {
+            
+            "message": "完成"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "下载完成，下次启动程序时将自动完成更新"
+        },
+        "Download Experiment" : {
+            
+            "message": "下载实验"
+        },
+        "Download Update" : {
+            
+            "message": "下载更新"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "绘制预测线"
+        },
+        "Drop Counting" : {
+            
+            "message": "滴数"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "测量结果丢失，请采用更低的采集速率开始新实验。"
+        },
+        "Drops" : {
+            
+            "message": "滴定剂"
+        },
+        "Drops/mL" : {
+            
+            "message": "滴数/mL"
+        },
+        "duration" : {
+            
+            "message": "持续时间"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "e.g. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "例如：007或TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "编辑图形选项"
+        },
+        "Edit mode" : {
+            
+            "message": "编辑模式"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "确保蓝牙能够连接无线传感器。"
+        },
+        "Enable Replay" : {
+            
+            "message": "启用重播"
+        },
+        "Enabled" : {
+            
+            "message": "启用"
+        },
+        "End Collection" : {
+            
+            "message": "停止采集"
+        },
+        "End data collection" : {
+            
+            "message": "停止数据采集"
+        },
+        "End User License Agreement" : {
+            
+            "message": "最终用户许可协议"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "点击并结束你的数据共享会话"
+        },
+        "Enter an annotation" : {
+            
+            "message": "输入一个注释"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "通过键盘输入或复制/粘贴数据"
+        },
+        "Enter first known value" : {
+            
+            "message": "输入第一个已知量"
+        },
+        "Enter second known value" : {
+            
+            "message": "输入第二个已知量"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "输入量筒中滴定剂的准确体积"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "输入ID："
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "进入分类模式"
+        },
+        "Equation" : {
+            
+            "message": "等式"
+        },
+        "Error" : {
+            
+            "message": "错误"
+        },
+        "Error Bar Info" : {
+            
+            "message": "误差条信息"
+        },
+        "Error Bars" : {
+            
+            "message": "误差条"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "错误:拒绝访问剪贴板。"
+        },
+        "Event" : {
+            
+            "message": "事件"
+        },
+        "Event Based" : {
+            
+            "message": "基于事件"
+        },
+        "Event Mode" : {
+            
+            "message": "事件模式"
+        },
+        "Event Name" : {
+            
+            "message": "事件名称"
+        },
+        "Events with Entry" : {
+            
+            "message": "事件配记录"
+        },
+        "Events With Entry" : {
+            
+            "message": "事件配记录"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "例如：192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "例如: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Exp - 1"
+        },
+        "Expand" : {
+            
+            "message": "展开"
+        },
+        "Expand Host ID" : {
+            
+            "message": "扩容主机 ID"
+        },
+        "Experiment Name" : {
+            
+            "message": "实验名称"
+        },
+        "Experimental Features" : {
+            
+            "message": "实验特征"
+        },
+        "Exponent" : {
+            
+            "message": "指数"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "以2为底的指数"
+        },
+        "Export" : {
+            
+            "message": "输出"
+        },
+        "Export CSV" : {
+            
+            "message": "输出CSV"
+        },
+        "Expression" : {
+            
+            "message": "表达式"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "工厂校准日期"
+        },
+        "Fan Thrust" : {
+            
+            "message": "风扇推力"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT 选项"
+        },
+        "File Menu" : {
+            
+            "message": "文件菜单"
+        },
+        "File saved" : {
+            
+            "message": "文件保存"
+        },
+        "Filename" : {
+            
+            "message": "文件名"
+        },
+        "Filter Device List" : {
+            
+            "message": "过滤设备列表"
+        },
+        "Firmware" : {
+            
+            "message": "固件"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "固件更新信息"
+        },
+        "First Derivative" : {
+            
+            "message": "一阶导数"
+        },
+        "Fit Expression" : {
+            
+            "message": "拟合函数表达式"
+        },
+        "Fit Name" : {
+            
+            "message": "拟合函数名称"
+        },
+        "Fit Options" : {
+            
+            "message": "拟合选项"
+        },
+        "Fixed Value" : {
+            
+            "message": "定值"
+        },
+        "Flag Width" : {
+            
+            "message": "旗子宽度"
+        },
+        "Flags" : {
+            
+            "message": "旗帜"
+        },
+        "Floor" : {
+            
+            "message": "地面"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "对于威尼尔仪器，将显示所选对象的间距和挡光板数量。对于条带状物，输入挡光片的数量。"
+        },
+        "Frequency" : {
+            
+            "message": "频率"
+        },
+        "From Vernier.com" : {
+            
+            "message": "来自威尼尔网站"
+        },
+        "Function" : {
+            
+            "message": "函数"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "函数和自变量必须小写。"
+        },
+        "Gate Separation" : {
+            
+            "message": "闸分离"
+        },
+        "Gate State" : {
+            
+            "message": "闸状态"
+        },
+        "Gate timing" : {
+            
+            "message": "闸时间"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX传感器图"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "把这个ID给其他人，这样他们就可以加入你的会话"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "GD系列无线传感器"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "转到视频开头"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go! 温度"
+        },
+        "Go! Link" : {
+            
+            "message": "Go! Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Graph" : {
+            
+            "message": "图"
+        },
+        "Graph %s" : {
+            
+            "message": "图 %s"
+        },
+        "Graph 1" : {
+            
+            "message": "图1"
+        },
+        "Graph 2" : {
+            
+            "message": "图2"
+        },
+        "Graph 3" : {
+            
+            "message": "图3"
+        },
+        "Graph Display" : {
+            
+            "message": "图象显示"
+        },
+        "Graph Inset" : {
+            
+            "message": "图象插入"
+        },
+        "Graph Legend" : {
+            
+            "message": "图例"
+        },
+        "Graph Match" : {
+            
+            "message": "图匹配"
+        },
+        "Graph Match Options" : {
+            
+            "message": "图匹配选项"
+        },
+        "Graph Options" : {
+            
+            "message": "图选项"
+        },
+        "Graph Shape" : {
+            
+            "message": "图像形状"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Graphical Analysis Pro 信息"
+        },
+        "Graphs" : {
+            
+            "message": "图"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "标题1"
+        },
+        "Heading 2" : {
+            
+            "message": "标题2"
+        },
+        "Heading 3" : {
+            
+            "message": "标题3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "帮助连接设备"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "帮助连接设备"
+        },
+        "Hide" : {
+            
+            "message": "隐藏"
+        },
+        "Hide Details" : {
+            
+            "message": "隐藏详细信息"
+        },
+        "High-pass Filter" : {
+            
+            "message": "高通滤波器"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "高分辨率模式"
+        },
+        "Histogram" : {
+            
+            "message": "直方图"
+        },
+        "Histogram options" : {
+            
+            "message": "直方图选项"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "水平分隔器"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "主持一个数据共享会话"
+        },
+        "How To Distribute" : {
+            
+            "message": "如何分发"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "双曲余弦"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "双曲正弦"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "双曲正切"
+        },
+        "Hypotenuse" : {
+            
+            "message": "斜边"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "分辨"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "如果需要其他设备，请重复该过程。"
+        },
+        "Ignore" : {
+            
+            "message": "忽略"
+        },
+        "Import Video" : {
+            
+            "message": "导入视频"
+        },
+        "increase" : {
+            
+            "message": "增加"
+        },
+        "increasing" : {
+            
+            "message": "增加"
+        },
+        "Insert Expression" : {
+            
+            "message": "插入表达式"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "将传感器插入瓶中，这样传感器尖端就不会接触到水或海绵。"
+        },
+        "Integral" : {
+            
+            "message": "积分"
+        },
+        "Intercept" : {
+            
+            "message": "截距"
+        },
+        "Interpolate" : {
+            
+            "message": "内插"
+        },
+        "Interval" : {
+            
+            "message": "区间"
+        },
+        "Invalid Equation" : {
+            
+            "message": "无效方程式"
+        },
+        "Invalid Expression" : {
+            
+            "message": "无效表达式"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "反余弦"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "反双曲余弦"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "反双曲正弦"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "反双曲正切"
+        },
+        "Inverse Sine" : {
+            
+            "message": "反正弦"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "反正切"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "反正切2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "倒置的轮廓矩形"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "倒置的三角形轮廓"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "倒置矩形"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "倒置三角形"
+        },
+        "is" : {
+            
+            "message": "是"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "目前不支持，尝试另一个。"
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "强烈建议在更换阀帽后进行校准。"
+        },
+        "Italic" : {
+            
+            "message": "斜体"
+        },
+        "Join New Experiment" : {
+            
+            "message": "加入新实验"
+        },
+        "Keep" : {
+            
+            "message": "保持"
+        },
+        "Keep Point" : {
+            
+            "message": "保留点"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "将传感器垂直放置在这个位置上至少60秒，然后点击“现在校准”。"
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "两点校准必须是两个不一样的已知量。"
+        },
+        "LabQuest" : {
+            
+            "message": "LabQuest"
+        },
+        "LabQuest Devices" : {
+            
+            "message": "LabQuest 设备"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "大"
+        },
+        "Last calibrated on" : {
+            
+            "message": "最后校准日期"
+        },
+        "Launch Speed" : {
+            
+            "message": "发射速度"
+        },
+        "Left" : {
+            
+            "message": "左"
+        },
+        "Left Axis" : {
+            
+            "message": "左轴"
+        },
+        "Left manual fit handle" : {
+            
+            "message": "左对齐手动拟合"
+        },
+        "Left y-axis range" : {
+            
+            "message": "左y轴范围"
+        },
+        "Legacy File Type" : {
+            
+            "message": "遗留的文件类型"
+        },
+        "License Key" : {
+            
+            "message": "许可证密钥"
+        },
+        "License Key is expired." : {
+            
+            "message": "许可证密钥已过期。"
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "许可证密钥对此通道无效。"
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "许可证密钥对此产品无效。"
+        },
+        "License Key is required." : {
+            
+            "message": "许可证密钥是必需的。"
+        },
+        "License Key is suspended." : {
+            
+            "message": "许可证密钥已中止。"
+        },
+        "License Key not recognized." : {
+            
+            "message": "无法识别许可证密钥。"
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "许可证密钥验证需要互联网连接。检查您的连接。"
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "无法访问许可证密钥验证服务器。"
+        },
+        "Licensed To" : {
+            
+            "message": "授权给"
+        },
+        "Licensed to" : {
+            
+            "message": "授权给"
+        },
+        "Line Shade" : {
+            
+            "message": "线的形状"
+        },
+        "Linear Motion" : {
+            
+            "message": "线性运动"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "线性运动信息"
+        },
+        "Lines" : {
+            
+            "message": "线"
+        },
+        "Link" : {
+            
+            "message": "链接"
+        },
+        "Link Copied" : {
+            
+            "message": "链接已复制"
+        },
+        "list item" : {
+            
+            "message": "列表项"
+        },
+        "Load Experiment" : {
+            
+            "message": "加载实验"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "本地副本不同步。刷新中..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "以2为底的对数"
+        },
+        "Log Base b" : {
+            
+            "message": "以b为底的对数"
+        },
+        "Logged Data on Device" : {
+            
+            "message": "设备上记录的数据"
+        },
+        "Low-pass Filter" : {
+            
+            "message": "低通量滤波器"
+        },
+        "Main Content" : {
+            
+            "message": "主要内容"
+        },
+        "Manual" : {
+            
+            "message": "手动"
+        },
+        "Manual %s" : {
+            
+            "message": "手动%s"
+        },
+        "Manual Entry" : {
+            
+            "message": "手动输入"
+        },
+        "Manual Fit" : {
+            
+            "message": "手动拟合"
+        },
+        "Manual Scaling" : {
+            
+            "message": "手动缩放"
+        },
+        "Manually" : {
+            
+            "message": "手动的"
+        },
+        "Manufacture Date" : {
+            
+            "message": "生产日期"
+        },
+        "Mark" : {
+            
+            "message": "标记"
+        },
+        "Max" : {
+            
+            "message": "最大值"
+        },
+        "Maximize Application" : {
+            
+            "message": "最大化应用程序"
+        },
+        "Mean" : {
+            
+            "message": "平均值"
+        },
+        "Measurement" : {
+            
+            "message": "测量"
+        },
+        "Medium" : {
+            
+            "message": "中"
+        },
+        "Meter Actions" : {
+            
+            "message": "仪表操作"
+        },
+        "Meter All Columns" : {
+            
+            "message": "仪表显示所有栏"
+        },
+        "Meter Size" : {
+            
+            "message": "仪表尺寸"
+        },
+        "Meter View Options" : {
+            
+            "message": "仪表视图选项"
+        },
+        "Metered" : {
+            
+            "message": "仪表显示"
+        },
+        "metering on all columns" : {
+            
+            "message": "所有数据栏上的仪表显示"
+        },
+        "Meters" : {
+            
+            "message": "仪表"
+        },
+        "min" : {
+            
+            "message": "分"
+        },
+        "Min" : {
+            
+            "message": "最小值"
+        },
+        "Minimize Application" : {
+            
+            "message": "最小化应用程序"
+        },
+        "Mode" : {
+            
+            "message": "模式"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "模式更改为手动输入。"
+        },
+        "Modulo" : {
+            
+            "message": "求余"
+        },
+        "Move Down" : {
+            
+            "message": "下移"
+        },
+        "Move Up" : {
+            
+            "message": "上移"
+        },
+        "ms" : {
+            
+            "message": "毫秒"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "当物体通过光栅时，物体上的多个均匀间隔的标志被用来确定位置。第一个被阻塞事件决定了零位置。后续的阻塞事件通过间隔值增加位置。速度和加速度数据是用对时间的第一和二阶导数来计算的。"
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "滑轮上的多个均匀间隔的辐条用来确定滑轮转动时的角度位置。第一个阻塞事件决定了零角。随后封锁事件增加2π/ n弧度的角,其中n是轮子上的辐条数量。角速度和加速度数据是用对时间的第一和二阶导数来计算的。"
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "乘法可以是显式的，也可以是隐含的。"
+        },
+        "Mute Audio" : {
+            
+            "message": "静音音频"
+        },
+        "My-File-Name" : {
+            
+            "message": "我的文件名"
+        },
+        "Name" : {
+            
+            "message": "名称"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "名称不能超过 %s 字符"
+        },
+        "Natural Exponential" : {
+            
+            "message": "自然指数"
+        },
+        "Natural Log" : {
+            
+            "message": "自然对数"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "1+X的自然对数"
+        },
+        "Never" : {
+            
+            "message": "从不"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "开始新实验或打开新文件夹时需重新校准。"
+        },
+        "New Experiment" : {
+            
+            "message": "新的实验"
+        },
+        "Next After" : {
+            
+            "message": "下一个"
+        },
+        "No Columns" : {
+            
+            "message": "没有列"
+        },
+        "No Device Connected" : {
+            
+            "message": "未连接到设备"
+        },
+        "No device connected." : {
+            
+            "message": "未连接到设备"
+        },
+        "No Devices Connected" : {
+            
+            "message": "无可连接的设备"
+        },
+        "No expiration date" : {
+            
+            "message": "无终止日期"
+        },
+        "No sensor connected" : {
+            
+            "message": "无传感器连接"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "未连接传感器"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "没有检测到源。确保您的源程序具有数据共享功能，并且这两个设备都连接到同一个网络。如果问题仍然存在，请选择指定的源，并手动连接到您的数据共享源。"
+        },
+        "Normal" : {
+            
+            "message": "常规"
+        },
+        "not" : {
+            
+            "message": "not"
+        },
+        "Not Capable" : {
+            
+            "message": "不可行的"
+        },
+        "Note" : {
+            
+            "message": "注"
+        },
+        "Notes" : {
+            
+            "message": "注释"
+        },
+        "Number list" : {
+            
+            "message": "编号列表"
+        },
+        "Number of flags" : {
+            
+            "message": "挡光板数量"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "用于导数计算的点数："
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "用于平滑计算的点数："
+        },
+        "Number of spokes" : {
+            
+            "message": "辐条数量"
+        },
+        "Numeric" : {
+            
+            "message": "数字的"
+        },
+        "Object" : {
+            
+            "message": "物体"
+        },
+        "Object Width" : {
+            
+            "message": "物体宽度"
+        },
+        "Offline" : {
+            
+            "message": "离线"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "Ok" : {
+            
+            "message": "Ok"
+        },
+        "On a triggering event" : {
+            
+            "message": "触发事件"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "在LabQuest上点击Wi-Fi符号"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "在Logger Pro里，点击文件-数据分享"
+        },
+        "One-point calibration" : {
+            
+            "message": "单点校准"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "线上数据共享"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "仅在数据收集期间启用风扇"
+        },
+        "Open failed" : {
+            
+            "message": "打开失败"
+        },
+        "Open Saved File" : {
+            
+            "message": "打开保存的文件"
+        },
+        "Open Update Information" : {
+            
+            "message": "打开更新信息"
+        },
+        "Open..." : {
+            
+            "message": "打开……"
+        },
+        "or" : {
+            
+            "message": "或"
+        },
+        "Order Code" : {
+            
+            "message": "订购代码"
+        },
+        "Other / User Defined" : {
+            
+            "message": "其他/用户自定义"
+        },
+        "Other Options" : {
+            
+            "message": "其他选项"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "其他/用户定义:输入如上所示的空格和挡光板数量。如果你的物体是一个滑轮，间隔值将是滑轮的周长除以辐条数。"
+        },
+        "Outlined Circle" : {
+            
+            "message": "圆的轮廓"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "菱形的轮廓"
+        },
+        "Outlined Plus" : {
+            
+            "message": "加号的轮廓"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "矩形的轮廓"
+        },
+        "Outlined Square" : {
+            
+            "message": "正方形轮廓"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "三角形轮廓"
+        },
+        "Paragraph" : {
+            
+            "message": "段落"
+        },
+        "Parameter %s" : {
+            
+            "message": "参数 %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "表达式中不能有重复的参数。"
+        },
+        "Paste" : {
+            
+            "message": "粘贴"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "在编辑菜单中无法使用粘贴操作。按CTRL-V或CMD-V粘贴。"
+        },
+        "Pause replay" : {
+            
+            "message": "暂停重放"
+        },
+        "Pause Video" : {
+            
+            "message": "暂停视频"
+        },
+        "Peak Frequency" : {
+            
+            "message": "峰值频率"
+        },
+        "Pendulum Period" : {
+            
+            "message": "钟摆周期"
+        },
+        "Percentage" : {
+            
+            "message": "百分比"
+        },
+        "Perform a" : {
+            
+            "message": "执行a"
+        },
+        "Photogate Timing" : {
+            
+            "message": "光电门时间"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "光栅可以在门之间传递物体时间，也可以报告钟摆的摆动周期。连续阻塞事件之间的时间被报告为间隔时间。当使用恰好两个门时，两个门必须在一个值被报告之前被阻塞。"
+        },
+        "Picture in Picture" : {
+            
+            "message": "画中画"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "将Go Direct传感器放在电脑、手机或平板电脑附近"
+        },
+        "Play replay" : {
+            
+            "message": "启动重放"
+        },
+        "Play Video" : {
+            
+            "message": "播放视频"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "回放速度倍数"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "请输入源IP地址："
+        },
+        "Plot" : {
+            
+            "message": "图表"
+        },
+        "Plot Manager" : {
+            
+            "message": "绘图管理"
+        },
+        "Plus" : {
+            
+            "message": "加"
+        },
+        "point" : {
+            
+            "message": "点"
+        },
+        "Point Colors" : {
+            
+            "message": "点的颜色"
+        },
+        "Point Symbols" : {
+            
+            "message": "点符号"
+        },
+        "points" : {
+            
+            "message": "点"
+        },
+        "Points" : {
+            
+            "message": "点"
+        },
+        "points before trigger" : {
+            
+            "message": "触发之前的点"
+        },
+        "Power" : {
+            
+            "message": "次方"
+        },
+        "Prediction" : {
+            
+            "message": "预测"
+        },
+        "Prediction Name" : {
+            
+            "message": "预测的名称"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "预测的名称限制字符 %s"
+        },
+        "Prediction Options" : {
+            
+            "message": "预测的选择"
+        },
+        "Prediction Title" : {
+            
+            "message": "预测标题"
+        },
+        "Predictions" : {
+            
+            "message": "预测"
+        },
+        "Preview mode" : {
+            
+            "message": "预览模式"
+        },
+        "Primary:" : {
+            
+            "message": "初期："
+        },
+        "Privacy Notice" : {
+            
+            "message": "隐私声明"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": "Pro 到期提醒"
+        },
+        "Projectile Info" : {
+            
+            "message": "抛射信息"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "弹发射器"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "将此ID提供给其他人，以便他们可以连接到您的设备"
+        },
+        "Proximity Connect" : {
+            
+            "message": "距离连接"
+        },
+        "Pulse timing" : {
+            
+            "message": "脉冲时间"
+        },
+        "Quote" : {
+            
+            "message": "引用"
+        },
+        "radians" : {
+            
+            "message": "弧度"
+        },
+        "Radians (rad)" : {
+            
+            "message": "弧度(rad)"
+        },
+        "Rate" : {
+            
+            "message": "率"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "速率超过200个样品/秒，则需要一个固定的时间。"
+        },
+        "Reconnect" : {
+            
+            "message": "重新连接"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": "重新连接传感器以检索记录的数据。"
+        },
+        "Rectangle" : {
+            
+            "message": "矩形"
+        },
+        "Regular" : {
+            
+            "message": "普通的"
+        },
+        "Relative stability reading" : {
+            
+            "message": "相对稳定性读数"
+        },
+        "Remainder" : {
+            
+            "message": "余数"
+        },
+        "Remote Logging" : {
+            
+            "message": "远程记录"
+        },
+        "Remote Logging in Process" : {
+            
+            "message": "远程登录过程"
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": "一次只能在一个传感器上进行远程日志记录。"
+        },
+        "Remote Logging Started" : {
+            
+            "message": "远程日志记录已启动"
+        },
+        "Remote Logging Status" : {
+            
+            "message": "远程日志记录状态"
+        },
+        "Remove" : {
+            
+            "message": "移除"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "消除线性趋势"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "移除软传感器"
+        },
+        "Rename" : {
+            
+            "message": "重命名"
+        },
+        "Rename Data Set" : {
+            
+            "message": "重命名数据组"
+        },
+        "Rename Prediction" : {
+            
+            "message": "重命名预测"
+        },
+        "Replay" : {
+            
+            "message": "重播"
+        },
+        "Replay video sync info" : {
+            
+            "message": "回放视频同步信息"
+        },
+        "Reported Reading" : {
+            
+            "message": "报告读数"
+        },
+        "Reset" : {
+            
+            "message": "重置"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "采集重置（归零）"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "重置为默认值"
+        },
+        "Restart app" : {
+            
+            "message": "重启app"
+        },
+        "Restart Replay" : {
+            
+            "message": "再次重放"
+        },
+        "Restore All" : {
+            
+            "message": "全部恢复"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": "检索和清除"
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": "检索并清除传感器"
+        },
+        "Retry Calibration" : {
+            
+            "message": "重试校准"
+        },
+        "Reverse" : {
+            
+            "message": "反转方向"
+        },
+        "revolution" : {
+            
+            "message": "循环"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "分辨率 (rev)"
+        },
+        "Right" : {
+            
+            "message": "右"
+        },
+        "Right Axis" : {
+            
+            "message": "右轴"
+        },
+        "Right manual fit handle" : {
+            
+            "message": "右对齐手动拟合"
+        },
+        "Right y-axis" : {
+            
+            "message": "右 y 轴"
+        },
+        "Right y-axis range" : {
+            
+            "message": "右y轴范围"
+        },
+        "RMS" : {
+            
+            "message": "RMS"
+        },
+        "RMSE" : {
+            
+            "message": "均方根误差"
+        },
+        "Round" : {
+            
+            "message": "四舍五入"
+        },
+        "Row Number" : {
+            
+            "message": "行号"
+        },
+        "s" : {
+            
+            "message": "秒"
+        },
+        "sample" : {
+            
+            "message": "样本"
+        },
+        "Sample Data" : {
+            
+            "message": "样本数据"
+        },
+        "Sample Experiments" : {
+            
+            "message": "样本检验"
+        },
+        "samples" : {
+            
+            "message": "样本"
+        },
+        "Samples" : {
+            
+            "message": "样本"
+        },
+        "samples per second" : {
+            
+            "message": "每秒采样数"
+        },
+        "samples scheduled" : {
+            
+            "message": "计划的样本"
+        },
+        "Save" : {
+            
+            "message": "保存"
+        },
+        "Save AMBL" : {
+            
+            "message": "保存 AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "保存并关闭App"
+        },
+        "Save As..." : {
+            
+            "message": "另存为……"
+        },
+        "Save Changes?" : {
+            
+            "message": "保存更改？"
+        },
+        "Save CSV" : {
+            
+            "message": "保存CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "保存试验数据"
+        },
+        "Save failed" : {
+            
+            "message": "保存失败"
+        },
+        "Save PDF" : {
+            
+            "message": "保存 PDF"
+        },
+        "Save Pending" : {
+            
+            "message": "保存挂起"
+        },
+        "Save PNG" : {
+            
+            "message": "保存PNG"
+        },
+        "Saved" : {
+            
+            "message": "已保存"
+        },
+        "Saving" : {
+            
+            "message": "保存中"
+        },
+        "Scale Factor" : {
+            
+            "message": "比例因素"
+        },
+        "Scaling" : {
+            
+            "message": "缩放比例"
+        },
+        "Searching for devices..." : {
+            
+            "message": "正在寻找设备……"
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "第二个校准点的电压必须和第一个校准点相差至少0.05V。"
+        },
+        "Second Derivative" : {
+            
+            "message": "二阶导数"
+        },
+        "Secondary:" : {
+            
+            "message": "第二个："
+        },
+        "seconds" : {
+            
+            "message": "秒"
+        },
+        "See Experiments" : {
+            
+            "message": "见实验"
+        },
+        "See sample experiments" : {
+            
+            "message": "查看样本实验"
+        },
+        "Select Data Set" : {
+            
+            "message": "选择数据集"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "选择要报告角位置的所需单位。"
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "选择要连接的设备类型。"
+        },
+        "select/deselect meter" : {
+            
+            "message": "选择/取消选择仪表"
+        },
+        "Selected Events" : {
+            
+            "message": "选择事件"
+        },
+        "Sensor Actions" : {
+            
+            "message": "传感器活动"
+        },
+        "Sensor Channels" : {
+            
+            "message": "传感器通道"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "传感器数据采集"
+        },
+        "Sensor Setup" : {
+            
+            "message": "传感器设置"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "传感器电压"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "传感器调零"
+        },
+        "Sensors" : {
+            
+            "message": "传感器"
+        },
+        "Session 1 Name" : {
+            
+            "message": "会话 1 名称"
+        },
+        "Session 2 Name" : {
+            
+            "message": "会话 2 名称"
+        },
+        "Session 3 Name" : {
+            
+            "message": "会话 3 名称"
+        },
+        "Session 4 Name" : {
+            
+            "message": "会话 4 名称"
+        },
+        "Session ended by Host" : {
+            
+            "message": "会话由主机结束"
+        },
+        "Session Preferences" : {
+            
+            "message": "会话首选项"
+        },
+        "Settings saved" : {
+            
+            "message": "设置保存"
+        },
+        "Share AMBL" : {
+            
+            "message": "分享 AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "通过网络连接与他人共享一个实验"
+        },
+        "Share CSV" : {
+            
+            "message": "分享 CSV"
+        },
+        "Share Image" : {
+            
+            "message": "分享 图片"
+        },
+        "Share PDF" : {
+            
+            "message": "分享PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "显示所有版本"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": "显示数据标记说明"
+        },
+        "Show Details" : {
+            
+            "message": "显示详情"
+        },
+        "Show Error Bars" : {
+            
+            "message": "显示误差条"
+        },
+        "Show FFT" : {
+            
+            "message": "显示FFT"
+        },
+        "Show Histogram" : {
+            
+            "message": "显示直方图"
+        },
+        "Show Less" : {
+            
+            "message": "显示更少"
+        },
+        "Show Menu" : {
+            
+            "message": "显示菜单"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "显示通过门的中间时间"
+        },
+        "Show Original Graph" : {
+            
+            "message": "显示原始图表"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": "显示远程日志记录说明"
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": "显示拟合参数的不确定性"
+        },
+        "Significant Figures" : {
+            
+            "message": "有效数字"
+        },
+        "Sine" : {
+            
+            "message": "正弦"
+        },
+        "Slope" : {
+            
+            "message": "斜率"
+        },
+        "Small" : {
+            
+            "message": "小"
+        },
+        "Spacing" : {
+            
+            "message": "间隔"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "间隔=圆周/辐条的个数"
+        },
+        "Specify source" : {
+            
+            "message": "指定源"
+        },
+        "Spectrum" : {
+            
+            "message": "光谱"
+        },
+        "Speed through Gate" : {
+            
+            "message": "通过闸的速度"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "快速通过光闸的信息"
+        },
+        "Spokes:" : {
+            
+            "message": "辐条："
+        },
+        "Square" : {
+            
+            "message": "正方形"
+        },
+        "Square Root" : {
+            
+            "message": "平方根"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "启动数据共享会话"
+        },
+        "Start a New Session" : {
+            
+            "message": "开启新会话"
+        },
+        "Start Collection" : {
+            
+            "message": "开始采集"
+        },
+        "Start collection when" : {
+            
+            "message": "当……开始采集"
+        },
+        "Start Logging" : {
+            
+            "message": "开始记录"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "开始新的实验？"
+        },
+        "Start Session" : {
+            
+            "message": "启动会话"
+        },
+        "Statistics" : {
+            
+            "message": "统计"
+        },
+        "Std dev" : {
+            
+            "message": "标准设备"
+        },
+        "Step Backward" : {
+            
+            "message": "逐帧倒放"
+        },
+        "Step Forward" : {
+            
+            "message": "前进"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "视频后退"
+        },
+        "Step Video Forward" : {
+            
+            "message": "视频前进"
+        },
+        "Stop" : {
+            
+            "message": "停止"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "当滴定的液体达到9到10mL时，停止滴定。"
+        },
+        "Stop Collection" : {
+            
+            "message": "停止采集"
+        },
+        "Stop Sharing" : {
+            
+            "message": "停止分享"
+        },
+        "Strikethrough" : {
+            
+            "message": "删除线"
+        },
+        "Subject" : {
+            
+            "message": "主题"
+        },
+        "Submit" : {
+            
+            "message": "提交"
+        },
+        "Subscript" : {
+            
+            "message": "下标"
+        },
+        "Subscription Ends" : {
+            
+            "message": "订阅结束"
+        },
+        "Subscription ends" : {
+            
+            "message": "订阅结束"
+        },
+        "Superscript" : {
+            
+            "message": "上标"
+        },
+        "Supported Functions" : {
+            
+            "message": "支持的函数"
+        },
+        "Symbol" : {
+            
+            "message": "符号"
+        },
+        "Sync data with video" : {
+            
+            "message": "与视频同步数据"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "视频与数据同步"
+        },
+        "Syntax" : {
+            
+            "message": "句法"
+        },
+        "Table" : {
+            
+            "message": "表格"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "每加一滴即从传感器（例如，pH值，电导率）读取数值。"
+        },
+        "Tangent" : {
+            
+            "message": "正切"
+        },
+        "Target" : {
+            
+            "message": "目标"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "蓝牙连接中断"
+        },
+        "The Column Name is required" : {
+            
+            "message": "列名是必需的"
+        },
+        "the current file" : {
+            
+            "message": "当前文件"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "数据集将在视频开始前开始播放 %s 秒"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "如果没有确切的输入，曲线拟合将会以表达式来命名。"
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "发射速度是当子弹穿过两个嵌入的光电门时的平均速度。"
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "发射速度是当它通过第一个嵌入门时的平均速度。"
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "当光电门被阻挡时，物体/挡光板的宽度会被分割(阻塞门持续时间)，以确定物体的速度。"
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": "无法满足请求的速率和持续时间。最大采样速率是 %.2f 样本/%s for %d%s."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "连续阻塞事件之间的时间被报告为间隔。"
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "一个表达式不能超过7个参数。"
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "该传感器有新的固件可用，可在探头处于低于0°C的环境中时分辨杂散读数。 无法从Graphical Analysis中执行该更新过程。"
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "这个传感器有新的固件可用，但不能从这个设备应用更新。要更新这个传感器，只需在macOS、Windows或ChromeOS设备上通过USB连接，然后启动图形分析。转到已连接设备列表，并启动更新。"
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "这个传感器有新的固件可用。更新过程需要传感器通过USB连接，图形分析暂时关闭。如果它现在是无线连接，请通过USB连接传感器。"
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "在保存设置时出现了问题"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "这个栏是自动创建的, 它不能被更改"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "此删除无法撤销。"
+        },
+        "This feature requires a" : {
+            
+            "message": "该特性需要"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "这个数字定义了每个被阻塞事件的角度位置变化的部分。"
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "这个版本的Windows只支持USB连接直接Go Direct传感器。"
+        },
+        "Time" : {
+            
+            "message": "时间"
+        },
+        "Time Based" : {
+            
+            "message": "基于时间"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "基于时间的数据采集 - 一个图形"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "基于时间的数据采集 - 三个图形"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "基于时间的数据采集 - 两个图形"
+        },
+        "Time between gates" : {
+            
+            "message": "门之间的时间"
+        },
+        "Time Decay Filter" : {
+            
+            "message": "时间衰减滤波器"
+        },
+        "Time measurements" : {
+            
+            "message": "时间测量值"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "飞行垫的时间，"
+        },
+        "Time Units" : {
+            
+            "message": "时间单位"
+        },
+        "Timer" : {
+            
+            "message": "计时器"
+        },
+        "Timer Info" : {
+            
+            "message": "定时器信息"
+        },
+        "Timer or Period" : {
+            
+            "message": "计时器或时期"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "小贴士:为了得到最好的效果，检查你想要的传感器是唯一一个距离你的电脑、手机或平板电脑2米以内的。"
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "提示:近距离连接依赖于距离。如果在您的环境中不可靠，请使用连接列表来选择您的传感器。"
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "提示:传感器必须有一个闪烁的红灯，以供连接。"
+        },
+        "Title" : {
+            
+            "message": "标题"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "若要创建自定义 %s,请使用系统支持的任意函数和操作符"
+        },
+        "To locate the address:" : {
+            
+            "message": "来定位："
+        },
+        "to make the key available for use." : {
+            
+            "message": "以使密钥可供使用。"
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "启动数据共享会话："
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "切换黑暗模式"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "切换白天模式"
+        },
+        "Too few points" : {
+            
+            "message": "太少的点"
+        },
+        "Toolbar" : {
+            
+            "message": "工具栏"
+        },
+        "Top" : {
+            
+            "message": "顶部"
+        },
+        "Total samples" : {
+            
+            "message": "总样本"
+        },
+        "Triangle" : {
+            
+            "message": "三角形"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "三角函数是以弧度计算的，除非绘制在图像上的横轴标有单位"
+        },
+        "Truncate" : {
+            
+            "message": "缩短"
+        },
+        "Two-point calibration" : {
+            
+            "message": "两点校准"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "滑轮-凹槽"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "滑轮-外边缘"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "无法连接或找到这个名称的来源。"
+        },
+        "Unable to connect to " : {
+            
+            "message": "无法连接到 "
+        },
+        "Units" : {
+            
+            "message": "单位"
+        },
+        "Unknown" : {
+            
+            "message": "未知"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "未知许可证密钥错误"
+        },
+        "Unmute Audio" : {
+            
+            "message": "取消音频静音"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "不支持的浏览器"
+        },
+        "Untitled" : {
+            
+            "message": "无标题"
+        },
+        "Update Available" : {
+            
+            "message": "可更新"
+        },
+        "Update error" : {
+            
+            "message": "更新出错"
+        },
+        "Update Firmware" : {
+            
+            "message": "更新固件"
+        },
+        "Update is downloading..." : {
+            
+            "message": "正在下载更新……"
+        },
+        "Update your License Key" : {
+            
+            "message": "请更新您的许可证密钥"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "USB驱动"
+        },
+        "Use Column Value" : {
+            
+            "message": "使用栏数值"
+        },
+        "Use gate separation" : {
+            
+            "message": "使用门间隔"
+        },
+        "Use object / flag width" : {
+            
+            "message": "使用物体/挡光板宽度"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "使用弹体直径"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "使用科学记数法"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "根据需要使用 USB 或无线按钮。"
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": "在该区域记下有关实验的标记或纯文本笔记。若要查看应用的格式，请切换到预览模式。"
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "使用该选项来探究关于时间的速度。报告的时间是闸被挡住和闸被打开的时间之间的中点时间。"
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "使用飞行垫的时间"
+        },
+        "Use Windowing" : {
+            
+            "message": "使用窗口"
+        },
+        "User Manual" : {
+            
+            "message": "用户手册"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "使用工厂校准"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "使用此实验的本地缓存版本。"
+        },
+        "Value must be between " : {
+            
+            "message": "参数值需在区间内 "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "Vernier Graphical Analysis®是理科学生采集、绘制和分析威尼尔传感器数据的工具。"
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "Vernier Graphical Analysis® Pro 访问权限在 ${this.daysRemaining} 天后过期"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "Vernier Graphical Analysis® Pro访问权限今天到期"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "威尼尔光栅尺"
+        },
+        "Version" : {
+            
+            "message": "版本"
+        },
+        "Vertical Divider" : {
+            
+            "message": "垂直分隔器"
+        },
+        "Video" : {
+            
+            "message": "视频"
+        },
+        "Video Time" : {
+            
+            "message": "视频时段"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "视频将在数据集回放之前开始回放 %s 秒"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "视频将在数据集回放的同时开始回放"
+        },
+        "View Experiment" : {
+            
+            "message": "查看实验"
+        },
+        "View Integral" : {
+            
+            "message": "浏览积分"
+        },
+        "View Options" : {
+            
+            "message": "视图选项"
+        },
+        "View Statistics" : {
+            
+            "message": "浏览统计"
+        },
+        "Voltage" : {
+            
+            "message": "电压"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "在 %s %s等待 %s 到 %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "我们检测到许可证密钥有效，但必须先接受最终用户许可协议，然后才能使用。采购的学校代理 "
+        },
+        "What's New" : {
+            
+            "message": "查看新版本"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "当钟摆被选中时，每隔一秒的时间就会被报告为一个钟摆在完成一次摆动后阻塞三次门的时间。"
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "当使用两个光电门时，您可以使用门之间的距离而不是物体/挡光板宽度来计算速度。报道的速度将是两门之间的速度。"
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "无线连接需要Windows 10系统。"
+        },
+        "Wireless" : {
+            
+            "message": "无线"
+        },
+        "Working..." : {
+            
+            "message": "工作中……"
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x-轴的范围"
+        },
+        "x-range" : {
+            
+            "message": "x-范围"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-轴范围"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "您可以通过有线 USB 连接或无线连接设备。"
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "您可以通过电子邮件、文本或其他方式共享此 URL，从而向学校中的其他人授予对此应用程序的访问权限。"
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": "无需等待数据采集完成即可检索记录的数据。"
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": "你输入了非数值数据。是否要将此栏转换为分类数据？"
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "你连接了此实验不需要的设备。"
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "您输入的是激活码，而不是许可证密钥。"
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "您的浏览器将显示可用的设备。选择所需的一个，然后单击配对。"
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "您的数据共享主机正在开始一个新的实验。您可以继续您的实验，也可以加入新的实验。"
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "您的许可仅允许与学校的学生、教职员工共享Vernier Graphical Analysis®。请不要在学校外分享。"
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "您的许可证仅允许与学校的学生、教职员工共享Vernier Video Analysis。请不要在学校外分享。"
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": "传感器已断开。"
+        },
+        "Zero" : {
+            
+            "message": "归零"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "缩放显示所有数据"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "缩放显示选定区域"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-轴 ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-轴 ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier 科学教育"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g 加速计"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "三维加速计 (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "三维加速计 (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "三维加速计 (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "30V电压 (+/-30 伏特)"
+        },
+        "Absorbance" : {
+            
+            "message": "吸光度"
+        },
+        "Acceleration" : {
+            
+            "message": "加速度"
+        },
+        "Accelerometer" : {
+            
+            "message": "加速计"
+        },
+        "Ammonium" : {
+            
+            "message": "铵离子"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "铵离子电极"
+        },
+        "Analyzer" : {
+            
+            "message": "分析器"
+        },
+        "Anemometer" : {
+            
+            "message": "风速计"
+        },
+        "Angle" : {
+            
+            "message": "角度"
+        },
+        "Barometer" : {
+            
+            "message": "气压计"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "气压计（不再销售）"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "生物气体压力"
+        },
+        "Blood Pressure" : {
+            
+            "message": "血压"
+        },
+        "Calcium" : {
+            
+            "message": "钙离子"
+        },
+        "Calcium ISE" : {
+            
+            "message": "钙离子电极"
+        },
+        "Charge" : {
+            
+            "message": "加载"
+        },
+        "Charge Sensor" : {
+            
+            "message": "电荷传感器"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "电荷传感器 100 纳库"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "电荷传感器 20 纳库"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "电荷传感器 5 纳库"
+        },
+        "Chloride" : {
+            
+            "message": "氯"
+        },
+        "Chloride ISE" : {
+            
+            "message": "氯离子电极"
+        },
+        "CO2" : {
+            
+            "message": "二氧化碳"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "二氧化碳气体 高"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "二氧化碳气体 低"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "老版二氧化碳气体"
+        },
+        "Colorimeter" : {
+            
+            "message": "色度计"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "老版色度计"
+        },
+        "Concentration" : {
+            
+            "message": "浓度"
+        },
+        "Conductivity" : {
+            
+            "message": "导电率"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "导电率 20000 MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "导电率 2000 MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "导电率 200 MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "恒流系统"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "臂带压力"
+        },
+        "Current" : {
+            
+            "message": "电流"
+        },
+        "Current Probe" : {
+            
+            "message": "电流传感器"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "电流传感器 1.2 安培"
+        },
+        "Diastolic" : {
+            
+            "message": "舒张的"
+        },
+        "Differential Voltage" : {
+            
+            "message": "相差电压"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "数码控制单元"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "直接连接的温度传感器"
+        },
+        "Displacement" : {
+            
+            "message": "位移"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "溶解二氧化碳"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "溶解氧"
+        },
+        "Distance" : {
+            
+            "message": "距离"
+        },
+        "DO" : {
+            
+            "message": "溶解氧"
+        },
+        "Drop Counter" : {
+            
+            "message": "滴数传感器"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "双范围力 10 牛顿"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "双范围力 50 牛顿"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "仅限2021年初的小车"
+        },
+        "EKG" : {
+            
+            "message": "心电图"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "电极放大器"
+        },
+        "Energy" : {
+            
+            "message": "能量"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "能量传感器电流"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "能量传感器电压"
+        },
+        "Ethanol" : {
+            
+            "message": "乙醇"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "乙醇传感器"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "加长温度传感器"
+        },
+        "Flow Rate" : {
+            
+            "message": "流速"
+        },
+        "Fluorescence" : {
+            
+            "message": "荧光"
+        },
+        "Force" : {
+            
+            "message": "力"
+        },
+        "Force Plate" : {
+            
+            "message": "力板"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "力板 3500 牛顿"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "力板 850 牛顿"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "气体压力传感器"
+        },
+        "Gate State" : {
+            
+            "message": "闸状态"
+        },
+        "Gate Time" : {
+            
+            "message": "闸门时间"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "无线电极放大器"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "无线手握心率传感器"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "无线pH传感器"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "无线温度传感器"
+        },
+        "Go! Motion" : {
+            
+            "message": "动手做! 运动"
+        },
+        "Go! Temp" : {
+            
+            "message": "动手做! 温度"
+        },
+        "Goniometer" : {
+            
+            "message": "测角仪"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "手握力计"
+        },
+        "Heart Rate" : {
+            
+            "message": "心率"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "心率传感器"
+        },
+        "High Current Sensor" : {
+            
+            "message": "高电流传感器"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "高灵敏度的光 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "高灵敏度的光 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "高灵敏度的光 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "照度"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "仪器放大器"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "仪器放大器 +- 1 伏特"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "仪器放大器 +- 200 毫伏"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "仪器放大器 +- 20 毫伏"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "仪器放大器 1 伏特"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "仪器放大器 200 毫伏"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "仪器放大器 20 毫伏"
+        },
+        "Intensity" : {
+            
+            "message": "强度"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "红外温度传感器"
+        },
+        "Irradiance" : {
+            
+            "message": "辐照度"
+        },
+        "Launch Speed" : {
+            
+            "message": "发射速度"
+        },
+        "Light" : {
+            
+            "message": "光"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "光 150000 勒"
+        },
+        "Light 600 lux" : {
+            
+            "message": "光 600 勒"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "光 6000 勒"
+        },
+        "Light Level" : {
+            
+            "message": "光强度"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "线性运动传感器"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "低重力加速计"
+        },
+        "Magnetic Field" : {
+            
+            "message": "磁场"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "磁场0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "磁场 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "平均动脉血压"
+        },
+        "Melt Station" : {
+            
+            "message": "熔解站"
+        },
+        "Microphone" : {
+            
+            "message": "麦克风"
+        },
+        "mol/L" : {
+            
+            "message": "mol/L"
+        },
+        "Motion" : {
+            
+            "message": "运动"
+        },
+        "Motion Detector" : {
+            
+            "message": "运动传感器"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "运动编码小车"
+        },
+        "Nitrate" : {
+            
+            "message": "硝酸根"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "硝酸根离子电极"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "光学溶解氧传感器 %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "光学溶解氧传感器 mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "氧气"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "氧气（旧版）"
+        },
+        "PAR Sensor" : {
+            
+            "message": "光合作用光照强度计"
+        },
+        "Period" : {
+            
+            "message": "时期"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP 放大器"
+        },
+        "Photogate" : {
+            
+            "message": "光闸"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "铂金导电率"
+        },
+        "Polarimeter" : {
+            
+            "message": "旋光仪"
+        },
+        "Position" : {
+            
+            "message": "位置"
+        },
+        "Potassium" : {
+            
+            "message": "钾"
+        },
+        "Potassium ISE" : {
+            
+            "message": "钾离子电极"
+        },
+        "Potential" : {
+            
+            "message": "电势"
+        },
+        "Power" : {
+            
+            "message": "功率"
+        },
+        "Power Amp Current" : {
+            
+            "message": "功率放大的电流"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD（光合光子通量密度）"
+        },
+        "Pressure" : {
+            
+            "message": "压力"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "压力传感器（不再销售）"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "高压力传感器（400 kpa）"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "弹射器"
+        },
+        "Pulse" : {
+            
+            "message": "脉冲"
+        },
+        "Pulse Time" : {
+            
+            "message": "脉冲时间"
+        },
+        "Pyranometer" : {
+            
+            "message": "日照强度计"
+        },
+        "Radiation" : {
+            
+            "message": "辐射"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "辐射传感器"
+        },
+        "Raw" : {
+            
+            "message": "源"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "初始电压 (0-5 伏特)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "相对湿度"
+        },
+        "Resistance" : {
+            
+            "message": "阻力"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "呼吸监测带"
+        },
+        "Respiration Rate" : {
+            
+            "message": "呼吸速度"
+        },
+        "Rotary Motion" : {
+            
+            "message": "旋转运动"
+        },
+        "Salinity" : {
+            
+            "message": "盐度"
+        },
+        "Signal" : {
+            
+            "message": "信号"
+        },
+        "Soil Moisture" : {
+            
+            "message": "土壤湿度"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "土壤湿度传感器"
+        },
+        "Sound Level" : {
+            
+            "message": "音强"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "音强传感器"
+        },
+        "Sound Pressure" : {
+            
+            "message": "声音压力"
+        },
+        "Speed" : {
+            
+            "message": "速度"
+        },
+        "Spirometer" : {
+            
+            "message": "肺活量计"
+        },
+        "Standard" : {
+            
+            "message": "标准"
+        },
+        "Standard Temperature" : {
+            
+            "message": "标准温度"
+        },
+        "Student Force" : {
+            
+            "message": "学生力传感器"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "学生辐射传感器"
+        },
+        "Systolic" : {
+            
+            "message": "收缩压"
+        },
+        "Temperature" : {
+            
+            "message": "温度"
+        },
+        "Temperature Probe" : {
+            
+            "message": "温度传感器"
+        },
+        "Thermocouple" : {
+            
+            "message": "热电偶"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "旧版热电偶"
+        },
+        "TI Light" : {
+            
+            "message": "TI 光传感器"
+        },
+        "Time of Flight" : {
+            
+            "message": "飞行时间"
+        },
+        "Transmittance" : {
+            
+            "message": "透射率"
+        },
+        "Turbidity" : {
+            
+            "message": "混浊度"
+        },
+        "UVA Intensity" : {
+            
+            "message": "紫外 A 强度"
+        },
+        "UVA Sensor" : {
+            
+            "message": "紫外 A 传感器"
+        },
+        "UVB Intensity" : {
+            
+            "message": "紫外 B 强度"
+        },
+        "UVB Sensor" : {
+            
+            "message": "紫外 B 传感器"
+        },
+        "Velocity" : {
+            
+            "message": "速度"
+        },
+        "Voltage" : {
+            
+            "message": "电压"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "电压 (+/-10 V)"
+        },
+        "Volume" : {
+            
+            "message": "体积"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT 位移"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT 力"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "宽范围温度传感器"
+        },
+        "X Acceleration" : {
+            
+            "message": "X 加速度"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y 加速度"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z 加速度"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": "*umol m-2 s-1*"
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": "*µmol m⁻² s⁻¹*"
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "绝对湿度"
+        },
+        "Acceleration G" : {
+            
+            "message": "加速度 G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "加速度矢量"
+        },
+        "Acceleration Y" : {
+            
+            "message": "加速度 Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "调整的体积"
+        },
+        "Altitude" : {
+            
+            "message": "高度"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "单点校准"
+        },
+        "Amplitude" : {
+            
+            "message": "振幅"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "角(高分辨率)"
+        },
+        "Angular Motion" : {
+            
+            "message": "角运动"
+        },
+        "Auto zero at start" : {
+            
+            "message": "启动时自动零点"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "辅助端口模式"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE电流范围"
+        },
+        "BE Duration" : {
+            
+            "message": "BE持续时间"
+        },
+        "BE Potential" : {
+            
+            "message": "BE电势"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE采样速率"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "大气压"
+        },
+        "Battery Level" : {
+            
+            "message": "电池电量"
+        },
+        "Battery Percent" : {
+            
+            "message": "电量百分比"
+        },
+        "Battery Voltage" : {
+            
+            "message": "电池电压"
+        },
+        "Blank calibration" : {
+            
+            "message": "空白校准"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "电桥电压"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "二氧化碳当量"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "二氧化碳气体"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CVS 电流范围"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS 最终电势"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS 初始电势"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS 循环数"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS段数"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS 扫描速率"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS 切换电势1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS 切换电势 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "校准系数"
+        },
+        "Calibration power" : {
+            
+            "message": "校准性能"
+        },
+        "Cap number" : {
+            
+            "message": "限制数量"
+        },
+        "Cell" : {
+            
+            "message": "电池"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "电池常数（ASI）"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "电池常数（活动）"
+        },
+        "Coefficient-A" : {
+            
+            "message": "系数-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "系数-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "系数-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "电导率-0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": "校正系数"
+        },
+        "Counts" : {
+            
+            "message": "计数"
+        },
+        "Current pressure" : {
+            
+            "message": "流压"
+        },
+        "Current state" : {
+            
+            "message": "现状"
+        },
+        "Current temperature" : {
+            
+            "message": "当前温度"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "截止频率"
+        },
+        "Cycle Volume" : {
+            
+            "message": "循环量"
+        },
+        "Cycle volume source" : {
+            
+            "message": "循环体积源"
+        },
+        "DAC value" : {
+            
+            "message": "DAC值"
+        },
+        "DO Concentration" : {
+            
+            "message": "DO浓度"
+        },
+        "DO Salinity" : {
+            
+            "message": "DO盐度"
+        },
+        "DO Saturation" : {
+            
+            "message": "DO饱和度"
+        },
+        "Data source" : {
+            
+            "message": "数据源"
+        },
+        "Declination" : {
+            
+            "message": "衰退"
+        },
+        "Demo" : {
+            
+            "message": "示范"
+        },
+        "Dew Point" : {
+            
+            "message": "露点"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "舒张压系数"
+        },
+        "Differential Pressure" : {
+            
+            "message": "压差"
+        },
+        "Drops" : {
+            
+            "message": "滴数"
+        },
+        "EMG" : {
+            
+            "message": "肌电图"
+        },
+        "EMG Rectified" : {
+            
+            "message": "肌电图矫正"
+        },
+        "Electrode Current" : {
+            
+            "message": "极间电流"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "极间电压"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "电极清洗"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "输入 0% f低值"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "输入 100% f低值"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "输入 50% f低值"
+        },
+        "Enter altitude" : {
+            
+            "message": "输入海拔"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "输入气压"
+        },
+        "Enter current temperature" : {
+            
+            "message": "输入当前温度"
+        },
+        "Enter first known value" : {
+            
+            "message": "输入第一个已知值"
+        },
+        "Enter k value" : {
+            
+            "message": "输入 k 值"
+        },
+        "Enter known value" : {
+            
+            "message": "输入已知值"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "输入乘数值"
+        },
+        "Enter n value" : {
+            
+            "message": "输入 n 值"
+        },
+        "Enter offset value" : {
+            
+            "message": "输入偏置值"
+        },
+        "Enter power value" : {
+            
+            "message": "输入功率值"
+        },
+        "Enter second known value" : {
+            
+            "message": "输入第二个已知值"
+        },
+        "Enter station elevation" : {
+            
+            "message": "输入测站高度"
+        },
+        "Enter third known value" : {
+            
+            "message": "输入第三个已知值"
+        },
+        "Envelope" : {
+            
+            "message": "信封"
+        },
+        "Envelope averaging" : {
+            
+            "message": "取平均值"
+        },
+        "Error" : {
+            
+            "message": "错误"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "乙醇气体"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "带有碳氢化合物的乙醇气体"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "乙醇蜱"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "乙醇蒸汽"
+        },
+        "Experiment Type" : {
+            
+            "message": "实验种类"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "呼气峰容量"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "FWD" : {
+            
+            "message": "FWD"
+        },
+        "Fan" : {
+            
+            "message": "Fan"
+        },
+        "Fan Mode" : {
+            
+            "message": "风扇模式"
+        },
+        "Final hold time" : {
+            
+            "message": "最后保持时间"
+        },
+        "Final temperature" : {
+            
+            "message": "最终温度"
+        },
+        "Five-point calibration" : {
+            
+            "message": "五点校准"
+        },
+        "Flow rate filter" : {
+            
+            "message": "流量过滤"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "吸气极性"
+        },
+        "Force G" : {
+            
+            "message": "力 G"
+        },
+        "Force Y" : {
+            
+            "message": "力 Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "力单点校准"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "力两点校准"
+        },
+        "Forward" : {
+            
+            "message": "向前"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "门1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "光电门1-门状态"
+        },
+        "Gate 1 State" : {
+            
+            "message": "光电门1状态"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "光电门1/远程门-定时"
+        },
+        "Gate 2" : {
+            
+            "message": "门2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "光电门2-门状态"
+        },
+        "Gate 2 State" : {
+            
+            "message": "光电门2状态"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "GD系列无线三维磁场传感器"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "GD系列无线加速度传感器"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® 血压"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "GD系列无线二氧化碳传感器"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "GD系列无线色度计"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "GD系列无线导电率传感器"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "GD系列无线恒定电流传感器"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "GD系列无线电流传感器"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® 循环伏安法系统"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "GD系列无线滴数传感器"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "GD系列无线心电图传感器"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "GD系列无线电极放大器"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "GD系列无线能量传感器"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "GD系列无线乙醇传感器"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "GD系列无线乙醇蒸汽传感器"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "GD系列无线力和加速度传感器"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® 气相色谱仪"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "GD系列无线气体压力传感器"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "GD系列无线手握力计"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "GD系列无线选择性离子电极放大器"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "GD系列无线光色传感器"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "GD系列无线熔解站"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "GD系列无线运动传感器"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "GD系列无线光学溶解氧传感器"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "GD系列无线氧气传感器"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": "GD系列无线光合作用日射强度计"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "GD系列无线光电门"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® 抗酸碱铂金材质导电率传感器"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct®旋光仪"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "GD系列弹发射器"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct®脉搏血氧计"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": "GD系列无线日照辐射计"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "GD系列无线辐射传感器"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "GD系列无线呼吸监测带"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "GD系列无线旋转运动传感器"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "GD系列无线绿色小车"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "GD系列无线黄色小车"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "GD系列声音传感器"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® 肺活量计"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": "GD系列无线静电荷传感器"
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® 材料结构测试机"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "GD系列无线表面温度传感器"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "GD系列无线温度传感器"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® 热电偶放大器"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "GD系列无线电压传感器"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® 气候计"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "GD系列无线宽范围温度传感器"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct®宽量程气压传感器"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "GD系列无线三维磁场传感器"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "GD系列无线加速度传感器"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct™ 血压"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "GD系列无线二氧化碳传感器"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "GD系列无线色度计"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "GD系列无线导电率传感器"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "GD系列无线恒定电流传感器"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "GD系列无线电流传感器"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ 循环伏安法系统"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "GD系列无线滴数传感器"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "GD系列无线心电图传感器"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "GD系列无线电极放大器"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "GD系列无线能量传感器"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "GD无线乙醇传感器"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "GD无线乙醇蒸汽传感器"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "GD系列无线力和加速度传感器"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ 气相色谱仪"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "GD系列无线气体压力传感器"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "GD无线手握力计"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "GD系列无线选择性离子电极放大器"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "GD系列无线光色传感器"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "GD系列无线熔解站"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "GD系列无线运动传感器"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "GD系列无线光学溶解氧传感器"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "GD系列无线氧气传感器"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": "GD系列无线光合作用日射强度计"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "GD系列无线光电门"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™抗酸碱铂金导电率传感器"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™旋光仪"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "GD系列弹发射器"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™脉搏血氧计"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": "GD系列无线日照辐射计"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "GD系列无线辐射传感器"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "GD系列无线呼吸监测带"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "GD系列无线旋转运动传感器"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "GD系列无线绿色小车"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "GD系列无线黄色小车"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "GD系列声音传感器"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ 肺活量计"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": "GD系列无线静电荷传感器"
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ 材料结构测试机"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "GD系列无线表面温度传感器"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "GD系列无线温度传感器"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ 热电偶放大器"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "GD系列无线电压传感器"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ 气候计"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "GD系列无线宽范围温度传感器"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™宽量程气压传感器"
+        },
+        "Heat Index" : {
+            
+            "message": "热指数"
+        },
+        "Hold time" : {
+            
+            "message": "保持时间"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "氢"
+        },
+        "Hz" : {
+            
+            "message": "赫兹"
+        },
+        "Illuminance" : {
+            
+            "message": "光照度"
+        },
+        "Illumination Raw" : {
+            
+            "message": "原始照度"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "叶轮的频率"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "吸气峰容量"
+        },
+        "Instrument status" : {
+            
+            "message": "仪器状态"
+        },
+        "Internal Current" : {
+            
+            "message": "内部电流"
+        },
+        "Internal Voltage" : {
+            
+            "message": "内部电压"
+        },
+        "J" : {
+            
+            "message": "焦"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED 诊断"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED 量级"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "激光门-门状态"
+        },
+        "Laser Gate State" : {
+            
+            "message": "激光门状态"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "激光门/远程门-定时"
+        },
+        "Launch Angle" : {
+            
+            "message": "发射角度"
+        },
+        "Linear Motion" : {
+            
+            "message": "线性运动"
+        },
+        "Live" : {
+            
+            "message": "实时"
+        },
+        "Load cell gain" : {
+            
+            "message": "负载电池"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "麦克风-FIXED"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "麦克风-FIXED的重量"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "麦克风-FIXED C 的重量"
+        },
+        "Motion (cart)" : {
+            
+            "message": "运动（小车）"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "运动加速度"
+        },
+        "Motion Velocity" : {
+            
+            "message": "运动速度"
+        },
+        "Motion with TC" : {
+            
+            "message": "运动（自动温度补偿）"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "No"
+        },
+        "No smoothing" : {
+            
+            "message": "非平滑"
+        },
+        "Normalized Response" : {
+            
+            "message": "标准化响应"
+        },
+        "Not ready" : {
+            
+            "message": "Not ready"
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP 持续时间"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP 采样速率"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "目标加速度（多个标记）"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "目标加速度 (单个标记)"
+        },
+        "Object Velocity" : {
+            
+            "message": "目标速度"
+        },
+        "Off" : {
+            
+            "message": "Off"
+        },
+        "One-point calibration" : {
+            
+            "message": "单点校准"
+        },
+        "Optical Rotation" : {
+            
+            "message": "旋光度"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "振荡注释"
+        },
+        "Oscillation Max" : {
+            
+            "message": "振荡 Max"
+        },
+        "Oscillation Min" : {
+            
+            "message": "振荡 Min"
+        },
+        "Oscillations" : {
+            
+            "message": "振荡"
+        },
+        "O₂ Gas" : {
+            
+            "message": "氧气"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": "O₂ 气体浓度"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "氧气rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": "PAR两点校准"
+        },
+        "PPFD - CF" : {
+            
+            "message": "PPFD - CF"
+        },
+        "PPFD Correction" : {
+            
+            "message": "PPFD校正"
+        },
+        "PYR two-point calibration" : {
+            
+            "message": "PYR两点校准"
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "峰面积"
+        },
+        "Pendulum Period" : {
+            
+            "message": "钟摆周期"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "钟摆速度"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Pine固件主版本"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Pine固件次级版本"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Pine 固件版本"
+        },
+        "Position Direction" : {
+            
+            "message": "位置方向"
+        },
+        "Position G" : {
+            
+            "message": "位置 G"
+        },
+        "Position Vector" : {
+            
+            "message": "Position Vector"
+        },
+        "Position Y" : {
+            
+            "message": "位置 Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "功率三点校准"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "脉压"
+        },
+        "Pulse Rate" : {
+            
+            "message": "脉搏率"
+        },
+        "REV" : {
+            
+            "message": "REV"
+        },
+        "Ramp rate" : {
+            
+            "message": "升温速率"
+        },
+        "Raw Diastolic" : {
+            
+            "message": "原始舒张压"
+        },
+        "Raw MAP" : {
+            
+            "message": "原始平均动脉压"
+        },
+        "Raw Pressure" : {
+            
+            "message": "原始压强"
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": "平滑处理原始压强数据"
+        },
+        "Raw Systolic" : {
+            
+            "message": "原始收缩压"
+        },
+        "Raw Temperature" : {
+            
+            "message": "原始温度"
+        },
+        "Ready" : {
+            
+            "message": "就绪"
+        },
+        "Ready to inject" : {
+            
+            "message": "Ready to inject"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "远程加速"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "远程门-目标加速度"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "远程门-目标加速度 (单个标记)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "远程门-目标速度"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "远程门1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "远程门2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "远程速度"
+        },
+        "Reverse" : {
+            
+            "message": "相反"
+        },
+        "Running" : {
+            
+            "message": "Running"
+        },
+        "Salinity correction" : {
+            
+            "message": "盐度校正"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "A级声音"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "C级声音"
+        },
+        "Start temperature" : {
+            
+            "message": "起始温度"
+        },
+        "Starting" : {
+            
+            "message": "Starting"
+        },
+        "Station Pressure" : {
+            
+            "message": "测站气压"
+        },
+        "Step Rate" : {
+            
+            "message": "步次速率"
+        },
+        "Steps" : {
+            
+            "message": "步骤"
+        },
+        "Stopped" : {
+            
+            "message": "Stopped"
+        },
+        "Switch USB" : {
+            
+            "message": "开关USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "收缩系数"
+        },
+        "Temperature correction" : {
+            
+            "message": "温度校准"
+        },
+        "Three-point calibration" : {
+            
+            "message": "三点校准"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "发射坪的时间"
+        },
+        "Timing" : {
+            
+            "message": "定时"
+        },
+        "Total VOC" : {
+            
+            "message": "总挥发性有机化合物"
+        },
+        "Two-point calibration" : {
+            
+            "message": "两点校准"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "J型热电偶"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "K型热电偶"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "T型热电偶"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": "UV 蓝光"
+        },
+        "UV Index" : {
+            
+            "message": "UV 指数"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV强度"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": "平滑曲线"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "最大矢量范围"
+        },
+        "Vector range Min" : {
+            
+            "message": "最小矢量范围"
+        },
+        "Velocity G" : {
+            
+            "message": "速度 G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Velocity Vector"
+        },
+        "Velocity Y" : {
+            
+            "message": "速度 Y"
+        },
+        "Velocity2" : {
+            
+            "message": "速度2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "电压-1V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "电压-20V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "体积校正系数"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "体积吸气极性"
+        },
+        "W/m²" : {
+            
+            "message": "W/m²"
+        },
+        "Wave Amplitude" : {
+            
+            "message": "波幅"
+        },
+        "Wave Frequency" : {
+            
+            "message": "波频率"
+        },
+        "Wind Chill" : {
+            
+            "message": "风寒"
+        },
+        "Wind Direction" : {
+            
+            "message": "风向"
+        },
+        "Wind Speed" : {
+            
+            "message": "风速"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "风向校准"
+        },
+        "X magnetic field" : {
+            
+            "message": "X 磁场"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X磁场130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-角速度"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X-轴加速度"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X轴加速度 G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X轴加速度 Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-轴加速度单点校准"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-轴高加速度"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-轴高加速度单点校准"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X轴角速度"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "x轴角速度G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "x轴角速度Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X轴陀螺仪"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y 磁场"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y磁场130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y轴角速度"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y轴加速度"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y轴加速度 G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y轴加速度 Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y轴加速度单点校准法"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y轴高加速度"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y轴高加速度单点校准法"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y轴角速度"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y 轴角速度G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y 轴角速度Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y轴陀螺仪"
+        },
+        "Yes" : {
+            
+            "message": "Yes"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z 磁场"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z磁场130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z轴角速度"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z轴加速度"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z轴加速度 G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z轴加速度 Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z轴加速度单点校准"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z轴高加速度"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z轴高加速度单点校准"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z轴角速度"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z 轴角速度G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z 轴角速度Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z轴陀螺仪"
+        },
+        "atm" : {
+            
+            "message": "标准大气压"
+        },
+        "bpm" : {
+            
+            "message": "冲/分钟"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "计数"
+        },
+        "dB" : {
+            
+            "message": "分贝"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "in"
+        },
+        "inHg" : {
+            
+            "message": "英寸汞柱"
+        },
+        "kPa" : {
+            
+            "message": "千帕"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "要点"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "勒克斯"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "毫巴"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "毫米汞柱"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": "nC"
+        },
+        "pC" : {
+            
+            "message": "pC"
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "百万分之一"
+        },
+        "ppt" : {
+            
+            "message": "千分之一"
+        },
+        "psi" : {
+            
+            "message": "磅/平方英寸"
+        },
+        "rad" : {
+            
+            "message": "弧度"
+        },
+        "rad/s" : {
+            
+            "message": "弧度/秒"
+        },
+        "rad/s²" : {
+            
+            "message": "弧度/秒的平方"
+        },
+        "raw voltage" : {
+            
+            "message": "原始电压"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "转"
+        },
+        "s" : {
+            
+            "message": "秒"
+        },
+        "spm" : {
+            
+            "message": "冲/分钟"
+        },
+        "steps" : {
+            
+            "message": "步"
+        },
+        "torr" : {
+            
+            "message": "托"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": "umol m-2 s-1"
+        },
+        "units/s" : {
+            
+            "message": "单元/s"
+        },
+        "units/s²" : {
+            
+            "message": "单元/s²"
+        },
+        "velocity2" : {
+            
+            "message": "速度2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx9"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": "µmol m⁻² s⁻¹"
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "欧姆"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "余弦"
+        },
+        "Cosine Squared" : {
+            
+            "message": "余弦平方"
+        },
+        "Inverse" : {
+            
+            "message": "倒数"
+        },
+        "Inverse Squared" : {
+            
+            "message": "平方反比"
+        },
+        "Linear" : {
+            
+            "message": "线性的"
+        },
+        "Modified Power" : {
+            
+            "message": "修正后的动力"
+        },
+        "Natural Exponent" : {
+            
+            "message": "自然指数"
+        },
+        "Natural Log" : {
+            
+            "message": "自然对数"
+        },
+        "Not defined" : {
+            
+            "message": "无定义"
+        },
+        "Power" : {
+            
+            "message": "功率"
+        },
+        "Proportional" : {
+            
+            "message": "比例"
+        },
+        "Quadratic" : {
+            
+            "message": "二次方程式"
+        },
+        "Sine" : {
+            
+            "message": "正弦"
+        },
+        "Slope" : {
+            
+            "message": "斜率"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "自定义表达式"
+        }
+        
+    }
+}

@@ -1,0 +1,6474 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d klienti on ühendatud"
+        },
+        "%s All" : {
+            
+            "message": "%s kõik"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s kõik andmekogumid"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s valikud"
+        },
+        "%s details" : {
+            
+            "message": "%s üksikasjad"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s kogub hetkel andmeid. Kas soovite peatada andmete kogumise ning alustada uut katset?"
+        },
+        "%s Options" : {
+            
+            "message": "%s valikud"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(kaugus, kiirus, kiirendus)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 graafik"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1. tuletis"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1. tuletise ajanihe"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1. tuletis(Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 graafikut"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 graafikut"
+        },
+        "2nd derivative" : {
+            
+            "message": "2. tuletis"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2. tuletise ajanihe"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2. tuletis(Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 graafikut"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 graafikut"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs (X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Ühenduse viga. Jätkamiseks alustage uut eksperimenti."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Andmete kogumine seiskus ühenduse vea tõttu. Palun proovige uuesti."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log (X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B, ja C on parameetrid, mida võite muuta. X, Y, on Z Teie tabeli olemasolevad tulbad."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Programmi info"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "Seatavate joonesobituste kohta"
+        },
+        "Absolute Value" : {
+            
+            "message": "Absoluutväärtus"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "aktsepteerige lõppkasutaja litsentsilepingut ja privaatsusteavitust"
+        },
+        "Accessories" : {
+            
+            "message": "Lisad"
+        },
+        "across" : {
+            
+            "message": "kui"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Aktiveerige litsentsiga lisafunktsioonid"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "Aktiveerige, et lisada kasutajapoolne sobitus"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Aktiveerige FFT kasutamiseks"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Aktiveerige histogrammi lisamiseks"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Aktiveerige kõigi läbikriipsutatud ridade taastamiseks"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Aktiveerige, et näidata parameetrite määramatust"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Aktiveerige ridade läbikriipsutamiseks"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Aktiveerige läbikriipsutamise sisse- ja väljalülitamiseks"
+        },
+        "Activate to use %s" : {
+            
+            "message": "Aktiveerige, et kasutada %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Aktiveerige tulpdiagrammi kasutamiseks"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "Aktiveerige, et kasutada märkmete välja"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Aktiveerige online andmete jagamiseks"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Aktiveerige videotöötluse kasutamiseks"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Lisa arvutatud tulp"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Graafiku päis"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Lisa väärtused tulpa käsitsi"
+        },
+        "Add Annotation" : {
+            
+            "message": "Lisa lühitutvustus"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Lisa arvutatud tulp"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Lisa hoidepudelis olevale käsnale destilleeritud vett."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Lisa graafikute vastavus"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Lisa käsitsi sisestatud tulp"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "Lisa kasutajapoolne sobitus"
+        },
+        "add meters" : {
+            
+            "message": "lisa mõõdikud"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Lisa uus andmete kogum"
+        },
+        "Add Prediction" : {
+            
+            "message": "Lisa ennustus"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Lisage Soft andur"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Lisa titranti tilkhaaval läbi tilgalugeja 10 ml mahuga mõõtesilindrisse."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Lisa/eemalda mõõdikud"
+        },
+        "Advanced" : {
+            
+            "message": "Lisatööriistad"
+        },
+        "After" : {
+            
+            "message": "Peale"
+        },
+        "After set number of flags" : {
+            
+            "message": "Peale lipukeste arvu seadmist"
+        },
+        "All" : {
+            
+            "message": "Kõik"
+        },
+        "Always Show 0" : {
+            
+            "message": "Näita alati 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplituud"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Väljendus peab sisaldama sõltumatut muutujat ning vähemalt üht parameetrit."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Andmete jagamise sessiooni alustamiseks vajate internetiühendust. Ühenduge internetiga ning valige taasühendu."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Andmete jagamiseks onlines on vaja internetiühendust"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Andmete jagamiseks on vaja internetiühendust"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Andmete jagamiseks vajate internetiühendust. Ühenduge uuesti internetti ning andmete jagamise jätkamiseks alustage uut andmejagamise sessiooni."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "kuuliheitja lisaseade, mis annab kuuli lennuaja."
+        },
+        "and " : {
+            
+            "message": "ja "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "ja vajutage PEATA ANDMETE JAGAMINE"
+        },
+        "Angle units" : {
+            
+            "message": "Nurga ühikud"
+        },
+        "Angular Motion" : {
+            
+            "message": "Nurkliikumine"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Nurkliikumise info"
+        },
+        "App is up to date" : {
+            
+            "message": "Rakenduse uuendus on värskeim"
+        },
+        "App Preferences" : {
+            
+            "message": "Rakenduse eelistused"
+        },
+        "App Updates" : {
+            
+            "message": "Rakenduse uuendused"
+        },
+        "Appearance" : {
+            
+            "message": "Välimus"
+        },
+        "Append" : {
+            
+            "message": "Lisada"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Kas lisada andmed olevasolevale andmete kogumile või luua uus andmete kogum?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Lisada või luua uus?"
+        },
+        "Apply" : {
+            
+            "message": "Kasuta"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Lisa joone lähendus"
+        },
+        "Apply FFT" : {
+            
+            "message": "Kasuta FFT"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Kohalda histogramm"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Piirkond"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Andmeid kogudes näevad Teie andmeid teised Graphical Analysis kasutajad"
+        },
+        "Auto" : {
+            
+            "message": "Automaatne"
+        },
+        "Automatic" : {
+            
+            "message": "Automaatselt"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Keskmista tulemus üle 10 sekundi"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Keskmistamine üle 10 sekundi"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Telje pealkirja suurus"
+        },
+        "Back" : {
+            
+            "message": "Tagasi"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Ribapääsfilter"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Riba blokeerimise filter"
+        },
+        "Bar Tape" : {
+            
+            "message": "Ribalint"
+        },
+        "Bars" : {
+            
+            "message": "Tulbad"
+        },
+        "Base" : {
+            
+            "message": "Alus"
+        },
+        "Base Axis" : {
+            
+            "message": "Põhitelg"
+        },
+        "Battery" : {
+            
+            "message": "Aku"
+        },
+        "Battery Level" : {
+            
+            "message": "Aku laetus"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Tulba algväärtus"
+        },
+        "Bin Width" : {
+            
+            "message": "Tulba laius"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Bluetooth seade"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth on välja lülitatud"
+        },
+        "Bold" : {
+            
+            "message": "Paksem font"
+        },
+        "Book" : {
+            
+            "message": "Raamat"
+        },
+        "Book Title" : {
+            
+            "message": "Raamatu nimetus"
+        },
+        "Both" : {
+            
+            "message": "Mõlemad"
+        },
+        "Bottom" : {
+            
+            "message": "Miinimum"
+        },
+        "Bottom Bar" : {
+            
+            "message": "Alumine riba"
+        },
+        "Bullet list" : {
+            
+            "message": "Täppide loend"
+        },
+        "Calculated %s" : {
+            
+            "message": "Arvutatud: %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Arvutatud tulp"
+        },
+        "Calibrate" : {
+            
+            "message": "Kalibreeri"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Kalibreeri"
+        },
+        "Calibrating..." : {
+            
+            "message": "Kalibreerin..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Kalibreerimine lõpetatud"
+        },
+        "Calibration failed" : {
+            
+            "message": "Kalibreerimine nurjus"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Kalibratsioon lähtestati õnnestunult"
+        },
+        "Calibration Type" : {
+            
+            "message": "Kalibratsiooni tüüp"
+        },
+        "Cancel" : {
+            
+            "message": "Tühista"
+        },
+        "cancel" : {
+            
+            "message": "tühista"
+        },
+        "Capable" : {
+            
+            "message": "Võimeline"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Ribakatik vankril"
+        },
+        "Categorical" : {
+            
+            "message": "Diskreetne"
+        },
+        "Categorical Data" : {
+            
+            "message": "Kategooria andmed"
+        },
+        "Ceiling" : {
+            
+            "message": "Ülemine väärtus"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "Tsentreeri kasutajapoolne sobitus"
+        },
+        "Change left y-axis" : {
+            
+            "message": "Muuda vasakut y-telge"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Muuda paremat y-telge"
+        },
+        "Change x-axis" : {
+            
+            "message": "Muuda x-telge"
+        },
+        "Change y-axis" : {
+            
+            "message": "Muuda y-telge"
+        },
+        "Channels" : {
+            
+            "message": "Kanalid"
+        },
+        "Charging," : {
+            
+            "message": "Laadimine,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Püsivara uuendamiseks vajuta siia"
+        },
+        "Check for software updates" : {
+            
+            "message": "Tarkvara uuendamiseks vajuta siia"
+        },
+        "Check for Updates" : {
+            
+            "message": "Uuenduste kontroll"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Kontrollige, kas anduril LED vilgub"
+        },
+        "Checking for update..." : {
+            
+            "message": "Kontrollin uuendusi..."
+        },
+        "Choose File" : {
+            
+            "message": "Vali fail"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Vali kaust..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Valige see võimalus, et ühendada Go Direct andur USB kaudu."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Valige see võimalus, et ühendada Go! Temp termoandur."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": "Valige, et ühenduda Go! Link andmekoguriga."
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": "Valige, et ühenduda Go! Motion liikumisanduriga."
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "Valige see võimalus, et ühendada LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, või LabQuest Stream USB kaudu."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "Nõutav on Chrome 102 või uuem versioon. iPadi ja iPhone'i ei toetata."
+        },
+        "Circle" : {
+            
+            "message": "Ring"
+        },
+        "Clear Expression" : {
+            
+            "message": "Eemalda valem"
+        },
+        "Clear Filter" : {
+            
+            "message": "Tühjenda filter"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Oma sessiooni ID koodi genereerimiseks klikka või puuduta ALUSTA SESSIOONI"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "Reaalajas andmetele märke tegemiseks vajutage Märgi nuppu."
+        },
+        "Close" : {
+            
+            "message": "Sulge"
+        },
+        "Close Alert" : {
+            
+            "message": "Sulge hoiatus"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Sulge rakendus ja uuenda tarkvara"
+        },
+        "Close Application" : {
+            
+            "message": "Sulge rakendus"
+        },
+        "Close Dialog" : {
+            
+            "message": "Sulge dialoog"
+        },
+        "Close FFT" : {
+            
+            "message": "Sulge FFT"
+        },
+        "Close graph legend" : {
+            
+            "message": "Sulge graafiku legend"
+        },
+        "Close Histogram" : {
+            
+            "message": "Sulge histogramm"
+        },
+        "Close Infobox" : {
+            
+            "message": "Sulge infoaken"
+        },
+        "Close Menu" : {
+            
+            "message": "Sulge menüü"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Sulge tippude sagedus"
+        },
+        "Close Popover" : {
+            
+            "message": "Sulge hüpikaken"
+        },
+        "Close Replay" : {
+            
+            "message": "Sulge taasesitus"
+        },
+        "Close Start Page" : {
+            
+            "message": "Sulge avaleht"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Jätkamiseks sulge see dialoog"
+        },
+        "Code" : {
+            
+            "message": "Kood"
+        },
+        "Coefficient" : {
+            
+            "message": "Koeffitsent"
+        },
+        "Collapse" : {
+            
+            "message": "Ahenda"
+        },
+        "Collect" : {
+            
+            "message": "Start"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Kogu andmeid Vernier anduritelt"
+        },
+        "Collecting" : {
+            
+            "message": "Kogun andmeid"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "Mõõtmine %d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Suur andmekogumise sagedus avaldab mõju seadme töökiirusele."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Andmete kogumine üle ${eventParams.accumulate} sekundi"
+        },
+        "Collection Parameters" : {
+            
+            "message": "Andmekogumise parameetrid"
+        },
+        "Column %s" : {
+            
+            "message": "Tulp %s"
+        },
+        "Column Options" : {
+            
+            "message": "Tulba seaded"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Tulp kustutatakse kõigist andmekogumitest. Tegevust ei saa tulevikus tagasi pöörata."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "CSV"
+        },
+        "Complementary Error" : {
+            
+            "message": "Täitmise viga"
+        },
+        "Configurator" : {
+            
+            "message": "Seadistaja"
+        },
+        "Confirm" : {
+            
+            "message": "Kinnita"
+        },
+        "Connect" : {
+            
+            "message": "Ühendu"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Ühenda <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">toetatud Vernier USB seade</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Ühenda seade"
+        },
+        "Connect a Device" : {
+            
+            "message": "Ühenda seade"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Ühenda LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Ühendu üle WiFi LabQuest2-ga või LoggerPro-ga"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "Ühendage need seadmed andmete kogumiseks."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Ühendage see seade andmete kogumiseks."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Ühendu Graphical Analysist lähtuvate andmete jagamise sessiooni"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Ühendu LabQuest, LoggerPro või Graphical Analysis allikaga"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Jagamaks andmeid ja seadeid ühendu eelmise sessiooniga või alustage uut sessiooni."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Ühendage kuvatud juhtmevaba andur juhtmevabalt või USB kaabli abil."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Ühendage kuvatud juhtmevaba andur."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Ühendu eelmise sessiooniga"
+        },
+        "connected" : {
+            
+            "message": "ühendatud"
+        },
+        "Connected Devices" : {
+            
+            "message": "Ühendatud seadmed"
+        },
+        "Connecting" : {
+            
+            "message": "Ühendun"
+        },
+        "Connection error" : {
+            
+            "message": "Ühenduse viga"
+        },
+        "Connection Lost" : {
+            
+            "message": "Ühendus kadus"
+        },
+        "Connection status info" : {
+            
+            "message": "Ühenduse seisundi info"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Ühendumine %s ga nurjus"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "Ühendumine %s ga õnnestus"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "Jätkake otsingusuvanditega"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "Jätka ilma nõutud seadmeteta"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Küpsiste teatis"
+        },
+        "Copy" : {
+            
+            "message": "Kopeeri"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Kopeeri histogramm"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Kopeeri Host ID"
+        },
+        "Copy Link" : {
+            
+            "message": "Kopeerige link"
+        },
+        "Copy Sign" : {
+            
+            "message": "Kopeeri märk"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Kopeeri lõikelauale"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Kopeeri lõikelauale"
+        },
+        "Cosine" : {
+            
+            "message": "Koosinus"
+        },
+        "Count Interval" : {
+            
+            "message": "Loenduse intervall"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Loo kasutaja sobitus"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Loo uus andmete kogum"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Koostage enda arvutatud tulp"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Koostage enda koostatud joone lähendus"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Kuupjuur"
+        },
+        "Curve Fit" : {
+            
+            "message": "Joone sobitus"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Enda arvutatud tulbad"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Enda joonelähendused"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Kasutaja koostatud joonesobituse info"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Enda matemaatiliste väljenduste info"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Kasutaja sobitused salvestatakse rakenduse dokumendifailides. Kui alustate uut sessiooni või taasavate rakenduse, sobitused kustutatakse."
+        },
+        "Custom Session" : {
+            
+            "message": "Kohandatud sessioon"
+        },
+        "Cut" : {
+            
+            "message": "Lõika"
+        },
+        "Dark" : {
+            
+            "message": "Tume"
+        },
+        "Darker" : {
+            
+            "message": "Tumedam"
+        },
+        "Darkest" : {
+            
+            "message": "Tumedaim"
+        },
+        "Data" : {
+            
+            "message": "Andmed"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "Andmete kogumine on alanud logimisrežiimis."
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Andmete kogumise seaded"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Andmete kogumine lõppeb automaatselt kuni lipukeste arv on saavutatud. Alustades andmete kogumist alustate uut andmeseeriat."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Andmete kogumine kestab kuni puudutate ekraani või valite Stop. Asukoha väärtused suurenevad kauguse väärtuse võrra, kuni andmete kogumine peatub."
+        },
+        "Data Mark" : {
+            
+            "message": "Andme märk"
+        },
+        "Data Marking" : {
+            
+            "message": "Andmete märgistamine"
+        },
+        "Data Set %d" : {
+            
+            "message": "Andmed %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Andmekogumi nimetus"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Andmekogumi nimetusel on limiit %s sümbolit."
+        },
+        "Data Set Options" : {
+            
+            "message": "Andmekomplekti valikud"
+        },
+        "Data Set Time" : {
+            
+            "message": "Andmekogumi aeg"
+        },
+        "Data Share" : {
+            
+            "message": "Andmete jagamine"
+        },
+        "Data Sharing" : {
+            
+            "message": "Andmete jagamine"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Andmete jagamine on aktiivne"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Alustati andmete jagamise sessiooni"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Andmete jagamise sessiooni seisund"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Andmete jagamise seisund"
+        },
+        "Data Table" : {
+            
+            "message": "Andmetabel"
+        },
+        "Data Type" : {
+            
+            "message": "Andmete tüüp"
+        },
+        "Data Type Info" : {
+            
+            "message": "Andmete liigi info"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Andmekogumi vaatamise valikud"
+        },
+        "Decimal Format" : {
+            
+            "message": "Kümnendformaat"
+        },
+        "Decimal Places" : {
+            
+            "message": "Komakohta"
+        },
+        "decrease" : {
+            
+            "message": "vähenda"
+        },
+        "decreasing" : {
+            
+            "message": "kahaneb väiksemaks"
+        },
+        "degrees" : {
+            
+            "message": "kraadid"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Kraadid (°)"
+        },
+        "Delete" : {
+            
+            "message": "Kustuta"
+        },
+        "Delete %s?" : {
+            
+            "message": "Eemalda %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Kustuta tulp"
+        },
+        "Delete Column" : {
+            
+            "message": "Kustuta tulp"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Kas kustutada tulp %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Kustuta andmemärk"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Kustuta andmete kogum"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Kustuta joone järgimine"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Kustuta ennustus"
+        },
+        "Delete Video" : {
+            
+            "message": "Kustuta video"
+        },
+        "Delta" : {
+            
+            "message": "Delta"
+        },
+        "Device Error" : {
+            
+            "message": "Seadme viga"
+        },
+        "Device Information" : {
+            
+            "message": "Seadme info"
+        },
+        "Device information" : {
+            
+            "message": "Seadme info"
+        },
+        "Devices" : {
+            
+            "message": "Seadmed"
+        },
+        "Diameter" : {
+            
+            "message": "Diameeter"
+        },
+        "Diamond" : {
+            
+            "message": "Romb"
+        },
+        "Dimension" : {
+            
+            "message": "Dimensioon"
+        },
+        "Disabled" : {
+            
+            "message": "Keelatud"
+        },
+        "Disconnect" : {
+            
+            "message": "Ühenda lahti"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "Ühenda lahti ning jätka andmete kogumist"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "Ühenda USB kaabel lahti."
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "Ühenda lahti ilma andmeid kustutamata"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Leitud seadmed"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Leitud juhtmevabad seadmed"
+        },
+        "Display Meters" : {
+            
+            "message": "Kuva skaalad"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Kuvatud tulbad"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Kuvatud andmekogumid"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Kuvatav täpsus"
+        },
+        "Distance" : {
+            
+            "message": "Kaugus"
+        },
+        "Distance between gates" : {
+            
+            "message": "Väravate vaheline kaugus"
+        },
+        "Distribute App" : {
+            
+            "message": "Jagage rakendust"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "Jagage Vernier Graphical Analysis"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Kas soovite selle andmemärgi jäädavalt kustutada?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Kas soovite %s muudatused salvestada? Salvestamata muudatused kaovad."
+        },
+        "Don't Save" : {
+            
+            "message": "Ära salvesta"
+        },
+        "Done" : {
+            
+            "message": "Valmis"
+        },
+        "done" : {
+            
+            "message": "valmis"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Allalaadimine teostatud. Uuendused installeeritakse järgmisel rakenduse käivitamisel"
+        },
+        "Download Experiment" : {
+            
+            "message": "Laadi alla eksperiment"
+        },
+        "Download Update" : {
+            
+            "message": "Laadi alla uuendus"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Joonesta ennustus"
+        },
+        "Drop Counting" : {
+            
+            "message": "Tilkade lugemine"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Katkenud mõõtmised. Alustage uut katset kasutades madalamat andmete kogumise sagedust."
+        },
+        "Drops" : {
+            
+            "message": "Tilgad"
+        },
+        "Drops/mL" : {
+            
+            "message": "Tilka/mL"
+        },
+        "duration" : {
+            
+            "message": "lõppemist"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "nt. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "nt 007 või TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Graafiku omadused"
+        },
+        "Edit mode" : {
+            
+            "message": "Redigeerimisrežiim"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Juhtmevabade anduritega töötamiseks lülitage Bluetooth sisse."
+        },
+        "Enable Replay" : {
+            
+            "message": "Võimalda taasesitus"
+        },
+        "Enabled" : {
+            
+            "message": "Lubatud"
+        },
+        "End Collection" : {
+            
+            "message": "Stopp"
+        },
+        "End data collection" : {
+            
+            "message": "Lõpeta andmete kogumine"
+        },
+        "End User License Agreement" : {
+            
+            "message": "Lõppkasutaja litsentsileping"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Vajuta andmete jagamise lõpetamiseks"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Sisesta lühitutvustus"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Sisestage andmed klaviatuurilt või kasutage kopeeri/lisa"
+        },
+        "Enter first known value" : {
+            
+            "message": "Sisestage esimene teadaolev väärtus"
+        },
+        "Enter second known value" : {
+            
+            "message": "Sisestage teine teadaolev väärtus"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Sisestage mõõtesilindris oleva titrandi täpne kogus"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Sisesta allika ID:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "Sisene kategooriliste andmete režiimi"
+        },
+        "Equation" : {
+            
+            "message": "Seos"
+        },
+        "Error" : {
+            
+            "message": "Viga"
+        },
+        "Error Bar Info" : {
+            
+            "message": "Veatulpade teave"
+        },
+        "Error Bars" : {
+            
+            "message": "Vearistid"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Viga: lõikelauale on ligipääs keelatud."
+        },
+        "Event" : {
+            
+            "message": "Sündmus"
+        },
+        "Event Based" : {
+            
+            "message": "Sündmuse põhine"
+        },
+        "Event Mode" : {
+            
+            "message": "Sündmuse põhine režiim"
+        },
+        "Event Name" : {
+            
+            "message": "Sündmuse nimetus"
+        },
+        "Events with Entry" : {
+            
+            "message": "Mõõtmine lisamõõteriistadega"
+        },
+        "Events With Entry" : {
+            
+            "message": "Valitud sündmused"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Näiteks: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Näide: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Võrrand - 1"
+        },
+        "Expand" : {
+            
+            "message": "Laienda"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Laienda Host ID"
+        },
+        "Experiment Name" : {
+            
+            "message": "Eksperimendi nimetus"
+        },
+        "Experimental Features" : {
+            
+            "message": "Välised võimalused"
+        },
+        "Exponent" : {
+            
+            "message": "Eksponent"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Eksponentsiaalne alus 2"
+        },
+        "Export" : {
+            
+            "message": "Ekspordi"
+        },
+        "Export CSV" : {
+            
+            "message": "Ekspordi CSV"
+        },
+        "Expression" : {
+            
+            "message": "Väljendus"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Tehase kalibratsiooni kuupäev"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Ventilaatori tõukejõud"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT valikud"
+        },
+        "File Menu" : {
+            
+            "message": "Faili menüü"
+        },
+        "File saved" : {
+            
+            "message": "Fail salvestatud"
+        },
+        "Filename" : {
+            
+            "message": "Faili nimi"
+        },
+        "Filter Device List" : {
+            
+            "message": "Filtreeri seadmete nimekirja"
+        },
+        "Firmware" : {
+            
+            "message": "Tarkvara"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Tarkvara uuenduse info"
+        },
+        "First Derivative" : {
+            
+            "message": "Esimene tuletis"
+        },
+        "Fit Expression" : {
+            
+            "message": "Sobituse avaldis"
+        },
+        "Fit Name" : {
+            
+            "message": "Sobituse nimetus"
+        },
+        "Fit Options" : {
+            
+            "message": "Sobituse valikud"
+        },
+        "Fixed Value" : {
+            
+            "message": "Fikseeritud väärtus"
+        },
+        "Flag Width" : {
+            
+            "message": "Lipukese laius"
+        },
+        "Flags" : {
+            
+            "message": "Lipukesed"
+        },
+        "Floor" : {
+            
+            "message": "Alumine piir"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Valitud Vernieri objektide jaoks on näidatud lipukeste vahekaugus ja nende arv. Ribalindi jaoks sisestage lipukeste arv."
+        },
+        "Frequency" : {
+            
+            "message": "Sagedus"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Funktsioon"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Funktsioon ja sõltumatu muutuja peavad olema väikeste tähtedega."
+        },
+        "Gate Separation" : {
+            
+            "message": "Väravate eraldatus"
+        },
+        "Gate State" : {
+            
+            "message": "Värava seisund"
+        },
+        "Gate timing" : {
+            
+            "message": "Värava suletuse aeg"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX andurite kaart"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Anna see ID kood teistele, et nad saaksid ühineda sinu sessiooniga"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct andurid"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Direct andurid"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB kaudu"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Mine video algusesse"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Go! Link" : {
+            
+            "message": "Go! Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Graph" : {
+            
+            "message": "Graafik"
+        },
+        "Graph %s" : {
+            
+            "message": "Graafik %s"
+        },
+        "Graph 1" : {
+            
+            "message": "Graafik 1"
+        },
+        "Graph 2" : {
+            
+            "message": "Graafik 2"
+        },
+        "Graph 3" : {
+            
+            "message": "Graafik 3"
+        },
+        "Graph Display" : {
+            
+            "message": "Graafiku vaade"
+        },
+        "Graph Inset" : {
+            
+            "message": "Graafiline Inset"
+        },
+        "Graph Legend" : {
+            
+            "message": "Graafiku legend"
+        },
+        "Graph Match" : {
+            
+            "message": "Graafiku sobituvus"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Joone järgimise seaded"
+        },
+        "Graph Options" : {
+            
+            "message": "Graafiku seaded"
+        },
+        "Graph Shape" : {
+            
+            "message": "Graafiku kuju"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Info Graphical Analysis Pro kohta"
+        },
+        "Graphs" : {
+            
+            "message": "Graafikud"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "Pealkiri 1"
+        },
+        "Heading 2" : {
+            
+            "message": "Pealkiri 2"
+        },
+        "Heading 3" : {
+            
+            "message": "Pealkiri 3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "Abi seadme ühendamisel"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "Abi seadme ühendamisel"
+        },
+        "Hide" : {
+            
+            "message": "Peida"
+        },
+        "Hide Details" : {
+            
+            "message": "Peida detailid"
+        },
+        "High-pass Filter" : {
+            
+            "message": "Kõrgpääsfilter"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Kõrge eraldusvõimega režiim"
+        },
+        "Histogram" : {
+            
+            "message": "Histogramm"
+        },
+        "Histogram options" : {
+            
+            "message": "Histogrammi valikud"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Horisontaalne jagur"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Andmete jagamise sessiooni alustamine"
+        },
+        "How To Distribute" : {
+            
+            "message": "Kuidas jagada"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Hüperboolne koosinus"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Hüperboolne siinus"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Hüperboolne tangens"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Hüpotenuus"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Identifitseeri"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "Kui täiendav sead on vajalik, korrake protsessi."
+        },
+        "Ignore" : {
+            
+            "message": "Ignoreeri"
+        },
+        "Import Video" : {
+            
+            "message": "Impordi video"
+        },
+        "increase" : {
+            
+            "message": "suurenda"
+        },
+        "increasing" : {
+            
+            "message": "kasvab suuremaks"
+        },
+        "Insert Expression" : {
+            
+            "message": "Lisa väljendus"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Sisestage anduri ots hoidepurki nii, et anduri ots ei puuduta vett ega käsna."
+        },
+        "Integral" : {
+            
+            "message": "Integraal"
+        },
+        "Intercept" : {
+            
+            "message": "Lõikepunkt"
+        },
+        "Interpolate" : {
+            
+            "message": "Andmed sobituselt"
+        },
+        "Interval" : {
+            
+            "message": "Intervall"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Väär võrrand"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Väär avaldis"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Pöördkoosinus"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Pöörd hüperboolne koosinus"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Pöörd hüperboolne siinus"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Pöörd hüperboolne tangens"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Pöördsiinus"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Pöördtangens"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Pöördtangens 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "Pööratud kontuuriga ristkülik"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "Pööratud kontuuriga kolmnurk"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "Pööratud ristkülik"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "Pööratud kolmnurk"
+        },
+        "is" : {
+            
+            "message": "on"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "Pole toetatud, proovi teist."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Peale otsiku vahetust tuleb teostada kalibreerimine."
+        },
+        "Italic" : {
+            
+            "message": "Kursiiv"
+        },
+        "Join New Experiment" : {
+            
+            "message": "Liitu uue eksperimendiga"
+        },
+        "Keep" : {
+            
+            "message": "Säilita"
+        },
+        "Keep Point" : {
+            
+            "message": "Säilita punkt"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Hoidke andurit vertikaalses asendis minimaalselt 60 sek, seejärel vajutage \"Kalibreeri\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Kalibreerimisel peavad kahe punkti väärtused peavad olema erinevad."
+        },
+        "LabQuest" : {
+            
+            "message": "LabQuest"
+        },
+        "LabQuest Devices" : {
+            
+            "message": "LabQuest seade"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Suur"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Viimati kalibreeritud"
+        },
+        "Launch Speed" : {
+            
+            "message": "Stardi kiirus"
+        },
+        "Left" : {
+            
+            "message": "Min"
+        },
+        "Left Axis" : {
+            
+            "message": "Vasak telg"
+        },
+        "Left manual fit handle" : {
+            
+            "message": "Vasak kasutajapoolne sobitus"
+        },
+        "Left y-axis range" : {
+            
+            "message": "Vasak Y telje piirkond"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Legacy failitüüp"
+        },
+        "License Key" : {
+            
+            "message": "Litsentsi võti"
+        },
+        "License Key is expired." : {
+            
+            "message": "Litsentsivõti on aegunud."
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "Litsentsivõti ei kehti selle kanali jaoks."
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "Litsentsivõti ei kehti selle toote jaoks."
+        },
+        "License Key is required." : {
+            
+            "message": "Litsentsivõti on vajalik."
+        },
+        "License Key is suspended." : {
+            
+            "message": "Litsentsivõti on peatatud."
+        },
+        "License Key not recognized." : {
+            
+            "message": "Tundmatu litsentsivõti."
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "Litsentsivõtme valideerimiseks on vajalik internetiühendus. Kontrollige internetiühendust."
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "Litsentsi valideerimise serveriga ei saadud ühendust."
+        },
+        "Licensed To" : {
+            
+            "message": "Litsenseeritud"
+        },
+        "Licensed to" : {
+            
+            "message": "Litsenseeritud"
+        },
+        "Line Shade" : {
+            
+            "message": "Joone vari"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineaarne liikumine"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "Lineaarliikumise info"
+        },
+        "Lines" : {
+            
+            "message": "Jooned"
+        },
+        "Link" : {
+            
+            "message": "Side"
+        },
+        "Link Copied" : {
+            
+            "message": "Link kopeeritud"
+        },
+        "list item" : {
+            
+            "message": "loendi üksus"
+        },
+        "Load Experiment" : {
+            
+            "message": "Laadi eksperiment"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "Kohalik koopia on sünkroonist väljas. Uuendan..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Log alus 2"
+        },
+        "Log Base b" : {
+            
+            "message": "Log alus b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": "Seadmesse kogutud andmed"
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Madalpääsfilter"
+        },
+        "Main Content" : {
+            
+            "message": "Peamine sisu"
+        },
+        "Manual" : {
+            
+            "message": "Käsitsi"
+        },
+        "Manual %s" : {
+            
+            "message": "Käsitsi %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Andmete käsitsi sisestus"
+        },
+        "Manual Fit" : {
+            
+            "message": "Kasutajapoolne sobitus"
+        },
+        "Manual Scaling" : {
+            
+            "message": "Manuaalne skaleering"
+        },
+        "Manually" : {
+            
+            "message": "Käsitsi"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Tootmise kuupäev"
+        },
+        "Mark" : {
+            
+            "message": "Märk"
+        },
+        "Max" : {
+            
+            "message": "Maks"
+        },
+        "Maximize Application" : {
+            
+            "message": "Suurenda rakendus"
+        },
+        "Mean" : {
+            
+            "message": "Keskmine"
+        },
+        "Measurement" : {
+            
+            "message": "Mõõtmine"
+        },
+        "Medium" : {
+            
+            "message": "Keskmine"
+        },
+        "Meter Actions" : {
+            
+            "message": "Mõõdiku tegevused"
+        },
+        "Meter All Columns" : {
+            
+            "message": "Mõõdiku kõik tulbad"
+        },
+        "Meter Size" : {
+            
+            "message": "Joonlaua pikkus"
+        },
+        "Meter View Options" : {
+            
+            "message": "Joonlaua kuvamise valikud"
+        },
+        "Metered" : {
+            
+            "message": "Mõõdetud"
+        },
+        "metering on all columns" : {
+            
+            "message": "mõõtmine kõikide tulpade jaoks"
+        },
+        "Meters" : {
+            
+            "message": "Mõõdikud"
+        },
+        "min" : {
+            
+            "message": "min"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "Minimize Application" : {
+            
+            "message": "Vähenda rakendus"
+        },
+        "Mode" : {
+            
+            "message": "Režiim"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "Režiim muudeti käsitsi sisestamise režiimiks."
+        },
+        "Modulo" : {
+            
+            "message": "Modulo"
+        },
+        "Move Down" : {
+            
+            "message": "Liigu alla"
+        },
+        "Move Up" : {
+            
+            "message": "Liigu üles"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Mitut, ühtlaselt paigutatud lipukest kasutatakse asukoha määramiseks, kui objekt läbib fotoväravat. Esimene blokeeritud sündmus määrab nullasendi. Järgmised blokeeritud sündmused suurendavad positsiooni vaheväärtuse võrra. Kiiruse ja kiirenduse andmed arvutatakse kasutades asendi esimest ja teist tuletist aja järgi."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Pöörleva ratta ühtlaselt asetsevate kodarate abil määratakse pöördenurk. Esimene blokeeritud sündmus määrab null nurga. Järgmised blokeeritud sündmused suurendavad nurka 2π / n radiaani, kus n on ratta kodarate arv. Nurkkiiruse ja -kiirenduse andmed arvutatakse esimese ja teise tuletise järgi."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Korrutamine võib olla otsene või kaudne."
+        },
+        "Mute Audio" : {
+            
+            "message": "Vaigista audio"
+        },
+        "My-File-Name" : {
+            
+            "message": "Minu failinimi"
+        },
+        "Name" : {
+            
+            "message": "Nimetus"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Ei saa olla pikem kui %s sümbolit"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Naturaaleksponent"
+        },
+        "Natural Log" : {
+            
+            "message": "Naturaal Log"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Naturaal Log 1 + X"
+        },
+        "Never" : {
+            
+            "message": "Mitte kunagi"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Uus kalibratsioon rakendub uue eksperimendi käivitamisel või faili avamisel."
+        },
+        "New Experiment" : {
+            
+            "message": "Loo uus eksperiment"
+        },
+        "Next After" : {
+            
+            "message": "Järgmine peale"
+        },
+        "No Columns" : {
+            
+            "message": "Pole tulpasid"
+        },
+        "No Device Connected" : {
+            
+            "message": "Ühtki seadet pole ühendatud"
+        },
+        "No device connected." : {
+            
+            "message": "Seadet pole ühendatud."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Seadmeid pole ühendatud"
+        },
+        "No expiration date" : {
+            
+            "message": "Aegumistähtaeg puudub"
+        },
+        "No sensor connected" : {
+            
+            "message": "Andur pole ühendatud"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "Andureid pole ühendatud"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Andureid ei leitud. Veenduge, et andmete jagamine on sisse lülitatud ning seadmed töötaksid samas võrgus. Kui probleem jääb püsima, valige \"Määra allikas\" ning ühendage käsitsi teie andmejagamise allikaga."
+        },
+        "Normal" : {
+            
+            "message": "Normaalne"
+        },
+        "not" : {
+            
+            "message": "ei"
+        },
+        "Not Capable" : {
+            
+            "message": "Pole võimeline"
+        },
+        "Note" : {
+            
+            "message": "Märkmed"
+        },
+        "Notes" : {
+            
+            "message": "Märkmed"
+        },
+        "Number list" : {
+            
+            "message": "Numbriline loend"
+        },
+        "Number of flags" : {
+            
+            "message": "Lipukeste arv"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "Tuletisarvutustes kasutatud punktide arv:"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "Silumisarvutusteks kasutatud punktide arv:"
+        },
+        "Number of spokes" : {
+            
+            "message": "Kodarate arv"
+        },
+        "Numeric" : {
+            
+            "message": "Numbriline"
+        },
+        "Object" : {
+            
+            "message": "Objekt"
+        },
+        "Object Width" : {
+            
+            "message": "Objekti laius"
+        },
+        "Offline" : {
+            
+            "message": "Lahti ühendatud"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "Ok" : {
+            
+            "message": "OK"
+        },
+        "On a triggering event" : {
+            
+            "message": "Päästiku järgi"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "LabQuest2-s vajutage WiFi sümbolit"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Tarkvaras LoggerPro valige File ja seejärel Data Sharing"
+        },
+        "One-point calibration" : {
+            
+            "message": "Ühe punktiga kalibreerimine"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Online andmete jagamine"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Aktiveerige ventilaator andmete kogumise ajal"
+        },
+        "Open failed" : {
+            
+            "message": "Avamine nurjus"
+        },
+        "Open Saved File" : {
+            
+            "message": "Ava salvestatud fail"
+        },
+        "Open Update Information" : {
+            
+            "message": "Ava uuenduse info"
+        },
+        "Open..." : {
+            
+            "message": "Ava..."
+        },
+        "or" : {
+            
+            "message": "või"
+        },
+        "Order Code" : {
+            
+            "message": "Tellimiskood"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Muu / kasutaja defineeritud"
+        },
+        "Other Options" : {
+            
+            "message": "Teised võimalused"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Muu / kasutaja defineeritud: sisestage vahemaa ja lipukeste arv, nagu näidatud. Kui Teie objekt on ratas, siis vahemaa on ratta ümbermõõt jagatuna kodarate arvuga."
+        },
+        "Outlined Circle" : {
+            
+            "message": "Kontuuriga ring"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "Kontuuriga romb"
+        },
+        "Outlined Plus" : {
+            
+            "message": "Kontuuriga rist"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "Kontuuriga ristkülik"
+        },
+        "Outlined Square" : {
+            
+            "message": "Piiratud ruut"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "Piiratud kolmnurk"
+        },
+        "Paragraph" : {
+            
+            "message": "Lõik"
+        },
+        "Parameter %s" : {
+            
+            "message": "Parameeter %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Parameetreid ei saa avaldises korrata."
+        },
+        "Paste" : {
+            
+            "message": "Aseta"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Edit menüüd kasutades pole asetamise funktsioon saadaval. Asetamiseks kasuta CTRL-V või CMD-V."
+        },
+        "Pause replay" : {
+            
+            "message": "Katkesta taasesitus"
+        },
+        "Pause Video" : {
+            
+            "message": "Video pausile"
+        },
+        "Peak Frequency" : {
+            
+            "message": "Tipu sagedus"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Pendli periood"
+        },
+        "Percentage" : {
+            
+            "message": "Protsent"
+        },
+        "Perform a" : {
+            
+            "message": "Täida"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Fotovärava ajastus"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Fotoväravad mõõdavad aega, mis kulub katiku läbimiseks või pendli võnkeperioodi. Aja intervall antakse järjestikuste blokeerivate ajavahemike järgi. Kui kasutatakse täpselt kaht väravat, tuleb mõlemad väravad enne väärtuse võtmist blokeerida."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Pilt pildis"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Asetage Go Direct andur arvuti, telefoni või tahvelarvuti lähedale"
+        },
+        "Play replay" : {
+            
+            "message": "Taasesita"
+        },
+        "Play Video" : {
+            
+            "message": "Taasesita video"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "Taasesituse kiiruse kordaja"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Sisestage allika IP aadress:"
+        },
+        "Plot" : {
+            
+            "message": "joonis"
+        },
+        "Plot Manager" : {
+            
+            "message": "Joonise manager"
+        },
+        "Plus" : {
+            
+            "message": "Pluss"
+        },
+        "point" : {
+            
+            "message": "punkt"
+        },
+        "Point Colors" : {
+            
+            "message": "Punktide värvid"
+        },
+        "Point Symbols" : {
+            
+            "message": "Punktide sümbolid"
+        },
+        "points" : {
+            
+            "message": "punktid"
+        },
+        "Points" : {
+            
+            "message": "Punktid"
+        },
+        "points before trigger" : {
+            
+            "message": "punkti enne päästikut"
+        },
+        "Power" : {
+            
+            "message": "Aste"
+        },
+        "Prediction" : {
+            
+            "message": "Ennustus"
+        },
+        "Prediction Name" : {
+            
+            "message": "Ennustuse nimi"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Ennustuse nimes on limiit %s tähte."
+        },
+        "Prediction Options" : {
+            
+            "message": "Ennustuse seaded"
+        },
+        "Prediction Title" : {
+            
+            "message": "Ennustuse pealkiri"
+        },
+        "Predictions" : {
+            
+            "message": "Ennustused"
+        },
+        "Preview mode" : {
+            
+            "message": "Eelvaate reziim"
+        },
+        "Primary:" : {
+            
+            "message": "Primaarne:"
+        },
+        "Privacy Notice" : {
+            
+            "message": "Privaatsusteatis"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": "Pro aegumise hoiatus"
+        },
+        "Projectile Info" : {
+            
+            "message": "Kuuliheitja info"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Kuuliheitja"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Et teised saaksid ühenduda sinu seadmega, jaga seda ID koodi teistele"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Lähiühendus"
+        },
+        "Pulse timing" : {
+            
+            "message": "Pulsi kestus"
+        },
+        "Quote" : {
+            
+            "message": "Tsitaat"
+        },
+        "radians" : {
+            
+            "message": "radiaanid"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radiaanid (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Hinda"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Sagedused üle 200 mõõtimise/sek nõuavad fikseeritud kestvust."
+        },
+        "Reconnect" : {
+            
+            "message": "Ühendu uuesti"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": "Kogutud andmete ületoomiseks ühendage andur uuesti."
+        },
+        "Rectangle" : {
+            
+            "message": "Ristkülik"
+        },
+        "Regular" : {
+            
+            "message": "Tavaline"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Lugemi suhteline stabiilsus"
+        },
+        "Remainder" : {
+            
+            "message": "Jääk"
+        },
+        "Remote Logging" : {
+            
+            "message": "Autonoomne andmete kogumine"
+        },
+        "Remote Logging in Process" : {
+            
+            "message": "Toimub autonoomne andmete kogumine"
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": "Autonoomne andmete kogumine on võimalik vaid ühe anduriga korraga."
+        },
+        "Remote Logging Started" : {
+            
+            "message": "Algas autonoomne andmete kogumine."
+        },
+        "Remote Logging Status" : {
+            
+            "message": "Autonoomse andmete kogumise seisund"
+        },
+        "Remove" : {
+            
+            "message": "Eemalda"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Eemalda lineaarne trend"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Eemalda Soft andur"
+        },
+        "Rename" : {
+            
+            "message": "Nimeta ümber"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Nimeta andmed ümber"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Nimeta ennustus ümber"
+        },
+        "Replay" : {
+            
+            "message": "Korda"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Taasesita video sünkroniseerimise info"
+        },
+        "Reported Reading" : {
+            
+            "message": "Näidud"
+        },
+        "Reset" : {
+            
+            "message": "Reset"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Reset (nulli) enne andmete kogumist"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Vaikeseadete taastamine"
+        },
+        "Restart app" : {
+            
+            "message": "Taaskäivita rakendus"
+        },
+        "Restart Replay" : {
+            
+            "message": "Taasesita uuesti"
+        },
+        "Restore All" : {
+            
+            "message": "Taasta kõik"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": "Teisalda kogutud andmed sisse ning kustuta need"
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": "Teisalda kogutud andmed sisse ning kustuta need andurist"
+        },
+        "Retry Calibration" : {
+            
+            "message": "Proovi uuesti kalibreerida"
+        },
+        "Reverse" : {
+            
+            "message": "Muuda märki"
+        },
+        "revolution" : {
+            
+            "message": "pöörded"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Pöörded (rev)"
+        },
+        "Right" : {
+            
+            "message": "Maks"
+        },
+        "Right Axis" : {
+            
+            "message": "Parem telg"
+        },
+        "Right manual fit handle" : {
+            
+            "message": "Parem kasutajapoolne sobitus"
+        },
+        "Right y-axis" : {
+            
+            "message": "Parem y-telg"
+        },
+        "Right y-axis range" : {
+            
+            "message": "Parem Y telje piirkond"
+        },
+        "RMS" : {
+            
+            "message": "RMS"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": "Ümardamine"
+        },
+        "Row Number" : {
+            
+            "message": "Rea number"
+        },
+        "s" : {
+            
+            "message": "sek"
+        },
+        "sample" : {
+            
+            "message": "mõõtepunkt"
+        },
+        "Sample Data" : {
+            
+            "message": "Kogutud andmed"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Näidiskatsed"
+        },
+        "samples" : {
+            
+            "message": "mõõtepunkti"
+        },
+        "Samples" : {
+            
+            "message": "Andmed"
+        },
+        "samples per second" : {
+            
+            "message": "mõõtepunkti sekundis"
+        },
+        "samples scheduled" : {
+            
+            "message": "ajatatud mõõtepunktid"
+        },
+        "Save" : {
+            
+            "message": "Salvesta"
+        },
+        "Save AMBL" : {
+            
+            "message": "Salvesta AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Salvesta ja sulge rakendus"
+        },
+        "Save As..." : {
+            
+            "message": "Salvesta kui..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Salvestan muudatused?"
+        },
+        "Save CSV" : {
+            
+            "message": "Salvesta CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Salvesta katse"
+        },
+        "Save failed" : {
+            
+            "message": "Salvestamine nurjus"
+        },
+        "Save PDF" : {
+            
+            "message": "Salvesta PDF"
+        },
+        "Save Pending" : {
+            
+            "message": "Salvesta ootel olev"
+        },
+        "Save PNG" : {
+            
+            "message": "Salvesta PNG"
+        },
+        "Saved" : {
+            
+            "message": "Salvestatud"
+        },
+        "Saving" : {
+            
+            "message": "Salvestan"
+        },
+        "Scale Factor" : {
+            
+            "message": "Skaalafaktor"
+        },
+        "Scaling" : {
+            
+            "message": "Skaleering"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Otsin seadmeid..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Teise kalibratsioonipunkti pinge peab erinema esimes punkti pingest vähemalt 0,05 V."
+        },
+        "Second Derivative" : {
+            
+            "message": "Teine tuletis"
+        },
+        "Secondary:" : {
+            
+            "message": "Sekundaarne:"
+        },
+        "seconds" : {
+            
+            "message": "sekundit"
+        },
+        "See Experiments" : {
+            
+            "message": "Vaata katseid"
+        },
+        "See sample experiments" : {
+            
+            "message": "Vaata näidiseksperimente"
+        },
+        "Select Data Set" : {
+            
+            "message": "Vali andmekogum"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Nurga asendi määramiseks valige sobivad ühikud."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "Valige seadme tüüp mida soovite ühendada."
+        },
+        "select/deselect meter" : {
+            
+            "message": "vali/tühista mõõdik"
+        },
+        "Selected Events" : {
+            
+            "message": "Valitud sündmused"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Anduri tegevused"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Anduri kanalid"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Andmete kogumine anduriga"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Anduri seaded"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Anduri pinge"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Andur on nullitud"
+        },
+        "Sensors" : {
+            
+            "message": "Andurid"
+        },
+        "Session 1 Name" : {
+            
+            "message": "Sessiooni 1 nimetus"
+        },
+        "Session 2 Name" : {
+            
+            "message": "Sessiooni 2 nimetus"
+        },
+        "Session 3 Name" : {
+            
+            "message": "Sessiooni 3 nimetus"
+        },
+        "Session 4 Name" : {
+            
+            "message": "Sessiooni 4 nimetus"
+        },
+        "Session ended by Host" : {
+            
+            "message": "Sessioon lõpetati omaniku poolt"
+        },
+        "Session Preferences" : {
+            
+            "message": "Seansi eelistused"
+        },
+        "Settings saved" : {
+            
+            "message": "Seaded salvestatud"
+        },
+        "Share AMBL" : {
+            
+            "message": "Jaga AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Jaga eksperimenti teistega üle interneti"
+        },
+        "Share CSV" : {
+            
+            "message": "Jaga CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Jaga pilti"
+        },
+        "Share PDF" : {
+            
+            "message": "Jaga PDF-i"
+        },
+        "Show All Releases" : {
+            
+            "message": "Näita kõik versioonid"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": "Näita andmete markeerimise juhendeid"
+        },
+        "Show Details" : {
+            
+            "message": "Näita detaile"
+        },
+        "Show Error Bars" : {
+            
+            "message": "Näita veariste"
+        },
+        "Show FFT" : {
+            
+            "message": "Kuva FFT"
+        },
+        "Show Histogram" : {
+            
+            "message": "Näita histogrammi"
+        },
+        "Show Less" : {
+            
+            "message": "Näita vähem"
+        },
+        "Show Menu" : {
+            
+            "message": "Näita menüüd"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Näita väravate keskaega"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Näita originaalgraafikut"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": "Näita autonoomse andmete kogumise juhendeid"
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": "Näita sobituse parameetrite määramatust"
+        },
+        "Significant Figures" : {
+            
+            "message": "Tüvenumbrit"
+        },
+        "Sine" : {
+            
+            "message": "Siinus"
+        },
+        "Slope" : {
+            
+            "message": "Tõusu tangens"
+        },
+        "Small" : {
+            
+            "message": "Väike"
+        },
+        "Spacing" : {
+            
+            "message": "Vahemik"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "vahekaugus = ümbermõõt / kodarate arv"
+        },
+        "Specify source" : {
+            
+            "message": "Määra allikas"
+        },
+        "Spectrum" : {
+            
+            "message": "Spekter"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Kiirus läbi värava"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "Kiirus läbi värava info"
+        },
+        "Spokes:" : {
+            
+            "message": "Kodaraid:"
+        },
+        "Square" : {
+            
+            "message": "Ruut"
+        },
+        "Square Root" : {
+            
+            "message": "Ruutjuur"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Alusta andmete jagamise sessiooni"
+        },
+        "Start a New Session" : {
+            
+            "message": "Alusta uut sessiooni"
+        },
+        "Start Collection" : {
+            
+            "message": "Alusta andmete kogumist"
+        },
+        "Start collection when" : {
+            
+            "message": "Alusta andmete kogumist kui"
+        },
+        "Start Logging" : {
+            
+            "message": "Alusta andmete kogumist"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Kas alustada uut eksperimenti?"
+        },
+        "Start Session" : {
+            
+            "message": "Alusta sessiooni"
+        },
+        "Statistics" : {
+            
+            "message": "Statistika"
+        },
+        "Std dev" : {
+            
+            "message": "Standarthälve"
+        },
+        "Step Backward" : {
+            
+            "message": "Samm tagasi"
+        },
+        "Step Forward" : {
+            
+            "message": "Samm edasi"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "Videos samm tagasi"
+        },
+        "Step Video Forward" : {
+            
+            "message": "Videos samm edasi"
+        },
+        "Stop" : {
+            
+            "message": "Seiska"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Lõpetage tilkade lisamine kui maht jõuab 9...10mL juurde."
+        },
+        "Stop Collection" : {
+            
+            "message": "Peata andmete kogumine"
+        },
+        "Stop Sharing" : {
+            
+            "message": "Lõpeta andmete jagamine"
+        },
+        "Strikethrough" : {
+            
+            "message": "Kriipsuta läbi"
+        },
+        "Subject" : {
+            
+            "message": "Subjekt"
+        },
+        "Submit" : {
+            
+            "message": "Kasuta"
+        },
+        "Subscript" : {
+            
+            "message": "Alamindeks"
+        },
+        "Subscription Ends" : {
+            
+            "message": "Tellimus lõpeb"
+        },
+        "Subscription ends" : {
+            
+            "message": "Tellimus lõpeb"
+        },
+        "Superscript" : {
+            
+            "message": "Ülemindeks"
+        },
+        "Supported Functions" : {
+            
+            "message": "Toetatud funktsioonid"
+        },
+        "Symbol" : {
+            
+            "message": "Sümbol"
+        },
+        "Sync data with video" : {
+            
+            "message": "Sünkroniseeri andmed videoga"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Sünkroniseeri video andmetega"
+        },
+        "Syntax" : {
+            
+            "message": "Süntaks"
+        },
+        "Table" : {
+            
+            "message": "Tabel"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Võtke anduri lugem (nt pH, juhtivus) peale igat tilka."
+        },
+        "Tangent" : {
+            
+            "message": "Tangents"
+        },
+        "Target" : {
+            
+            "message": "Eesmärk"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Bluetooth ühendus katkes"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Tulba nimetus on vajalik"
+        },
+        "the current file" : {
+            
+            "message": "antud fail"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Andmekogumi taasesitus algab %s s enne videot"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Väljendust kasutatakse kõvera sobivuse nimena, kui nime pole otseselt sisestatud."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Kuuli väljalaske kiirus on kaht sisseehitatud fotoväravat läbiva kuuli keskmine kiirus."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Kuuli väljalaske kiirus on esimest sisseehitatud fotoväravat läbiva kuuli keskmine kiirus."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Fotoväravat läbiva objekti kiirus on määratud objekti / lipukese laiusega mis on jagatud fotovärava suletud oleku ajaga."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": "Soovitud kiirust ja kestust ei ole võimalik täita. Maksimaalne kiirus on %.2f mõõtepunkti/%s %d%s jaoks."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Blokeerivate järjestikuste sündmuste vahelist aega teatatakse kui intervalli."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "Avaldises võib olla kuni seitse parameetrit."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "Selle anduri jaoks on saadaval uus sisemine tarkvara, et lahendada valenäitusid, kui andur on alla 0 °C keskkonnas. Uuendusprotsessi ei saa Graphical Analysis rakenduses läbi viia."
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Anduri jaoks on saadav uus tarkvara, kuid sellelt seadmelt uuendust teostada ei ole võimalik.  Uuendamiseks ühendage andur USB kaabli abil macOS, Windows, või ChromeOS seadmega ja käivitage tarkvara Graphical Analysis. Sisenege ühendatud seadmete nimekirja ning alustage uuendamist."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Anduri jaoks on saadav uus tarkvara.  Uuendamiseks on vajalik ühendada andur USB kaabli abil ja sulgeda tarkvara Graphical Analysis ajutiselt. Kui andur on ühendatud juhtmevabalt, ühendage see USB kaabli abil."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Seadistuste salvestamisel ilmnes probleem"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "See tulp genereeriti automaatselt ning seda ei saa muuta"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Seda kustutamist ei saa taastada."
+        },
+        "This feature requires a" : {
+            
+            "message": "See võimalus nõuab"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "See arv defineerib sektori pöördliikumises asendi igal blokeeriva sündmuse puhul."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "See Windows versioon toetab vaid Go Direct (GDX) andurite USB ühendust."
+        },
+        "Time" : {
+            
+            "message": "Aeg"
+        },
+        "Time Based" : {
+            
+            "message": "Ajapõhine"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "Ajapõhine andmete kogumine - üks graafik"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "Ajapõhine andmete kogumine - kolm graafikut"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "Ajapõhine andmete kogumine - kaks graafikut"
+        },
+        "Time between gates" : {
+            
+            "message": "Aeg väravate vahel"
+        },
+        "Time Decay Filter" : {
+            
+            "message": "Ajalanguse filter"
+        },
+        "Time measurements" : {
+            
+            "message": "Aja mõõtmised"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Lennuaja plaat,"
+        },
+        "Time Units" : {
+            
+            "message": "Ajaühikud"
+        },
+        "Timer" : {
+            
+            "message": "Taimer"
+        },
+        "Timer Info" : {
+            
+            "message": "Taimeri info"
+        },
+        "Timer or Period" : {
+            
+            "message": "Aeg või periood"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Soovitus: parima tulemuse saate, kui antud andur on ainuke andur 2 meetri ulatuses Teie arvutist, telefonist või tahvelarvutist."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Soovitus: Lähiühendus põhineb kaugushinnangutel. Kui teie ümbritsev keskkond on ebastabiilne, kasutage anduri valimiseks ühenduste loendit."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Näpunäide: ühendatavatel anduritel peab vilkuma punane tuli. Kui anduri punane tuli ei vilgu, lülitage andur sisse või ühendage anduriga laadimisjuhe."
+        },
+        "Title" : {
+            
+            "message": "Päis"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Enda %s koostamiseks kasutage üht toetatud funktsiooni koos ühe toetatud operaatoriga"
+        },
+        "To locate the address:" : {
+            
+            "message": "Leidke aadress:"
+        },
+        "to make the key available for use." : {
+            
+            "message": "et litsents oleks kasutatav."
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Andmete jagamise sessiooni alustamiseks:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Tume režiim sisse"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Hele režiim sisse"
+        },
+        "Too few points" : {
+            
+            "message": "Liiga vähe punkte"
+        },
+        "Toolbar" : {
+            
+            "message": "Tööriistariba"
+        },
+        "Top" : {
+            
+            "message": "Maks"
+        },
+        "Total samples" : {
+            
+            "message": "Mõõtepunkte kokku"
+        },
+        "Triangle" : {
+            
+            "message": "Kolmnurk"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Trigonomeetrilisi funktsioone arvutatakse radiaanides, välja arvatud juhul, kui horisontaalteljele joonistatud tulbas on ühikud"
+        },
+        "Truncate" : {
+            
+            "message": "Kärbi"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Kahe punktiga kalibreerimine"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Ultra Pulley - soones"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Ultra Pulley - välisserv"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Ei õnnestu sellenimelist allikat leida ega ühenduda temaga."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Ei õnnestu ühenduda "
+        },
+        "Units" : {
+            
+            "message": "Ühikud"
+        },
+        "Unknown" : {
+            
+            "message": "Tundmatu"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "Tundmatu litsentsivõtme viga"
+        },
+        "Unmute Audio" : {
+            
+            "message": "Eemalda audio vaigistamine"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "See veebilehitseja pole toetatud"
+        },
+        "Untitled" : {
+            
+            "message": "Nimetu"
+        },
+        "Update Available" : {
+            
+            "message": "Uuendus saadaval"
+        },
+        "Update error" : {
+            
+            "message": "Uuendamise viga"
+        },
+        "Update Firmware" : {
+            
+            "message": "Uuenda tarkvara"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Uuendust laetakse alla..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Uuendage litsentsi võtit"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "USB seade"
+        },
+        "Use Column Value" : {
+            
+            "message": "Kasuta tulba väärtust"
+        },
+        "Use gate separation" : {
+            
+            "message": "Kasuta väravate eraldatust"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Kasuta objekti / lipukese laiust"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Kasuta kuuli diameetrit"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Kasutage teaduslikku tähendust"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "Kasutage vastavalt oma soovile USB või WIRELESS nuppu."
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": "Kasutage seda ala märkmete tegemiseks oma katse kohta. Rakendatud vormingu nägemiseks lülitage eelvaaterežiimi."
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Kasutage seda võimalust kiiruse määramiseks. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Kasuta lennuaja plaati"
+        },
+        "Use Windowing" : {
+            
+            "message": "Kasuta akent"
+        },
+        "User Manual" : {
+            
+            "message": "Kasutusjuhend"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Kasutan tehasekalibratsiooni"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "Kasutan vahemälusse salvestatud katse versiooni."
+        },
+        "Value must be between " : {
+            
+            "message": "Väärtus peab olema vahel "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "Vernier Graphical Analysis® on õpilastele mõeldud tööriist Vernieri anduritelt andmete kogumiseks, graafikute koostamiseks ja andmete analüüsiks."
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "Vernier Graphical Analysis® Pro juurdepääs aegub ${this.daysRemaining} päeva pärast"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "Vernier Graphical Analysis® Pro juurdepääs aegub täna"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernier ribakatik"
+        },
+        "Version" : {
+            
+            "message": "Versioon"
+        },
+        "Vertical Divider" : {
+            
+            "message": "Vertikaalne jagur"
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Time" : {
+            
+            "message": "Video aeg"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Video taasesitus algab %s s enne admekogumi taasesitust"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Video ja andmekogumi taasesitus algab samaaegselt"
+        },
+        "View Experiment" : {
+            
+            "message": "Vaata katset"
+        },
+        "View Integral" : {
+            
+            "message": "Vaata integraali"
+        },
+        "View Options" : {
+            
+            "message": "Vaate seaded"
+        },
+        "View Statistics" : {
+            
+            "message": "Vaata statistikat"
+        },
+        "Voltage" : {
+            
+            "message": "Pinge"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Oodate, et %s läbib %s%s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "Teie litsentsivõti on kehtiv kuid enne litsentsi kasutamist tuleb nõustuda litsentsi tingimustega. Kas kool aktsepteerib lõppkasutaja litsentsitingimusi ja privaatusutingimusi "
+        },
+        "What's New" : {
+            
+            "message": "Uuendused"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Kui valitakse pendel, esitatakse ajavahemik iga teise blokeeritud sündmuse vahel, mis nimetatakse perioodiks."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Kui kasutate kahte fotoväravat, võite kiiruse arvutamiseks kasutada väravate vahelist kaugust. Teatatud kiirus on kiirus kahe värava vahel."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Juhtmevaba ühenduse loomiseks vajate Windows 10."
+        },
+        "Wireless" : {
+            
+            "message": "Juhtmevaba"
+        },
+        "Working..." : {
+            
+            "message": "Töötlemine..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x-telje piirkond"
+        },
+        "x-range" : {
+            
+            "message": "x-piirkond"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-telje piirkond"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "Seadme saate ühendada kas juhtmega USB-ühenduse abil või juhtmevabalt."
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "Jagades seda linki e-mailiga, SMS abil või mõnel muul viisil, on Teil võimalus anda koolikaaslastele juurdepääs sellele rakendusele."
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": "Kogutud andmete ületoomiseks ei ole vaja oodata andmete kogumise lõppemist."
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": "Sisestasite mittenumbrilised andmed. Kas soovite teisendada selle veeru kategoorilisteks andmeteks?"
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "Teil on ühendatud seade, mida pole selle katse jaoks vaja."
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "Olete sisestanud aktiveerimiskoodi, mitte litsentsivõtme."
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "Teie veebilehitseja kuvab saadaolevaid seadmeid. Valige soovitud seade ja klõpsake nuppu Pair."
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Sinu andemet jagaja austab uut eksperimenti. Sa võid jätkata oma eksperimendiga või liituda uue eksperimendiga."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Teie litsents võimaldab Vernier Graphical Analysis®-i jagada ainult teie kooli õpilaste, õpetajate ja töötajatega. Ärge jagage litsentsi väljaspool oma kooli."
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Teie litsents võimaldab Vernier Video Analysis jagada ainult teie kooli õpilaste, õppejõudude ja töötajatega. Ärge jagage litsentsi väljaspool oma kooli."
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": "Andur on lahtu ühendatud."
+        },
+        "Zero" : {
+            
+            "message": "Nulli"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Zoom kõikidele andmetele"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Zoom väljavalitule"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-telg ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-telg ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier Science Education"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g Kiirendusmõõtja"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3-teljeline kiirendusmõõtja (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3-teljeline kiirendusmõõtja (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3-teljeline kiirendusmõõtja (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "Pinge (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Imendumine"
+        },
+        "Acceleration" : {
+            
+            "message": "Kiirendus"
+        },
+        "Accelerometer" : {
+            
+            "message": "Kiirendusmõõtja"
+        },
+        "Ammonium" : {
+            
+            "message": "Ammoonium"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Ammoonium ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "Analüüsaator"
+        },
+        "Anemometer" : {
+            
+            "message": "Tuulemõõtja"
+        },
+        "Angle" : {
+            
+            "message": "Nurk"
+        },
+        "Barometer" : {
+            
+            "message": "Baromeeter"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Baromeeter"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Bioloogia gaasi rõhu andur"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Vererõhk"
+        },
+        "Calcium" : {
+            
+            "message": "Kaltsium"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Kaltsium ISE"
+        },
+        "Charge" : {
+            
+            "message": "Laeng"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Laengumõõtja"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Laengumõõtja 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Laengumõõtja 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Laengumõõtja 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Kloriid"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Kloriidi ISE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Gaas kõrge"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Gaas madal"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2, vana"
+        },
+        "Colorimeter" : {
+            
+            "message": "Kolorimeeter"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Kolorimeeter, vana"
+        },
+        "Concentration" : {
+            
+            "message": "Kontsentratsioon"
+        },
+        "Conductivity" : {
+            
+            "message": "Juhtivus"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Juhtivus 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Juhtivus 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Jutivus 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Püsiva voolu süsteem"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Manseti rõhk"
+        },
+        "Current" : {
+            
+            "message": "Voolutugevus"
+        },
+        "Current Probe" : {
+            
+            "message": "Voolutugevuse sensor"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Voolutugevuse sensor 1,2 A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastoolne"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Dif pinge"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "DCU-BTD"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Direct-connect temperatuuri andur"
+        },
+        "Displacement" : {
+            
+            "message": "Asend"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Lahustunud CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Lahustunud hapnik"
+        },
+        "Distance" : {
+            
+            "message": "Kaugus"
+        },
+        "DO" : {
+            
+            "message": "DO"
+        },
+        "Drop Counter" : {
+            
+            "message": "Tilgalugeja"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Jõud 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Jõud 50 N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Ainult 2021a varajased vankrid"
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Elektroodi võimendi"
+        },
+        "Energy" : {
+            
+            "message": "Energia"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Energiasensor, voolutugevus"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Energia sensor, pinge"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanool"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Etanooli sensor"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Pika juhtmega termomeeter"
+        },
+        "Flow Rate" : {
+            
+            "message": "Voolukiirus"
+        },
+        "Fluorescence" : {
+            
+            "message": "Fluorestsents"
+        },
+        "Force" : {
+            
+            "message": "Jõud"
+        },
+        "Force Plate" : {
+            
+            "message": "Jõu plaat"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Jõu plaat 3500 N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Jõu plaat 850 N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Gaasi rõhu sensor"
+        },
+        "Gate State" : {
+            
+            "message": "Värava staatus"
+        },
+        "Gate Time" : {
+            
+            "message": "Värava aeg"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Juhtmevaba elektroodi võimendi"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Juhtmevaba südame löögisageduse andur"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Juhtmevaba pH andur"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Termomeeter"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go!Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniomeeter"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Käe jõu sensor"
+        },
+        "Heart Rate" : {
+            
+            "message": "Südame löögisagedus"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Pulsimõõtja"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Suure voolutugevuse mõõtja"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Kõrge valgustundlikkus 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Kõrge valgustundlikkus 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Kõrge valgustundlikkus 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Valgustatus"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Instrumendivõimendi"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Instrumendivõimendi +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Instrumendivõimendi +-200 mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Instrumendivõimendi +-20 mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Instrumendivõimendi 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Instrumendivõimendi 200 mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Instrumendivõimendi 20 mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intensiivsus"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "IP termomeeter"
+        },
+        "Irradiance" : {
+            
+            "message": "Kiirgustugevus"
+        },
+        "Launch Speed" : {
+            
+            "message": "Stardikiirus"
+        },
+        "Light" : {
+            
+            "message": "Valgus"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Valgustatus 150 000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Valgustatus 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Valgustatus 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Valgustatus"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Lineaarne asendi andur"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Madala kiirenduse sensor"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Magnetväli"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Magnetväli 0,3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Magnetväli 6,4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Keskmine arteriaalne vererõhk"
+        },
+        "Melt Station" : {
+            
+            "message": "Sulatusjaam"
+        },
+        "Microphone" : {
+            
+            "message": "Mikrofon"
+        },
+        "mol/L" : {
+            
+            "message": "mol/L"
+        },
+        "Motion" : {
+            
+            "message": "Liikumine"
+        },
+        "Motion Detector" : {
+            
+            "message": "Liikumissensor"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Asukoha andur"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitraat"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitraatide ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Optiline lahustunud hapniku sensor %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Optiline lahustunud hapniku sensor mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Gaasiline hapnik"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Gaasiline O2, vana"
+        },
+        "PAR Sensor" : {
+            
+            "message": "Fotosünt. aktiivse kiirguse sensor"
+        },
+        "Period" : {
+            
+            "message": "Periood"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP võimendid"
+        },
+        "Photogate" : {
+            
+            "message": "Fotovärav"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Juhtivus (Plaattina rakk)"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimeeter"
+        },
+        "Position" : {
+            
+            "message": "Asend"
+        },
+        "Potassium" : {
+            
+            "message": "Kaalium"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Kaltsium ISE"
+        },
+        "Potential" : {
+            
+            "message": "Potentsiaal"
+        },
+        "Power" : {
+            
+            "message": "Astmefunktsioon"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Võimsusvõimendi vool"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Rõhk"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Rõhuandur"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Rõhusensor 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Ballistiline kuuliheitja"
+        },
+        "Pulse" : {
+            
+            "message": "Järjestikused väravad"
+        },
+        "Pulse Time" : {
+            
+            "message": "Pulsi aeg"
+        },
+        "Pyranometer" : {
+            
+            "message": "Püranomeeter"
+        },
+        "Radiation" : {
+            
+            "message": "Radiatsioon"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Radiatsiooni monitor"
+        },
+        "Raw" : {
+            
+            "message": "Raw"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Pinge 0...5 V"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Suhteline õhuniiskus"
+        },
+        "Resistance" : {
+            
+            "message": "Takistus"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Hingamise monitor"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Hingamissagedus"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Pöördliikumine"
+        },
+        "Salinity" : {
+            
+            "message": "Soolsus"
+        },
+        "Signal" : {
+            
+            "message": "Signaal"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Pinnase niiskus"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Pinnase niiskuse sensor"
+        },
+        "Sound Level" : {
+            
+            "message": "Helivaljus"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Helivaljuse andur"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Helirõhk"
+        },
+        "Speed" : {
+            
+            "message": "Kiirus"
+        },
+        "Spirometer" : {
+            
+            "message": "Spiromeeter"
+        },
+        "Standard" : {
+            
+            "message": "Standard"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Standarttemperatuur"
+        },
+        "Student Force" : {
+            
+            "message": "Õpilase jõusensor"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Õpilase radiatsioonimonitor"
+        },
+        "Systolic" : {
+            
+            "message": "Süstoolne"
+        },
+        "Temperature" : {
+            
+            "message": "Temperatuur"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Temperatuuri andur"
+        },
+        "Thermocouple" : {
+            
+            "message": "Termopaar"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Termopaar, vana"
+        },
+        "TI Light" : {
+            
+            "message": "TI valgus"
+        },
+        "Time of Flight" : {
+            
+            "message": "Lennuaeg"
+        },
+        "Transmittance" : {
+            
+            "message": "Läbitavus"
+        },
+        "Turbidity" : {
+            
+            "message": "Hägusus"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UV-A intensiivsus"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UV-A sensor"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UV-B intensiivsus"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UV-B sensor"
+        },
+        "Velocity" : {
+            
+            "message": "Kiirus"
+        },
+        "Voltage" : {
+            
+            "message": "Pinge"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Pinge (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Maht"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT Asend"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT Jõud"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Laia piirkonnaga termosensor"
+        },
+        "X Acceleration" : {
+            
+            "message": "X kiirendus"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y kiirendus"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z kiirendus"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": "*umol m-2 s-1*"
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": "*µmol m⁻² s⁻¹*"
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Suhteline niiskus"
+        },
+        "Acceleration G" : {
+            
+            "message": "Kiirendus G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Kiirendusvektor"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Kiirendus Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Seadistatud maht"
+        },
+        "Altitude" : {
+            
+            "message": "Kõrgus"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Kõrguse ühepunktiline kalibreerimine"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplituud"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Nurk (kõrge eraldusvõime)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Nurkliikumine"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Automaatne nullimine alguses"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Välise sisendi režiim"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE voolutugevuse piirkond"
+        },
+        "BE Duration" : {
+            
+            "message": "BE kestus"
+        },
+        "BE Potential" : {
+            
+            "message": "BE potentsiaal"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE andmekogumiskiirus"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Baromeetriline rõhk"
+        },
+        "Battery Level" : {
+            
+            "message": "Aku laetus"
+        },
+        "Battery Percent" : {
+            
+            "message": "Aku protsent"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Aku pinge"
+        },
+        "Blank calibration" : {
+            
+            "message": "Tühi kalibratsioon"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Silla voolupinge"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ Ekvivalent"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ gaasiline"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CVS voolutugevuse piirkond"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS lõpp-potentsiaal"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS algpotentsiaal"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS loop loend"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS segmentide arv"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS kõigumäär"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS lülituspotentsiaal 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS lülituspotentsiaal 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Kalibratsiooni koefitsent"
+        },
+        "Calibration power" : {
+            
+            "message": "Kalibratsiooni aste"
+        },
+        "Cap number" : {
+            
+            "message": "Otsiku number"
+        },
+        "Cell" : {
+            
+            "message": "Rakk"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Rakukonstant (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Rakukonstant (aktiivne)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Koefitsent-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Koefitsent-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Koefitsent-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Juhtivus - 0% ТС"
+        },
+        "Correction Factor" : {
+            
+            "message": "Parandusfaktor"
+        },
+        "Counts" : {
+            
+            "message": "Andmepunktid"
+        },
+        "Current pressure" : {
+            
+            "message": "Hetkeline rõhk"
+        },
+        "Current state" : {
+            
+            "message": "Voolutugevuse seisund"
+        },
+        "Current temperature" : {
+            
+            "message": "Hetkeline temperatuur"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Väljalülitussagedus"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Tsükli maht"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Tsükli mahu allikas"
+        },
+        "DAC value" : {
+            
+            "message": "DAC väärtus"
+        },
+        "DO Concentration" : {
+            
+            "message": "DO konsentratsioon"
+        },
+        "DO Salinity" : {
+            
+            "message": "DO Soolsus"
+        },
+        "DO Saturation" : {
+            
+            "message": "DO küllastus"
+        },
+        "Data source" : {
+            
+            "message": "Andmeallikas"
+        },
+        "Declination" : {
+            
+            "message": "Kalle"
+        },
+        "Demo" : {
+            
+            "message": "Demo"
+        },
+        "Dew Point" : {
+            
+            "message": "Kastepunkt"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Diastoolne koefitsent"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Differentsiaalne rõhk"
+        },
+        "Drops" : {
+            
+            "message": "Tilgad"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "Alaldatud EMG"
+        },
+        "Electrode Current" : {
+            
+            "message": "Elektroodi voolutugevus"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Elektroodi pinge"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Elektroodide puhastus"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Sisestage väärtus vooluhulga 0% jaoks"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Sisestage väärtus vooluhulga 100% jaoks"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Sisestage väärtus vooluhulga 50% jaoks"
+        },
+        "Enter altitude" : {
+            
+            "message": "Sisesta kõrgus"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Sisesta baromeetriline rõhk"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Sisesta hetke temperatuur"
+        },
+        "Enter first known value" : {
+            
+            "message": "Sisestage esimene teada olev väärtus"
+        },
+        "Enter k value" : {
+            
+            "message": "Sisesta k väärtus"
+        },
+        "Enter known value" : {
+            
+            "message": "Sisestage teada olev väärtus"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Sisesta kordaja väärtus"
+        },
+        "Enter n value" : {
+            
+            "message": "Sisesta n väärtus"
+        },
+        "Enter offset value" : {
+            
+            "message": "Sisesta nihke väärtus"
+        },
+        "Enter power value" : {
+            
+            "message": "Sisesta astendaja väärtus"
+        },
+        "Enter second known value" : {
+            
+            "message": "Sisestage teine teada olev väärtus"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Sisesta jaama kõrgus"
+        },
+        "Enter third known value" : {
+            
+            "message": "Sisestage kolmas teada olev väärtus"
+        },
+        "Envelope" : {
+            
+            "message": "Ümbrik"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Raamistiku keskmistamine"
+        },
+        "Error" : {
+            
+            "message": "Viga"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Gaasiline etanool"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Gaasiline etanool HC-ga"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Etanool, Ticks"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Etanooli aur"
+        },
+        "Experiment Type" : {
+            
+            "message": "Katse tüüp"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Väljahingamise tipu maht"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "FWD" : {
+            
+            "message": "Edasi"
+        },
+        "Fan" : {
+            
+            "message": "Ventilaator"
+        },
+        "Fan Mode" : {
+            
+            "message": "Ventilaatori režiim"
+        },
+        "Final hold time" : {
+            
+            "message": "Hoidmise aeg"
+        },
+        "Final temperature" : {
+            
+            "message": "Lõpptemperatuur"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Viie-punkti kalibreerimine"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Vooluhulga filter"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Voolukiirus, sissehingamise polaarsus"
+        },
+        "Force G" : {
+            
+            "message": "Jõud G"
+        },
+        "Force Y" : {
+            
+            "message": "Jõud Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Jõu kalibreerimine ühe punkti abil"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Jõu kalibreerimine kahe punkti abil"
+        },
+        "Forward" : {
+            
+            "message": "Edasi"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Värav 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Värav 1 - värava seisund"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Värava 1 seisund"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Värav 1/ Juhtiv värav - ajastus"
+        },
+        "Gate 2" : {
+            
+            "message": "Värav 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Värav 2 - värava seisund"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Värav 2 seisund"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-teljeline magnetvälja andur"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® kiirenduse andur"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® vererõhk"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ gaas"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® kolorimeeter"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® juhtivuse andur"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® püsivoolu süsteem"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® voolutugevuse andur"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® tsükliline voltampermeetriline süsteem"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® tilgalugeja"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® elektroodivõimendi"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® energia andur"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Go Direct® Etanooli andur"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Go Direct® Etanooli aur"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® jõu ja kiirenduse andur"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® gaaskromatograaf"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® gaasirõhu andur"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® käsidünamomeeter"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® ioonselektiivse elektroodi võimendi"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® valguse ja värvuse andur"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® sulatusjaam"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® liikumise andur"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® optiline lahustunud hapniku andur"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ gaas"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": "Go Direct® PAR andur"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® fotovärav"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Plaattina elektroodiga juhtivusandur"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct® Polarimeeter"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® kuuliheitja"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct® Pulssoksümeeter"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": "Go Direct® Püranomeeter"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® radiatsiooni monitor"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® hingamisvöö"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® pöördliikumise andur"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® anduritega vankrike (roheline)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® anduritega vankrike (kollane)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® heli"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® Spiromeeter"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": "Go Direct® Staatiline laeng"
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Struktuuride ja materjalide tester"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® pinnatemperatuuri andur"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® termoandur"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Termopaari võimendi"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® pinge andur"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® Ilmajaam"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® laia piirkonnaga pingeandur"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Laia mõõtepiirkonnaga rõhuandur"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct™ 3-teljeline magnetvälja andur"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct™ kiirenduse andur"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct™ vererõhk"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ CO₂ gaas"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct™ Kolorimeeter"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct™ juhtivuse andur"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct™ Püsiva voolutugevuse süsteem"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct™ voolutugevuse andur"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ tsükliline voltampermeetriline süsteem"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct™ tilgalugeja"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct™ EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct™ elektroodivõimendi"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct™ energia andur"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Go Direct™ Etanooli andur"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Go Direct™ Etanooli aur"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct™ jõu ja kiirenduse andur"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ gaaskromatograaf"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct™ gaasirõhu andur"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct™ käsidünamomeeter"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ ioonselektiivse elektroodi võimendi"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct™ valgustuse ja värvuse andur"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct™ sulatusjaam"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct™ liikumise andur"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct™ optiline lahustunud hapniku andur"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ O₂ gaas"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": "Go Direct™ PAR andur"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ fotovärav"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Plaattina elektroodiga juhtivusandur"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™ Polarimeeter"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct™ kuuliheitja"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™ Pulss oksümeeter"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": "Go Direct™ Püranomeeter"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct™ radioaktiivsuse andur"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct™ hingamisvöö"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct™ pöördliikumise andur"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct™ anduritega vankrike (roheline)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct™ anduritega vankrike (kollane)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct™ heli"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ spiromeeter"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": "Go Direct™ Staatiline laeng"
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ Struktuuride ja materjalide tester"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct™ pinnatemperatuuri andur"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct™ termoandur"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ Termopaari võimendi"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct™ pinge andur"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ Ilmajaam"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct™ laia piirkonnaga termoandur"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™ Laia mõõtepiirkonnaga rõhuandur"
+        },
+        "Heat Index" : {
+            
+            "message": "Soojusindeks"
+        },
+        "Hold time" : {
+            
+            "message": "Hoideaeg"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Vesinik, Ticks"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "valgustatus"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Valgustatus, toorandmed"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Tiiviku sagedus"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Sissehingamise tipu maht"
+        },
+        "Instrument status" : {
+            
+            "message": "Seadme seisund"
+        },
+        "Internal Current" : {
+            
+            "message": "Sisemine voolutugevus"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Sisemine pinge"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "l"
+        },
+        "L/s" : {
+            
+            "message": "l/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED diagnostika"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED suurusjärk"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Laseriga värav - värava seisund"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Laseriga värava seisund"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Laseriga värav/juhtvärav - ajastus"
+        },
+        "Launch Angle" : {
+            
+            "message": "Laskenurk"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineaarne liikumine"
+        },
+        "Live" : {
+            
+            "message": "Reaalajas"
+        },
+        "Load cell gain" : {
+            
+            "message": "Tensoanduri võimendus"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Mikrofon - kinnitatud"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Mikrofon - kinnitatud (A režiim)"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Mikrofon - kinnitatud (C režiim)"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Liikumine (vanker)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Liikumise kiirendus"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Liikumise kiirus"
+        },
+        "Motion with TC" : {
+            
+            "message": "Liikumine temperatuuri kompensatsiooniga"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "Ei"
+        },
+        "No smoothing" : {
+            
+            "message": "Ei siluta"
+        },
+        "Normalized Response" : {
+            
+            "message": "Normaalvastus"
+        },
+        "Not ready" : {
+            
+            "message": "Pole valmis"
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP kestus"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP andmekogumiskiirus"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Objekti kiirendus (mitu lipukest)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Objekti kiirendus (üks lipuke)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Objekti kiirus"
+        },
+        "Off" : {
+            
+            "message": "Välja"
+        },
+        "One-point calibration" : {
+            
+            "message": "Ühe punktiga kalibreerimine"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Optiline pööre"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Ostsilleerimise märkmed"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Ostsilleerimise max"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Ostsilleerimise min"
+        },
+        "Oscillations" : {
+            
+            "message": "Võnked"
+        },
+        "O₂ Gas" : {
+            
+            "message": "gaasiline O₂"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": "O₂ gaasi konsentratsioon"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "gaasilise O₂ rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": "PAR kahe punkti kalibreering"
+        },
+        "PPFD - CF" : {
+            
+            "message": "PPFD-CF"
+        },
+        "PPFD Correction" : {
+            
+            "message": "PPFD parandus"
+        },
+        "PYR two-point calibration" : {
+            
+            "message": "PYR kahe punkti kalibreering"
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Tipu piirkond"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Pendli periood"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Pendli kiirus"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Pine riistvara põhiversioon"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Pine riistvara alamversioon"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Pine riistvara versioon"
+        },
+        "Position Direction" : {
+            
+            "message": "Positsiooni suund"
+        },
+        "Position G" : {
+            
+            "message": "Asend G"
+        },
+        "Position Vector" : {
+            
+            "message": "Asendivektor"
+        },
+        "Position Y" : {
+            
+            "message": "Asend Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Power kolme-punkti kalibreerimine"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Pulsi rõhk"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Pulsi sagedus"
+        },
+        "REV" : {
+            
+            "message": "p"
+        },
+        "Ramp rate" : {
+            
+            "message": "Kasvukiirus"
+        },
+        "Raw Diastolic" : {
+            
+            "message": "Jäme diastoolne"
+        },
+        "Raw MAP" : {
+            
+            "message": "Jäme MAP"
+        },
+        "Raw Pressure" : {
+            
+            "message": "Jäme rõhk"
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": "Jäme rõhu silumine"
+        },
+        "Raw Systolic" : {
+            
+            "message": "Jäme süstoolne"
+        },
+        "Raw Temperature" : {
+            
+            "message": "Raw temperatuur"
+        },
+        "Ready" : {
+            
+            "message": "Valmis"
+        },
+        "Ready to inject" : {
+            
+            "message": "Valmis süsteks"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Kaugjuhtiv kiirendus"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Juhtiv värav - objekti kiirendus"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Juhtiv värav - Objekti kiirendus (üks lipuke)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Juhtiv värav - Objekti kiirus"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Kaugjuhitav värav 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Kaugjuhitav värav 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Kaugjuhtiv kiirus"
+        },
+        "Reverse" : {
+            
+            "message": "Vastassuund"
+        },
+        "Running" : {
+            
+            "message": "Jooksev"
+        },
+        "Salinity correction" : {
+            
+            "message": "Soolsuse parandus"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Helivaljus (A režiim)"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Helivaljus (C režiim)"
+        },
+        "Start temperature" : {
+            
+            "message": "Algtemperatuur"
+        },
+        "Starting" : {
+            
+            "message": "Käivitub"
+        },
+        "Station Pressure" : {
+            
+            "message": "Jaama rõhk"
+        },
+        "Step Rate" : {
+            
+            "message": "Sammu sagedus"
+        },
+        "Steps" : {
+            
+            "message": "Sammud"
+        },
+        "Stopped" : {
+            
+            "message": "Peatatud"
+        },
+        "Switch USB" : {
+            
+            "message": "Lülita USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Süstoolse koefitsent"
+        },
+        "Temperature correction" : {
+            
+            "message": "Temperatuuri korrigeerimine"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Kolme punktiga kalibreerimine"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Lennuaja plaat"
+        },
+        "Timing" : {
+            
+            "message": "Ajastus"
+        },
+        "Total VOC" : {
+            
+            "message": "Kogu VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Kahe punktiga kalibreerimine"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Tüüp J termopaar"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Tüüp K termopaar"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Tüüp T termopaar"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": "UV sinine"
+        },
+        "UV Index" : {
+            
+            "message": "UV indeks"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV intensiivsus"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": "Kasuta silumist"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Vektori piirkonna max"
+        },
+        "Vector range Min" : {
+            
+            "message": "Vektori piirkonna min"
+        },
+        "Velocity G" : {
+            
+            "message": "Kiirus G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Kiirusvektor"
+        },
+        "Velocity Y" : {
+            
+            "message": "Kiirus Y"
+        },
+        "Velocity2" : {
+            
+            "message": "Kiirus2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Pinge - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Pinge - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Mahu parandustegur"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Sissehingatava mahu polaarsus"
+        },
+        "W/m²" : {
+            
+            "message": "W/m²"
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Laine amplituud"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Laine sagedus"
+        },
+        "Wind Chill" : {
+            
+            "message": "Tuulekülm"
+        },
+        "Wind Direction" : {
+            
+            "message": "Tuulesuund"
+        },
+        "Wind Speed" : {
+            
+            "message": "Tuule kiirus"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Tuule suuna kalibreerimine"
+        },
+        "X magnetic field" : {
+            
+            "message": "X-suunaline magnetväli"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X magnetväli 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-nurkkiirus"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X-teljeline kiirendus"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-teljeline kiirendus G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-teljeline kiirendus Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-nurkkiiruse ühepunktiline kalibreerimine"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-teljeline kiirendus - kiire"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-teljelise (kiire) kiirenduse ühepunktiline kalibreerimine"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X-teljeline nurkkiirus"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "X-telje nurkkiirus G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "X-telje nurkkiirus Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X-teljeline güroskoop"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y-suunaline magnetväli"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y magnetväli 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-teljeline nurkkiirus"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y-teljeline kiirendus"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-teljeline kiirendus G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-teljeline kiirendus Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y-teljelise kiirenduse ühepunktiline kalibreerimine"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y-teljeline kiirendus - kiire"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y-teljelise (kiire) kiirenduse ühepunktiline kalibreerimine"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y-teljeline nurkkiirus"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y-telje nurkkiirus G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y-telje nurkkiirus T"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y-teljeline güroskoop"
+        },
+        "Yes" : {
+            
+            "message": "Jah"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z-suunaline magnetväli"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z magnetväli 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-teljeline nurkkiirus"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z-teljeline kiirendus"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-teljeline kiirendus G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-teljeline kiirendus Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z-teljelise kiirenduse ühepunktiline kalibreerimine"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z-teljeline kiirendus - kiire"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z-teljelise (kiire) kiirenduse ühepunktiline kalibreerimine"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z-teljeline nurkkiirus"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z-telje nurkkiirus G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z-telje nurkkiirus Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z-teljeline güroskoop"
+        },
+        "atm" : {
+            
+            "message": "Atm"
+        },
+        "bpm" : {
+            
+            "message": "lööki/min"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "loendid"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/cm"
+        },
+        "ft" : {
+            
+            "message": "jalg"
+        },
+        "ft/s" : {
+            
+            "message": "jalga/s"
+        },
+        "ft/s²" : {
+            
+            "message": "jalga/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "tolli"
+        },
+        "inHg" : {
+            
+            "message": "tolliHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "sõlme"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "luks"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": "nC"
+        },
+        "pC" : {
+            
+            "message": "pC"
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "raw pinge"
+        },
+        "rel" : {
+            
+            "message": "suhteline"
+        },
+        "rev" : {
+            
+            "message": "p"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "sm"
+        },
+        "steps" : {
+            
+            "message": "sammu"
+        },
+        "torr" : {
+            
+            "message": "torri"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": "umol m-2 s-1"
+        },
+        "units/s" : {
+            
+            "message": "ühikud/s"
+        },
+        "units/s²" : {
+            
+            "message": "ühikut/s²"
+        },
+        "velocity2" : {
+            
+            "message": "kiirus2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx9"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": "µmol m⁻² s⁻¹"
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Koosiinus"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Koosiinus ruut"
+        },
+        "Inverse" : {
+            
+            "message": "Pöördväärtus"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Ruudu pöördväärtus"
+        },
+        "Linear" : {
+            
+            "message": "Lineaarne"
+        },
+        "Modified Power" : {
+            
+            "message": "Muudetud võimsus"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Naturaaleksponent"
+        },
+        "Natural Log" : {
+            
+            "message": "Naturaallogaritm"
+        },
+        "Not defined" : {
+            
+            "message": "Pole defineeritud"
+        },
+        "Power" : {
+            
+            "message": "Aste"
+        },
+        "Proportional" : {
+            
+            "message": "Võrdeline"
+        },
+        "Quadratic" : {
+            
+            "message": "Ruut"
+        },
+        "Sine" : {
+            
+            "message": "Siinus"
+        },
+        "Slope" : {
+            
+            "message": "Kalle"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Kasutaja avaldis"
+        }
+        
+    }
+}

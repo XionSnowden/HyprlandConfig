@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Authorize | Vernier Graphical Analysis&reg;</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#000" />
+    <meta
+      name="Description"
+      content="Authorization page to access Vernier Graphical Analysis&reg;, a tool for science students to collect, graph, and analyze data from Vernier sensors."
+    />
+    <link rel="icon" type="image/png" href="../app_icon/favicon.ico" />
+    <link rel="apple-touch-icon" href="../app_icon/apple-icon.png" />
+    <link rel="manifest" href="../manifest.json" />
+    <link rel="stylesheet" href="auth.css" />
+    <script type="module" src="auth.js"></script>
+  </head>
+  <body>
+    <div class="main-content">
+      <ga-logo invert class="ga-logo"></ga-logo>
+      <main>
+        <h1 visually-hidden>Authorize | Vernier Graphical Analysis&reg;</h1>
+        <form id="key_form">
+          <label for="key_input">Enter your license key</label>
+          <input
+            type="text"
+            id="key_input"
+            name="key"
+            required
+            autocomplete="off"
+            autocorrect="off"
+            autocapitalize="off"
+            spellcheck="false"
+            placeholder="123abc456..."
+            onClick="this.setSelectionRange(0, this.value.length)"
+          />
+          <div class="auth__message"><p id="message"></p></div>
+          <div class="support" id="support" hidden>
+            <p>
+              Lost your license key?
+              <a href="https://www.vernier.com/support/" target="_blank" rel="noopener">
+                Contact support
+              </a>
+            </p>
+          </div>
+          <p>
+            You can open Vernier Graphical Analysis&reg; Pro either in a Chrome browser, without any
+            download, or as a downloadable app.
+          </p>
+          <button type="submit" onclick="this.form.submitter = null">
+            Open Vernier Graphical Analysis&reg; in Browser
+          </button>
+          <details>
+            <summary><h2>Do you prefer to use the native application?</h2></summary>
+            <p>If Graphical Analysis is not yet installed, download it using a link here.</p>
+            <button type="submit" id="open-app" onclick="this.form.submitter = this">
+              Open Vernier Graphical Analysis&reg; Downloaded App
+            </button>
+
+            <h3>Downloads for Other Platforms</h3>
+
+            <div id="preferred_platform"></div>
+
+            <div class="download__grid">
+              <a
+                href="https://software-releases.graphicalanalysis.com/ga/win/release/latest/Vernier-Graphical-Analysis.exe"
+                id="windows"
+              >
+                <img src="public/windows-download.svg" />
+              </a>
+              <a
+                href="https://software-releases.graphicalanalysis.com/ga/mac/release/latest/Vernier-Graphical-Analysis.dmg"
+                id="mac"
+              >
+                <img src="public/mac-download.svg" />
+              </a>
+              <a
+                href="https://itunes.apple.com/us/app/vernier-graphical-analysis-4/id1385963326?mt=8"
+                id="ios"
+              >
+                <img src="public/ios-download.svg" />
+              </a>
+              <a
+                href="https://chrome.google.com/webstore/detail/vernier-graphical-analysi/dncgedbnidfkppmdgfgidcepclnokpkb"
+                id="chrome"
+              >
+                <img src="public/chrome-download.svg" />
+              </a>
+              <a
+                href="https://play.google.com/store/apps/details?id=com.vernier.graphicalanalysis"
+                id="android"
+              >
+                <img src="public/android-download.svg" />
+              </a>
+            </div>
+          </details>
+        </form>
+      </main>
+      <vst-ui-logo-vernier class="vernier-logo"></vst-ui-logo-vernier>
+    </div>
+    <footer class="terms">
+      <a
+        class="terms__link"
+        href="https://www.vernier.com/legal-center/applications-privacy/"
+        target="_blank"
+        rel="noopener"
+      >
+        Privacy Notice
+      </a>
+      <a
+        class="terms__link"
+        href="https://www.vernier.com/legal-center/applications-terms/"
+        target="_blank"
+        rel="noopener"
+      >
+        Terms of Use
+      </a>
+      <a class="terms__link" href="/cookies.html" target="_blank" rel="noopener">Cookie Notice</a>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,6474 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d asiakkaat ovat liittyneet"
+        },
+        "%s All" : {
+            
+            "message": "%s Kaikki"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s Kaikki datasarjat"
+        },
+        "%s appearance options" : {
+            
+            "message": "% :n esiintymisen vaihtoehdot"
+        },
+        "%s details" : {
+            
+            "message": "%:n tiedot"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s kerää parhaillaan dataa. Haluatko pysäyttää mittaamisen ja aloittaa uuden mittauksen?"
+        },
+        "%s Options" : {
+            
+            "message": "%s Vaihtoehdot"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(matka, nopeus, kiihtyvyys)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 kuvaaja"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1. derivaatta"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1. derivaatta aikasiirrolla"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1. derivaatta(Y,X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 Kuvaajaa"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 kuvaajaa"
+        },
+        "2nd derivative" : {
+            
+            "message": "2. derivaatta"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2. derivaatta aikasiirrolla"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2. derivaatta(Y,X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 Kuvaajaa"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 kuvaajaa"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Tietoliikennehäiriö. Valitse uusi mittaus jatkaaksesi."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Häiriö yhteydessä pysäytti tiedonkeruun. Ole hyvä ja yritä uudelleen."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B, ja C ovat käyttäjän asettamia parametrejä. X, Y, ja Z ovat olemassa olevia taulukon sarakkeita."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Tietoja"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "Tietoja omista sovitteista"
+        },
+        "Absolute Value" : {
+            
+            "message": "Absoluuttinen arvo"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "hyväksyä loppukäyttäjän lisenssiehdot ja yksityisyyttä koskeva ilmoitus, jotta"
+        },
+        "Accessories" : {
+            
+            "message": "Lisävarusteet"
+        },
+        "across" : {
+            
+            "message": "yli"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Aktivoi lisäominaisuudet käyttöösi lisenssiavaimella"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "Aktivoi lisätäksesi manuaalinen sovitus"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Aktivoi ottaaksesi FFT käyttöön"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Aktivoi histogrammin lisäämiseksi"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Aktivoi palauttaaksesi yliviivatut rivit"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Aktivoi näyttääksesi sovitusparametrien epätarkkuus"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Aktivoi rivien tietojen yliviivaaminen"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Aktivoi vaihtaaksesi yliviivausta"
+        },
+        "Activate to use %s" : {
+            
+            "message": "Aktivoi käyttääksesi %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Aktivoi käyttääksesi pylväskaavioita"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "Aktivoi lisätäksesi muistiinpanot"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Aktivoi käyttääksesi Online Datan jakoa"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Aktivoi käyttääkseisi videota"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Lisää laskettu sarake"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Lisää kuvaajan otsikko tähän"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Lisää tyhjä sarake"
+        },
+        "Add Annotation" : {
+            
+            "message": "Lisää merkintä"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Lisää laskettu sarake"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Lisää tislattua vettä säilytyspullon sieneen asti."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Lisää matkittava kuvaaja"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Lisää tyhjä sarake"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "Lisää manuaalinen sovite"
+        },
+        "add meters" : {
+            
+            "message": "lisää mittarit"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Lisää uusi datasarja"
+        },
+        "Add Prediction" : {
+            
+            "message": "Lisää ennuste"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Lisää virtuaalinen anturi"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Tiputa 10 ml titranttia pisaroina pisaralaskurin läpi."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Lisää/Poista mittarit"
+        },
+        "Advanced" : {
+            
+            "message": "Lisäasetukset"
+        },
+        "After" : {
+            
+            "message": "Jälkeen"
+        },
+        "After set number of flags" : {
+            
+            "message": "Kiinteän lippumäärän jälkeen"
+        },
+        "All" : {
+            
+            "message": "Kaikki"
+        },
+        "Always Show 0" : {
+            
+            "message": "Näytä aina 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitudi"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Lausekkeen tulee sisältää riippumaton muuttuja ja vähintään yksi parametri."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Internet yhteys vaaditaan datan jakamistapahtumaan liittymiseksi. Yhdistä uudestaan Internettiin ja klikkaa yhdistä uudelleen."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Internetyhteys vaaditaan datan jakoon liittymiseksi"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Internetyhteys vaaditaan datan jakamiseksi"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Internet yhteys vaaditaan datan jakamiseksi. Yhdistä uudestaan internettiin ja aloita uusi datan jakamistapahtuma jatkaaksesi jakoa."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "lisävarusteena on saatavana vinon heittoliikkeen tutkimuslaitteistoon lentoajanmääritysvälineistö."
+        },
+        "and " : {
+            
+            "message": "ja "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "ja klikkaa LOPETA JAKO"
+        },
+        "Angle units" : {
+            
+            "message": "Kulman yksiköt"
+        },
+        "Angular Motion" : {
+            
+            "message": "Pyörimisliike"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Pyörimisliike info"
+        },
+        "App is up to date" : {
+            
+            "message": "Sovellus on ajantasalla"
+        },
+        "App Preferences" : {
+            
+            "message": "Sovelluksen asetukset"
+        },
+        "App Updates" : {
+            
+            "message": "Sovelluksen päivitykset"
+        },
+        "Appearance" : {
+            
+            "message": "Näkymä"
+        },
+        "Append" : {
+            
+            "message": "Jatka"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Lisätäänkö dataa nykyiseen datasarjaan vai luodaanko uusi datasarja?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Lisää vai luo uusi?"
+        },
+        "Apply" : {
+            
+            "message": "Ota käyttöön"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Käyrän sovitus"
+        },
+        "Apply FFT" : {
+            
+            "message": "Ota FFT käyttöön"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Lisää histogrammi"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Ala"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Kerätessäsi mittausdataa, he näkevät saman datan omien Graphical Analysis -sovelluksien kautta"
+        },
+        "Auto" : {
+            
+            "message": "Auto"
+        },
+        "Automatic" : {
+            
+            "message": "Automaattinen"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Anturin arvon 10 sekunnin keskiarvo"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Keskiarvoistus 10 sekunnin ajalta"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Akselin nimen koko"
+        },
+        "Back" : {
+            
+            "message": "Takaisin"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Kaistanpäästösuodatin"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Kaistanestosuodatin"
+        },
+        "Bar Tape" : {
+            
+            "message": "Tikapuuteippi"
+        },
+        "Bars" : {
+            
+            "message": "Pylväät"
+        },
+        "Base" : {
+            
+            "message": "Pohjataso"
+        },
+        "Base Axis" : {
+            
+            "message": "Perusakseli"
+        },
+        "Battery" : {
+            
+            "message": "Paristo"
+        },
+        "Battery Level" : {
+            
+            "message": "Pariston tila"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Pylvään alkuarvo"
+        },
+        "Bin Width" : {
+            
+            "message": "Pylvään leveys"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Bluetooth -laite"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth ei käytössä"
+        },
+        "Bold" : {
+            
+            "message": "Lihavointi"
+        },
+        "Book" : {
+            
+            "message": "Kirja"
+        },
+        "Book Title" : {
+            
+            "message": "Kirjan otsikko"
+        },
+        "Both" : {
+            
+            "message": "Molemmat"
+        },
+        "Bottom" : {
+            
+            "message": "Alaraja"
+        },
+        "Bottom Bar" : {
+            
+            "message": "Alapalkki"
+        },
+        "Bullet list" : {
+            
+            "message": "Luettelo"
+        },
+        "Calculated %s" : {
+            
+            "message": "Laskettu %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Laskettu sarake"
+        },
+        "Calibrate" : {
+            
+            "message": "Kalibroi"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Kalibroi nyt"
+        },
+        "Calibrating..." : {
+            
+            "message": "Kalibroidaan..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Kalibrointi valmis"
+        },
+        "Calibration failed" : {
+            
+            "message": "Kalibrointi epäonnistui"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Uudelleen kalibrointi onnistui"
+        },
+        "Calibration Type" : {
+            
+            "message": "Kalibraatiotapa"
+        },
+        "Cancel" : {
+            
+            "message": "Peruuta"
+        },
+        "cancel" : {
+            
+            "message": "peruuta"
+        },
+        "Capable" : {
+            
+            "message": "Mahdollinen"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Vaunun tikapuukappale"
+        },
+        "Categorical" : {
+            
+            "message": "Diskreetti"
+        },
+        "Categorical Data" : {
+            
+            "message": "Diskreetti Data"
+        },
+        "Ceiling" : {
+            
+            "message": "Katto"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "Keskitä manuaalisen sovitteen tartunta"
+        },
+        "Change left y-axis" : {
+            
+            "message": "Muuta vasen y-akseli"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Muuta oikea y-akseli"
+        },
+        "Change x-axis" : {
+            
+            "message": "Muuta x-akseli"
+        },
+        "Change y-axis" : {
+            
+            "message": "Muuta y-akseli"
+        },
+        "Channels" : {
+            
+            "message": "Kanavat"
+        },
+        "Charging," : {
+            
+            "message": "Latautuu,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Tarkista laiteohjelmiston päivitykset"
+        },
+        "Check for software updates" : {
+            
+            "message": "Tarkista ohjelmiston päivitykset"
+        },
+        "Check for Updates" : {
+            
+            "message": "Tarkista päivitykset"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Tarkista vilkkuuko anturin LED"
+        },
+        "Checking for update..." : {
+            
+            "message": "Tarkistetaan päivityksiä..."
+        },
+        "Choose File" : {
+            
+            "message": "Valitse tiedosto"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Valitse kansio..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Valitse tämä vaihtoehto kytkeäksesi GoDirect anturin USB:n kautta."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Valitse tämä kytkeäksesi Go!Temp -anturin."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": "Valitse tämä liittääksesi Go! Link tiedonkeräin."
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": "Valitse tämä liittääksesi Go! Motion -anturi."
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "Valitse tämä kytkeäksesi LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, tai LabQuest Stream USB:n kautta."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "Chrome 102 tai uudempi versio vaaditaan. iPad ja iPhone eivät ole tuettuja."
+        },
+        "Circle" : {
+            
+            "message": "Ympyrä"
+        },
+        "Clear Expression" : {
+            
+            "message": "Poista lauseke"
+        },
+        "Clear Filter" : {
+            
+            "message": "Puhdista suodatin"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Klikkaa ALOITA TAPAHTUMA luodaksesi tapahtumalle ID koodi"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "Klikkaa Merkitse -painiketta lisätäksesi datapisteeseen merkin mittauksen aikana."
+        },
+        "Close" : {
+            
+            "message": "Sulje"
+        },
+        "Close Alert" : {
+            
+            "message": "Sulje varoitus"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Sulje sovellus ja päivitä laiteohjelmisto"
+        },
+        "Close Application" : {
+            
+            "message": "Sulje sovellus"
+        },
+        "Close Dialog" : {
+            
+            "message": "Sulje ruutu"
+        },
+        "Close FFT" : {
+            
+            "message": "Sulje FFT"
+        },
+        "Close graph legend" : {
+            
+            "message": "Sulje kuvaajan selite"
+        },
+        "Close Histogram" : {
+            
+            "message": "Sulje Histogrammi"
+        },
+        "Close Infobox" : {
+            
+            "message": "Sulje infolaatikko"
+        },
+        "Close Menu" : {
+            
+            "message": "Sulje valikko"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Sulje huippupiikki"
+        },
+        "Close Popover" : {
+            
+            "message": "Sulje ponnahdusikkuna"
+        },
+        "Close Replay" : {
+            
+            "message": "Sulje Toisto"
+        },
+        "Close Start Page" : {
+            
+            "message": "Sulje aloitussivu"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Sulje tämä ikkuna jatkaaksesi"
+        },
+        "Code" : {
+            
+            "message": "Koodi"
+        },
+        "Coefficient" : {
+            
+            "message": "Kerroin"
+        },
+        "Collapse" : {
+            
+            "message": "Pienennä"
+        },
+        "Collect" : {
+            
+            "message": "Mittaa"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Kerää dataa Vernier antureilla"
+        },
+        "Collecting" : {
+            
+            "message": "Kerätään"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "Kerätään %d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Suuren mittauspistemäärän kerääminen vaikuttaa suorituskykyyn."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Kerätään dataa ${eventParams.accumulate} sekuntia"
+        },
+        "Collection Parameters" : {
+            
+            "message": "Mittauksen parametrit"
+        },
+        "Column %s" : {
+            
+            "message": "Sarake %s"
+        },
+        "Column Options" : {
+            
+            "message": "Sarakkeen ominaisuudet"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Sarake poistetaan kaikista datasarjoista. Poistamista ei voi peruuttaa."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Pilkulla erotetut arvot"
+        },
+        "Complementary Error" : {
+            
+            "message": "Vastaava virhe"
+        },
+        "Configurator" : {
+            
+            "message": "Konfiguraattori"
+        },
+        "Confirm" : {
+            
+            "message": "Vahvista"
+        },
+        "Connect" : {
+            
+            "message": "Kytke"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Liitä <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">tuettu Vernier USB laite</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Kytke laite"
+        },
+        "Connect a Device" : {
+            
+            "message": "Liitä laite"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Liitä LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Liity WLAN:in avulla LabQuest 2 -tiedonkeräimeen tai Logger Pro -ohjelmaan"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "Kytke nämä laitteet tiedonkeruuta varten."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Kytke tämä laite tiedonkeruuta varten."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Liity Datan jakamis -tapahtumaan Graphical Analysis:ssä"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Kytke lähteeksi LabQuest, LoggerPro tai Graphical Analysis"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Liity aiemmin luotuun mittaustapahtumaan käyttääksesi sen asetuksia, dataa jne., tai luo uusi mittaus."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Liity alla olevaan langattomaan laitteeseen tai liity USB:n kautta."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Liity alla olevaan langattomaan laitteeseen."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Liitä aiempaan mittaustapahtumaan"
+        },
+        "connected" : {
+            
+            "message": "liitetty"
+        },
+        "Connected Devices" : {
+            
+            "message": "Kytketyt laitteet"
+        },
+        "Connecting" : {
+            
+            "message": "Yhdistetään"
+        },
+        "Connection error" : {
+            
+            "message": "Yhteysvirhe"
+        },
+        "Connection Lost" : {
+            
+            "message": "Yhteys kadonnut"
+        },
+        "Connection status info" : {
+            
+            "message": "Yhteyden tilan info"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Yhdistäminen %s epäonnistui"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "Yhdistäminen %s onnistui"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "Jatka hakuasetuksiin"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "Jatka ilman vaadittavia laitteita"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Evästeilmoitus"
+        },
+        "Copy" : {
+            
+            "message": "Kopioi"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Kopioi histogrammi"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Kopioi isännän ID"
+        },
+        "Copy Link" : {
+            
+            "message": "Kopioi linkki"
+        },
+        "Copy Sign" : {
+            
+            "message": "Kopioi merkki"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Kopioi leikepöydälle"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Kopioi leikepöydälle"
+        },
+        "Cosine" : {
+            
+            "message": "Kosini"
+        },
+        "Count Interval" : {
+            
+            "message": "Laske jaksoja"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Luo oma sovite"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Luo uusi datasarja"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Luodaan oma laskettu sarake"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Luodaan oma sovitekäyrä"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Kuutiojuuri"
+        },
+        "Curve Fit" : {
+            
+            "message": "Käyrän sovitus"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Omat lasketut sarakkeet"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Omat sovitekäyrät"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Mukautetun sovituksen tietoja"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Omien lausekkeiden tiedot"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Omat sovitteet tallennetaan sovelluksen dokumetteihin. Kun aloitat uuden tutkimuksen tai käynnistät sovelluksen uudestaan, omat sovitteet tyhjentyvät."
+        },
+        "Custom Session" : {
+            
+            "message": "Mukautettu tapahtuma"
+        },
+        "Cut" : {
+            
+            "message": "Leikkaa"
+        },
+        "Dark" : {
+            
+            "message": "Tumma"
+        },
+        "Darker" : {
+            
+            "message": "Tummempi"
+        },
+        "Darkest" : {
+            
+            "message": "Tummin"
+        },
+        "Data" : {
+            
+            "message": "Data"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "Tiedonkeruu on aloitettu keräystilassa."
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Mittausasetukset"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Mittaus pysähtyy automaattisesti, kun kaikki portit ovat tehneet oletetun määrän paikkamittauksia (sama kuin lippujen määrä). Mittauksen käynnistäminen aloittaa uuden datasarjan."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Mittaus päättyy kun klikataan Stop. Paikan arvot kasvavat annetun arvon mukaisesti kunnes mittaus pysäytetään."
+        },
+        "Data Mark" : {
+            
+            "message": "Datamerkki"
+        },
+        "Data Marking" : {
+            
+            "message": "Datamerkintä"
+        },
+        "Data Set %d" : {
+            
+            "message": "Datasarja %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Datasarjan nimi"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Datasarjan nimessä %s kirjaimen raja."
+        },
+        "Data Set Options" : {
+            
+            "message": "Datasarjan ominaisuudet"
+        },
+        "Data Set Time" : {
+            
+            "message": "Datasarja aika"
+        },
+        "Data Share" : {
+            
+            "message": "Datan jakaminen"
+        },
+        "Data Sharing" : {
+            
+            "message": "Datan jakaminen"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Datan jakaminen käynnissä"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Datan jakaminen käynnistetty"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Datan jakamisen tila"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Datan jakamisen tila"
+        },
+        "Data Table" : {
+            
+            "message": "Datataulukko"
+        },
+        "Data Type" : {
+            
+            "message": "Datatyyppi"
+        },
+        "Data Type Info" : {
+            
+            "message": "Datatyypin tiedot"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Datasarjan näkymän valinnat"
+        },
+        "Decimal Format" : {
+            
+            "message": "Desimaalimuoto"
+        },
+        "Decimal Places" : {
+            
+            "message": "Desimaalien määrä"
+        },
+        "decrease" : {
+            
+            "message": "vähennä"
+        },
+        "decreasing" : {
+            
+            "message": "alittaa"
+        },
+        "degrees" : {
+            
+            "message": "astetta"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Astetta (°)"
+        },
+        "Delete" : {
+            
+            "message": "Poista"
+        },
+        "Delete %s?" : {
+            
+            "message": "Poista %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Poista sarake"
+        },
+        "Delete Column" : {
+            
+            "message": "Poista sarake"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Poistetaanko sarake %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Poista datamerkintä"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Poista datasarja"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Poista matkittava kuvaaja"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Poista ennuste"
+        },
+        "Delete Video" : {
+            
+            "message": "Poista video"
+        },
+        "Delta" : {
+            
+            "message": "Muutos"
+        },
+        "Device Error" : {
+            
+            "message": "Laitevirhe"
+        },
+        "Device Information" : {
+            
+            "message": "Laitteen tiedot"
+        },
+        "Device information" : {
+            
+            "message": "Laitteen tiedot"
+        },
+        "Devices" : {
+            
+            "message": "Laitteet"
+        },
+        "Diameter" : {
+            
+            "message": "Halkaisija"
+        },
+        "Diamond" : {
+            
+            "message": "Timantti"
+        },
+        "Dimension" : {
+            
+            "message": "Mitat"
+        },
+        "Disabled" : {
+            
+            "message": "Käyttö estetty"
+        },
+        "Disconnect" : {
+            
+            "message": "Poista käytöstä"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "Katkaise yhteys ja jatka keräämistä"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "Irrota nyt USB-kaapeli."
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "Katkaise yhteys tyhjentämättä tietoja"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Löydetyt laitteet"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Löydetyt Wireless -laitteet"
+        },
+        "Display Meters" : {
+            
+            "message": "Näytä mittarit"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Näytettävät sarakkeet"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Näytettävät datasarjat"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Näytettävä tarkkuus"
+        },
+        "Distance" : {
+            
+            "message": "Matka"
+        },
+        "Distance between gates" : {
+            
+            "message": "Porttien välimatka"
+        },
+        "Distribute App" : {
+            
+            "message": "Jaa sovellus"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "Jaa Vernier Graphical Analysis"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Haluatko pysyvästi poistaa tämän datamerkinnän?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Haluatko tallentaa muutokset tiedostoon %s? Muutokset menetetään, jos niitä ei tallenneta."
+        },
+        "Don't Save" : {
+            
+            "message": "Älä tallenna"
+        },
+        "Done" : {
+            
+            "message": "Valmis"
+        },
+        "done" : {
+            
+            "message": "valmis"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Lataaminen valmis. Päivitykset asennetaan, kun käynnistät sovelluksen seuraavan kerran"
+        },
+        "Download Experiment" : {
+            
+            "message": "Lataa mittaussarja"
+        },
+        "Download Update" : {
+            
+            "message": "Lataa päivitys"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Piirrä ennuste"
+        },
+        "Drop Counting" : {
+            
+            "message": "Pisaralaskuri"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Mittauksia pudotettu. Käynnistä uusi mittaus ja käytä pienempää mittaustaajuutta."
+        },
+        "Drops" : {
+            
+            "message": "Pisaraa"
+        },
+        "Drops/mL" : {
+            
+            "message": "Pisaraa/ml"
+        },
+        "duration" : {
+            
+            "message": "kesto"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "e.g. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "esim., 007 tai TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Muokkaa kuvaajan ominaisuuksia"
+        },
+        "Edit mode" : {
+            
+            "message": "Muokkaustila"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Salli Bluetoothin yhdistää langattomiin antureihin."
+        },
+        "Enable Replay" : {
+            
+            "message": "Salli toisto"
+        },
+        "Enabled" : {
+            
+            "message": "Sallittu"
+        },
+        "End Collection" : {
+            
+            "message": "Lopeta mittaus"
+        },
+        "End data collection" : {
+            
+            "message": "Pysäytä mittaus"
+        },
+        "End User License Agreement" : {
+            
+            "message": "Loppukäyttäjän lisenssisopimus"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Lopeta datan jakaminen koskettamalla"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Syötä kommentti"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Syötä dataa näppäimistöltä tai kopioimalla ja liittämällä"
+        },
+        "Enter first known value" : {
+            
+            "message": "Syötä ensimmäinen tunnettu arvo"
+        },
+        "Enter second known value" : {
+            
+            "message": "Syötä toinen tunnettu arvo"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Anna titrantin tarkka tilavuus"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Anna lähteen ID:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "Siirrytään diskreettiin tilaan"
+        },
+        "Equation" : {
+            
+            "message": "Yhtälö"
+        },
+        "Error" : {
+            
+            "message": "Virhe"
+        },
+        "Error Bar Info" : {
+            
+            "message": "Virhepalkin tiedot"
+        },
+        "Error Bars" : {
+            
+            "message": "Virhepalkit"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Virhe: Leikepöytä estetty."
+        },
+        "Event" : {
+            
+            "message": "Tapahtuma"
+        },
+        "Event Based" : {
+            
+            "message": "Tapahtumapohjainen"
+        },
+        "Event Mode" : {
+            
+            "message": "Tapahtumamoodi"
+        },
+        "Event Name" : {
+            
+            "message": "Tapahtuman nimi"
+        },
+        "Events with Entry" : {
+            
+            "message": "Mittaus ja käsinsyöttö"
+        },
+        "Events With Entry" : {
+            
+            "message": "Mittaus ja syöttö"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Esim. 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Esimerkiksi: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Lauseke 1"
+        },
+        "Expand" : {
+            
+            "message": "Laajenna"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Laajenna Host ID"
+        },
+        "Experiment Name" : {
+            
+            "message": "Mittauksen nimi"
+        },
+        "Experimental Features" : {
+            
+            "message": "Tutkimuksen ominaisuuksia"
+        },
+        "Exponent" : {
+            
+            "message": "Eksponentti"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "2-kantainen eksponentti"
+        },
+        "Export" : {
+            
+            "message": "Vie"
+        },
+        "Export CSV" : {
+            
+            "message": "Vie CSV"
+        },
+        "Expression" : {
+            
+            "message": "Lauseke"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Tehdaskalibroinnin päiväys"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Puhaltimen teho"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT:n vaihtoehdot"
+        },
+        "File Menu" : {
+            
+            "message": "Tiedostovalikko"
+        },
+        "File saved" : {
+            
+            "message": "Tiedosto tallennettu"
+        },
+        "Filename" : {
+            
+            "message": "Tiedoston nimi"
+        },
+        "Filter Device List" : {
+            
+            "message": "Suodata laiteluetteloa"
+        },
+        "Firmware" : {
+            
+            "message": "Laiteohjelmisto"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Laitteisto-ohjelmiston tietoja"
+        },
+        "First Derivative" : {
+            
+            "message": "Ensimmäinen derivaatta"
+        },
+        "Fit Expression" : {
+            
+            "message": "Sovitteen lauseke"
+        },
+        "Fit Name" : {
+            
+            "message": "Sovitteen nimi"
+        },
+        "Fit Options" : {
+            
+            "message": "Sovitusvaihtoehdot"
+        },
+        "Fixed Value" : {
+            
+            "message": "Kiinteä arvo"
+        },
+        "Flag Width" : {
+            
+            "message": "Lipun leveys"
+        },
+        "Flags" : {
+            
+            "message": "Lippua"
+        },
+        "Floor" : {
+            
+            "message": "Lattia"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Vernierin objektien mitat ja lippujen määrä näytetään valituille objekteille. Tikapuuteipille tulee antaa viivojen lukumäärä."
+        },
+        "Frequency" : {
+            
+            "message": "Taajuus"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Osoitteesta Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Funktio"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Funktioiden ja muuttujien tulee olla pienillä kirjaimilla."
+        },
+        "Gate Separation" : {
+            
+            "message": "Porttien välimatka"
+        },
+        "Gate State" : {
+            
+            "message": "Portin tila"
+        },
+        "Gate timing" : {
+            
+            "message": "Ajan mittaus portilla"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX Anturiluettelo"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Anna tämä ID -tunnus muille, jotta he voivat liittyä tapahtumaan"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Direct anturit"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Siirry videon alkuun"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Go! Link" : {
+            
+            "message": "Go! Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Graph" : {
+            
+            "message": "Kuvaaja"
+        },
+        "Graph %s" : {
+            
+            "message": "Kuvaaja %s"
+        },
+        "Graph 1" : {
+            
+            "message": "Kuvaaja 1"
+        },
+        "Graph 2" : {
+            
+            "message": "Kuvaaja 2"
+        },
+        "Graph 3" : {
+            
+            "message": "Kuvaaja 3"
+        },
+        "Graph Display" : {
+            
+            "message": "Kuvaajan näyttäminen"
+        },
+        "Graph Inset" : {
+            
+            "message": "Kuvaajan upotus"
+        },
+        "Graph Legend" : {
+            
+            "message": "Kuvaajan selite"
+        },
+        "Graph Match" : {
+            
+            "message": "Kuvaajan matkiminen"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Matki kuvaajaa asetukset"
+        },
+        "Graph Options" : {
+            
+            "message": "Kuvaajan ominaisuudet"
+        },
+        "Graph Shape" : {
+            
+            "message": "Kuvaajan muoto"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Graphical Analysis Pro tietoja"
+        },
+        "Graphs" : {
+            
+            "message": "Kuvaajat"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "Otsake 1"
+        },
+        "Heading 2" : {
+            
+            "message": "Otsake 2"
+        },
+        "Heading 3" : {
+            
+            "message": "Otsake 3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "Apua laitteen yhdistämiseen"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "Apua laitteen yhdistämiseen"
+        },
+        "Hide" : {
+            
+            "message": "Piilota"
+        },
+        "Hide Details" : {
+            
+            "message": "Piilota lisätiedot"
+        },
+        "High-pass Filter" : {
+            
+            "message": "Ylipäästösuodatin"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Korkearesoluutiotila"
+        },
+        "Histogram" : {
+            
+            "message": "Histogrammi"
+        },
+        "Histogram options" : {
+            
+            "message": "Histogrammin määritykset"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Vaakasuuntainen jako"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Aloita datan jakaminen"
+        },
+        "How To Distribute" : {
+            
+            "message": "Miten jaetaan"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Hyperbolinen kosini"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Hyperbolinen sini"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Hyperbolinen tangentti"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Hypotenuusa"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Tunnista"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "Jos tarvitaan lisää laitteita, toista prosessi."
+        },
+        "Ignore" : {
+            
+            "message": "Ohita"
+        },
+        "Import Video" : {
+            
+            "message": "Tuo video"
+        },
+        "increase" : {
+            
+            "message": "lisäys"
+        },
+        "increasing" : {
+            
+            "message": "ylittää"
+        },
+        "Insert Expression" : {
+            
+            "message": "Syötä lauseke"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Aseta anturi pulloon siten, että sen pää ei osu veteen tai sieneen."
+        },
+        "Integral" : {
+            
+            "message": "Integraali"
+        },
+        "Intercept" : {
+            
+            "message": "Leikkauspiste"
+        },
+        "Interpolate" : {
+            
+            "message": "Interpoloi"
+        },
+        "Interval" : {
+            
+            "message": "Aikaväli"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Virheellinen yhtälö"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Virheellinen lauseke"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Käänteinen kosini"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Käänteinen hyperbolinen kosini"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Käänteinen hyperbolinen sini"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Käänteinen hyperbolinen tangentti"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Käänteinen sini"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Käänteinen tangentti"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Käänteinen tangentti 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "Käännetty suorakulmio ääriviivalla"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "Käännetty kolmio ääriviivalla"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "Käännetty suorakulmio"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "Käännetty kolmio"
+        },
+        "is" : {
+            
+            "message": "arvo"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "ei ole toistaiseksi tuettu. Kokeile toista."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "On suositeltavaa suorittaa kalibrointi, kun anturin pää on vaihdettu."
+        },
+        "Italic" : {
+            
+            "message": "kursiivi"
+        },
+        "Join New Experiment" : {
+            
+            "message": "Liity uuteen mittaustapahtumaan"
+        },
+        "Keep" : {
+            
+            "message": "Ota talteen"
+        },
+        "Keep Point" : {
+            
+            "message": "Ota piste"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Pidä anturi pystysuorassa vähintään 60 sekunnin ajan ja paina sitten \"Kaibroin nyt.\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Tunnettujen arvojen tulee olla eri suuret."
+        },
+        "LabQuest" : {
+            
+            "message": "LabQuest"
+        },
+        "LabQuest Devices" : {
+            
+            "message": "LabQuest Laitteet"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Suuri"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Viimeksi kalibroitu"
+        },
+        "Launch Speed" : {
+            
+            "message": "Lähtönopeus"
+        },
+        "Left" : {
+            
+            "message": "Vasen"
+        },
+        "Left Axis" : {
+            
+            "message": "Vasen akseli"
+        },
+        "Left manual fit handle" : {
+            
+            "message": "Vasen sovitteen tarttumispiste"
+        },
+        "Left y-axis range" : {
+            
+            "message": "Vasemman y-akselin alue"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Vanha tiedostyyppi"
+        },
+        "License Key" : {
+            
+            "message": "Lisenssiavain"
+        },
+        "License Key is expired." : {
+            
+            "message": "Lisenssiavain on vanhentunut."
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "Lisenssiavain ei ole voimassa tällä kanavalla."
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "Lisenssiavain ei ole voimassa tälle tuotteelle."
+        },
+        "License Key is required." : {
+            
+            "message": "Lisenssiavain vaaditaan."
+        },
+        "License Key is suspended." : {
+            
+            "message": "Lisenssiavain on jäädytetty."
+        },
+        "License Key not recognized." : {
+            
+            "message": "Lisenssiavainta ei tunnistettu."
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "Lisenssiavaimen vahvistaminen vaatii internetyhteyden."
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "Lisenssiavaimen vahvistamispalvelimeen ei saada yhteyttä."
+        },
+        "Licensed To" : {
+            
+            "message": "Lisenssinomistaja"
+        },
+        "Licensed to" : {
+            
+            "message": "Lisenssin haltija"
+        },
+        "Line Shade" : {
+            
+            "message": "Viivan varjo"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineaarinen liike"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "Tietoja lineaarisesta liikkeestä"
+        },
+        "Lines" : {
+            
+            "message": "Viivat"
+        },
+        "Link" : {
+            
+            "message": "Linkki"
+        },
+        "Link Copied" : {
+            
+            "message": "Linkki kopioitu"
+        },
+        "list item" : {
+            
+            "message": "lista osio"
+        },
+        "Load Experiment" : {
+            
+            "message": "Lataa mittaus"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "Paikallnen kopiointi ei ole ajan tasalla. Päivitetään..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "2-kant Log"
+        },
+        "Log Base b" : {
+            
+            "message": "b-kant Log"
+        },
+        "Logged Data on Device" : {
+            
+            "message": "Laitteeseen tallennetut tiedot"
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Alipäästösuodatin"
+        },
+        "Main Content" : {
+            
+            "message": "Pääsisältö"
+        },
+        "Manual" : {
+            
+            "message": "Manuaalinen"
+        },
+        "Manual %s" : {
+            
+            "message": "Manuaalinen %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Manuaalinen syöttö"
+        },
+        "Manual Fit" : {
+            
+            "message": "Manuaalinen sovitus"
+        },
+        "Manual Scaling" : {
+            
+            "message": "Manuaalinen skaalaus"
+        },
+        "Manually" : {
+            
+            "message": "Manuaalisesti"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Valmistuspäivä"
+        },
+        "Mark" : {
+            
+            "message": "Merkki"
+        },
+        "Max" : {
+            
+            "message": "Maks."
+        },
+        "Maximize Application" : {
+            
+            "message": "Laajenna sovellus"
+        },
+        "Mean" : {
+            
+            "message": "Keskiarvo"
+        },
+        "Measurement" : {
+            
+            "message": "Mittaus"
+        },
+        "Medium" : {
+            
+            "message": "Keskikokoinen"
+        },
+        "Meter Actions" : {
+            
+            "message": "Mittarin toiminnot"
+        },
+        "Meter All Columns" : {
+            
+            "message": "Mittari kaikille sarakkeille"
+        },
+        "Meter Size" : {
+            
+            "message": "Mittarin koko"
+        },
+        "Meter View Options" : {
+            
+            "message": "Mittarin ulkoasu"
+        },
+        "Metered" : {
+            
+            "message": "Mittaroitu"
+        },
+        "metering on all columns" : {
+            
+            "message": "mittari kaikissa sarakkeissa"
+        },
+        "Meters" : {
+            
+            "message": "Mittarit"
+        },
+        "min" : {
+            
+            "message": "min"
+        },
+        "Min" : {
+            
+            "message": "Min."
+        },
+        "Minimize Application" : {
+            
+            "message": "Pienennä sovellus"
+        },
+        "Mode" : {
+            
+            "message": "Tila"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "Tila vaihtui manuaaliseen syöttöön."
+        },
+        "Modulo" : {
+            
+            "message": "Modulo"
+        },
+        "Move Down" : {
+            
+            "message": "Siirry alaspäin"
+        },
+        "Move Up" : {
+            
+            "message": "Siirry ylöspäin"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Useat, vakiokokoiset merkit kappaleessa, toimivat apuna paikan mittaamiseen, kun kappale ohittaa valoportin. Ensimmäinen ohitus määrittää paikan nollakohdan. Tätä seuraavat tapahtumat lisäävät paikan arvoa annetun välin verran. Nopeus ja kiihtyvyys lasketaan paikan 1. ja 2. aikaderivaatan avulla."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Useat, vakiovälein olevat rattaan puolat toimivat rattaan kiertokulman määrityksen apuna. Ensimmäinen puolan ohitus määrittää nollakulman. Seuraavat valoportin ohitukset kasvattavat kulmaa 2π/n radiaania, missä n on puolien lukumäärä. Kulmanopeus ja -kiihtyvyys lasketaan 1. ja 2. derivaatan avulla."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Kertolaskun voi kirjoittaa myös ilman kertomerkkiä."
+        },
+        "Mute Audio" : {
+            
+            "message": "Mykistä äänet"
+        },
+        "My-File-Name" : {
+            
+            "message": "Tiedostoni-nimi"
+        },
+        "Name" : {
+            
+            "message": "Nimi"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Nimi ei voi sisältää enempää kuin %s merkkiä"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Luonnollinen eksponentti"
+        },
+        "Natural Log" : {
+            
+            "message": "Luonn. log"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Luonnol. Log 1+X"
+        },
+        "Never" : {
+            
+            "message": "Ei koskaan"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Uusia kalibrointeja käytetään kunnes aloitat uuden tutkimuksen tai aukaiset uuden tiedoston."
+        },
+        "New Experiment" : {
+            
+            "message": "Uusi mittaus"
+        },
+        "Next After" : {
+            
+            "message": "Seuraava"
+        },
+        "No Columns" : {
+            
+            "message": "Ei sarakkeita"
+        },
+        "No Device Connected" : {
+            
+            "message": "Ei laitetta kytkettynä"
+        },
+        "No device connected." : {
+            
+            "message": "Ei laitetta liitettynä."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Ei laitteita liitettynä"
+        },
+        "No expiration date" : {
+            
+            "message": "Ei päättymispäivää"
+        },
+        "No sensor connected" : {
+            
+            "message": "Ei antureita kytkettynä"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "Ei liitettyjä antureita"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Ei lähdettä havaittuna. Varmista, että lähettävässä tietokoneessa on Datan jakaminen otettu käyttöön ja, että molemmat laitteet ovat samassa verkossa. Jos ongelma ei korjaannu, valitse Määritä kohde ja liity manuaalisesti dataa jakavaan kohteeseen."
+        },
+        "Normal" : {
+            
+            "message": "Normaali"
+        },
+        "not" : {
+            
+            "message": "not"
+        },
+        "Not Capable" : {
+            
+            "message": "Ei mahdollinen"
+        },
+        "Note" : {
+            
+            "message": "Merkintä"
+        },
+        "Notes" : {
+            
+            "message": "Huomiot"
+        },
+        "Number list" : {
+            
+            "message": "Numeroitu lista"
+        },
+        "Number of flags" : {
+            
+            "message": "Lippujen lukumäärä"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "Derivoinnissa käytettävien pisteiden lukumäärä:"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "Tasoituslaskelmissa käytettävien pisteiden lukumäärä:"
+        },
+        "Number of spokes" : {
+            
+            "message": "Puolien lukumäärä"
+        },
+        "Numeric" : {
+            
+            "message": "Numeerinen"
+        },
+        "Object" : {
+            
+            "message": "Objekti"
+        },
+        "Object Width" : {
+            
+            "message": "Objektin leveys"
+        },
+        "Offline" : {
+            
+            "message": "Ei yhteyttä"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "Ok" : {
+            
+            "message": "Ok"
+        },
+        "On a triggering event" : {
+            
+            "message": "Liipaisutapahtumassa"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "LabQuestista, kosketa Wi-Fi symbolia"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "LoggerPro:sta Tiedosto - Datan jakaminen (Data Sharing)"
+        },
+        "One-point calibration" : {
+            
+            "message": "Yhden pisteen kalibrointi"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Online Datan jakaminen"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Salli puhallus vain mittauksen ollessa käynnissä"
+        },
+        "Open failed" : {
+            
+            "message": "Avaaminen epäonnistui"
+        },
+        "Open Saved File" : {
+            
+            "message": "Avaa tallennettu tiedosto"
+        },
+        "Open Update Information" : {
+            
+            "message": "Avaa päivitystiedot"
+        },
+        "Open..." : {
+            
+            "message": "Avaa..."
+        },
+        "or" : {
+            
+            "message": "or"
+        },
+        "Order Code" : {
+            
+            "message": "Tilauskoodi"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Muu / Käyttäjän määrittämä"
+        },
+        "Other Options" : {
+            
+            "message": "Lisävaihtoehdot"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Muu/Käyttäjän määrittämä: Anna lippujen leveys ja lukumäärä, kuten ylhäällä näytetään. Jos kappaleesi on ratas, väli on rattaan piirin pituus jaettuna puolien lukumäärällä."
+        },
+        "Outlined Circle" : {
+            
+            "message": "Ympyrä reunalla"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "Timantti reunalla"
+        },
+        "Outlined Plus" : {
+            
+            "message": "Plus reunalla"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "Suorakulmio reunalla"
+        },
+        "Outlined Square" : {
+            
+            "message": "Neliö reunalla"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "Kolmijo reunalla"
+        },
+        "Paragraph" : {
+            
+            "message": "Kappale"
+        },
+        "Parameter %s" : {
+            
+            "message": "Parametri %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Parametreja ei voi toistaa samassa lausekkeessa."
+        },
+        "Paste" : {
+            
+            "message": "Liitä"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Liitä -toiminto ei ole käytössä Muokkaa -valikossa. Käytä CTRL-V tai CMD-V liittääksesi."
+        },
+        "Pause replay" : {
+            
+            "message": "Pysäytä toisto"
+        },
+        "Pause Video" : {
+            
+            "message": "Keskeytä video"
+        },
+        "Peak Frequency" : {
+            
+            "message": "Korkeimman piikin taajuus"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Heilurin jakso"
+        },
+        "Percentage" : {
+            
+            "message": "Prosenttia"
+        },
+        "Perform a" : {
+            
+            "message": "Suorita"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Valoportti -aikamittaus"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Valoporteilla voidaan määrittää objektien ohitusaikoja tai heilahtelevan heilurin jaksonaikoja. Valoportin sulkeutumisien välinen aika ilmoitetaan intervallin kestona. Kun käytetään kahta porttia, molempien porttien tulee sulkeutua ennen kuin mittaustulos esitetään."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Kuva kuvassa"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Aseta Go Direct anturi lähelle tietokonetta, puhelinta tai tablettia"
+        },
+        "Play replay" : {
+            
+            "message": "Toista"
+        },
+        "Play Video" : {
+            
+            "message": "Toista video"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "Toistonopeuden kerroin"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Anna kohteen IP -osoite:"
+        },
+        "Plot" : {
+            
+            "message": "Kuvaaja"
+        },
+        "Plot Manager" : {
+            
+            "message": "Kuvaajan hallinta"
+        },
+        "Plus" : {
+            
+            "message": "Plus"
+        },
+        "point" : {
+            
+            "message": "piste"
+        },
+        "Point Colors" : {
+            
+            "message": "Pisteiden värit"
+        },
+        "Point Symbols" : {
+            
+            "message": "Pisteiden symbolit"
+        },
+        "points" : {
+            
+            "message": "pisteet"
+        },
+        "Points" : {
+            
+            "message": "Pisteet"
+        },
+        "points before trigger" : {
+            
+            "message": "pistettä ennen liipaisua"
+        },
+        "Power" : {
+            
+            "message": "Potenssi"
+        },
+        "Prediction" : {
+            
+            "message": "Ennuste"
+        },
+        "Prediction Name" : {
+            
+            "message": "Ennusteen nimi"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Ennusteen nimellä on %s merkin raja."
+        },
+        "Prediction Options" : {
+            
+            "message": "Ennusteiden asetukset"
+        },
+        "Prediction Title" : {
+            
+            "message": "Ennusteen otsikko"
+        },
+        "Predictions" : {
+            
+            "message": "Ennusteet"
+        },
+        "Preview mode" : {
+            
+            "message": "Esikatselutila"
+        },
+        "Primary:" : {
+            
+            "message": "Ensisijainen:"
+        },
+        "Privacy Notice" : {
+            
+            "message": "Tietosuojailmoitus"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": "Pro -version vanhenemisvaroitus"
+        },
+        "Projectile Info" : {
+            
+            "message": "Heittoliike info"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Heittoliikelaitteen laukaisin"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Anna tämä ID -tunnus muille, jotta he voivat liittyä laitteeseesi"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Lähellä olevan laitteen yhdistäminen"
+        },
+        "Pulse timing" : {
+            
+            "message": "Pulssin ajoitus"
+        },
+        "Quote" : {
+            
+            "message": "Lainaus"
+        },
+        "radians" : {
+            
+            "message": "radiaania"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radiaani (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Nopeus"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Yli 200 pist/s mittaustaajuus vaatii mittauksen keston asettamisen."
+        },
+        "Reconnect" : {
+            
+            "message": "Kytke uudelleen"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": "Kytke anturi uudelleen saadaksesi tallennetut tiedot."
+        },
+        "Rectangle" : {
+            
+            "message": "Suorakulmio"
+        },
+        "Regular" : {
+            
+            "message": "Tavallinen"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Suhteellisen stabilisuuden arvo"
+        },
+        "Remainder" : {
+            
+            "message": "Jäännös"
+        },
+        "Remote Logging" : {
+            
+            "message": "Etämittaus"
+        },
+        "Remote Logging in Process" : {
+            
+            "message": "Etämittaus käynnissä"
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": "Etämittaus on mahdollista vain yhdellä anturilla kerrallaan."
+        },
+        "Remote Logging Started" : {
+            
+            "message": "Etämittaus käynnistyi"
+        },
+        "Remote Logging Status" : {
+            
+            "message": "Etämittauksen tila"
+        },
+        "Remove" : {
+            
+            "message": "Poista"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Poista lineaarinen trendi"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Poista virtuaalinen anturi"
+        },
+        "Rename" : {
+            
+            "message": "Nimeä uudelleen"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Uudelleennimeä Datasarja"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Uudelleennimeä ennuste"
+        },
+        "Replay" : {
+            
+            "message": "Toista"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Videon toiston synkronoinnin info"
+        },
+        "Reported Reading" : {
+            
+            "message": "Raportoitu lukema"
+        },
+        "Reset" : {
+            
+            "message": "Palauta"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Aseta nollataso mittauksen aloituksessa"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Palauta oletukset"
+        },
+        "Restart app" : {
+            
+            "message": "Uudelleenkäynnistä sovellus"
+        },
+        "Restart Replay" : {
+            
+            "message": "Toista uudelleen"
+        },
+        "Restore All" : {
+            
+            "message": "Palauta kaikki"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": "Hae ja tyhjennä"
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": "Hae ja tyhjennä anturi"
+        },
+        "Retry Calibration" : {
+            
+            "message": "Uusi kalibrointiyritys"
+        },
+        "Reverse" : {
+            
+            "message": "Käännä suunta"
+        },
+        "revolution" : {
+            
+            "message": "kierros"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Kierrosta (rev)"
+        },
+        "Right" : {
+            
+            "message": "Oikea"
+        },
+        "Right Axis" : {
+            
+            "message": "Oikea akseli"
+        },
+        "Right manual fit handle" : {
+            
+            "message": "Oikea sovituksen tartunta"
+        },
+        "Right y-axis" : {
+            
+            "message": "Oikea y-akseli"
+        },
+        "Right y-axis range" : {
+            
+            "message": "Oikeanpuoleisen y-akselin alue"
+        },
+        "RMS" : {
+            
+            "message": "RMS"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": "Pyöristys"
+        },
+        "Row Number" : {
+            
+            "message": "Rivin nro"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "mittauspiste"
+        },
+        "Sample Data" : {
+            
+            "message": "Valmista mittausdataa"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Esimerkkitutkimuksia"
+        },
+        "samples" : {
+            
+            "message": "mittauspistettä"
+        },
+        "Samples" : {
+            
+            "message": "Näytteitä"
+        },
+        "samples per second" : {
+            
+            "message": "pistettä sekunnissa"
+        },
+        "samples scheduled" : {
+            
+            "message": "pisteitä yhteensä"
+        },
+        "Save" : {
+            
+            "message": "Tallenna"
+        },
+        "Save AMBL" : {
+            
+            "message": "Tallenna AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Tallenna ja sulje sovellus"
+        },
+        "Save As..." : {
+            
+            "message": "Tallenna nimellä..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Tallenna muutokset?"
+        },
+        "Save CSV" : {
+            
+            "message": "Tallenna CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Tallenna koesarja"
+        },
+        "Save failed" : {
+            
+            "message": "Tallennus epäonnistui"
+        },
+        "Save PDF" : {
+            
+            "message": "Tallenna PDF"
+        },
+        "Save Pending" : {
+            
+            "message": "Tallennus meneillään"
+        },
+        "Save PNG" : {
+            
+            "message": "Tallenna PNG"
+        },
+        "Saved" : {
+            
+            "message": "Tallennettu"
+        },
+        "Saving" : {
+            
+            "message": "Tallennetaan"
+        },
+        "Scale Factor" : {
+            
+            "message": "Skaalauskerroin"
+        },
+        "Scaling" : {
+            
+            "message": "Skaalaus"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Etsitään laitteita..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Toisen kalibrointipisteen anturin antaman jännitteen arvon on poikettava vähintään 0.05 V ensimmäisestä."
+        },
+        "Second Derivative" : {
+            
+            "message": "Toinen derivaatta"
+        },
+        "Secondary:" : {
+            
+            "message": "Toissijainen:"
+        },
+        "seconds" : {
+            
+            "message": "sekuntia"
+        },
+        "See Experiments" : {
+            
+            "message": "Katso tutkimuksia"
+        },
+        "See sample experiments" : {
+            
+            "message": "Katso esimerkkitutkimuksia"
+        },
+        "Select Data Set" : {
+            
+            "message": "Valitse datasarja"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Valitse haluamasi yksikkö kiertokulmalle."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "Valitse laite, jonka haluaisit kytkeä."
+        },
+        "select/deselect meter" : {
+            
+            "message": "valitse/poista mittari"
+        },
+        "Selected Events" : {
+            
+            "message": "Valitut pisteet"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Anturin toiminnot"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Anturien kanavat"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Mittaa antureilla"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Anturin asetukset"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Anturin jännite"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Anturi nollattu"
+        },
+        "Sensors" : {
+            
+            "message": "Anturit"
+        },
+        "Session 1 Name" : {
+            
+            "message": "Session 1 nimi"
+        },
+        "Session 2 Name" : {
+            
+            "message": "Session 2 nimi"
+        },
+        "Session 3 Name" : {
+            
+            "message": "Session 3 nimi"
+        },
+        "Session 4 Name" : {
+            
+            "message": "Session 4 nimi"
+        },
+        "Session ended by Host" : {
+            
+            "message": "Järjestäjä katkaissut yhteyden"
+        },
+        "Session Preferences" : {
+            
+            "message": "Laskennan asetukset"
+        },
+        "Settings saved" : {
+            
+            "message": "Asetukset tallennettu"
+        },
+        "Share AMBL" : {
+            
+            "message": "Jaa AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Jaa mittaus muille verkkoyhteyden avulla"
+        },
+        "Share CSV" : {
+            
+            "message": "Jaa CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Jaa kuva"
+        },
+        "Share PDF" : {
+            
+            "message": "Jaa PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Näytä kaikki julkaisut"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": "Näytä datan merkintäohjeet"
+        },
+        "Show Details" : {
+            
+            "message": "Näytä tiedot"
+        },
+        "Show Error Bars" : {
+            
+            "message": "Näytä virhepalkit"
+        },
+        "Show FFT" : {
+            
+            "message": "Näytä FFT"
+        },
+        "Show Histogram" : {
+            
+            "message": "Näytä Histogrammi"
+        },
+        "Show Less" : {
+            
+            "message": "Näytä vähemmän"
+        },
+        "Show Menu" : {
+            
+            "message": "Näytä valikko"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Näytä ohituksen keskivaiheen aika"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Näytä alkuperäinen kuvaaja"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": "Näytä etämittauksen ohjeet"
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": "Näytä sovitusparametrien epätarkkuus"
+        },
+        "Significant Figures" : {
+            
+            "message": "Merkitsevät numerot"
+        },
+        "Sine" : {
+            
+            "message": "Sini"
+        },
+        "Slope" : {
+            
+            "message": "Kulmakerroin"
+        },
+        "Small" : {
+            
+            "message": "Pieni"
+        },
+        "Spacing" : {
+            
+            "message": "Väli"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Välimatka = piiri / pinnojen lukumäärä"
+        },
+        "Specify source" : {
+            
+            "message": "Valitse kohde"
+        },
+        "Spectrum" : {
+            
+            "message": "Spektri"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Nopeus portin läpi"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "Nopeus portin läpi info"
+        },
+        "Spokes:" : {
+            
+            "message": "Pinnoja:"
+        },
+        "Square" : {
+            
+            "message": "Neliö"
+        },
+        "Square Root" : {
+            
+            "message": "Neliöjuuri"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Aloita Datan jakamistapahtuma"
+        },
+        "Start a New Session" : {
+            
+            "message": "Aloita uusi mittaustapahtuma"
+        },
+        "Start Collection" : {
+            
+            "message": "Aloita mittaus"
+        },
+        "Start collection when" : {
+            
+            "message": "Aloita mittaus, kun"
+        },
+        "Start Logging" : {
+            
+            "message": "Aloita mittaus"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Aloita uusi mittaussarja?"
+        },
+        "Start Session" : {
+            
+            "message": "Aloita tapahtuma"
+        },
+        "Statistics" : {
+            
+            "message": "Tilastotiedot"
+        },
+        "Std dev" : {
+            
+            "message": "Keskihaj."
+        },
+        "Step Backward" : {
+            
+            "message": "Askel taaksepäin"
+        },
+        "Step Forward" : {
+            
+            "message": "Askel eteenpäin"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "Videon siirto taaksepäin"
+        },
+        "Step Video Forward" : {
+            
+            "message": "Viden siirto eteenpäin"
+        },
+        "Stop" : {
+            
+            "message": "Lopeta"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Lopeta pisaroiden tiputtaminen, kun tilavuus on 9 ml ja 10 ml välillä."
+        },
+        "Stop Collection" : {
+            
+            "message": "Lopeta mittaus"
+        },
+        "Stop Sharing" : {
+            
+            "message": "Lopeta jakaminen"
+        },
+        "Strikethrough" : {
+            
+            "message": "Yliviivaus"
+        },
+        "Subject" : {
+            
+            "message": "Aihe"
+        },
+        "Submit" : {
+            
+            "message": "Lähetä"
+        },
+        "Subscript" : {
+            
+            "message": "Alaindeksi"
+        },
+        "Subscription Ends" : {
+            
+            "message": "Tilaus päättyy"
+        },
+        "Subscription ends" : {
+            
+            "message": "Tilaus päättyy"
+        },
+        "Superscript" : {
+            
+            "message": "Yläindeksi"
+        },
+        "Supported Functions" : {
+            
+            "message": "Tuetut funktiot"
+        },
+        "Symbol" : {
+            
+            "message": "Symboli"
+        },
+        "Sync data with video" : {
+            
+            "message": "Synkronoi data videon kanssa"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Synkronoi video dataan"
+        },
+        "Syntax" : {
+            
+            "message": "Syntaksi"
+        },
+        "Table" : {
+            
+            "message": "Taulukko"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Ota talteen anturin lukema (Esim. pH tai johtokyky) joka pisaralta."
+        },
+        "Tangent" : {
+            
+            "message": "Tangentti"
+        },
+        "Target" : {
+            
+            "message": "Kohde"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Bluetooth -yhteys on katkennut"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Sarakkeen nimi vaaditaan"
+        },
+        "the current file" : {
+            
+            "message": "nykyinen tiedosto"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Datasarja aloittaa toiston %s s ennen videota"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Lauseketta käytetään sovitteen nimenä, jos nimeä ei ole erikseen syötetty."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Lähtönopeus on keskinopeus, kun kappale ohittaa kaksi sisäänrakennettua valoporttia."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Lähtönopeus on keskinopeus, kun kappale ohittaa ensimmäisen sisään rakennetun valoportin."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Objektin/lipun leveys jaetaan ajalla, jonka valoportti on suljettuna (Portin sulkuajan kesto) ja näin saadaan objektin nopeus portin läpi."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": "Pyydettyä nopeutta ja kestoa ei voida käyttää. Maksimikeruunopeus on %.2f pistettä /%s ja kesto%d%s."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Kahden sulkuajan välinen aika ilmaistaan intervallin kestona."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "Lausekkeessa voi olla korkeintaan seitsemän parametria."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "Tähän anturiin on saatavana uusi laiteohjelmisto, joka poistaa virheelliset lukemat, kun anturi on alle 0 °C:n ympäristössä. Päivitysprosessia ei voi suorittaa Graphical Analysis -sovelluksesta käsin."
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Tälle anturille on uusi laiteohjain, mutta päivitystä ei voida siirtää tältä laitteelta. Päivitä anturi kytkemällä se USB:n kautta macOS, Windows, tai ChromeOS -laitteeseen ja käynnistä Graphical Analysis. Siirry liitettyjen laitteiden luetteloon ja valitse päivitys."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Tälle anturille on uusi laiteohjain. Päivitysprosessi vaatii, että anturi on kytketty USB:n kautta ja että Graphical Analysis on tilapäisesti suljettuna. Liitä anturi USB:n kautta, jos se on nyt kytketty langattomasti."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Asetusten tallentamisessa oli ongelmia"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Tämä sarake on luotu automaattisesti ja sitä ei voi muokata"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Tätä poistamista ei voi kumota."
+        },
+        "This feature requires a" : {
+            
+            "message": "Tämä toiminto vaatii"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Tämä ilmaisee pyörähdyksen murto-osan, jonka kulma muutuu kahden portin sulkeutumisen välillä."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Tämä Windowsin versio tukee vain USB:n kautta tapahtuvaa mittaamista Go Direct -antureilla."
+        },
+        "Time" : {
+            
+            "message": "Aika"
+        },
+        "Time Based" : {
+            
+            "message": "Ajan funktiona"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "Mittaus ajan funktiona - yksi kuvaaja"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "Mittaus ajan funktiona - kolme kuvaajaa"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "Mittaus ajan funktiona - kaksi kuvaajaa"
+        },
+        "Time between gates" : {
+            
+            "message": "Aika kahden portin välillä"
+        },
+        "Time Decay Filter" : {
+            
+            "message": "Time Decay -suodatin"
+        },
+        "Time measurements" : {
+            
+            "message": "Ajan mittaaminen"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Lentoajan määritys padi"
+        },
+        "Time Units" : {
+            
+            "message": "Ajan yksiköt"
+        },
+        "Timer" : {
+            
+            "message": "Ajastin"
+        },
+        "Timer Info" : {
+            
+            "message": "Ajastimen info"
+        },
+        "Timer or Period" : {
+            
+            "message": "Ajastin tai jakso"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Vinkki: Parhaan lopputuloksen saavuttamisksi varmista, että anturi on lähempänä kuin 2 m."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Vinkki: Lähikytkentä perustuu etäisyyden arviointiin. Jos se on epäluotettavaa ympäristössäsi, valtise kytkettävä anturi luettelosta."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Vinkki: Anturin valon tulee vilkkua punaisena, jotta se voidaan kytkeä."
+        },
+        "Title" : {
+            
+            "message": "Otsikko"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Luodaksesi oman %s, käytä tuettuja funktioita ja laskutoimituksia"
+        },
+        "To locate the address:" : {
+            
+            "message": "Löytääkseen osoitteen:"
+        },
+        "to make the key available for use." : {
+            
+            "message": "lisenssiavain voidaan ottaa käyttöön."
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Aloittaaksesi Datan jakamistapahtuma:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Vaihda Tumma tila"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Vaihda kirjas tila"
+        },
+        "Too few points" : {
+            
+            "message": "Liian vähän pisteitä"
+        },
+        "Toolbar" : {
+            
+            "message": "Työkalupalkki"
+        },
+        "Top" : {
+            
+            "message": "Yläraja"
+        },
+        "Total samples" : {
+            
+            "message": "Pisteitä yhteensä"
+        },
+        "Triangle" : {
+            
+            "message": "Kolmio"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Trigonometriset funktiot lasketaan radiaaneina paitsi silloin kun vaaka-akselilla olevalla sarakkeella on yksikkö"
+        },
+        "Truncate" : {
+            
+            "message": "Lyhennä"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Kahden pisteen kalibrointi"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Väkipyörä - urassa"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Väkipyörä - ulkoreuna"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Ei voida liittyä tai löytää tämän nimistä kohdetta."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Ei voida liittyä kohteeseen "
+        },
+        "Units" : {
+            
+            "message": "Yksiköt"
+        },
+        "Unknown" : {
+            
+            "message": "Tuntematon"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "Tuntematon lisenssiavainvirhe"
+        },
+        "Unmute Audio" : {
+            
+            "message": "Poista mykistys"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "Ei tuettu selain"
+        },
+        "Untitled" : {
+            
+            "message": "Nimetön"
+        },
+        "Update Available" : {
+            
+            "message": "Päivitys saatavilla"
+        },
+        "Update error" : {
+            
+            "message": "Päivitysvirhe"
+        },
+        "Update Firmware" : {
+            
+            "message": "Päivitä laitteisto-ohjelmisto"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Päivitystä ladataan..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Päivitä lisenssiavain"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "USB laite"
+        },
+        "Use Column Value" : {
+            
+            "message": "Käytä sarakkeen arvoa"
+        },
+        "Use gate separation" : {
+            
+            "message": "Käytä porttien erottelua"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Käytä objektin / lipun leveyttä"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Käytä ammuksen halkaisijaa"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Käytä tieteellistä esitysmuotoa"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "Käytä USB tai WIRELESS -painiketta haluamallasi tavalla."
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": "Käytä tätä aluetta muistiinpanojen tekemiseen tavallisella tekstillä tai markdown -muotoilulla. Jos haluat nähdä käytetyt muotoilut, siirry esikatselutilaan."
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Käytä tätä vaihtoehtoa tutkiessasi nopeutta suhteessa aikaan. Raportoitu aika on puolessa välissä sitä, kun portti on suljettu ja portti taas aukeaa."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Käytä lentoajan määritys -laitetta"
+        },
+        "Use Windowing" : {
+            
+            "message": "Käytä ikkunointia"
+        },
+        "User Manual" : {
+            
+            "message": "Käyttöohje"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Käytetään tehdaskalibrointia ajalta"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "Käytetään paikallisesti tallennettua versiota."
+        },
+        "Value must be between " : {
+            
+            "message": "Arvon tulee olla välillä "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "Graphical Analysis<sup>™</sup>on opiskelijoiden työkalu datan keräämiseen Vernier -antureilla, kuvaajan luomiseen ja datan analysoimiseen."
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "Vernier Graphical Analysis® Pro -käyttöoikeus päättyy ${this.daysRemaining} päivän päästä"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "Vernier Graphical Analysis® Pro -käyttöoikeus päättyy tänään"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernier tikapuukappale"
+        },
+        "Version" : {
+            
+            "message": "Versio"
+        },
+        "Vertical Divider" : {
+            
+            "message": "Pystysuora jako"
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Time" : {
+            
+            "message": "Videon aika"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Videon toisto alkaa %s s ennen datasarjan toistoa"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Videon toisto alkaa samanaikaisesti datasarjan toiston kanssa"
+        },
+        "View Experiment" : {
+            
+            "message": "Katso tutkimusta"
+        },
+        "View Integral" : {
+            
+            "message": "Integraali"
+        },
+        "View Options" : {
+            
+            "message": "Katso vaihtoehdot"
+        },
+        "View Statistics" : {
+            
+            "message": "Tilastotiedot"
+        },
+        "Voltage" : {
+            
+            "message": "Jännite"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Odotetaan %s , että %s ylittää %s %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "Olemme havainneet lisenssiavaimen olevan voimassa oleva, mutta loppukäyttäjän lisenssiehdot on hyväksyttävä ennen käyttöä. Hankinnan tehneen oppilaitoksen edustajan tulee "
+        },
+        "What's New" : {
+            
+            "message": "Mitä uutta"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Kun heiluri on valittuna, aika joka toisen ohituksen välillä ilmoitetaan jaksonaikana, sillä heiluri peittää portin kolmesti yhden edestakaisen heilahduksen aikana."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Kahta valoporttia käyttämällä voidaan käyttää porttien välimatkaa objektin leveyden sijaan, kun lasketaan nopeutta. Ilmoitettu nopeus on porttien välisen matkan nopeus."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Windows 10 vaaditaan langattomaan yhteyteen."
+        },
+        "Wireless" : {
+            
+            "message": "Langaton"
+        },
+        "Working..." : {
+            
+            "message": "Työskentelee..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x-akselin alue"
+        },
+        "x-range" : {
+            
+            "message": "x alue"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-akselin alue"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "Voit liittää laitteen joko langallisella USB-yhteydellä tai langattomasti."
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "Voit antaa pääsyn tähän sovellukseen muille koulussasi jakamalla tämän URL -osoitteen esim. s-postitise tai muuna viestinä."
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": "Sinun ei tarvitse odottaa tiedonkeruun päättymistä, jotta voit hakea tallennetut tiedot."
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": "Syötit ei-numeerista dataa. Haluatko vaihtaa sarakkeen datatyypin diskreetiksi?"
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "Olet yhdistänyt laitteen, jota ei tarvita tässä tutkimuksessa."
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "Olet syöttänyt aktivointikoodin etkä lisenssiavainta."
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "Selaimesi näyttää käytettävissä olevat laitteet. Valitse haluamasi laite ja napsauta liitä."
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Datan jakamisen järjestäjä aloittaa uuden mittauksen. Voit jatkaa nykyisen mittauksen kanssa tai liittyä uuteen mittaukseen."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Lisenssi sallii Vernier Graphical Analysis®:n jakamisen vain koulusi opiskelijoille, opettajille ja henkilökunnalle. Älä jaa lisenssiä koulusi ulkopuolelle."
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Lisenssisi sallii Vernier Video Analsysis -sovelluksen jakamisen vain oppilaitoksesi opiskelijoiden ja henkilöston kanssa. Ole hyvä ja älä jaa sitä oppilaitoksen ulkopuolelle."
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": "Anturi on irrotettu."
+        },
+        "Zero" : {
+            
+            "message": "Nollaus"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Zoomaa koko dataan"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Zoomaa valintaan"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[x-akseli]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[y-akseli]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier Science Education"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g kiihtyvyysanturi"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3-akselinen kiihtyvyysanturi (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3-akselinen kiihtyvyysanturi (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3-akselinen kiihtyvyysanturi (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "Jännite (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbanssi"
+        },
+        "Acceleration" : {
+            
+            "message": "Kiihtyvyys"
+        },
+        "Accelerometer" : {
+            
+            "message": "Kiihtyvyysanturi"
+        },
+        "Ammonium" : {
+            
+            "message": "Ammonium"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Ammonium ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "Analysaattori"
+        },
+        "Anemometer" : {
+            
+            "message": "Tuulennopeus"
+        },
+        "Angle" : {
+            
+            "message": "Kulma"
+        },
+        "Barometer" : {
+            
+            "message": "Barometri"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometri (Poistunut malli)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Kaasun paine biologia"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Verenpaine"
+        },
+        "Calcium" : {
+            
+            "message": "Kalsium"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Kalsium ISE"
+        },
+        "Charge" : {
+            
+            "message": "Lataus"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Varausanturi"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Varausanturi 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Varausanturi 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Varausanturi 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Kloridi"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Kloridi ISE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 kaasu (korkea)"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 kaasu (matala)"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 Kaasu, vanha"
+        },
+        "Colorimeter" : {
+            
+            "message": "Kolorimetri"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Kolorimetri, vanha"
+        },
+        "Concentration" : {
+            
+            "message": "Konsentraatio"
+        },
+        "Conductivity" : {
+            
+            "message": "Johtokyky"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Johtokyky 20000 MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Johtokyky 2000 MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Johtokyky 200 MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Vakiovirta -laitteisto"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Mansetin paine"
+        },
+        "Current" : {
+            
+            "message": "Virta"
+        },
+        "Current Probe" : {
+            
+            "message": "Virta-anturi"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Virta-anturi 1,2 A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastolinen"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Jännite (differentiaalinen)"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Digitaalinen ohjainyksikkö"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Lämpötila (direct-connect)"
+        },
+        "Displacement" : {
+            
+            "message": "Poikkeama"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Liuennut CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Liuennut happi"
+        },
+        "Distance" : {
+            
+            "message": "Matka"
+        },
+        "DO" : {
+            
+            "message": "DO"
+        },
+        "Drop Counter" : {
+            
+            "message": "Pisaralaskuri"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Voima-anturi 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Voima-anturi 50 N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "vain 2021 alun vaunut"
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Elektrodivahvistin"
+        },
+        "Energy" : {
+            
+            "message": "Energia"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Energia-anturi Virta"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Energia-anturi Jännite"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanoli"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Etanolianturi"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Lämpötila (pitkä johto)"
+        },
+        "Flow Rate" : {
+            
+            "message": "Virtausnopeus"
+        },
+        "Fluorescence" : {
+            
+            "message": "Fluoresenssi"
+        },
+        "Force" : {
+            
+            "message": "Voima"
+        },
+        "Force Plate" : {
+            
+            "message": "Voimalevy"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Voimalevy 3500 N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Voimalevy 850 N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Kaasun paineanturi"
+        },
+        "Gate State" : {
+            
+            "message": "Portin tila"
+        },
+        "Gate Time" : {
+            
+            "message": "Portin aika"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Go Wireless elektrodivahvistin"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go Wireless Syke"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Go Wireless pH"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Lämpötila-anturi"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Kulma-anturi"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Puristusvoima-anturi"
+        },
+        "Heart Rate" : {
+            
+            "message": "Syke"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Sykeanturi"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Suurien virtojen anturi"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Herkkä valaistusanturi 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Herkkä valaistusanturi 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Herkkä valaistusanturi 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "valaisu"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Jännitevahvistin"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Jännitevahvistin +-1 V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Jännitevahvistin +-200 mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Jännitevahvistin +-20 mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Jännitevahvistin +-1 V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Jännitevahvistin 200 mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Jännitevahvistin 20 mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intensiteetti"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "IR lämpötila-anturi"
+        },
+        "Irradiance" : {
+            
+            "message": "Säteilyteho"
+        },
+        "Launch Speed" : {
+            
+            "message": "Lähtönopeus"
+        },
+        "Light" : {
+            
+            "message": "Valaistus"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Valaistus 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Valaistus 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Valaistus 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Valaistusvoimakkuus"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Lineaarinen paikka-anturi"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Low-g kiihtyvyys"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Magneettikenttä"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Magneettikenttä 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Magneettikenttä 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Valtimopaineen keskiarvo"
+        },
+        "Melt Station" : {
+            
+            "message": "Sulamispisteen määrityslaitteisto"
+        },
+        "Microphone" : {
+            
+            "message": "Mikrofoni"
+        },
+        "mol/L" : {
+            
+            "message": "mol/L"
+        },
+        "Motion" : {
+            
+            "message": "Liike"
+        },
+        "Motion Detector" : {
+            
+            "message": "Liikeanturi"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Liiketunnistin vaunu"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitraatti"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitraatti ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Optinen DO anturi %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Optinen DO anturi mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Happianturi kaasu"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Happikaasuanturi (vanha)"
+        },
+        "PAR Sensor" : {
+            
+            "message": "PAR anturi"
+        },
+        "Period" : {
+            
+            "message": "Jakso"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP -vahvistimet"
+        },
+        "Photogate" : {
+            
+            "message": "Valoportti"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Platinakenno johtokyky"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimetri"
+        },
+        "Position" : {
+            
+            "message": "Paikka"
+        },
+        "Potassium" : {
+            
+            "message": "Kalium"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Kalsium ISE"
+        },
+        "Potential" : {
+            
+            "message": "Jännite"
+        },
+        "Power" : {
+            
+            "message": "Teho"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Funktiogeneraattorin virta"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Paine"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Paineanturi (Vanha)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Paineanturi 400 kPa"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Vinon heittoliikkeen laukaisin"
+        },
+        "Pulse" : {
+            
+            "message": "Pulssi"
+        },
+        "Pulse Time" : {
+            
+            "message": "Pulssin aika"
+        },
+        "Pyranometer" : {
+            
+            "message": "Auringon säteilyn voimakkuus"
+        },
+        "Radiation" : {
+            
+            "message": "Säteily"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Säteilyanturi"
+        },
+        "Raw" : {
+            
+            "message": "Raaka"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Jännite (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Suhteellinen kosteus"
+        },
+        "Resistance" : {
+            
+            "message": "Resistanssi"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Hengitystiheysanturi"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Hengitystaajuus"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Pyörimisliike"
+        },
+        "Salinity" : {
+            
+            "message": "Suolapitoisuus"
+        },
+        "Signal" : {
+            
+            "message": "Signaali"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Maaperän kosteus"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Maaperän kosteus -anturi"
+        },
+        "Sound Level" : {
+            
+            "message": "Äänen voimakkuus"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Desibelianturi"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Äänen paine"
+        },
+        "Speed" : {
+            
+            "message": "Vauhti"
+        },
+        "Spirometer" : {
+            
+            "message": "Spirometri"
+        },
+        "Standard" : {
+            
+            "message": "Standardi"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Lämpötila (Standard)"
+        },
+        "Student Force" : {
+            
+            "message": "Voima (Student Force)"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Säteilyanturi (Student)"
+        },
+        "Systolic" : {
+            
+            "message": "Yläpaine"
+        },
+        "Temperature" : {
+            
+            "message": "Lämpötila"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Lämpötila-anturi"
+        },
+        "Thermocouple" : {
+            
+            "message": "Termopari"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Termopari (vanha)"
+        },
+        "TI Light" : {
+            
+            "message": "Valaistus (TI)"
+        },
+        "Time of Flight" : {
+            
+            "message": "Lentoaika"
+        },
+        "Transmittance" : {
+            
+            "message": "Transmittanssi"
+        },
+        "Turbidity" : {
+            
+            "message": "Sameus"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA intensiteetti"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVA anturi"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB intensiteetti"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVB anturi"
+        },
+        "Velocity" : {
+            
+            "message": "Nopeus"
+        },
+        "Voltage" : {
+            
+            "message": "Jännite"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Jännite (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Tilavuus"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT poikkeama"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT Voima"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Lämpötila-anturi (laaja mittausalue)"
+        },
+        "X Acceleration" : {
+            
+            "message": "X kiihtyvyys"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y kiihtyvyys"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z kiihtyvyys"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": "*umol m-2 s-1*"
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": "*µmol m⁻² s⁻¹*"
+        },
+        "1" : {
+            
+            "message": ""
+        },
+        "11" : {
+            
+            "message": ""
+        },
+        "13" : {
+            
+            "message": ""
+        },
+        "15" : {
+            
+            "message": ""
+        },
+        "17" : {
+            
+            "message": ""
+        },
+        "3" : {
+            
+            "message": ""
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": ""
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": ""
+        },
+        "9" : {
+            
+            "message": ""
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Absoluuttinen kosteus"
+        },
+        "Acceleration G" : {
+            
+            "message": "Kiihtyvyys V"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Kiihtyvyysvektori"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Kiihtyvyys K"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Säädetty voimakkuus"
+        },
+        "Altitude" : {
+            
+            "message": "Korkeus"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Korkeuden yhden pisteen kalibrointi"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitudi"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Kulma (Korkea resoluutio)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Pyörimisliike"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Autom. nollaus alussa"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Aux portin tila"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE nykyinen alue"
+        },
+        "BE Duration" : {
+            
+            "message": "BE kesto"
+        },
+        "BE Potential" : {
+            
+            "message": "BE potentiaali"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE mittaustaajuus"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Barometrinen paine"
+        },
+        "Battery Level" : {
+            
+            "message": "Akun tila"
+        },
+        "Battery Percent" : {
+            
+            "message": "Akun varaus prosentteina"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Pariston jännite"
+        },
+        "Blank calibration" : {
+            
+            "message": "Tyhjä kalibrointi"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Siltajännite"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ ekvivalentti"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ Kaasu"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CVS Virran alue"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS loppujännite"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS alkujännite"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS kierrosten lukumäärä"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS Segmenttien lukumäärä"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS pyyhkäisytaajuus"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS vaihtojännite 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS vaihtojännite 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Kalibroinnin kerroin"
+        },
+        "Calibration power" : {
+            
+            "message": "Kalibroinnin eksponentti"
+        },
+        "Cap number" : {
+            
+            "message": "Osan numero"
+        },
+        "Cell" : {
+            
+            "message": "Solu"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Cell constant (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Cell constant (active)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Kerroin-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Kerroin-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Kerroin-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Johtokyky - 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": "Korjauskerroin"
+        },
+        "Counts" : {
+            
+            "message": "Lukema"
+        },
+        "Current pressure" : {
+            
+            "message": "Nykyinen paine"
+        },
+        "Current state" : {
+            
+            "message": "Nykyinen tila"
+        },
+        "Current temperature" : {
+            
+            "message": "Nykyinen lämpötila"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Sulkutaajuus"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Kierron tilavuus"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Kierrostilavuuden lähde"
+        },
+        "DAC value" : {
+            
+            "message": "DAC arvo"
+        },
+        "DO Concentration" : {
+            
+            "message": "DO konsentraatio"
+        },
+        "DO Salinity" : {
+            
+            "message": "DO suolapitoisuus"
+        },
+        "DO Saturation" : {
+            
+            "message": "DO saturaatio"
+        },
+        "Data source" : {
+            
+            "message": "Datan lähde"
+        },
+        "Declination" : {
+            
+            "message": "Deklinaatio"
+        },
+        "Demo" : {
+            
+            "message": "Demo"
+        },
+        "Dew Point" : {
+            
+            "message": "Kastepiste"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Diastolinen kerroin"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Diffrentiaalinen paina"
+        },
+        "Drops" : {
+            
+            "message": "Pisaraa"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG korjattu"
+        },
+        "Electrode Current" : {
+            
+            "message": "Elektrodin virta"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Elektrodin jännite"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Elektrodin puhdistus"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Syötä 0% virtauksen arvo"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Syötä 100% virtauksen arvo"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Syötä 50% virtauksen arvo"
+        },
+        "Enter altitude" : {
+            
+            "message": "Syötä korkeus"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Syötä barometrinen paine"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Syötä tämänhetkinen lämpötila"
+        },
+        "Enter first known value" : {
+            
+            "message": "Syötä ensimmäinen tunnettu arvo"
+        },
+        "Enter k value" : {
+            
+            "message": "Syötä k arvo"
+        },
+        "Enter known value" : {
+            
+            "message": "Syötä tunnettu arvo"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Syötä kertoimen arvo"
+        },
+        "Enter n value" : {
+            
+            "message": "Syötä n arvo"
+        },
+        "Enter offset value" : {
+            
+            "message": "Syötä poikkeaman arvo"
+        },
+        "Enter power value" : {
+            
+            "message": "Syötä potenssin arvo"
+        },
+        "Enter second known value" : {
+            
+            "message": "Anna toinen tunnettu arvo"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Syötä aseman korkeus"
+        },
+        "Enter third known value" : {
+            
+            "message": "Anna kolmas tunnettu arvo"
+        },
+        "Envelope" : {
+            
+            "message": "Envelope"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Envelope keskiarvo"
+        },
+        "Error" : {
+            
+            "message": "Virhe"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Etanolikaasu"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Etanolikaasu HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Ethanol Ticks"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Etanolihöyry"
+        },
+        "Experiment Type" : {
+            
+            "message": "Mittauksen tyyppi"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Uloshengityksen huipputilavuus"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "FWD" : {
+            
+            "message": ""
+        },
+        "Fan" : {
+            
+            "message": ""
+        },
+        "Fan Mode" : {
+            
+            "message": "Fan Mode"
+        },
+        "Final hold time" : {
+            
+            "message": "Pitoaika"
+        },
+        "Final temperature" : {
+            
+            "message": "Loppulämpötila"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Viiden pisteen kalibrointi"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Virtausnopeuden suodin"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Virtausnopeuden suunnan merkki"
+        },
+        "Force G" : {
+            
+            "message": "Voima V"
+        },
+        "Force Y" : {
+            
+            "message": "Voima K"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Pakota yhden pisteen kalibrointi"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Pakota kahden pisteen kalibrointi"
+        },
+        "Forward" : {
+            
+            "message": "Positiivinen suunta"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Portti 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Portti 1 - Portin tila"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Portin 1 tila"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Portti 1/ etäportti - ajan mittaus"
+        },
+        "Gate 2" : {
+            
+            "message": "Portti 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Portti 2 - Portin tila"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Portin 2 tila"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-Axis Magneettivuon voimakkuus"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® Kiihtyvyys"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® verenpaine"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ kaasu"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® Kolorimetri"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® Johtokykyanturi"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Vakiovirtalaitteisto"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® Virta-anturi"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® Syklinen voltammetria -järjestelmä"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® Pisaralaskuri"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektrodivahvistin"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® Energia"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Go Direct® Etanolianturi"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Go Direct® Etanolihöyry"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Voima- ja kiihtyvyysanturi"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® Kaasukromatografi"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Kaasunpaineanturi"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® Käsidynamometri"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® Ioniselektiivinen anturivahvistin"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® Valo- ja värianturi"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® Sulamispistelaitteisto"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® Liikeanturi"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optinen liuennut happi"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ kaasu"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": "Go Direct® PAR anturi"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® Valoportti"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Platinum-Cell johtokyky"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct® Polarimetri"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® Heittoliikelaukaisin"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct® pulssioksimetri"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": "Go Direct® Pyranometri"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® Säteilyanturi"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® Hengitystiheysvyö"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® Pyörimisliike"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Vaunu antureilla (Vihreä)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Vaunu antureilla (Keltainen)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® ääni"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® spirometri"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": "Go Direct® varausanturi"
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Rakenne & materiaali -testeri"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® Pintalämpötila-anturi"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® Lämpötila-anturi"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Thermoparin vahvistin"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® Jänniteanturi"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® Sää"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® Laaja-alueinen lämpötila-anturi"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Laaja-alainen paine"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-Akselinen Magneettivuon voimakkuus"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct® Kiihtyvyys"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct™ verenpaine"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ CO₂ kaasu"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct® Kolorimetri"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct® Johtokykyanturi"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct® Vakiovirtajärjestelmä"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct® Virta-anturi"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ Syklinen voltammetria -järjestelmä"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct® Pisaralaskuri"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektrodivahvistin"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct® Energia"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Go Direct™ Etanolianturi"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Go Direct™ Etanolihöyry"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Voima ja kiihtyvyys -anturi"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ Kaasukromatografi"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Kaasunpaineanturi"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct™ Käsidynamometri"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Ioniselektiivinen vahvistin"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct® Valaistus ja väri -anturi"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct® Sulamispisteen määritys -laitteisto"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct® Liikeanturi"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optinen liuennut happi"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ O₂ kaasu"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": "Go Direct™ PAR anturi"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ valoportti"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Platinum-Cell johtokyky"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™ Polarimetri"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct™ heittoliikelaukaisin"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™ pulssioksimetri"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": "Go Direct™ Pyranometri"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct® Säteilyanturi"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct® Hengitystiheysvyö"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct® Pyörimisliikeanturi"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Vaunu antureilla (Vihreä)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Vaunu antureilla (Keltainen)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct™ ääni"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ spirometri"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": "Go Direct™ varausanturi"
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ Rakenne & materiaali -testeri"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct® Pintalämpötila-anturi"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct® Lämpötila-anturi"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ Termoparin vahvistin"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct® Jänniteanturi"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ Sää"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct® Laaja-alueinen lämpötila-anturi"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™ laaja-alainen paine"
+        },
+        "Heat Index" : {
+            
+            "message": "Lämpöindeksi"
+        },
+        "Hold time" : {
+            
+            "message": "Pitoaika"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Hydrogen Ticks"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "Valaistusvoimakkuus"
+        },
+        "Illumination Raw" : {
+            
+            "message": "valaisu raw"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Pyörimistaajuus"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Sisään hengistyksen huippuarvo"
+        },
+        "Instrument status" : {
+            
+            "message": "Laitteen tila"
+        },
+        "Internal Current" : {
+            
+            "message": "Sisäinen virta"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Sisäinen jännite"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED diagnostiikka"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED magnitude"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Laser portti - Portin tila"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Laser portin tila"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Laserportti / etäportti - ajan mittaaminen"
+        },
+        "Launch Angle" : {
+            
+            "message": "Lähtökulma"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineaarinen liike"
+        },
+        "Live" : {
+            
+            "message": "Live"
+        },
+        "Load cell gain" : {
+            
+            "message": "Voimamittauksen vahvistus"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Mikrofoni-KIINTEÄ"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Mikrofoni-KIINTEÄ A painotus"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Mikrofoni-KIINTEÄ B painotus"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Liike (vaunu)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Liike kiihtyvyys"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Liike nopeus"
+        },
+        "Motion with TC" : {
+            
+            "message": "Liike lämpötilakorjattu"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": ""
+        },
+        "No smoothing" : {
+            
+            "message": "Ei tasoitusta"
+        },
+        "Normalized Response" : {
+            
+            "message": "Normalisoitu vaste"
+        },
+        "Not ready" : {
+            
+            "message": ""
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP Kesto"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP Mittaustaajuus"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Kohteen kiihtyvyys (useita lippuja)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Kohteen kiihtyvyys (yksi lippu)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Kohteen nopeus"
+        },
+        "Off" : {
+            
+            "message": ""
+        },
+        "One-point calibration" : {
+            
+            "message": "Yhden pisteen kalibrointi"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Optinen kiertymä"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Oskillaation huomio"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Oskillaation maksimi"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Oskillaation minimi"
+        },
+        "Oscillations" : {
+            
+            "message": "Oskillaatioita"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Kaasu"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": "O₂ Kaasun pitoisuus"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Kaasu rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": "PAR kahden pisteen kalibrointi"
+        },
+        "PPFD - CF" : {
+            
+            "message": "PPFD - CF"
+        },
+        "PPFD Correction" : {
+            
+            "message": "PPFD korjaus"
+        },
+        "PYR two-point calibration" : {
+            
+            "message": "PYR kahden pisteen kalibrointi"
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Piikin ala"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Heilurin jakso"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Heilurin nopeus"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Pine firmware major version"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Pine firmware minor version"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Pine firmware revision"
+        },
+        "Position Direction" : {
+            
+            "message": "Paikan suunta"
+        },
+        "Position G" : {
+            
+            "message": "Paikka V"
+        },
+        "Position Vector" : {
+            
+            "message": ""
+        },
+        "Position Y" : {
+            
+            "message": "Paikka K"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Potenssi - kolmen pisteen kalibrointi"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Sykkeen paine"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Pulssi"
+        },
+        "REV" : {
+            
+            "message": ""
+        },
+        "Ramp rate" : {
+            
+            "message": "Ramppitaajuus"
+        },
+        "Raw Diastolic" : {
+            
+            "message": "Raakadata Diastolinen"
+        },
+        "Raw MAP" : {
+            
+            "message": "Raw MAP"
+        },
+        "Raw Pressure" : {
+            
+            "message": "Raakadata paine"
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": "Raakadata paineen tasoitus"
+        },
+        "Raw Systolic" : {
+            
+            "message": "Raakadata systolinen"
+        },
+        "Raw Temperature" : {
+            
+            "message": "Lämpötila (Raw)"
+        },
+        "Ready" : {
+            
+            "message": "Valmis"
+        },
+        "Ready to inject" : {
+            
+            "message": "Valmiina injektointiin"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Etä kiihtyvyys"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Etäportti - kohteen kiihtyvyys"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Etäportti - Kohteen kiihtyvyys (yksi lippu)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Etäportti - kohteen nopeus"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Etämittaus Portti 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Etämittaus Portti 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Etä nopeus"
+        },
+        "Reverse" : {
+            
+            "message": "vastakkainen"
+        },
+        "Running" : {
+            
+            "message": ""
+        },
+        "Salinity correction" : {
+            
+            "message": "Suolapitoisuuskorjaus"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Intensiteettitaso A-painotus"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Intensiteettitaso C-painotus"
+        },
+        "Start temperature" : {
+            
+            "message": "Alkulämpötila"
+        },
+        "Starting" : {
+            
+            "message": ""
+        },
+        "Station Pressure" : {
+            
+            "message": "Aseman paine"
+        },
+        "Step Rate" : {
+            
+            "message": "Askeltiheys"
+        },
+        "Steps" : {
+            
+            "message": "Askelta"
+        },
+        "Stopped" : {
+            
+            "message": ""
+        },
+        "Switch USB" : {
+            
+            "message": "Vaihda USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Yläpaineen(systol.) kerroin"
+        },
+        "Temperature correction" : {
+            
+            "message": "Lämpötilakorjaus"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Kolmenpisteen kalibrointi"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Lentoajanmäärityslaite"
+        },
+        "Timing" : {
+            
+            "message": "Ajastus"
+        },
+        "Total VOC" : {
+            
+            "message": "Kokon. VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Kahden pisteen kalibrointi"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Tyypin J termopari"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Tyypin K termopari"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Tyypin T termopari"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": "UV Sininen"
+        },
+        "UV Index" : {
+            
+            "message": "UV indeksi"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV Intensiteetti"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": "Käytä tasoitusta"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Vector range Max"
+        },
+        "Vector range Min" : {
+            
+            "message": "Vector range Min"
+        },
+        "Velocity G" : {
+            
+            "message": "Nopeus V"
+        },
+        "Velocity Vector" : {
+            
+            "message": ""
+        },
+        "Velocity Y" : {
+            
+            "message": "Nopeus K"
+        },
+        "Velocity2" : {
+            
+            "message": "Nopeus2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Jännite - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Jännite - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Tilavuuden korjauskerroin"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Tilavuuden merkki"
+        },
+        "W/m²" : {
+            
+            "message": "W/m²"
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Aallon amplitudi"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Aallon amplitudi"
+        },
+        "Wind Chill" : {
+            
+            "message": "Pakkasen purevuus"
+        },
+        "Wind Direction" : {
+            
+            "message": "Tuulen suunta"
+        },
+        "Wind Speed" : {
+            
+            "message": "Tuulen nopeus"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Tuulen suunnan kalibrointi"
+        },
+        "X magnetic field" : {
+            
+            "message": "X magneettikenttä"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X magneettivuon tiheys 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-kulmanopeus"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X -aks. kiihtyvyys"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-aks kiihtyvyys V"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-aks kiihtyvyys K"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-akselin kiihtyvyyden yhden pisteen kalibrointi"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-akselin kiihtyvyys-korkea"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-akselin kiihtyvyys-korkea yhden pisteen kalibrointi"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X -aks. kulmanopeus"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "X-akselin kulmanopeus V"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "X-akselin kulmanopeus K"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X -aks. gyroskooppi"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y magneettikenttä"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y magneettivuon tiheys 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-kulmanopeus"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y -aks. kiihtyvyys"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-aks kiihtyvyys V"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-aks kiihtyvyys K"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y-akselin kiihtyvyyden yhden pisteen kalibrointi"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y-akselin kiihtyvyys-korkea"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y-akselin kiihtyvyys-korkea yhden pisteen kalibrointi"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y -aks. kulmanopeus"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y-akselin kulmanopeus V"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y-akselin kulmanopeus K"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y -aks. gyroskooppi"
+        },
+        "Yes" : {
+            
+            "message": ""
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z magneettikenttä"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z magneettivuon tiheys 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-kulmanopeus"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z -aks. kiihtyvyys"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-aks kiihtyvyys V"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-aks kiihtyvyys K"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z-akselin kiihtyvyys yhden pisteen kalibrointi"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z-akselin kiihtyvyys-korkea"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z-akselin kiihtyvyys-korkea yhden pisteen kalibrointi"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z -aks. kulmanopeus"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z-akselin kulmanopeus V"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z-akselin kulmanopeus K"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z -aks. gyroskooppi"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "bpm"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "lukema"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "in"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "solmua"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": "nC"
+        },
+        "pC" : {
+            
+            "message": "pC"
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "jännite (raw)"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "rev"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "askelta"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": "umol m-2 s-1"
+        },
+        "units/s" : {
+            
+            "message": "units/s"
+        },
+        "units/s²" : {
+            
+            "message": "units/s²"
+        },
+        "velocity2" : {
+            
+            "message": "nopeus2"
+        },
+        "xxx0" : {
+            
+            "message": ""
+        },
+        "xxx1" : {
+            
+            "message": ""
+        },
+        "xxx2" : {
+            
+            "message": ""
+        },
+        "xxx3" : {
+            
+            "message": ""
+        },
+        "xxx4" : {
+            
+            "message": ""
+        },
+        "xxx5" : {
+            
+            "message": ""
+        },
+        "xxx6" : {
+            
+            "message": ""
+        },
+        "xxx7" : {
+            
+            "message": ""
+        },
+        "xxx8" : {
+            
+            "message": ""
+        },
+        "xxx9" : {
+            
+            "message": ""
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": "µmol m⁻² s⁻¹"
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Kosini"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Kosinin neliö"
+        },
+        "Inverse" : {
+            
+            "message": "Käänteisarvo"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Käänteisarvon neliö"
+        },
+        "Linear" : {
+            
+            "message": "Lineaarinen"
+        },
+        "Modified Power" : {
+            
+            "message": "Muokattu potenssi"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Luonnollinen eksponentti"
+        },
+        "Natural Log" : {
+            
+            "message": "Luon. logaritmi"
+        },
+        "Not defined" : {
+            
+            "message": "Ei määritelty"
+        },
+        "Power" : {
+            
+            "message": "Potenssi"
+        },
+        "Proportional" : {
+            
+            "message": "Suoraan verrannollinen"
+        },
+        "Quadratic" : {
+            
+            "message": "Toisen asteen yhtälö"
+        },
+        "Sine" : {
+            
+            "message": "Sini"
+        },
+        "Slope" : {
+            
+            "message": "Kulmakerroin"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Oma lauseke"
+        }
+        
+    }
+}

@@ -1,0 +1,66 @@
+[5/29/2025, 7:18:58 PM] LEGENDARY_CONFIG_PATH=/home/xion/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+legendary version "0.20.36", codename "Urban Flight (Heroic)"
+[5/29/2025, 7:18:59 PM] LEGENDARY_CONFIG_PATH=/home/xion/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * Borderlands 3 (App name: Catnip | Version: 1.0.26_CL_3758051_Borderlands_3)
+ * Call of the Sea (App name: 6278dd278d714aeb88239a423fa0f8be | Version: 1.5.4.10)
+ * Dauntless (App name: Jackal | Version: 2.1.1.682875)
+ * Destiny 2 (App name: 592c359fb0e0413fb46dee2d24448eb4 | Version: 10170608)
+ * EVE Online (App name: ab4fa312826b49c0b49a230bc4f5b415 | Version: 1.10.1-win)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-35.20-CL-42911808-Windows)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 103)
+ * Ghostrunner (App name: ea8df71f923649a193ab1c1fded7e1b3 | Version: 42507)
+ * Ghostrunner 2 (App name: cc3213f280df4b428e85b771c09d1891 | Version: 42294_57)
+ * Rise of Industry (App name: cf6c487e39a14113b75d1f625fed1da7 | Version: Win-2.3.3-2006a)
+ * Rise of the Tomb Raider: 20 Year Celebration (App name: f7cc1c999ac146f39b356f53e3489514 | Version: TR2_30112021_1027.0_1224023_303770_132827583431143041_)
+ * Rocket League® (App name: Sugar | Version: BC2_Update54+483820)
+ * Shadow of the Tomb Raider: Definitive Edition (App name: 890d9cf396d04922a1559333df419fed | Version: TR11_10072023_492.0_1227914_740629_133334955480774690_)
+ * Sid Meier's Civilization VI (App name: Kinglet | Version: 1.0.12.951533_nebraska_launcher_removal_Kinglet)
+  + Civilization VI : Aztec DLC (App name: KingletAztec | Version: 1.0.12.951533_nebraska_update1_KingletAztec)
+ * Sifu (App name: d36336f190094951873ed6138ac208d8 | Version: 6736)
+ * STAR WARS™ Battlefront™ II: Celebration Edition (App name: MtMassive | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin MtMassive" to activate and/or run the game.
+ * Tomb Raider GAME OF THE YEAR EDITION (App name: d6264d56f5ba434e91d4b0a0b056c83a | Version: TRAS_15112021_838.0_1224060,275025(132814434654404397))
+ * VALORANT (App name: 602eb4abc8764c87b7f2607a1ef8c18e | Version: 2609-591)
+ * Warframe (App name: 398965b67f314d31b0683b8ea11c93a4 | Version: 2024.03.28.14.05-21293)
+ * Warhammer 40,000: Gladius - Relics of War (App name: da5b18cb1e7a452196c3142f2c1d7dd3 | Version: 1.16.00)
+ * Windbound (App name: a95bf4df6627431ca5baff8173c59635 | Version: 1.3.40746.206)
+ * World War Z (App name: Wombat | Version: 2.41)
+
+Total: 22
+[5/29/2025, 7:18:59 PM] LEGENDARY_CONFIG_PATH=/home/xion/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * Borderlands 3 (App name: Catnip | Version: 1.0.26_CL_3758051_Borderlands_3)
+ * Call of the Sea (App name: 6278dd278d714aeb88239a423fa0f8be | Version: 1.5.4.10)
+ * Dauntless (App name: Jackal | Version: 2.1.1.682875)
+ * Destiny 2 (App name: 592c359fb0e0413fb46dee2d24448eb4 | Version: 10170608)
+ * EVE Online (App name: ab4fa312826b49c0b49a230bc4f5b415 | Version: 1.10.1-win)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-35.20-CL-42911808-Windows)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 103)
+ * Ghostrunner (App name: ea8df71f923649a193ab1c1fded7e1b3 | Version: 42507)
+ * Ghostrunner 2 (App name: cc3213f280df4b428e85b771c09d1891 | Version: 42294_57)
+ * Rise of Industry (App name: cf6c487e39a14113b75d1f625fed1da7 | Version: Win-2.3.3-2006a)
+ * Rise of the Tomb Raider: 20 Year Celebration (App name: f7cc1c999ac146f39b356f53e3489514 | Version: TR2_30112021_1027.0_1224023_303770_132827583431143041_)
+ * Rocket League® (App name: Sugar | Version: BC2_Update54+483820)
+ * Shadow of the Tomb Raider: Definitive Edition (App name: 890d9cf396d04922a1559333df419fed | Version: TR11_10072023_492.0_1227914_740629_133334955480774690_)
+ * Sid Meier's Civilization VI (App name: Kinglet | Version: 1.0.12.951533_nebraska_launcher_removal_Kinglet)
+  + Civilization VI : Aztec DLC (App name: KingletAztec | Version: 1.0.12.951533_nebraska_update1_KingletAztec)
+ * Sifu (App name: d36336f190094951873ed6138ac208d8 | Version: 6736)
+ * STAR WARS™ Battlefront™ II: Celebration Edition (App name: MtMassive | Version: None)
+  - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin MtMassive" to activate and/or run the game.
+ * Tomb Raider GAME OF THE YEAR EDITION (App name: d6264d56f5ba434e91d4b0a0b056c83a | Version: TRAS_15112021_838.0_1224060,275025(132814434654404397))
+ * VALORANT (App name: 602eb4abc8764c87b7f2607a1ef8c18e | Version: 2609-591)
+ * Warframe (App name: 398965b67f314d31b0683b8ea11c93a4 | Version: 2024.03.28.14.05-21293)
+ * Warhammer 40,000: Gladius - Relics of War (App name: da5b18cb1e7a452196c3142f2c1d7dd3 | Version: 1.16.00)
+ * Windbound (App name: a95bf4df6627431ca5baff8173c59635 | Version: 1.3.40746.206)
+ * World War Z (App name: Wombat | Version: 2.41)
+
+Total: 22

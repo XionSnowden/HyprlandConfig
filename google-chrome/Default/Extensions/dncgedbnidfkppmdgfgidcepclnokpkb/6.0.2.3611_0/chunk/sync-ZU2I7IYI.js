@@ -1,0 +1,1 @@
+import"./chunk-CM6X6NVN.js";async function s(t,e,n){return(await fetch(`${n?"https://2e1cohznn2.execute-api.us-west-2.amazonaws.com/beta":"https://sessions.graphicalanalysis.app"}/${t}`,{method:"POST",headers:{"Content-Type":`${e.type}; charset=utf-8`},body:e})).ok}export{s as sync};

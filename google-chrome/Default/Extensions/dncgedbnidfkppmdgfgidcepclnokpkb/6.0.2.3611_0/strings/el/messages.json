@@ -1,0 +1,6474 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d πελάτες είναι συνδεδεμένοι"
+        },
+        "%s All" : {
+            
+            "message": "%s Όλα"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s Όλα τα Σύνολα Δεδομένων"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s επιλογές εμφάνισης"
+        },
+        "%s details" : {
+            
+            "message": "%s λεπτομέρειες"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s συλλέγει δεδομένα τώρα. Θέλετε να σταματήσετε την συλλογή και να ξεκινήσετε ένα νέο πείραμα?"
+        },
+        "%s Options" : {
+            
+            "message": "%s Επιλογές"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(απόσταση, ταχύτητα, επιτάχυνση)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 Γράφημα"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1η Παράγωγος"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1ης Παράγωγου Μετατόπιση Χρόνου"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1η Παράγωγος(Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 Γραφήματα"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 Γραφήματα"
+        },
+        "2nd derivative" : {
+            
+            "message": "2η Παράγωγος"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2ης Παράγωγου Μετατόπιση Χρόνου"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2η Παράγωγος(Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 Γραφήματα"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 Γραφήματα"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Παρουσιάστηκε σφάλμα επικοινωνίας. Για να συνεχίσετε ξεκινήστε ένα νέο πείραμα."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Ένα σφάλμα επικοινωνίας προκάλεσε τη λήξη της συλλογής δεδομένων. Παρακαλώ προσπαθήστε ξανά."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A εκθ(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B, και C είναι παράμετροι που μπορείτε να ρυθμίσετε. X, Y, και Z είναι υφιστάμενες στήλες στον πίνακα δεδομένων σας."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Σχετικά"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "Σχετικά με Προσαρμοσμένες Καμπύλες"
+        },
+        "Absolute Value" : {
+            
+            "message": "Απόλυτη Τιμή"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "αποδεχτείτε τη Συμφωνία Άδειας Χρήσης Τελικού Χρήστη και τη Σημείωση Απορρήτου"
+        },
+        "Accessories" : {
+            
+            "message": "Εξαρτήματα"
+        },
+        "across" : {
+            
+            "message": "κατά μήκος"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Ενεργοποιεί επιπρόσθετες λειτουργίες με το Κλειδί της Άδειας Χρήσης"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "ενεργοποιήστε για να προσθέσετε χειροκίνητη προσαρμογή"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Ενεργοποίηση για εφαρμογή FFT"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Ενεργοποιήστε για να εφαρμόσετε το Ιστόγραμμα"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Ενεργοποίηση για επαναφορά όλων των σημασμένων σειρών"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Ενεργοποίηση να εμφανίζει Αβεβαιότητα Παραμέτρων Προσαρμογής"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Ενεργοποίηση να κάνει σήμανση σειρών"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Ενεργοποίηση on-off εντολής σήμανσης"
+        },
+        "Activate to use %s" : {
+            
+            "message": "Ενεργοποίηση για χρήση %s"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Ενεργοποίηση για χρήση Μπάρες Γραφημάτων"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "Ενεργοποιήστε για να χρησιμοποιήσετε Σημειώσεις"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Ενεργοποίηση για χρήση Online Κοινής Χρήσης Δεδομένων"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Ενεργοποίηση για χρήση Βίντεο"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Προσθήκη μιας Στήλης Δεδομένων Υπολογισμού"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Προσθέστε εδώ έναν τίτλο γραφήματος"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Προσθήκη μιας Στήλης για εισαγωγή δεδομένων με το χέρι"
+        },
+        "Add Annotation" : {
+            
+            "message": "Προσθέστε Σημείωση"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Προσθέστε Στήλη για εισαγωγή υπολογισμένων τιμών"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Προσθέστε απεσταγμένο νερό στο μπουκάλι αποθήκευης στο πάνω μέρος του σφουγγαριού."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Προσθέστε Προσαρμογή Γραφήματος"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Προσθέστε Στήλη για εισαγωγή τιμών με το χέρι"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "Προσθήκη Χειροκίνητης Προσαρμογής"
+        },
+        "add meters" : {
+            
+            "message": "προσθήκη μετρητών"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Προσθέστε Νέο Σετ Δεδομένων"
+        },
+        "Add Prediction" : {
+            
+            "message": "Προσθέστε Πρόβλεψη"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Προσθήκη Soft Αισθητήρα"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Με τον μετρητή σταγόνων προσθέστε διάλυμα titrant μέσα σε ένα κύλινδρο με διαβάθμιση 10 mL"
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Προσθήκη/Αφαίρεση Μετρητών"
+        },
+        "Advanced" : {
+            
+            "message": "Προηγμένο"
+        },
+        "After" : {
+            
+            "message": "Μετά"
+        },
+        "After set number of flags" : {
+            
+            "message": "Μετά τον καθορισμό αριθμού σημαίων"
+        },
+        "All" : {
+            
+            "message": "Όλα"
+        },
+        "Always Show 0" : {
+            
+            "message": "Για πάντα εμφανίζει 0"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Εύρος"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Μια παράσταση πρέπει να περιλαμβάνει την ανεξάρτητη μεταβλητή και τουλάχιστον μια παράμετρο."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Μια σύνδεση internet απαιτείται για την κοινή χρήση δεδομένων. Συνδεθείτε ξανά στο internet και πατήστε το πλήκτρο επανασύνδεση."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Για την λειτουργία της online κοινής χρήσης δεδομένων απαιτείται σύνδεση internet"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Για την κοινή χρήση δεδομένων απαιτείται σύνδεση internet"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Μια σύνδεση internet απαιτείται για την κοινή χρήση δεδομένων. Για να συνεχίσετε την διαδικασία συνδεθείτε ξανά στο internet και ξεκινήστε μια νέα κοινή χρήση δεδομένων."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "ένα προαιρετικό ανταλλακτικό του εκτοξευτή αντικειμένων, που χρησιμοποιείται για να μετρά τον χρόνο πτήσης του εκτοξευτή."
+        },
+        "and " : {
+            
+            "message": "και "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "και πατήστε STOP Κοινή Χρήση Δεδομένων"
+        },
+        "Angle units" : {
+            
+            "message": "Μονάδες Γωνίας"
+        },
+        "Angular Motion" : {
+            
+            "message": "Γωνιακή Κίνηση"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Πληροφορίες Γωνιακής Κίνησης"
+        },
+        "App is up to date" : {
+            
+            "message": "Η εφαρμογή είναι ενημερωμένη"
+        },
+        "App Preferences" : {
+            
+            "message": "Προτιμήσεις Εφαρμογής"
+        },
+        "App Updates" : {
+            
+            "message": "Ενημερώσεις Εφαρμογών"
+        },
+        "Appearance" : {
+            
+            "message": "Εμφάνιση"
+        },
+        "Append" : {
+            
+            "message": "Προσάρτω"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Προσάρτησε επιπρόσθετα δεδομένα στο τρέχων σύνολο δεδομένων ή δημιούργησε ένα νέο σύνολο δεδομένων ?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Προσάρτησε ή Δημιούργησε Νέο?"
+        },
+        "Apply" : {
+            
+            "message": "Εφαρμογή"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Εφαρμογή Προσαρμογή Καμπύλης"
+        },
+        "Apply FFT" : {
+            
+            "message": "Εφαρμογή FFT"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Εφαρμογή ιστογράμματος"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "τόξο εφαπτομένης2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Περιοχή"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Τα δεδομένα που έχετε συλλέξει θα φαίνονται στα αντίγραφα του Graphical Analysis"
+        },
+        "Auto" : {
+            
+            "message": "Αυτόματη"
+        },
+        "Automatic" : {
+            
+            "message": "Αυτόματα"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Μέσος όρος για άνω των 10 sec μετρήσεις αισθητήρα"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Υπολογισμός Μέσου Όρου για άνω των 10 sec δεδομένων"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Μέγεθος Ετικέτας Άξονα"
+        },
+        "Back" : {
+            
+            "message": "Πίσω"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Φίλτρο περιοχής διέλευσης"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Φίλτρο περιοχής διακοπής"
+        },
+        "Bar Tape" : {
+            
+            "message": "Ταινία Bar"
+        },
+        "Bars" : {
+            
+            "message": "Μπάρες"
+        },
+        "Base" : {
+            
+            "message": "Βάση"
+        },
+        "Base Axis" : {
+            
+            "message": "Άξονας Βάσης"
+        },
+        "Battery" : {
+            
+            "message": "Μπαταρία"
+        },
+        "Battery Level" : {
+            
+            "message": "Επίπεδο Μπαταρίας"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Τιμή Έναρξης Ιστογράμματος"
+        },
+        "Bin Width" : {
+            
+            "message": "Πλάτος Ιστογράμματος"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Συσκευή Bluetooth"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Δεν έχει ενεργοποιηθεί το Bluetooth"
+        },
+        "Bold" : {
+            
+            "message": "Έντονα"
+        },
+        "Book" : {
+            
+            "message": "Βιβλίο"
+        },
+        "Book Title" : {
+            
+            "message": "Τίτλος Βιβλίου"
+        },
+        "Both" : {
+            
+            "message": "Και τα δύο"
+        },
+        "Bottom" : {
+            
+            "message": "Κάτω Μέρος"
+        },
+        "Bottom Bar" : {
+            
+            "message": "Μπάρα Κάτω"
+        },
+        "Bullet list" : {
+            
+            "message": "Λίστα Κουκκίδων"
+        },
+        "Calculated %s" : {
+            
+            "message": "Υπολογισμένη Τιμή %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Στήλη Υπολογμισμένων Τιμών"
+        },
+        "Calibrate" : {
+            
+            "message": "Βαθμονόμηση"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Βαθμονόμηση Τώρα"
+        },
+        "Calibrating..." : {
+            
+            "message": "Βαθμνονομεί..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Βαθμονόμηση ολοκληρώθηκε"
+        },
+        "Calibration failed" : {
+            
+            "message": "Βαθμονόμηση απέτυχε"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Επιτυχής Επαναρύθμιση Βαθμονόμησης"
+        },
+        "Calibration Type" : {
+            
+            "message": "Τύπος Βαθμονόμησης"
+        },
+        "Cancel" : {
+            
+            "message": "Ακύρωση"
+        },
+        "cancel" : {
+            
+            "message": "ακύρωση"
+        },
+        "Capable" : {
+            
+            "message": "Ικανό"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Αμαξίδιο Picket Fence"
+        },
+        "Categorical" : {
+            
+            "message": "Κατηγορηματική"
+        },
+        "Categorical Data" : {
+            
+            "message": "Κατηγορικά Στοιχεία"
+        },
+        "Ceiling" : {
+            
+            "message": "Οροφή"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "Χειρισμός κέντρου χειροκίνητης προσαρμογής"
+        },
+        "Change left y-axis" : {
+            
+            "message": "Αλλαγή αριστερά άξονα Y"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Αλλαγή δεξιά άξονα Y"
+        },
+        "Change x-axis" : {
+            
+            "message": "Αλλαγή άξοχα X"
+        },
+        "Change y-axis" : {
+            
+            "message": "Αλλαγή Άξονα Y"
+        },
+        "Channels" : {
+            
+            "message": "Κανάλια"
+        },
+        "Charging," : {
+            
+            "message": "Φορτίζει,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Ελέξτε για αναβαθμίσεις firmware"
+        },
+        "Check for software updates" : {
+            
+            "message": "Ελέγτε για αναβαθμίσεις λογισμικού"
+        },
+        "Check for Updates" : {
+            
+            "message": "Ελέξτε για Αναβαθμίσεις"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Ελέξτε εάν αναβοσβήνει LED στον αισθητήρα"
+        },
+        "Checking for update..." : {
+            
+            "message": "Ελέγχει για αναβαθμίσεις..."
+        },
+        "Choose File" : {
+            
+            "message": "Επιλέξτε Αρχείο"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Επιλέξτε Φάκελο..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Διαλέξτε αυτή την επιλογή για σύνδεση σε αισθητήρα Go Direct μέσω USB."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Διαλέξτε αυτή την επιλογή για σύνδεση σε αισθητήρα Go!Temp."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": "Επιλέξτε αυτό για να γίνει σύνδεση με μια Go! Link συσκευή."
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": "Επιλέξτε αυτό για να γίνει σύδεση με μια Go! Motion συσκευή."
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "Διαλέξτε αυτή την επιλογή για σύνδεση μέσω USB σε ένα interface LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "Απαιτείται Chrome 102 ή μετέπειτα έκδοση. Δεν υποστηρίζονται iPad και iPhone."
+        },
+        "Circle" : {
+            
+            "message": "Κύκλος"
+        },
+        "Clear Expression" : {
+            
+            "message": "Καθαρισμός Παράστασης"
+        },
+        "Clear Filter" : {
+            
+            "message": "Καθαρισμός Φίλτρου"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Πατήστε το πλήκτρο START SESSION για να δημιουργήσετε έναν ID κωδικό για το μάθημά σας"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "Για να προσθέσετε ένα σημάδι δεδομένων την τρέχουσα χρονική στιγμή κάντε κλικ στο πλήκτρο Σημάδι κατά την διάρκεια μια συλλογής."
+        },
+        "Close" : {
+            
+            "message": "Κλείστε"
+        },
+        "Close Alert" : {
+            
+            "message": "Κλείσιμο Ειδοποίησης"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Κλείστε την Εφαρμογή και Αναβαθμίστε το Λογισμικό Firmware"
+        },
+        "Close Application" : {
+            
+            "message": "Κλείστε Εφαρμογή"
+        },
+        "Close Dialog" : {
+            
+            "message": "Κλείστε Παράθυρο Διαλόγου"
+        },
+        "Close FFT" : {
+            
+            "message": "Κλείστε FFT"
+        },
+        "Close graph legend" : {
+            
+            "message": "Κλείστε το υπόμνημα του γραφήματος"
+        },
+        "Close Histogram" : {
+            
+            "message": "Κλείστε Ιστόγραμμα"
+        },
+        "Close Infobox" : {
+            
+            "message": "Κλείσιμο Infobox"
+        },
+        "Close Menu" : {
+            
+            "message": "Κλείσιμο Menu"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Κλείσιμο Συχνότητας Peak"
+        },
+        "Close Popover" : {
+            
+            "message": "Κλείσιμο Popover"
+        },
+        "Close Replay" : {
+            
+            "message": "Κλείστε Επανάληψη"
+        },
+        "Close Start Page" : {
+            
+            "message": "Κλείστε Αρχική Σελίδα"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Για να συνεχίσετε κλείστε αυτό το παραθυρο διαλόγου"
+        },
+        "Code" : {
+            
+            "message": "Κώδικας"
+        },
+        "Coefficient" : {
+            
+            "message": "Συντελεστής"
+        },
+        "Collapse" : {
+            
+            "message": "Κατάρρευση"
+        },
+        "Collect" : {
+            
+            "message": "Συλλογή"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Συλλογή δεδομένων από αισθητήρες Vernier"
+        },
+        "Collecting" : {
+            
+            "message": "Συλλέγοντας"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "Συλλέγει %d %s"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Συλλέγοντας μεγάλο αριθμό δεδομένων επηρρεάζεται η λειτουργία."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Συλλογή δεδομένων σε ${eventParams.accumulate} δευτερόλεπτα"
+        },
+        "Collection Parameters" : {
+            
+            "message": "Παράμετροι Συλλογής"
+        },
+        "Column %s" : {
+            
+            "message": "Στήλη %s"
+        },
+        "Column Options" : {
+            
+            "message": "Επιλογές Στήλης"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Η στήλη θα διαγραφτεί από όλα τα σύνολα δεδομένων. Η διαγραφή δεν μπορεί να αναιρεθεί."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Τιμές διαχωρισμένες με κόμμα"
+        },
+        "Complementary Error" : {
+            
+            "message": "Συμπληρωματικό Σφάλμα"
+        },
+        "Configurator" : {
+            
+            "message": "Διαμόρφωση"
+        },
+        "Confirm" : {
+            
+            "message": "Επιβεβαίωση"
+        },
+        "Connect" : {
+            
+            "message": "Συνδέστε"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Συνδέστε μια <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">Vernier USB συσκευή</a>."
+        },
+        "Connect a device" : {
+            
+            "message": "Συνδέστε μια συσκευή"
+        },
+        "Connect a Device" : {
+            
+            "message": "Συνδέστε μια Συσκευή"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Συνδέστε μια συσκευή LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Συνδέει μέσω WiFi στη συσκευή LabQuest 2 ή στο λογισμικό Logger Pro"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "Σύνδεση αυτών των συσκευών για συλλογή δεδομένων."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Σύνδεση αυτής της συσκευής για συλλογή δεδομενων."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Σύνδεση με Κοινή Χρήση Δεδομένων από Graphical Analysis πηγή"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Σύνδεση σε LabQuest, Logger Pro ή Graphical Analysis πηγή"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Συνδεθείτε με ένα μάθημα, που δημηιουργήθηκε προηγουμένως, για να κάνετε κοινή χρήση των , δεδομένων , ρυθμίσεων , κλπ του μαθήματος ή δημιουργήστε ένα νέο μάθημα."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Σύνδεση σε μια ασύρματη συκευή παρακάτω ή μέσω USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Σύνδεση σε μια ασύρματη συσκευή παρακάτω."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Σύνδεση σε Προηγούμενη Συνεδρία"
+        },
+        "connected" : {
+            
+            "message": "Συνδέθηκε"
+        },
+        "Connected Devices" : {
+            
+            "message": "Συνδεόμενες Συσκευές"
+        },
+        "Connecting" : {
+            
+            "message": "Συνδέοντας"
+        },
+        "Connection error" : {
+            
+            "message": "Σφάλμα Σύνδεσης"
+        },
+        "Connection Lost" : {
+            
+            "message": "Χάθηκε η Σύνδεση"
+        },
+        "Connection status info" : {
+            
+            "message": "Πληροφορίες κατάστασης σύνδεσης"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Σύνδεσης σε %s απέτυχε"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "Σύνδεση σε %s πέτυχε"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "Συνεχίστε στις Επιλογές Ανάκτησης"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "Συνέχεια Χωρίς Απαιτούμενες Συσκευές"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Σημείωση Cookie"
+        },
+        "Copy" : {
+            
+            "message": "Αντιγραφή"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Αντιγραφή Ιστογράμματος"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Αντιγραφή ID του Host"
+        },
+        "Copy Link" : {
+            
+            "message": "Αντιγραφή Συνδέσμου"
+        },
+        "Copy Sign" : {
+            
+            "message": "Αντιγράψτε το Σημάδι"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Αντιγραφή στο πληκτρολόγιο"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Αντιγραφή Στο Πληκτρολόγιο"
+        },
+        "Cosine" : {
+            
+            "message": "Συνημίτονο"
+        },
+        "Count Interval" : {
+            
+            "message": "Υπολογισμός Μεσοδιαστήματος"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Δημιουργία Προσαρμοσμένης Εφαρμογής"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Δημιουργία νέου Σετ Δεδομένων"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Δημιουργία Προσαρμοσμένης Υπολογιζόμενης Στήλης"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Δημιουργία Προσαρμοσμένης Καμπύλης Προσαρμογής"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Κυβική Ρίζα"
+        },
+        "Curve Fit" : {
+            
+            "message": "Προσαρμογή Καμπύλης"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Προσαρμοσμένες Υπολογιζόμενες Στήλες"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Προσαρμοσμένες Προσαρμογές Καμπύλων"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Πληροφορίες Προσαρμοσμένης Προσαρμογής Καμπύλης"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Πληροφορίες Προσαρμοσμένης Παράστασης"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Προσαρμοσμένες εφαρμογές αποθηκεύονται σε αρχεία. Οι εφαρμογές καθαρίζονται όταν γίνεται επανακίνηση ή ξεκινά μια νεα συνεδρία."
+        },
+        "Custom Session" : {
+            
+            "message": "Προσαρμοσμένη Συνεδρία"
+        },
+        "Cut" : {
+            
+            "message": "Αποκοπή"
+        },
+        "Dark" : {
+            
+            "message": "Σκούρο"
+        },
+        "Darker" : {
+            
+            "message": "Πιο Σκούρο"
+        },
+        "Darkest" : {
+            
+            "message": "Πιο Σκοτεινό"
+        },
+        "Data" : {
+            
+            "message": "Δεδομένα"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "Η συλλογή δεδομένων έχει ξεκινήσει σε λειτουργία καταγραφής."
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Ρυθμίσεις Συλλογής Δεδομένων"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Η συλλογή δεδομένων θα σταματήσει αυτόματα μόλις όλες οι φωτοπύλες έχουν τον επιθυμητό αριθμό μετρήσεων θέσης (ίδιος με τον αριθμό των σημαίων). Ένα νέο σύνολο δεδομένω θα δημιουργθεί ξεκινώντας την συλλογή ξανά."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Η συλλογή δεδόμένων θα συνεχίσει μέχρι να πατήσετε με το χέρι τον τερματισμό. Οι τιμές θέσης θα συνεχίσουν να αυξάνονται με την μέτρηση απόστασης μέχρι να σταματήσει η συλλογή δεδομένων."
+        },
+        "Data Mark" : {
+            
+            "message": "Σήμα Δεδομένων"
+        },
+        "Data Marking" : {
+            
+            "message": "Σήμανση Δεδομένων"
+        },
+        "Data Set %d" : {
+            
+            "message": "Σετ Δεδομένων %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Όνομα Σετ Δεδομένων"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Το όνομα του σετ δεδομένων έχει όριο %s χαρακτήρες."
+        },
+        "Data Set Options" : {
+            
+            "message": "Επιλογές Σετ Δεδομένων"
+        },
+        "Data Set Time" : {
+            
+            "message": "Χρόνος Συνόλου Δεδομένων"
+        },
+        "Data Share" : {
+            
+            "message": "Κοινή Χρήση Δεδομένων"
+        },
+        "Data Sharing" : {
+            
+            "message": "Κοινή Χρήση Δεδομένων"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Η Κοινή Χρήση Δεδομένων είναι ενεργή"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Ξεκίνησε η Κοινή Χρήση Δεδομένων"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Κατάσταση λειτουργίας κοινής χρήσης δεδομένων"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Κατάσταση Κοινής Χρήσης Δεδομένων"
+        },
+        "Data Table" : {
+            
+            "message": "Πίνακας Δεδομένων"
+        },
+        "Data Type" : {
+            
+            "message": "Τύπος Δεδομένων"
+        },
+        "Data Type Info" : {
+            
+            "message": "Πληροφορίες Τύπου Δεδομένων"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Επιλογές Παρουσίασης Δεδομένων"
+        },
+        "Decimal Format" : {
+            
+            "message": "Μορφή με Δεκαδικά"
+        },
+        "Decimal Places" : {
+            
+            "message": "Δεκαδικά Μέρη"
+        },
+        "decrease" : {
+            
+            "message": "μείωση"
+        },
+        "decreasing" : {
+            
+            "message": "Μειώνοντας"
+        },
+        "degrees" : {
+            
+            "message": "βαθμοί"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Βαθμοί (°)"
+        },
+        "Delete" : {
+            
+            "message": "Διαγραφή"
+        },
+        "Delete %s?" : {
+            
+            "message": "Διαγραφή %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Διαγραφή μιας Στήλης"
+        },
+        "Delete Column" : {
+            
+            "message": "Διαγραφή Στήλης"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Διαγραφή Στήλης %s?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Σβήσιμο Σήμανσης Δεδομένων"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Διαγραφή Συνόλου Δεδομένων"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Διαγραφή Προσαρμογής Γραφήματος"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Διαγραφή Πρόβλεψης"
+        },
+        "Delete Video" : {
+            
+            "message": "Διαγραφή Video"
+        },
+        "Delta" : {
+            
+            "message": "Δέλτα"
+        },
+        "Device Error" : {
+            
+            "message": "Σφάλμα Συσκευής"
+        },
+        "Device Information" : {
+            
+            "message": "Πληροφορίες Συσκευής"
+        },
+        "Device information" : {
+            
+            "message": "Πληροφορίες συσκευής"
+        },
+        "Devices" : {
+            
+            "message": "Συσκευές"
+        },
+        "Diameter" : {
+            
+            "message": "Διάμετρος"
+        },
+        "Diamond" : {
+            
+            "message": "Διαμάντι"
+        },
+        "Dimension" : {
+            
+            "message": "Διάσταση"
+        },
+        "Disabled" : {
+            
+            "message": "Απενεργοποιημένο"
+        },
+        "Disconnect" : {
+            
+            "message": "Αποσύνδεση"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "Αποσύνδεση και Συνέχιση Καταγραφής"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "Αποσυνδέστε τώρα το καλώδιο USB."
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "Αποσύνδεση χωρίς διαγραφή δεδομένων"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Συσκευές που Εντοπίστηκαν"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Ασύρματες Συσκευές που Εντοπίστηκαν"
+        },
+        "Display Meters" : {
+            
+            "message": "Εμφάνιση Ενδεικτικών Οργάνων"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Εμφανιζόμενες Στήλες"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Εμφανιζόμενα Σύνολα Δεδομένων"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Εμφανιζόμενη Ακρίβεια"
+        },
+        "Distance" : {
+            
+            "message": "Απόσταση"
+        },
+        "Distance between gates" : {
+            
+            "message": "Απόσταση μεταξύ πυλών"
+        },
+        "Distribute App" : {
+            
+            "message": "Εφαρμογή Distribute"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "Διανομή Εφαρμογής Vernier Graphical Analysis"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Επιθυμείς να σβήσεις οριστικά αυτή τη σήμανση δεδομένων?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Θέλετε να αποθηκεύσετε τις αλλαγές που έγιναν στο %s? Οι αλλαγές σας θα χαθούν εάν δεν κάνετε αποθήκευση."
+        },
+        "Don't Save" : {
+            
+            "message": "Μην Αποθηκεύετε"
+        },
+        "Done" : {
+            
+            "message": "Εκτελέστηκε"
+        },
+        "done" : {
+            
+            "message": "έγινε"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Ολοκληρώθηκε το κατέβασμα αρχείων. Οι αναβαθμίσεις θα εγκατασταθούν την επόμενη φορά που θα ανοίξετε την εφαρμογή"
+        },
+        "Download Experiment" : {
+            
+            "message": "Λήψη Πειράματος"
+        },
+        "Download Update" : {
+            
+            "message": "Κατέβασμα Ενημέρωσης"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Σχεδιασμός Πρόβλεψης"
+        },
+        "Drop Counting" : {
+            
+            "message": "Καταμέτρηση Σταγόνες Υγρού"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Μετρήσεις χαμένες. Παρακαλώ ξεκινήστε ένα νέο πείραμα και χρησιμοποιήστε ένα πιο αργό ρυθμό συλλογής δεδομένων."
+        },
+        "Drops" : {
+            
+            "message": "Σταγόνες"
+        },
+        "Drops/mL" : {
+            
+            "message": "Drops/mL"
+        },
+        "duration" : {
+            
+            "message": "διάρκεια"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "π.χ. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "π.χ., 007 ή TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Επεξεργασία Επιλογών Γραφήματος"
+        },
+        "Edit mode" : {
+            
+            "message": "Λειτουργία Επεξεργασίας"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Ενεργοποιεί bluetooth να συνδέει ασύρματους αισθητήρες."
+        },
+        "Enable Replay" : {
+            
+            "message": "Επιτρέπει Επανάληψη"
+        },
+        "Enabled" : {
+            
+            "message": "Ενεργοποιημένο"
+        },
+        "End Collection" : {
+            
+            "message": "Τερματισμός Συλλογής"
+        },
+        "End data collection" : {
+            
+            "message": "Τερματισμός συλλογής δεδομένων"
+        },
+        "End User License Agreement" : {
+            
+            "message": "Άδεια Τελικού Χρήστη"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Πατήστε γισ να σταματήσει η κοινή χρήση δεδομένων"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Εισάγετε μια Σημείωση"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Εισαγωγή δεδομένων μέσω πληκτρολογίου ή εντολών Αντιγραφής/Επικόλλησης"
+        },
+        "Enter first known value" : {
+            
+            "message": "Εισάγετε την πρώτη γνωστή τιμή"
+        },
+        "Enter second known value" : {
+            
+            "message": "Εισάγετε την δεύτερη γνωστή τιμή"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Εισάγετε από τον διαβαθμισμένο κύλινδρο τον ακριβή όγκο διαλύματος titrant"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Εισάγετε της πηγής τον κωδικό ID:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "Είσοδος σε Λειτουργία Κατηγοριών"
+        },
+        "Equation" : {
+            
+            "message": "Εξίσωση"
+        },
+        "Error" : {
+            
+            "message": "Σφάλμα"
+        },
+        "Error Bar Info" : {
+            
+            "message": "Μπάρα Ενημέρωσης Σφάλματος"
+        },
+        "Error Bars" : {
+            
+            "message": "Μπάρες Σφαλμάτων"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Σφάλμα: Δεν επιτρέπεται η πρόσβαση στο πληκτρολόγιο."
+        },
+        "Event" : {
+            
+            "message": "Συμβάν"
+        },
+        "Event Based" : {
+            
+            "message": "Βάσει Συμβάντος"
+        },
+        "Event Mode" : {
+            
+            "message": "Λειτουργία Συμβάντος"
+        },
+        "Event Name" : {
+            
+            "message": "Όνομα Συμβάντος"
+        },
+        "Events with Entry" : {
+            
+            "message": "Συμβάντα με Καταχώριση"
+        },
+        "Events With Entry" : {
+            
+            "message": "Συμβάντα με Καταχώρηση"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Παράδειγμα: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Παράδειγμα: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Exp - 1"
+        },
+        "Expand" : {
+            
+            "message": "Επεκτείνει"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Επέκταση ID του Host"
+        },
+        "Experiment Name" : {
+            
+            "message": "Όνομα Πειράματος"
+        },
+        "Experimental Features" : {
+            
+            "message": "Χαρακτηριστικά Πειράματος"
+        },
+        "Exponent" : {
+            
+            "message": "Εκθέτης"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Εκθετική Βάση 2"
+        },
+        "Export" : {
+            
+            "message": "Εξάγει"
+        },
+        "Export CSV" : {
+            
+            "message": "Εξαγωγή σε μορφή CSV"
+        },
+        "Expression" : {
+            
+            "message": "Παράσταση"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Ημερομηνία Βαθμονόμησης Εργοστασίου"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Ώθηση Ανεμιστήρα"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT επιλογές"
+        },
+        "File Menu" : {
+            
+            "message": "Μενού Επιλογών"
+        },
+        "File saved" : {
+            
+            "message": "Αρχείο Αποθηκεύτηκε"
+        },
+        "Filename" : {
+            
+            "message": "Όνομα Αρχείου"
+        },
+        "Filter Device List" : {
+            
+            "message": "Λίστα Συσκευής Filter"
+        },
+        "Firmware" : {
+            
+            "message": "Λογισμικό Firmware"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Πληροφορίες Ενημέρωσης Firmware"
+        },
+        "First Derivative" : {
+            
+            "message": "Πρώτη Παράγωγος"
+        },
+        "Fit Expression" : {
+            
+            "message": "Προσαρμοσμένη Παράσταση"
+        },
+        "Fit Name" : {
+            
+            "message": "Προσαρμοσμένο Όνομα"
+        },
+        "Fit Options" : {
+            
+            "message": "Επιλογές Προσαρμογής"
+        },
+        "Fixed Value" : {
+            
+            "message": "Σταθερή Τιμή"
+        },
+        "Flag Width" : {
+            
+            "message": "Πλάτος Σημαίας"
+        },
+        "Flags" : {
+            
+            "message": "Σημαίες"
+        },
+        "Floor" : {
+            
+            "message": "Πάτωμα"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Για αντικείμενα Vernier, εμφανίζονται για τα επιλεγμένα αντικείμενα ο αριθμός σημαίων και απόσταση μεταξύ τους. Για ταινία τύπου Bar, εισάγετε τον αριθμό σημαίων."
+        },
+        "Frequency" : {
+            
+            "message": "Συχνότητα"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Από Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Συνάρτηση"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Συναρτήσεις και ανεξάρτητες μεταβλητές πρέπει να είναι πεζά γράμματα."
+        },
+        "Gate Separation" : {
+            
+            "message": "Διαχωρισμός Φωτοπύλης"
+        },
+        "Gate State" : {
+            
+            "message": "Κατάσταση Φωτοπύλης"
+        },
+        "Gate timing" : {
+            
+            "message": "Χρόνος Φωτοπύλης"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX Sensor Map"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Δώστε αυτόν τον κωδικό ID σε άλλους για να μπορέσουν να σας παρακολουθήσουν"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct Συσκευή"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Αισθητήρες Go Direct"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Θύρα USB για GO Direct"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Πήγαινε στην αρχή του Βίντεο"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Go! Link" : {
+            
+            "message": "Συσκευή Go! Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Συσκευή Go! Motion"
+        },
+        "Graph" : {
+            
+            "message": "Γράφημα"
+        },
+        "Graph %s" : {
+            
+            "message": "Γράφημα %s"
+        },
+        "Graph 1" : {
+            
+            "message": "Γράφημα 1"
+        },
+        "Graph 2" : {
+            
+            "message": "Γράφημα 2"
+        },
+        "Graph 3" : {
+            
+            "message": "Γράφημα 3"
+        },
+        "Graph Display" : {
+            
+            "message": "Εμφάνιση Γραφήματος"
+        },
+        "Graph Inset" : {
+            
+            "message": "Ένθετο γραφήματος"
+        },
+        "Graph Legend" : {
+            
+            "message": "Υπόμνημα Γραφήματος"
+        },
+        "Graph Match" : {
+            
+            "message": "Προσαρμογή Γραφήματος"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Επιλογές Προσαρμογής Γραφήματος"
+        },
+        "Graph Options" : {
+            
+            "message": "Επιλογές Γραφήματος"
+        },
+        "Graph Shape" : {
+            
+            "message": "Μορφή Γραφήματος"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Εφαρμογή Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Πληροφορίες Graphical Analysis Pro"
+        },
+        "Graphs" : {
+            
+            "message": "Γραφήματα"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "Επικεφαλίδα 1"
+        },
+        "Heading 2" : {
+            
+            "message": "Επικεφαλίδα 2"
+        },
+        "Heading 3" : {
+            
+            "message": "Επικεφαλίδα 3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "Βοήθεια για την σύνδεση μιας συσκευής"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "Βοήθεια για την Σύνδεση μια Συσκευής"
+        },
+        "Hide" : {
+            
+            "message": "Κρύβει"
+        },
+        "Hide Details" : {
+            
+            "message": "Απόκρυψη Λεπτομέρειες"
+        },
+        "High-pass Filter" : {
+            
+            "message": "Φίλτρο Υψηλής Διέλευσης"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Επιλογή Υψηλής Ανάλυσης"
+        },
+        "Histogram" : {
+            
+            "message": "Ιστόγραμμα"
+        },
+        "Histogram options" : {
+            
+            "message": "Επιλογές ιστογράμματος"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Οριζόντιος Διαιρέτης"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Φιλοξενεί μια σύνοδος κοινής χρήσης δεδομένων"
+        },
+        "How To Distribute" : {
+            
+            "message": "Πως να Κάνεις Διανομή"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Υπερβολικό Συνημίτονο"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Υπερβολικό Ημίτονο"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Υπερβολική Εφαπτομένη"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Υποτείνουσα"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Προσδιορίζει"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "Επαναλάβετε την διαδικασία εάν απαιτείται μια επιπρόσθετη συσκευή."
+        },
+        "Ignore" : {
+            
+            "message": "Αγνοεί"
+        },
+        "Import Video" : {
+            
+            "message": "Εισάγετε Βίντεο"
+        },
+        "increase" : {
+            
+            "message": "Αυξάνει"
+        },
+        "increasing" : {
+            
+            "message": "Αυξάνοντας"
+        },
+        "Insert Expression" : {
+            
+            "message": "Εισάγετε Παράσταση"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Είσαγετε το ηλεκτρόδιο μέσα στο μπουκάλι ώστε η άκρη του να μην ακουμπά το νερό ή το σφυγγάρι."
+        },
+        "Integral" : {
+            
+            "message": "Ολοκλήρωμα"
+        },
+        "Intercept" : {
+            
+            "message": "Σημείο Τομής"
+        },
+        "Interpolate" : {
+            
+            "message": "Παρεμβολή"
+        },
+        "Interval" : {
+            
+            "message": "Μεσοδιάστημα"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Μη έγκυρη εξίσωση"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Μη έγκυρη Παράσταση"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Αντίστροφο Συνημίτονο"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Αντίστροφο Υπερβολικό Συνημίτονο"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Αντίστροφο Υπερβολικό Ημίτονο"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Αντίστροφη Υπερβολική Εφαπτομένη"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Αντίστροφο Ημίτονο"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Αντίστροφη Εφαπτομένη"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Αντίστροφη Εφαπτομένη 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "Αντεστραμμένο Περιγραμμένο Ορθογώνιο"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "Αντεστραμμένο Περιγραμμένο Τρίγωνο"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "Αντεστραμμένο Ορθογώνιο"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "Αντεστραμμένο Τρίγωνο"
+        },
+        "is" : {
+            
+            "message": "είναι"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "δεν υποστηρίζεται αυτή τη στιγμή. Δοκιμάστε διαφορετικό."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Σας προτείνουμε να κάνετε μια βαθμονόμηση μετά την αλλαγή καπακιού."
+        },
+        "Italic" : {
+            
+            "message": "Italic"
+        },
+        "Join New Experiment" : {
+            
+            "message": "Εγγραφείτε σε Νέο Πείραμα"
+        },
+        "Keep" : {
+            
+            "message": "Συγκρατει"
+        },
+        "Keep Point" : {
+            
+            "message": "Συγκράτηση Σημείου"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Κρατήστε κάθετα το ηλεκτρόδιο σε αυτή την θέση για 60 δευτερόλεπτα τουλάχιστον. Στη συνέχεια πατήσετε \"ΒΑΘΜΟΝΟΜΗΣΗ ΤΩΡΑ.\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Οι τιμές που θα επιλέξετε πρέπει να είναι διαφορετικές στην βαθμονόμηση δύο σημείων."
+        },
+        "LabQuest" : {
+            
+            "message": "Συσκευή LabQuest"
+        },
+        "LabQuest Devices" : {
+            
+            "message": "Συσκευές LabQuest"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream Συσκευή"
+        },
+        "Large" : {
+            
+            "message": "Μεγάλο"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Βαθμονομήθηκε πρόσφατα σε"
+        },
+        "Launch Speed" : {
+            
+            "message": "Ταχύτητα Εκτόξευσης"
+        },
+        "Left" : {
+            
+            "message": "Αριστερά"
+        },
+        "Left Axis" : {
+            
+            "message": "Αριστερός Άξονας"
+        },
+        "Left manual fit handle" : {
+            
+            "message": "Χειρισμός αριστερά χειροκίνητης προσαρμογής"
+        },
+        "Left y-axis range" : {
+            
+            "message": "Y-άξονας Αριστερά Περιοχή Μέτρησης"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Κληροδότημα Τύπος Αρχείου"
+        },
+        "License Key" : {
+            
+            "message": "Κωδικός Άδειας Χρήσης"
+        },
+        "License Key is expired." : {
+            
+            "message": "Η Άδεια Χρήσης έχει λήξει."
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "Η άδεια χρήσης δεν είναι έγκυρη γι' αυτό το κανάλι."
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "Η άδεια χρήσης δεν είναι έγκυρη γι' αυτό το πρωϊόν."
+        },
+        "License Key is required." : {
+            
+            "message": "Απαιτείται Άδεια Χρήσης."
+        },
+        "License Key is suspended." : {
+            
+            "message": "Η άδεια χρήσης έχει ανασταλεί."
+        },
+        "License Key not recognized." : {
+            
+            "message": "Δεν αναγνωρίζεται η άδεια χρήσης."
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "Απαιτείτει σύνδεση internet για την επικύρωση της άδειας χρήσης. Ελέγξτε την σύνδεσή σας."
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "Δεν είναι δυνατή η πρόσβαση στον διακομιστή επικύρωσης άδειας χρήσης."
+        },
+        "Licensed To" : {
+            
+            "message": "Άδεια Χρήσης Για"
+        },
+        "Licensed to" : {
+            
+            "message": "Άδεια Χρήσης για"
+        },
+        "Line Shade" : {
+            
+            "message": "Σκιά Γραμμής"
+        },
+        "Linear Motion" : {
+            
+            "message": "Γραμμική Κίνηση"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "Πληροφορίες για Γραμμική Κίνηση"
+        },
+        "Lines" : {
+            
+            "message": "Γραμμές"
+        },
+        "Link" : {
+            
+            "message": "Σύνδεσμος"
+        },
+        "Link Copied" : {
+            
+            "message": "Ο Σύνδεσμος Αντιγράφηκε"
+        },
+        "list item" : {
+            
+            "message": "Είδος λίστας"
+        },
+        "Load Experiment" : {
+            
+            "message": "Φόρτωση Πειράματος"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "Το τοπικό αντίγραφο είναι εκτός συγχρονισμού. Κάνετε ανανέωση..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Βάση Καταγραφής 2"
+        },
+        "Log Base b" : {
+            
+            "message": "Βάση Καταγραφής b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": "Καταγεγραμμένα Δεδομένα στη Συσκευή"
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Φίλτρο Χαμηλής Διέλευσης"
+        },
+        "Main Content" : {
+            
+            "message": "Κύριο Περιεχόμενο"
+        },
+        "Manual" : {
+            
+            "message": "Χειροκίνητα"
+        },
+        "Manual %s" : {
+            
+            "message": "Χειροκίνητα %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Εισαγωγή με το χέρι"
+        },
+        "Manual Fit" : {
+            
+            "message": "Χειροκίνητη Προσαρμογή"
+        },
+        "Manual Scaling" : {
+            
+            "message": "Χειροκίνητη Κλίμακα"
+        },
+        "Manually" : {
+            
+            "message": "Χειροκίνητα"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Ημερομηνία Κατασκευής"
+        },
+        "Mark" : {
+            
+            "message": "Σήμανση"
+        },
+        "Max" : {
+            
+            "message": "Μέγιστο"
+        },
+        "Maximize Application" : {
+            
+            "message": "Μεγιστοποιεί Εφαρμογή"
+        },
+        "Mean" : {
+            
+            "message": "Μέση"
+        },
+        "Measurement" : {
+            
+            "message": "Μέτρηση"
+        },
+        "Medium" : {
+            
+            "message": "Μεσαίο"
+        },
+        "Meter Actions" : {
+            
+            "message": "Ενέργειες Μετρητών"
+        },
+        "Meter All Columns" : {
+            
+            "message": "Μετρητές Όλων Στηλών"
+        },
+        "Meter Size" : {
+            
+            "message": "Μέγεθος Ενδεικτικού Οργάνου"
+        },
+        "Meter View Options" : {
+            
+            "message": "Επιλογές Εμφάνισης Ενδεικτικών Οργάνων"
+        },
+        "Metered" : {
+            
+            "message": "Μετρημένο"
+        },
+        "metering on all columns" : {
+            
+            "message": "μετρητές σε όλες τις στήλες"
+        },
+        "Meters" : {
+            
+            "message": "Μετρητές"
+        },
+        "min" : {
+            
+            "message": "ελάχιστο"
+        },
+        "Min" : {
+            
+            "message": "Ελάχιστο"
+        },
+        "Minimize Application" : {
+            
+            "message": "Ελαχιστοποιεί Εφαρμογή"
+        },
+        "Mode" : {
+            
+            "message": "Λειτουργία"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "Η λειτουργία άλλαξε σε Μη αυτόματη εισαγωγή."
+        },
+        "Modulo" : {
+            
+            "message": "Σσταθερά Modulo"
+        },
+        "Move Down" : {
+            
+            "message": "Μετακίνηση Κάτω"
+        },
+        "Move Up" : {
+            
+            "message": "Μετακίνηση Πάνω"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Για τον προσδιορισμό της θέσης αντικειμένου που περνά την φωτοπύλη, χρησιμοποιούνται πολλαπλές σημαίες τοποθετημένες σε όμοια μεσοδιαστήματα. Το πρώτο συμβάν κλεισίματος της φωτοπύλης προσδιορίζει την θέση μηδέν. Τα επόμενα συμβάντα κλεισίματος φωτοπύλης αυξάνουν την θέση σύμφωνα με τα μεσοδιαστήματα τοποθέτησης των σημαίων. Η ταχύτητα και η επιτάχυνση υπολογίζονται χρησιμοποιώντας πρώτη και δεύτερη παράγωγους της θέσης σε σχέση με τον χρόνο."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Για τον προσδιορισμό της γωνιακής θέσης τροχού που γυρίζει, χρησιμοποιούνται πολλαπλές ακτίνες τοποθετημένες σε όμοια μεσοδιαστήματα. Το πρώτο συμβάν κλεισίματος της φωτοπύλης προσδιορίζει την θέση μηδέν. Τα επόμενα συμβάντα κλεισίματος φωτοπύλης αυξάνουν την γωνία κατά 2π/n ακτίνια, όπου n είναι ο αριθμός των ακτίνων του τροχού. Η γωνιακή ταχύτητα και η επιτάχυνση υπολογίζονται χρησιμοποιώντας πρώτη και δεύτερη παράγωγους της γωνίας σε σχέση με τον χρόνο."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Ο πολλαπλασιασμός μπορεί να είναι ρητός ή σιωπηρός."
+        },
+        "Mute Audio" : {
+            
+            "message": "Σίγαση Ήχου"
+        },
+        "My-File-Name" : {
+            
+            "message": "Όνομα Αρχείου μου"
+        },
+        "Name" : {
+            
+            "message": "Όνομα"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Το όνομα δεν μπορεί να ξεπερνά τους %s χαρακτήρες"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Φυσική Εκθετική"
+        },
+        "Natural Log" : {
+            
+            "message": "Φυσική Καταγραφή"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Φυσική Καταγραφή 1 + Χ"
+        },
+        "Never" : {
+            
+            "message": "Ποτέ"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Χρησιμοποιήθηκαν νέες βαθμονομίσεις μέχρι να ξεκινήσετε ένα νέο πείραμα ή ανοίξετε ένα αρχείο."
+        },
+        "New Experiment" : {
+            
+            "message": "Νέο Πείραμα"
+        },
+        "Next After" : {
+            
+            "message": "Επόμενο Μετά"
+        },
+        "No Columns" : {
+            
+            "message": "Δεν υπάρχουν στήλες"
+        },
+        "No Device Connected" : {
+            
+            "message": "Καμία Συσκευή Συνδεδεμένη"
+        },
+        "No device connected." : {
+            
+            "message": "Καμία συσκευή συνδεδεμένη."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Καμία Συσκευή Συνδεδεμένη"
+        },
+        "No expiration date" : {
+            
+            "message": "Χωρίς ημερομηνία λήξης"
+        },
+        "No sensor connected" : {
+            
+            "message": "Δεν υπάρχει συνδεδεμένος αισθητήρας"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "Κανένας Αισθητήρας Συνδεδεμένος"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Δεν βρέθηκαν δεδομένα. Βεβαιωθείτε ότι η συσκευή δεδομένων σας έχει ενεργοποιημένη την λειτουργία Κοινής Χρήσης Δεδομένων και ότι και οι δύο συσκευές είναι συνδεμένες στο ίδιο δίκτυο. Εάν το πρόβλημα εξακολουθεί να υπάρχει, επιλέξτε Προσδιορισμός Συσκευής Δεδομένων και συνδεθείτε χειροκίνητα στην Συσκευή Κοινής Χρήσης Δεδομένων."
+        },
+        "Normal" : {
+            
+            "message": "Κανονική"
+        },
+        "not" : {
+            
+            "message": "οχι"
+        },
+        "Not Capable" : {
+            
+            "message": "Μη Δυνατόν"
+        },
+        "Note" : {
+            
+            "message": "Σημείωση"
+        },
+        "Notes" : {
+            
+            "message": "Σημειώσεις"
+        },
+        "Number list" : {
+            
+            "message": "Αριθμός λίστας"
+        },
+        "Number of flags" : {
+            
+            "message": "Αριθμός σημαίων"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "Αριθμός σημείων που χρησιμοποιήθηκαν για τους υπολογισμούς παραγώγων:"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "Αριθμός σημείων που χρησιμοποιήθηκαν για υπολογισμούς εξομάλυνσης:"
+        },
+        "Number of spokes" : {
+            
+            "message": "Αριθμός ακτίνων"
+        },
+        "Numeric" : {
+            
+            "message": "Αριθμητικός"
+        },
+        "Object" : {
+            
+            "message": "Αντικείμενο"
+        },
+        "Object Width" : {
+            
+            "message": "Πλάτος Αντικειμένου"
+        },
+        "Offline" : {
+            
+            "message": "Εκτός Λειτουργίας"
+        },
+        "OK" : {
+            
+            "message": "ΟΚ"
+        },
+        "Ok" : {
+            
+            "message": "Ok"
+        },
+        "On a triggering event" : {
+            
+            "message": "Ενεργοποιεί ένα συμβάν διέγερσης"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "Πατήστε το σύμβολο Wi-Fi στο LabQuest"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Στο Logger Pro, επιλέξτε Αρχείο -> Κοινή Χρήση Δεδομένων"
+        },
+        "One-point calibration" : {
+            
+            "message": "Βαθμονόμηση ενός σημείου"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Online Κοινή Χρήση Δεδομένων"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Ενεργοποίηση ανεμιστήρα μόνο κατά την διάρκεια συλλογής δεδομένων"
+        },
+        "Open failed" : {
+            
+            "message": "Απέτυχε το Άνοιγμα"
+        },
+        "Open Saved File" : {
+            
+            "message": "Άνοιγμα Αποθηκευμένου Αρχείου"
+        },
+        "Open Update Information" : {
+            
+            "message": "Άνοιγμα Πληροφοριών Ενημέρωσης"
+        },
+        "Open..." : {
+            
+            "message": "Άνοιγμα..."
+        },
+        "or" : {
+            
+            "message": "ή"
+        },
+        "Order Code" : {
+            
+            "message": "Κωδικός Παραγγελίας"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Άλλη / Χρήση Προσδιορίστηκε"
+        },
+        "Other Options" : {
+            
+            "message": "Άλλες Επιλογές"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Άλλη / Χρήση Προσδιορίστηκε: Εισάγετε τον αριθμό σημαίων και τα μεσοδιαστήματα όπως φαίνονται παραπάνω. Εάν το αντικείμενό σας είναι ένας τροχός, ο αριθμός των μεσοδιαστημάτων θα είναι η περίμετρος του τροχού διαιρεμένη με τον αριθμό των ακτίνων."
+        },
+        "Outlined Circle" : {
+            
+            "message": "Κύκλος με Περίγραμμα"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "Διαμάντι με Περίγραμμα"
+        },
+        "Outlined Plus" : {
+            
+            "message": "Plus με Περίγραμμα"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "Ορθωγόνιο με Περίγραμμα"
+        },
+        "Outlined Square" : {
+            
+            "message": "Τετράγωνο με Περίγραμμα"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "Τρίγωνο με Περίγραμμα"
+        },
+        "Paragraph" : {
+            
+            "message": "Παράγραφος"
+        },
+        "Parameter %s" : {
+            
+            "message": "Παράμετρος %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Οι παράμετροι δεν μπορούν να επαναληφθούν μέσα σε μια παράσταση."
+        },
+        "Paste" : {
+            
+            "message": "Επικόλληση"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Δεν είναι διαθέσιμη η λειτουργία επικόλλησης (paste) από το μενού επεξεργασίας. Για να κάνετε επικόλληση χρησιμοποιήστε τα πλήκτρα CTRL-V ή  CMD-V."
+        },
+        "Pause replay" : {
+            
+            "message": "Επανάληψη παύσης"
+        },
+        "Pause Video" : {
+            
+            "message": "Παύση Βίντεο"
+        },
+        "Peak Frequency" : {
+            
+            "message": "Συχνότητα Peak"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Περίοδος Εκκρεμούς"
+        },
+        "Percentage" : {
+            
+            "message": "Ποσοστό"
+        },
+        "Perform a" : {
+            
+            "message": "Εκτέλεση a"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Χρόνος Φωτοπύλης"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Οι φωτοπύλες μπορούν να χρονομετρούν αντικείμενα που κινούνται μεταξύ φωτοπυλών ή να μετρούν την περίοδο ταλάντωσης ενός εκκρεμούς. Ο χρόνος μεταξύ διαδοχικών συμβάντων κλεισίματος φωτοπύλης είναι το χρονικό διάστημα που μεσολαβεί. Όταν χρησιμοποιούνται δύο φωτοπύλες, τότε θα πρέπει και οι δύο φωτοπύλες να κλείσουν πριν αναφερθεί κάποια τιμή."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Εικόνα σε Εικόνα"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Τοποθετήστε τον αισθητήρα σας Go Direct κοντά στον υπολογιστή, κινητό ή tablet"
+        },
+        "Play replay" : {
+            
+            "message": "Παίζει επανάληψη"
+        },
+        "Play Video" : {
+            
+            "message": "Παίζει Βίντεο"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "Πολλαπλασιαστής Tαχύτητας Aναπαραγωγής"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Παρακαλώ εισάγετε την IP διεύθυνση της συσκευής δεδομένων:"
+        },
+        "Plot" : {
+            
+            "message": "Γράφημα"
+        },
+        "Plot Manager" : {
+            
+            "message": "Διαχειριστής Γραφήματος"
+        },
+        "Plus" : {
+            
+            "message": "Plus"
+        },
+        "point" : {
+            
+            "message": "σημείο"
+        },
+        "Point Colors" : {
+            
+            "message": "Χρώματα Σημείου"
+        },
+        "Point Symbols" : {
+            
+            "message": "Χρώμα Συμβόλων"
+        },
+        "points" : {
+            
+            "message": "σημεία"
+        },
+        "Points" : {
+            
+            "message": "Σημεία"
+        },
+        "points before trigger" : {
+            
+            "message": "σημεία πριν την διέγερση"
+        },
+        "Power" : {
+            
+            "message": "Ισχύς"
+        },
+        "Prediction" : {
+            
+            "message": "Πρόβλεψη"
+        },
+        "Prediction Name" : {
+            
+            "message": "Όνομα Πρόβλεψης"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Το όνομα της πρόβλεψης έχει %s όριο χαρακτήρων."
+        },
+        "Prediction Options" : {
+            
+            "message": "Επιλογές Πρόβλεψης"
+        },
+        "Prediction Title" : {
+            
+            "message": "Τίτλος Πρόβλεψης"
+        },
+        "Predictions" : {
+            
+            "message": "Προβλέψεις"
+        },
+        "Preview mode" : {
+            
+            "message": "Λειτουργία Προεπισκόπισης"
+        },
+        "Primary:" : {
+            
+            "message": "Πρωτεύον:"
+        },
+        "Privacy Notice" : {
+            
+            "message": "Σημείωση Απορρήτου"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": "Ειδοποίηση Λήξης Pro"
+        },
+        "Projectile Info" : {
+            
+            "message": "Πληροφορίες Εκτοξευτήρα Βλήματος"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Εκτοξευτήρας Βλήματος"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Δώστε αυτόν τον κωδικό ID σε άλλους για να συνδεθούν στην συσκευή σας"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Σύνδεση Proximity"
+        },
+        "Pulse timing" : {
+            
+            "message": "Μέτρηση χρόνου Παλμού"
+        },
+        "Quote" : {
+            
+            "message": "Φράση"
+        },
+        "radians" : {
+            
+            "message": "ακτίνια"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Ακτίνια (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Ρυθμός"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Απαιτείται σταθερή διάρκεια εάν οι ρυθμοί συλλογής ξεπερνούν τα 200 δείγματα/δευτερόλεπτο."
+        },
+        "Reconnect" : {
+            
+            "message": "Επανασύνδεση"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": "Συνδέστε ξανά τον αισθητήρα σας για να ανακτήσετε καταγεγραμμένα δεδομένα."
+        },
+        "Rectangle" : {
+            
+            "message": "Ορθογώνιο"
+        },
+        "Regular" : {
+            
+            "message": "Τακτική"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Ένδειξη Σχετικής Σταθερότητας"
+        },
+        "Remainder" : {
+            
+            "message": "Υπόλοιπο"
+        },
+        "Remote Logging" : {
+            
+            "message": "Εξ Αποστάσεως Καταγραφή"
+        },
+        "Remote Logging in Process" : {
+            
+            "message": "Εξ Αποστάσεως Καταγραφη σε Λειτουργία"
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": "Εξ αποστάσεως καταγραφή είναι δυνατή μόνο σε έναν αισθητήρα την φορά."
+        },
+        "Remote Logging Started" : {
+            
+            "message": "Ξεκίνησε η Εξ Αποστάσεως Καταγραφή"
+        },
+        "Remote Logging Status" : {
+            
+            "message": "Κατάσταση Εξ Αποστάσεως Καταγραφής"
+        },
+        "Remove" : {
+            
+            "message": "Αφαίρεση"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Κατάργηση Γραμμικής Τάσης"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Αφαίρεση Soft Αισθητήρα"
+        },
+        "Rename" : {
+            
+            "message": "Αλλαγή Ονόματος"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Αλλαγή Ονόματος Συνόλου Δεδομένων"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Αλλαγή Ονόματος Πρόβλεψης"
+        },
+        "Replay" : {
+            
+            "message": "Επανάληψη"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Πληροφορίες επανάληψης συγχρονισμού βίντεο"
+        },
+        "Reported Reading" : {
+            
+            "message": "Εμφανισμένες Ενδείξεις"
+        },
+        "Reset" : {
+            
+            "message": "Επαναφορά"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Επαναφορά (Μηδενός) στη Συλλογή"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Επαναφορά σε Προκαθορισμένες Ρυθμίσεις"
+        },
+        "Restart app" : {
+            
+            "message": "Εφαρμογή Επανακκίνησης"
+        },
+        "Restart Replay" : {
+            
+            "message": "Επανακίνηση Επανάληψης"
+        },
+        "Restore All" : {
+            
+            "message": "Επαναφορά Όλων"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": "Ανάκτηση και Εκκαθάριση"
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": "Ανάκτηση και Εκκαθάριση Αισθητήρα"
+        },
+        "Retry Calibration" : {
+            
+            "message": "Επανάληψη Βαθμονόμησης"
+        },
+        "Reverse" : {
+            
+            "message": "Αναστροφή"
+        },
+        "revolution" : {
+            
+            "message": "περιστροφή"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Περιστροφές (rev)"
+        },
+        "Right" : {
+            
+            "message": "Δεξιά"
+        },
+        "Right Axis" : {
+            
+            "message": "Δεξιός Άξονας"
+        },
+        "Right manual fit handle" : {
+            
+            "message": "Χειρισμός δεξιάς χειροκίνητης προσαρμογής"
+        },
+        "Right y-axis" : {
+            
+            "message": "Y-άξονας Δεξιά"
+        },
+        "Right y-axis range" : {
+            
+            "message": "Y-Άξονας Δεξιά Περιοχή Μέτρησης"
+        },
+        "RMS" : {
+            
+            "message": "RMS"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": "Στρογγυλό"
+        },
+        "Row Number" : {
+            
+            "message": "Αριθμός Σειράς"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "δείγμα"
+        },
+        "Sample Data" : {
+            
+            "message": "Δείγμα Δεδομένων"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Δείγμα Πειραμάτων"
+        },
+        "samples" : {
+            
+            "message": "δείγματα"
+        },
+        "Samples" : {
+            
+            "message": "Δείγματα"
+        },
+        "samples per second" : {
+            
+            "message": "δείγματα το δευτερόλεπτο"
+        },
+        "samples scheduled" : {
+            
+            "message": "προγραμματισμένα δείγματα"
+        },
+        "Save" : {
+            
+            "message": "Αποθήκευση"
+        },
+        "Save AMBL" : {
+            
+            "message": "Αποθήκευση AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Αποθήκευση και Κλείσιμο Εφαρμογής"
+        },
+        "Save As..." : {
+            
+            "message": "Αποθήκευση Ως..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Να αποθηκευτούν οι αλλαγές?"
+        },
+        "Save CSV" : {
+            
+            "message": "Αποθήκευση CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Αποθήκευση Πειράματος"
+        },
+        "Save failed" : {
+            
+            "message": "Η αποθήκευση απέτυχε"
+        },
+        "Save PDF" : {
+            
+            "message": "Αποθήκευση PDF"
+        },
+        "Save Pending" : {
+            
+            "message": "Αποθήκευση σε εκκρεμότητα"
+        },
+        "Save PNG" : {
+            
+            "message": "Αποθήκευση PNG"
+        },
+        "Saved" : {
+            
+            "message": "Αποθηκευμένα"
+        },
+        "Saving" : {
+            
+            "message": "Αποθηκεύει"
+        },
+        "Scale Factor" : {
+            
+            "message": "Συντελεστής Κλίμακας"
+        },
+        "Scaling" : {
+            
+            "message": "Κλίμακα Μέτρησης"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Πραγματοποιεί έλεγχο για συσκευές..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Η τάση του δεύτερου σημείου βαθμονόμησης πρέπει να είναι διαφορετική από το πρώτο σημείο τουλάχιστον 0.05 V."
+        },
+        "Second Derivative" : {
+            
+            "message": "Δεύτερη Παράγωγο"
+        },
+        "Secondary:" : {
+            
+            "message": "Δευτερεύον:"
+        },
+        "seconds" : {
+            
+            "message": "δευτερόλεπτα"
+        },
+        "See Experiments" : {
+            
+            "message": "Βλέπε Πειράματα"
+        },
+        "See sample experiments" : {
+            
+            "message": "Βλέπε δείγματα πειραμάτων"
+        },
+        "Select Data Set" : {
+            
+            "message": "Επιλέξτε Σύνολο Δεδομένων"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Επιλέξτε τις επιθυμητές μονάδες για την μέτρηση της γωνιακής θέσης."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "Επιλέξτε τη συσκευή που θέλετε να συνδέσετε."
+        },
+        "select/deselect meter" : {
+            
+            "message": "επιλογή/αποεπιλογή μετρητή"
+        },
+        "Selected Events" : {
+            
+            "message": "Επιλεγμένα Συμβάντα"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Δραστηριότητες Αισθητήρα"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Κανάλια Αισθητήρα"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Συλλογή Δεδομένων Αισθητήρα"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Ρύθμιση Αισθητήρα"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Τάση Αισθητήρα"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Μηδενισμός Αισθητήρα"
+        },
+        "Sensors" : {
+            
+            "message": "Αισθητήρες"
+        },
+        "Session 1 Name" : {
+            
+            "message": "Όνομα Συνεδρίας 1"
+        },
+        "Session 2 Name" : {
+            
+            "message": "Όνομα Συνεδρίας 2"
+        },
+        "Session 3 Name" : {
+            
+            "message": "Όνομα Συνεδρίας 3"
+        },
+        "Session 4 Name" : {
+            
+            "message": "Όνομα Συνεδρίας 4"
+        },
+        "Session ended by Host" : {
+            
+            "message": "Η Συνεδρία ολοκληρώθηκε από τον Κεντρικό Διαχειριστή"
+        },
+        "Session Preferences" : {
+            
+            "message": "Προτιμήσεις Συνεδρίας"
+        },
+        "Settings saved" : {
+            
+            "message": "Ρυθμίσεις Αποθηκεύτηκαν"
+        },
+        "Share AMBL" : {
+            
+            "message": "Κοινή Χρήση AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Κοινή χρήση πειράματος με άλλους μέσω μιας σύνδεσης δικτύου"
+        },
+        "Share CSV" : {
+            
+            "message": "Κοινή Χρήση CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Κοινή Χρήσης Εικόνας"
+        },
+        "Share PDF" : {
+            
+            "message": "Κοινή Χρήση PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Εμφάνιση Όλων των Εκδόσεων"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": "Εμφάνιση Οδηγιών Σήμανσης Δεδομένων"
+        },
+        "Show Details" : {
+            
+            "message": "Εμφάνιση Λεπτομερειών"
+        },
+        "Show Error Bars" : {
+            
+            "message": "Εμφάνιση Μπάρα Σφαλμάτων"
+        },
+        "Show FFT" : {
+            
+            "message": "Εμφάνιση FFT"
+        },
+        "Show Histogram" : {
+            
+            "message": "Εμφάνιση Ιστογράμματος"
+        },
+        "Show Less" : {
+            
+            "message": "Εμφάνιση Λιγότερο"
+        },
+        "Show Menu" : {
+            
+            "message": "Εμφάνιση Menu"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Εμφανίζει ενδιάμεσο χρόνο περάσματος φωτοπύλης"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Εμφάνιση Αρχικού Γραφήματος"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": "Εμφάνιση οδηγιών εξ αποστάσεως καταγραφής"
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": "Εμφάνιση Αβεβαιότητας Παραμέτρων Προσαρμογής"
+        },
+        "Significant Figures" : {
+            
+            "message": "Σημαντικοί Αριθμοί"
+        },
+        "Sine" : {
+            
+            "message": "Ημίτονο"
+        },
+        "Slope" : {
+            
+            "message": "Κλίση"
+        },
+        "Small" : {
+            
+            "message": "Μικρή"
+        },
+        "Spacing" : {
+            
+            "message": "Διαστήματα απόστασης"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Διάστημα Απόστασης = Περιφέρεια / Αριθμός Ακτίνων"
+        },
+        "Specify source" : {
+            
+            "message": "Προσδιορίστε την πηγή δεδομένων"
+        },
+        "Spectrum" : {
+            
+            "message": "Φάσμα"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Ταχύτητα μέσω της Φωτοπύλης"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "Πληροφορίες Ταχύτητας Διέλευσης Φωτοπύλης"
+        },
+        "Spokes:" : {
+            
+            "message": "Ακτίνες:"
+        },
+        "Square" : {
+            
+            "message": "Τετράγωνο"
+        },
+        "Square Root" : {
+            
+            "message": "Τετραγωνική Ρίζα"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Ξεκινήστε μια Συνεδρία Κοινής Χρήσης Δεδομένων"
+        },
+        "Start a New Session" : {
+            
+            "message": "Έναρξη Νέας Συνεδρίας"
+        },
+        "Start Collection" : {
+            
+            "message": "Έναρξη Συλλογής Δεδομένων"
+        },
+        "Start collection when" : {
+            
+            "message": "Εκκίνηση Συλλογής όταν"
+        },
+        "Start Logging" : {
+            
+            "message": "Έναρξη Καταγραφής"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Έναρξη Νέου Πειράματος?"
+        },
+        "Start Session" : {
+            
+            "message": "Έναρξη Συνεδρίας"
+        },
+        "Statistics" : {
+            
+            "message": "Στατιστικά"
+        },
+        "Std dev" : {
+            
+            "message": "Μέση Απόκλιση"
+        },
+        "Step Backward" : {
+            
+            "message": "Βήμα Προς τα Πίσω"
+        },
+        "Step Forward" : {
+            
+            "message": "Βήμα Προς τα Εμπρός"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "Βήμα Βίντεο Προς τα Πίσω"
+        },
+        "Step Video Forward" : {
+            
+            "message": "Βήμα Βίντεο Προς τα Εμπρός"
+        },
+        "Stop" : {
+            
+            "message": "Τερματισμός"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Σταματήστε να προσθέτετε σταγόνες όταν ο όγκος φτάσει μεταξύ 9 mL και 10 mL."
+        },
+        "Stop Collection" : {
+            
+            "message": "Σταματήστε τη συλλογή"
+        },
+        "Stop Sharing" : {
+            
+            "message": "Τερματισμός Κοινής Χρςήσης"
+        },
+        "Strikethrough" : {
+            
+            "message": "Διαγράμμιση"
+        },
+        "Subject" : {
+            
+            "message": "Θέμα"
+        },
+        "Submit" : {
+            
+            "message": "Υποβολή"
+        },
+        "Subscript" : {
+            
+            "message": "Δείκτης"
+        },
+        "Subscription Ends" : {
+            
+            "message": "Η Συνδρομή Λήγει"
+        },
+        "Subscription ends" : {
+            
+            "message": "Η συνδρομή τελειώνει"
+        },
+        "Superscript" : {
+            
+            "message": "Εκθέτης"
+        },
+        "Supported Functions" : {
+            
+            "message": "Υποστηριζόμενες Λειτουργίες"
+        },
+        "Symbol" : {
+            
+            "message": "Σύμβολο"
+        },
+        "Sync data with video" : {
+            
+            "message": "Συγχρονισμός δεδομένων με video"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Συγχρονισμός Video με Δεδομένα"
+        },
+        "Syntax" : {
+            
+            "message": "Σύνταξη"
+        },
+        "Table" : {
+            
+            "message": "Πίνακας"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Σε κάθε σταγόνα θα παίρνει μέτρηση από τον αισθητήρα (π.χ., pH, αγωγιμότητας)."
+        },
+        "Tangent" : {
+            
+            "message": "Εφαπτομένη"
+        },
+        "Target" : {
+            
+            "message": "Στόχος"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Έχει χαθεί η Bluetooth επικοινωνία"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Απαιτείται το Όνομα της Στήλης"
+        },
+        "the current file" : {
+            
+            "message": "το τρέχον αρχείο"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Το σύνολο δεδομένων θα ξεκινήσει αναπαραγωγή %s s πριν το βίντεο"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "Εάν δεν εισαχθεί όνομα στην προσαρμογή καμπύλης, θα χρησιμοποιηθεί το όνομα της παράστασης."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Η ταχύτητα εκτόξευσης είναι η μέση ταχύτητα του αντικειμένου εκτόξευσης καθώς περνά μεταξύ των δύο ενσωματωμένων φωτοπύλων."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Η ταχύτητα εκτόξευσης είναι η μέση ταχύτητα του αντικειμένου εκτόξευσης καθώς περνά την πρώτη ενσωματωμένη φωτοπύλη."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Το Πλάτος του Αντικειμένου/Σημαίας διαιρείται από τον χρόνο που η φωτοπύλη παραμαίνει κλειστή για να προσδιοριστεί η ταχύτητα του αντικειμένου που περνά την φωτοπύλη."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": "Ο ζητούμενος ρυθμός και η διάρκεια δεν μπορούν να τηρηθούν. Ο μέγιστος ρυθμός είναι %.2f δείγματα/%s ανά %d%s."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Ο χρόνος μεταξύ διαδοχικών συμβάντων κλεισίματος φωτοπύλης αναφέρεται ως ενδιάμεσο χρονικό διάστημα."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "Δεν μπορεί να υπάρχουν περισσότερες από επτά παράμετροι σε μια παράσταση."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "Υπάρχει μια νέα έκδοση λογισμικού γι' αυτόν τον αισθητήρα για επίλυση προβλημάτων εσφαλμένων μετρήσεων όταν ο αισθητήρας βρεθεί σε θερμοκρασία περιβάλλοντος κάτω από 0°C. Η διαδικασία ενημέρωσης λογισμικού δεν μπορεί να γίνει από την εφαρμογή Graphical Analysis."
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Γι αυτόν τον αισθητήρα υπάρχει διαθέσιμο νέο λογισμικό firmware, αλλά η αναβάθμιση δεν μπορεί να γίνει από αυτή την συσκευή. Για να αναβαθμίσετε τον αισθητήρα, συνδέστε τον μέσω θύρας USB σε συσκευή macOS, Windows, ή ChromeOS και ανοίξτε την έφαρμογή Graphical Analysis. Στη συνέχεια ανοίξτε την λίστα Συνδεδεμένων Συσκευών και ενεργοποιήστε την αναβάθμιση."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Γι αυτόν τον αισθητήρα υπάρχει διαθέσιμο νέο λογισμικό firmware. Για την αναβάθμιση απαιτείται να συνδεθεί ο αισθητήρας μέσω θύρας USB και να κλείσει προσωρινά η εφαρμογή Graphical Analysis. Εάν η σύνδεση με τον αισθητήρα σας είναι τώρα ασύρματη, θα πρέπει να τον συνδέσετε σε θύρα USB."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Υπήρξε πρόβλημα με την αποθήκευση των ρυθμίσεων"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Αυτή η στήλη δημιουργήθηκε αυτόματα και δέν μπορεί να αλλάξει"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Αυτή η διαγραφή δεν μπορεί να αναιρεθεί."
+        },
+        "This feature requires a" : {
+            
+            "message": "Αυτό το χαρακτηριστικό απαιτεί"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Αυτός ο αριθμός ορίζει την υποδιαίρεση μιας στροφής που μεταβάλλεται η γωνιακή θέση σε κάθε συμβάν κλεισίματος φωτοπύλης."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Η έκδοση Windows υποστηρίζει μόνο USB σύνδεση με αισθητήρες Go Direct."
+        },
+        "Time" : {
+            
+            "message": "Χρόνος"
+        },
+        "Time Based" : {
+            
+            "message": "Με Βάση τον Χρόνο"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "Συλλογή Δεδομένων με Βάση το Χρόνο - Ένα Γράφημα"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "Συλλογή Δεδομένων με Βάση το Χρόνο - Τρία Γραφήματα"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "Συλλογή Δεδομένων με Βάση το Χρόνο - Δύο Γραφήματα"
+        },
+        "Time between gates" : {
+            
+            "message": "Χρόνος μεταξύ φωτοπυλών"
+        },
+        "Time Decay Filter" : {
+            
+            "message": "Φίλτρο τιμής theta (time decay )"
+        },
+        "Time measurements" : {
+            
+            "message": "Μετρήσεις Χρόνου"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Χρόνος Flight Pad,"
+        },
+        "Time Units" : {
+            
+            "message": "Μονάδες Μέτρησης Χρόνου"
+        },
+        "Timer" : {
+            
+            "message": "Μετρητής Χρόνου"
+        },
+        "Timer Info" : {
+            
+            "message": "Πληροφορίες Χρονομετρητή"
+        },
+        "Timer or Period" : {
+            
+            "message": "Μετρητής Χρόνου ή Περιόδου"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Σημείωση: Για καλύτερα αποτελέσματα ελέξτε ότι ο αισθητήρας που θα χρησιμοποιήσετε είναι ο μοναδικός εντός 2 μέτρων από τον υπολογιστή σας, κινητό ή tablet."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Σημείωση: H σύνδεση Proximity βασίζετα σε εκτιμήσεις απόστασης. Σε περίπτωση που δεν είναι εφικτή κάποια εκτίμηση, χρησιμοποιήστε την λίστα σύνδεσης για να επιλέξετε έναν αισθητήρα."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Σημείωση: Για να είναι διαθέσιμοι οι αισθητήρες για σύνδεση, θα πρέπει να έχουν ένα κόκκινο λαμπάκι να αναβοσβήνει."
+        },
+        "Title" : {
+            
+            "message": "Τίτλος"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Για να δημιουργήσετε μια προσαρμοσμένη %s, χρησιμοποιήστε οποιαδήποτε από τις υποστηριζόμενες λειτουργίες με οποιονδήποτε από τους υποστηριζόμενους operators"
+        },
+        "To locate the address:" : {
+            
+            "message": "Να εντοπίσει την διεύθυνση:"
+        },
+        "to make the key available for use." : {
+            
+            "message": "για να διαθέσετε το κλειδί για χρήση."
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Για να ξεκινήσετε μια συνεδρία Κοινής Χρήσης Δεδομένων:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Εναλλαγή Λειτουργίας Σκοτεινού"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Εναλλαγή Λειτουργίας Φωτεινού"
+        },
+        "Too few points" : {
+            
+            "message": "Πολύ λίγα σημεία"
+        },
+        "Toolbar" : {
+            
+            "message": "Μπάρα Εργαλείων"
+        },
+        "Top" : {
+            
+            "message": "Κορυφή"
+        },
+        "Total samples" : {
+            
+            "message": "Συνολικός αριθμός δειγμάτων"
+        },
+        "Triangle" : {
+            
+            "message": "Τρίγωνο"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Οι τριγωνομετρικές συναρτήσεις αξιολογούνται σε ακτίνια, εκτός όταν έχει μονάδες η στήλη δεδομένων οριζόντιου άξονα"
+        },
+        "Truncate" : {
+            
+            "message": "Συρρικνώνω"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Βαθμονόμηση δύο σημείων"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Τροχαλία Ultra με εσωτερικό αυλάκι"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Τροχαλία Ultra με εξωτερικό χείλος"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Δεν μπορεί να συνδεθεί ή να βρει μια συσκευή με αυτό το όνομα."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Δεν μπορεί να συνδεθεί "
+        },
+        "Units" : {
+            
+            "message": "Μονάδες"
+        },
+        "Unknown" : {
+            
+            "message": "Αγνωστος"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "Σφάλμα Άγνωστης Άδειας Χρήσης"
+        },
+        "Unmute Audio" : {
+            
+            "message": "Ενεργοποίηση Ήχου"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "Μη υποστηριζόμενος Φυλλομετρητής"
+        },
+        "Untitled" : {
+            
+            "message": "Χωρίς τίτλο"
+        },
+        "Update Available" : {
+            
+            "message": "Διαθέσιμη Ενημέρωση"
+        },
+        "Update error" : {
+            
+            "message": "Σφάλμα Ενημέρωσης"
+        },
+        "Update Firmware" : {
+            
+            "message": "Ενημέρωση Λογισμικού Firmware"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Κατεβαίνει το αρχείο ενημέρωσης..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Ενημερώστε το Κλειδί Άδειας Χρήσης"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "Συσκυεή USB"
+        },
+        "Use Column Value" : {
+            
+            "message": "Χρησιμοποιεί Τιμή Στήλης"
+        },
+        "Use gate separation" : {
+            
+            "message": "Χρησησιμοποιεί διαχωρισμό φωτοπύλης"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Χρησιμοποιεί πλάτος αντικειμένου / σημαίας"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Χρησιμοποίησε την διάμετρο του βλήματος"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Χρησιμοποιεί Επιστημονική Σημειογραφία"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "Χρησιμοποιήσετε όπως επιθυμείτε τη θύρα USB η το κουμπί ασύρματης μετάδοσης."
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": "Χρησιμοποιείστε αυτή την περιοχή για να γράφετε σημειώσεις σχετικά με το πείραμά σου. Για να δείτε τη μορφοποίηση που εφαρμόζεται, μεταβείτε σε λειτουργία προεπισκόπησης."
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Χρησιμοποιήστε αυτή την επιλογή για να διερευνήσετε την ταχύτητα σε συνάρτηση με τον χρόνο. Ο χρόνος που θα εμφανιστεί είναι ο ενδιάμεσος χρόνος μεταξύ της χρονικής στιγμής που η φωτοπύλη μπλοκάρει και της στιγμής που ξεμπλοκάρει."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Χρησιμοποίησε τον Χρόνο της συσκευής Flight Pad"
+        },
+        "Use Windowing" : {
+            
+            "message": "Αναφέρεται στο FFT παράθυρο. Για παράδειγμα: https://en.wikipedia.org/wiki/Window_function"
+        },
+        "User Manual" : {
+            
+            "message": "Εγχειρίδιο Χρήσης"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Χρησιμοποιώντας εργοστασιακή βαθμονόμηση από"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "Χρήση τοπικά αποθηκευμένης στην προσωρινή μνήμη έκδοση αυτού του πειράματος."
+        },
+        "Value must be between " : {
+            
+            "message": "Η τιμή πρέπει να είναι μεταξύ "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "Η εφαρμογή Vernier Graphical Analysis&reg; είναι ένα εργαλείο για μαθητές φυσικών επιστημών για να συλλέγουν, εμφανίζουν γραφικές παραστάσεις και αναλύουν δεδομένα από αισθητήρες της εταιρείας Vernier."
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "Η είσοδος στην εφαρμοή Vernier Graphical Analysis® Pro τερματίζει σε ${this.daysRemaining} ημέρες"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "Η είσοδος στην εφαρμογή Vernier Graphical Analysis® Pro τερματίζει σήμερα"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Πλαστική Ταινία Vernier για Φωτοπύλες"
+        },
+        "Version" : {
+            
+            "message": "Έκδοση"
+        },
+        "Vertical Divider" : {
+            
+            "message": "Κάθετος Διαιρέτης"
+        },
+        "Video" : {
+            
+            "message": "Βίντεο"
+        },
+        "Video Time" : {
+            
+            "message": "Χρόνος Βίντεο"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Το Βίντεο θα ξεκινήσει αναπαραγωγή  %s s πριν την αναπαραγωγή του συνόλου δεδομένων"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Το Βίντεο θα ξεκινήσει αναπαραγωγή την ίδια χρονική στιγμή με την αναπαραγωγή του συνόλου δεδομένων"
+        },
+        "View Experiment" : {
+            
+            "message": "Προβολή Πειράματος"
+        },
+        "View Integral" : {
+            
+            "message": "Εμφάνιση Ολοκληρώματος"
+        },
+        "View Options" : {
+            
+            "message": "Εμφάνιση Επιλογών"
+        },
+        "View Statistics" : {
+            
+            "message": "Εμφάνιση Στατιστικών"
+        },
+        "Voltage" : {
+            
+            "message": "Τάση"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Αναμαίνοντας για %s έως %s από %s %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "Διαπιστώσαμε ότι το κλειδί άδειας χρήσης είναι έγκυρο, αλλά η Άδεια Χρήσης Τελικού Χρήστη πρέπει να γίνει αποδεκτή για να μπορέσει να χρησιμοποιηθεί. "
+        },
+        "What's New" : {
+            
+            "message": "ΤΙ  Νέα"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Όταν επιλέξετε εκκρεμές, τότε η περίοδος θα είναι ο χρόνος μεταξύ κάθε δεύτερου συμβάντος κλεισίματος φωτοπύλης εάν το εκκρεμές μπλοκάρει τρεις φωρές την φωτοπύλη σε μια απλή ταλάντωση."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Όταν χρησιμοποιείτε δύο φωτοπύλες, τότε μπορείτε να χρησιμοποιήσετε την απόσταση μεταξύ των φωτοπυλών για να υπολογίσετε την ταχύτητα, αντί το πλάτος του Αντικειμένου / Σημαίας. Η αναφερόμενη ταχύτητα θα ήταν η ταχύτητα διέλευσης μεταξύ των δύο φωτοπυλών."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Απαιτούντα τα windows 10 για ασύρματη σύνδεση."
+        },
+        "Wireless" : {
+            
+            "message": "Ασύρματη Μετάδοση"
+        },
+        "Working..." : {
+            
+            "message": "Εργάζεται..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x-άξονα περιοχή μέτρησης"
+        },
+        "x-range" : {
+            
+            "message": "x-περιοχή"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-άξονα περιοχή μέτρησης"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "Δεν μπορείτε να συνδέσετε μια συσκευή είτε μέσω θύρας USB ή ασύρματα."
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "Μπορείτε να δώσετε πρόσβαση σε άλλους χρήστες στο σχολείο σας σε αυτή την εφαρμογή, κάνοντας κοινή χρήση αυτού του URL συνδέσμου, μέσω email ή άλλου τρόπου."
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": "Δεν χρειάζεται να περιμένετε να ολοκληρωθεί η συλλογή δεδομένων για να ανακτήσετε τα καταγεγραμμένα δεδομένα."
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": "Εισαγάγατε μη αριθμητικά δεδομένα. Επιθυμείτε να μετατρέψετε αυτή τη στήλη σε δεδομένα κατηγορίας?"
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "Έχετε συνδέσει μια συσκευή που δεν απαιτείται για το συγκεκριμένο πείραμα."
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "Έχετε εισάγει ένα κωδικό ενεργοποίησης και όχι τον κωδικό της άδειας χρήσης."
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "Στην οθόνη σας θα εμφανιστούν οι διαθέσιμε συσκευές. Επιλέξτε την συσκευή που θέλετε και κάντε κλικ για Pair (Σύζευξη)."
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Ένα νέο πείραμα ξεκινά η λειτουργία σας Κοινή Χρήση Δεδομένων. Μπορείτε να συνεχίσετε με το πείραμά σας ή να συμμετάσχετε στο νέο πείραμα."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Η άδεια χρήσης σας επιτρέπει να κάνετε κοινή χρήση της εφαρμογής Vernier Graphical Analysis® μόνο με μαθητές, τμήματα και προσωπικό εντός του σχολείου σας. Παρακαλώ μην κάνετε χρήση της συγκεκριμένης άδειας εκτός του σχολείου σας."
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Η άδεια χρήσης σας επιτρέπει να κάνετε κοινή χρήση της εφαρμογής Vernier Video Analysis μόνο με μαθητές, τμήματα και προσωπικό εντός του σχολείου σας. Παρακαλώ μην κάνετε χρήση της συγκεκριμένης άδειας εκτός του σχολείου σας."
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": "Ο αισθητήρας σας έχει αποσυνδεθεί."
+        },
+        "Zero" : {
+            
+            "message": "Μηδενισμός"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Μεγένθυση σε όλα τα Δεδομένα"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Μεγένθυση σε Επιλογή Δεδομένων"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-άξονας ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-άξονας ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier Science Education"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g Αισθητήρας Επιτάχυνσης"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3-Αξόνων Αισθητήρας Επιτάχυνσης (Χ)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3-Αξόνων Αισθητήρας Επιτάχυνσης (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3-Aξόνων Αισθητήρας Επιτάχυνσης (Ζ)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "30V Τάση (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Απορρόφηση"
+        },
+        "Acceleration" : {
+            
+            "message": "Επιτάχυνση"
+        },
+        "Accelerometer" : {
+            
+            "message": "Επιταχυνσιόμετρο"
+        },
+        "Ammonium" : {
+            
+            "message": "Αμμώνιο"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Επιλεκτικό Ηλεκτρόδιο Ιόντων Αμμώνιου (ISE)"
+        },
+        "Analyzer" : {
+            
+            "message": "Αναλυτής"
+        },
+        "Anemometer" : {
+            
+            "message": "Ανεμόμετρο"
+        },
+        "Angle" : {
+            
+            "message": "Γωνία"
+        },
+        "Barometer" : {
+            
+            "message": "Βαρόμετρο"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Βαρόμετρο (έχει σταματήσει η διάθεσή του)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Πίεση Αερίου Βιολογίας"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Πίεση Αίματος"
+        },
+        "Calcium" : {
+            
+            "message": "Ασβέστιο"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Επιλεκτικό Ηλεκτρόδιο Ιόντων Ασβεστίου (ISE)"
+        },
+        "Charge" : {
+            
+            "message": "Φόρτιση"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Αισθητήρας Φόρτισης"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Αισθητήρας Φόρτισης 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Αισθητήρας Φόρτισης 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Αισθητήρας Φόρτισης 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Χλωριούχο"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Επιλεκτικό Ηλεκτρόδιο Ιόντων Χλώριου (ISE)"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Αέριο Υψηλής Περιοχής"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Αέριο Χαμηλής Περιοχής"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 Αέριο (Παλιός Αισθητήρας)"
+        },
+        "Colorimeter" : {
+            
+            "message": "Χρωματόμετρο"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Χρωματόμετρο (Παλαιός Αισθητήρας)"
+        },
+        "Concentration" : {
+            
+            "message": "Συγκέντρωση"
+        },
+        "Conductivity" : {
+            
+            "message": "Αγωγιμότητα"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Αγωγιμότητα 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Αγωγιμότητα 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Αγωγιμότητα 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Σύστημα Σταθερού Ρεύματος"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Πίεση Αρτηριακή (Cuff Pressure)"
+        },
+        "Current" : {
+            
+            "message": "Ρεύμα"
+        },
+        "Current Probe" : {
+            
+            "message": "Αισθητήρας Ρεύματος"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Αισθητήρας Ρεύματος 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "Διαστολική"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Διαφορική Τάση"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Μονάδα Ψηφιακού Ελέγχου"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Θερμόμετρο τύπου Direct-Connect (Απευθείας Σύνδεσης)"
+        },
+        "Displacement" : {
+            
+            "message": "Μετατόπιση"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Διαλυμένο CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Διαλυμένο Οξυγόνο"
+        },
+        "Distance" : {
+            
+            "message": "Απόσταση"
+        },
+        "DO" : {
+            
+            "message": "Διαλυμένο Οξυγόνο"
+        },
+        "Drop Counter" : {
+            
+            "message": "Μετρητής Σταγόνων"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Αισθητήριο Δύναμης Διπλής Περιοχής 10 Ν"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Αισθητήριο Δύναμης Διπλής Περιοχής 50 Ν"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Μόνο Αμαξίδια από τις αρχές του 2021"
+        },
+        "EKG" : {
+            
+            "message": "Ηλεκτροκαρδιογράφος (EKG)"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Ενισχυτής Ηλεκτροδίου"
+        },
+        "Energy" : {
+            
+            "message": "Ενέργεια"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Αισθητήρας Ρεύματος Ενέργειας"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Αισθητήρας Τάσης Ενέργειας"
+        },
+        "Ethanol" : {
+            
+            "message": "Αιθανόλη"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Αισθητήρας Αιθανόλης"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Θερμόμετρο τύπου Στελέχους Μεγάλου Μήκους (Extra Long)"
+        },
+        "Flow Rate" : {
+            
+            "message": "Παροχή (Flow Rate)"
+        },
+        "Fluorescence" : {
+            
+            "message": "Φθορισμός"
+        },
+        "Force" : {
+            
+            "message": "Δύναμη"
+        },
+        "Force Plate" : {
+            
+            "message": "Πλάκα Μέτρησης Δύναμης"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Πλάκα Μέτρησης Δύναμης 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Πλάκα Μέτρησης Δύναμης 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Αισθητήρας Πίεσης Αερίου"
+        },
+        "Gate State" : {
+            
+            "message": "Κατάσταση Φωτοπύλης"
+        },
+        "Gate Time" : {
+            
+            "message": "Χρόνος Φωτοπύλης"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Go Wireless Ενισχυτής Ηλεκτροδίου"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go Wireless Παλμός Καρδιάς"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Αισθητήρας Go Wireless pH"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Θερμοκρασία"
+        },
+        "Go! Motion" : {
+            
+            "message": "Αισθητήρας Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Αισθητήρας Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Γωνιόμετρο"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Δυναμόμετρο Χειρός"
+        },
+        "Heart Rate" : {
+            
+            "message": "Καρδιακός Παλμός"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Μετρητής Καρδιακών Παλμών"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Αισθητήρας Υψηλής Έντασης Ρεύματος"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Αισθητήρας Φωτός Υψηλής Ευαισθησίας 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Αισθητήρας Φωτός Υψηλής Ευαισθησίας 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Αισθητήρας Φωτός Υψηλής Ευαισθησίας 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Φωτεινότητα"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Ενισχυτής Οργάνου"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Ενισχυτής Οργάνου +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Ενισχυτής Οργάνου +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Ενισχυτής Οργάνου +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Ενισχυτής Οργάνου 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Ενισχυτής Οργάνου 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Ενισχυτής Οργάνου 20mV"
+        },
+        "Intensity" : {
+            
+            "message": "Ένταση"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "Αισθητήρας Θερμοκρασίας τύπου Υπερύθρων (IR)"
+        },
+        "Irradiance" : {
+            
+            "message": "Ακτινοβολία"
+        },
+        "Launch Speed" : {
+            
+            "message": "Ταχύτητα Εκτόξευσης"
+        },
+        "Light" : {
+            
+            "message": "Φωτεινότητα"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Φωτεινότητα 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Φωτεινότητα 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Φωτεινότητα 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Επίπεδο Φωτεινότητας"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Αισθητήρας Γραμμικής Θέσης"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Μετρητής Επιτάχυνσης Χαμηλής Περιοχής-g"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Μαγνητικό Πεδίο"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Μαγνητικό Πεδίο 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Μαγνητικό Πεδίο 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Μέση Αρτηριακή Πίεση"
+        },
+        "Melt Station" : {
+            
+            "message": "Σταθμός Μέτρησης Σημείου Τήξης"
+        },
+        "Microphone" : {
+            
+            "message": "Μικρόφωνο"
+        },
+        "mol/L" : {
+            
+            "message": "mol/L"
+        },
+        "Motion" : {
+            
+            "message": "Κίνηση"
+        },
+        "Motion Detector" : {
+            
+            "message": "Ανιχνευτής Κίνησης"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Αμαξίδιο Κωδικοποιητή Κίνησης"
+        },
+        "Nitrate" : {
+            
+            "message": "Νιτρικό"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Επιλεκτικό Ηλεκτρόδιο Νιτρικών Ιόντων (ISE)"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Οπτικό Αισθητήριο DO %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Οπτικό Αισθητήριο DO mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Οξυγόνο Aέριο"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Αισθητήρας Οξυγόνου (Παλιός)"
+        },
+        "PAR Sensor" : {
+            
+            "message": "Αισθητήρας PAR (Φωτοσυνθετικής Ενεργής Ακτινοβολίας)"
+        },
+        "Period" : {
+            
+            "message": "Περίοδος"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "Ενισχυτές pH/mV/ORP"
+        },
+        "Photogate" : {
+            
+            "message": "Φωτοπύλη"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Στοιχείο Πλατίνα μέτρησης Αγωγιμότητας"
+        },
+        "Polarimeter" : {
+            
+            "message": "Πολωσίμετρο (Polarimeter)"
+        },
+        "Position" : {
+            
+            "message": "Θέση"
+        },
+        "Potassium" : {
+            
+            "message": "Κάλιο"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Επιλεκτικό Ηλεκτρόδιο Ιόντων Καλίου (ISE)"
+        },
+        "Potential" : {
+            
+            "message": "Δυναμικό"
+        },
+        "Power" : {
+            
+            "message": "Ισχύς"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Ενισχυτής Έντασης Ρεύματος"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Πίεση"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Αισθητήρας Πίεσης (έχει σταματήσει η διάθεσή του)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Αισθητήρας Πίεσης 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Εκτοξευτήρας Βλήματος"
+        },
+        "Pulse" : {
+            
+            "message": "Παλμός"
+        },
+        "Pulse Time" : {
+            
+            "message": "Χρόνος Παλμού"
+        },
+        "Pyranometer" : {
+            
+            "message": "Πυρανόμετρο"
+        },
+        "Radiation" : {
+            
+            "message": "Ακτινοβολία"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Μετρητής Ακτινοβολίας"
+        },
+        "Raw" : {
+            
+            "message": "Ακατέργαστο"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Τάση (0-5V) Χωρίς Ρύθμιση (Raw)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Σχετική Υγρασία"
+        },
+        "Resistance" : {
+            
+            "message": "Αντίσταση"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Μετρητής Αναπνοής"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Ρυθμός Αναπνοής"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Περιστροφική Κίνηση"
+        },
+        "Salinity" : {
+            
+            "message": "Αλατότητα"
+        },
+        "Signal" : {
+            
+            "message": "Σήμα"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Υγρασία Εδάφους"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Αισθητήρας Υγρασίας Εδάφους"
+        },
+        "Sound Level" : {
+            
+            "message": "Επίπεδο Ήχου"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Αισθητήρας Στάθμης Ήχου"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Πίεση Ήχου"
+        },
+        "Speed" : {
+            
+            "message": "Ταχύτητα"
+        },
+        "Spirometer" : {
+            
+            "message": "Μετρητής Αναπνοής"
+        },
+        "Standard" : {
+            
+            "message": "Πρότυπο"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Θερμόμετρο τύπου Βασικού (Standard)"
+        },
+        "Student Force" : {
+            
+            "message": "Αισθητήριο Δύναμης τύπου Μαθητή"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Μετρητής Ακτινοβολίας τύπου Μαθητή"
+        },
+        "Systolic" : {
+            
+            "message": "Συστολική"
+        },
+        "Temperature" : {
+            
+            "message": "Θερμοκρασία"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Ηλεκτρόδιο Θερμοκρασίας"
+        },
+        "Thermocouple" : {
+            
+            "message": "Θερμοζεύγος"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Αισθητήρας Θερμοζεύγους (παλιός)"
+        },
+        "TI Light" : {
+            
+            "message": "Συσκευή TI Light"
+        },
+        "Time of Flight" : {
+            
+            "message": "Χρόνος του Flight"
+        },
+        "Transmittance" : {
+            
+            "message": "Διαπερατότητα"
+        },
+        "Turbidity" : {
+            
+            "message": "Θολερότητα"
+        },
+        "UVA Intensity" : {
+            
+            "message": "Ένταση Υπεριώδους Ακτινοβολίας Α"
+        },
+        "UVA Sensor" : {
+            
+            "message": "Αισθητήρας UVA (Υπεριώδης Ακτινοβολία Α)"
+        },
+        "UVB Intensity" : {
+            
+            "message": "Ένταση Υπεριώδους Ακτινοβολίας Β"
+        },
+        "UVB Sensor" : {
+            
+            "message": "Αισθητήρας UVB (Υπεριώδη Ακτινοβολία Β)"
+        },
+        "Velocity" : {
+            
+            "message": "Ταχύτητα"
+        },
+        "Voltage" : {
+            
+            "message": "Τάση"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Τάση (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Όγκος"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT Μετατόπιση"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT Δύναμη"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Αισθητήρας Θερμοκρασίας τύπου Ευρείας Περιοχής (Wide-Range)"
+        },
+        "X Acceleration" : {
+            
+            "message": "Επιτάχυνση Χ"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Επιτάχυνση Y"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Επιτάχυνση Ζ"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": "*umol m-2 s-1*"
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": "*µmol m⁻² s⁻¹*"
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Απόλυτη Υγρασία"
+        },
+        "Acceleration G" : {
+            
+            "message": "Επιτάχυνση G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Διάνυσμα Επιτάχυνσης"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Επιτάχυνση Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Ρυθμιζόμενη Ένταση"
+        },
+        "Altitude" : {
+            
+            "message": "Ύψος"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Ενός σημείου βαθμονόμησης για Ύψος"
+        },
+        "Amplitude" : {
+            
+            "message": "Πλάτος"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Γωνία (Υψηλή Ανάλυση)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Γωνιακή Κίνηση"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Αυτόματος μηδενισμός στην έναρξη"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Βοηθητική Λειτουργία Θύρας"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE Τρέχουσα Περιοχή"
+        },
+        "BE Duration" : {
+            
+            "message": "BE Διάρκεια"
+        },
+        "BE Potential" : {
+            
+            "message": "BE Δυναμικό"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE Ρυθμός Δειγματοληψίας"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Βαρομετρική Πίεση"
+        },
+        "Battery Level" : {
+            
+            "message": "Επίπεδο Μπαταρίας"
+        },
+        "Battery Percent" : {
+            
+            "message": "Ποσοστό επιπέδου Μπαταρίας"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Τάση Μπαταρίας"
+        },
+        "Blank calibration" : {
+            
+            "message": "Κενή Βαθμονόμηση"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Τάση Γέφυρας"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "Ισοδύναμο CO₂"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ Αέριο"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CVS Τρέχουσα Περιοχή Μέτρησης"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS Τελικό Δυναμικό"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS Αρχικό Δυναμικό"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS Μετρητής Βρόχου"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS Αριθμός Τμημάτων"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS Ρυθμός Σάρωσης"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS Δυναμικό Εναλλαγής 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS Δυναμικό Εναλλαγής 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Συντελεστής βαθμονόμησης"
+        },
+        "Calibration power" : {
+            
+            "message": "Βαθμονόμηση Ισχύς"
+        },
+        "Cap number" : {
+            
+            "message": "Αριθμός Καπακιού"
+        },
+        "Cell" : {
+            
+            "message": "Κυψέλη"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Σταθερά Κυψέλης (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Σταθερά Κυψέλης (active)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Συντελεστής-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Συντελεστής-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Συντελεστής-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Αγωγιμότητα - 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": "Συντελεστής Διόρθωσης"
+        },
+        "Counts" : {
+            
+            "message": "Μετρήσεις"
+        },
+        "Current pressure" : {
+            
+            "message": "Τρέχουσα πίεση"
+        },
+        "Current state" : {
+            
+            "message": "Τρέχουσα κατάσταση"
+        },
+        "Current temperature" : {
+            
+            "message": "Τρέχουσα θερμοκρασία"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Συχνότητα Ανακοπής"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Όγκος Κύκλου"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Πηγή όγκου κύκλου"
+        },
+        "DAC value" : {
+            
+            "message": "DAC τιμή"
+        },
+        "DO Concentration" : {
+            
+            "message": "Συγκέντρωση Διαλυμένου Οξυγόνου"
+        },
+        "DO Salinity" : {
+            
+            "message": "Αλατότητα Διαλυμένου Οξυγόνου"
+        },
+        "DO Saturation" : {
+            
+            "message": "Κορεσμός Διαλυμένου Οξυγόνου"
+        },
+        "Data source" : {
+            
+            "message": "Πηγή Δεδομένων"
+        },
+        "Declination" : {
+            
+            "message": "Απόκλιση"
+        },
+        "Demo" : {
+            
+            "message": "Ντέμο"
+        },
+        "Dew Point" : {
+            
+            "message": "Σημείο Δρόσου"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Συντελεστής Διαστολικής"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Διαφορική Πίεση"
+        },
+        "Drops" : {
+            
+            "message": "Σταγώνες"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG Διορθωμένο"
+        },
+        "Electrode Current" : {
+            
+            "message": "Ηλεκτρόδιο Ρεύματος"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Ηλεκτρόδιο Τάσης"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Καθαρισμός Ηλεκτροδίου"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Εισάγετε 0% τιμή ροής"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Εισάγετε 100% τιμή ροής"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Εισάγετε 50% τιμή ροής"
+        },
+        "Enter altitude" : {
+            
+            "message": "Εισάγετε υψόμετρο"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Εισάγετε βαρομετρική πίεση"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Εισάγετε τρέχουσα θερμοκρασία"
+        },
+        "Enter first known value" : {
+            
+            "message": "Εισάγετε την πρώτη γνωστή τιμή"
+        },
+        "Enter k value" : {
+            
+            "message": "Εισάγετε τιμή k"
+        },
+        "Enter known value" : {
+            
+            "message": "Εισάγετε γνωστή τιμή"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Εισάγετε την τιμή πολλαπλασιαστή"
+        },
+        "Enter n value" : {
+            
+            "message": "Εισάγετε τιμή n"
+        },
+        "Enter offset value" : {
+            
+            "message": "Εισάγετε την τιμή έναρξης (offset)"
+        },
+        "Enter power value" : {
+            
+            "message": "Εισάγετε τιμή ισχύος"
+        },
+        "Enter second known value" : {
+            
+            "message": "Εισάγετε την δεύτερη γνωστή τιμή"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Εισάγετε υψόμετρο σταθμού"
+        },
+        "Enter third known value" : {
+            
+            "message": "Εισάγετε την τρίτη γνωστή τιμή"
+        },
+        "Envelope" : {
+            
+            "message": "Φάκελος"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Μέσος όρος φακέλου"
+        },
+        "Error" : {
+            
+            "message": "Σφάλμα"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Αέριο Αιθανόλης"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Αέριο Αιθανόλης με συγκεντρώσεις HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Αιθανόλης Ίχνη"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Υδρατμοί Αιθανόλης"
+        },
+        "Experiment Type" : {
+            
+            "message": "Τύπος Πειράματος"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Λήξη Μέγιστης Τιμής Όγκου"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "FWD" : {
+            
+            "message": "FWD"
+        },
+        "Fan" : {
+            
+            "message": "Ανεμιστήρας"
+        },
+        "Fan Mode" : {
+            
+            "message": "Λειτουργία Ανεμιστήρα"
+        },
+        "Final hold time" : {
+            
+            "message": "Τελικός χρόνος αναμονής"
+        },
+        "Final temperature" : {
+            
+            "message": "Τελική θερμοκρασία"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Βαθμονόμηση πέντε-σημείων"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Φίλτρο ρυθμού ροής"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Πολικότητα ρυθμού ροής εισπνοής"
+        },
+        "Force G" : {
+            
+            "message": "Δύναμη G"
+        },
+        "Force Y" : {
+            
+            "message": "Δύναμη Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Βαθμόμηση Δύναμης ενός-σημείου"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Βαθμονόμηση Δύναμης δύο-σημείων"
+        },
+        "Forward" : {
+            
+            "message": "Προς τα εμπρός"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Φωτοπύλη 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Φωτοπύλη 1 - Κατάσταση Φωτοπύλης"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Φωτοπύλη 1 Κατάσταση"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Φωτοπύλη 1/Απομακρυσμένη Φωτοπύλη - Χρόνος Μέτρησης"
+        },
+        "Gate 2" : {
+            
+            "message": "Φωτοπύλη 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Φωτοπύλη 2 - Κατάσταση Φωτοπύλης"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Φωτοπύλη 2 Κατάσταση"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® Αισθητήρας Μαγνητικού Πεδίου 3-Αξόνων"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® Επιτάχυνση"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® Πίεση Αίματος"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ Αέριο"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® Χρωματόμετρο"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® Ηλεκτρόδιο Αγωγιμότητα"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Σύστημα Σταθερού Ρεύματος"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® Ηλεκτρόδιο Ρεύματος"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Σύστημα Go Direct® Cyclic Voltammetry"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® Μετρητής Σταγόνων"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG αισθητήρας"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® Ενισχυτής Ηλεκτροδίου"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® Ενέργεια"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Αισθητήρας Αιθανόλης Go Direct®"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Go Direct® Υδρατμοί Αιθανόλης"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Αισθητήρας Δύναμης και Επιτάχυνσης"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® Συσκευή Αέριας Χρωματογραφίας"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Αισθητήρας Πίεσης Αερίων"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® Δυναμόμετρο Χειρός"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® Ενισχυτής Ηλεκτροδίων Επιλεγμένων Ιόντων"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® Αισθητήρας Φωτός και Χρώματος"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® Σταθμός Τήξης"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® Αισθητήρας Κίνησης"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Διαλυμένου Οξυγόνου Αισθητήρας Οπτικός"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ Αέριο"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": "Go Direct® PAR Αισθητήρας"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® Φωτοπύλη"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Platinum-Cell Αισθητήριο Αγωγιμότητας"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct® Αισθητήριο Πολωσίμετρο"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® Εκτοξευτής Βλημάτων"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct® Παλμικό Οξύμετρο"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": "Go Direct® Πυρανόμετρο"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® Μετρητής Ακτινοβολίας"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® Ζώνη Μέτρησης Αναπνοής"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® Αισθητήρας Περιστροφικής Κίνησης"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Αμαξίδο Αισθητήρας (Πράσινο)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Αμαξίδιο Αισθητήρας (Κίτρινο)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® Μετρητής Ήχου"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® Σπιρόμετρο"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": "Go Direct® Στατική Φόρτιση"
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Ελεγκτής Δομικών Υλικών"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® Αισθητήρας Θερμοκρασίας Επιφανείας"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® Αισθητήρας Θερμοκρασίας"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Ενισχυτής Θερμοζεύγους"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® Αισθητήρας Μέτρησης Τάσης"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® Καιρός"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® Αισθητήρας Θερμοκρασίας Μεγάλου Εύρους"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Αισθητήριο Πίεσης Μεγάλου-Εύρους"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct™ Αισθητήρας Μέτρησης Μαγνητικού Πεδίου 3-Αξόνων"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct™ Επιτάχυνση"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct™ Πίεσης Αίματος"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ CO₂ Αέριο"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct™ Χρωματόμετρο"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct™ Αισθητήρας Αγωγιμότητας"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct™ Σύστημα Σταθερού Ρεύματος"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct™ Αισθητήριο Ρεύματος"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ Σύστημα Cyclic Voltammetry"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct™ Μετρητής Σταγόνων"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct™ EKG αισθητήριο"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Ενισχυτής Ηλεκτροδίου"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct™ Ενέργεια"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Αισθητήρας Go Direct™ Αιθανόλης"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Go Direct™ Αιθανόλης Υδρατμοί"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct™ Αισθητήρας Δύναμης και Επιτάχυνσης"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ Συσκευή Αέριας Χρωματογραφίας"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct™ Αισθητήρας Πίεσης Αερίων"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct™ Δυναμόμετρο Χειρός"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Ενισχυτής Ηλεκτροδίου Επιλεγμένων Ιόντων"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct™ Αισθητήρας Φωτός και Χρώματος"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct™ Σταθμός Τήξης"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct™ Αισθητήρας Κίνησης"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct™ Διαλυμένου Οξυγόνου Αισθητήρας Οπτικός"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ O₂ Αέριο"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": "Go Direct™ PAR Αισθητήρας"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ Φωτοπύλη"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Platinum-Cell Αισθητήριο Αγωγιμότητας"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™ Πολωσίμετρο"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct™ Εκτοξευτής Βλημάτων"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™ Παλμικό Οξύμετρο"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": "Go Direct™ Πυρανόμετρο"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct™ Μετρητής Ακτινοβολίας"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct™ Ζώνη Εισπνοής"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct™ Αισθητήρας Περιστροφικής Κίνησης"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct™ Αμαξίδιο Αισθητήρας (Πράσινο)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct™ Αμαξίδιο Αισθητήρας (Κίτρινο)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct™ Μετρητής Ήχου"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ Σπιρόμετρο"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": "Go Direct™ Στατική Φόρτιση"
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ Ελεγκτής Δομικών Υλικών"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct™ Αισθητήρας Θερμοκρασίας Επιφανείας"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct™ Αισθητήρας Θερμοκρασίας"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ Ενισχυτής Θερμοζεύγους"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct™ Αισθητήρας Τάσης"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ Καιρός"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct™ Αισθητήρας Θερμοκρασίας Μεγάλου Εύρους"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™ Αισθητήριο Πίεσης Μεγάλου-Εύρους"
+        },
+        "Heat Index" : {
+            
+            "message": "Δείκτης Θερμότητας"
+        },
+        "Hold time" : {
+            
+            "message": "Κρατήστε το χρόνο"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Ίχνη Υδρογόνου"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "Φωτεινότητα"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Φωτεινότητα Βασική"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Συχνότητα Πτερωτής"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Μέγιστή Τιμή Όγκου Εισπνοής"
+        },
+        "Instrument status" : {
+            
+            "message": "Κατάσταση οργάνου"
+        },
+        "Internal Current" : {
+            
+            "message": "Εσωτερικό Ρεύμα"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Εσωτερική Τάση"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "Κ"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED Διαγνωστικό"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED Φωτεινότητα"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Φωτοπύλη Laser - Κατάσταση Φωτοπύλης"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Κατάσταση Φωτοπύλης Laser"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Φωτοπύλη Laser/Απομακρυσμένη Φωτοπύλη - Χρόνος Μέτρησης"
+        },
+        "Launch Angle" : {
+            
+            "message": "Γωνία Εκτόξευσης"
+        },
+        "Linear Motion" : {
+            
+            "message": "Γραμμική Κίνηση"
+        },
+        "Live" : {
+            
+            "message": "Ζωντανά"
+        },
+        "Load cell gain" : {
+            
+            "message": "Γεμίστε ξανά την κυψέλη"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Μικρόφωνο-FIXED"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Μικρόφωνο-FIXED A Weight"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Μικρόφωνο-FIXED C Weight"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Κίνηση (αμαξίδιο)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Επιτάχυνση Κίνησης"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Ταχύτητα Κίνησης"
+        },
+        "Motion with TC" : {
+            
+            "message": "Κίνηση με TC"
+        },
+        "N" : {
+            
+            "message": "Ν"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "Όχι"
+        },
+        "No smoothing" : {
+            
+            "message": "Χωρίς εξομάλυνση"
+        },
+        "Normalized Response" : {
+            
+            "message": "Κανονική Απόκριση"
+        },
+        "Not ready" : {
+            
+            "message": "Όχι έτοιμο"
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP Διάρκεια"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP Ρυθμός Δειγματοληψίας"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Επιτάχυνση Αντικειμένου (πολλαπλές σημαίες)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Επιτάχυνση Αντικειμένου (μονή σημαία)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Ταχύτητα Αντικειμένου"
+        },
+        "Off" : {
+            
+            "message": "Σβηστό"
+        },
+        "One-point calibration" : {
+            
+            "message": "Βαθμονόμηση Ενός Σημείου"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Οπτική Περιστροφή"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Σημειώσεις Ταλάντωσης"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Μέγιστη Ταλάντωση"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Ελάχιστη Ταλάντωση"
+        },
+        "Oscillations" : {
+            
+            "message": "Ταλαντώσεις"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Αέριο"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": "O₂ Συγκέντρωση Αερίου"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Αέριο rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": "PAR βαθμονόμηση δύο-σημείων"
+        },
+        "PPFD - CF" : {
+            
+            "message": "PPFD - CF"
+        },
+        "PPFD Correction" : {
+            
+            "message": "PPFD Διόρθωση"
+        },
+        "PYR two-point calibration" : {
+            
+            "message": "PYR δύο-σημείων βαθμονόμηση"
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Περιοχή Μεγίστων"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Περίοδο Εκκρεμούς"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Ταχύτητα Εκκρεμούς"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Κύρια έκδοση λογισμικού firmware"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Περιορισμένη έκδοση λογισμικού firmware"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Έκδοση λογισμικού firmware"
+        },
+        "Position Direction" : {
+            
+            "message": "Κατεύθυνση Θέσης"
+        },
+        "Position G" : {
+            
+            "message": "Θέση G"
+        },
+        "Position Vector" : {
+            
+            "message": "Θέση Διανύσματος"
+        },
+        "Position Y" : {
+            
+            "message": "Θέση Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Τριών-σημείων βαθμονόμηση Ισχύος"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Πίεση Αίματος"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Καρδιακός Σφυγμός"
+        },
+        "REV" : {
+            
+            "message": "REV"
+        },
+        "Ramp rate" : {
+            
+            "message": "Ρυθμός Αύξησης"
+        },
+        "Raw Diastolic" : {
+            
+            "message": "Ακατέργαστο Διαστολικό"
+        },
+        "Raw MAP" : {
+            
+            "message": "Ακατέργαστο MAP"
+        },
+        "Raw Pressure" : {
+            
+            "message": "Ακατέργαστη Πίεση"
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": "Ακατέργαστη Εξομάλυνση Πίεσης"
+        },
+        "Raw Systolic" : {
+            
+            "message": "Ακατέργαστη Συστολική"
+        },
+        "Raw Temperature" : {
+            
+            "message": "Τυχαία Θερμοκρασία"
+        },
+        "Ready" : {
+            
+            "message": "Έτοιμο"
+        },
+        "Ready to inject" : {
+            
+            "message": "Έτοιμο για ψεκασμό"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Απομακρυσμένη Επιτάχυνση"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Απομακρυσμένη Φωτοπύλη - Επιτάχυνση Αντικειμένου"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Απομακρυσμένη Φωτοπύλη - Επιτάχυνση Αντικειμένου (μονή σημαία)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Απομακρυσμένη Φωτοπύλη - Ταχύτητα Αντικειμένου"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Απομακρυσμένη Φωτοπύλη 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Απομακρυσμένη Φωτοπύλη 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Απομακρυσμένη Ταχύτητα"
+        },
+        "Reverse" : {
+            
+            "message": "Αντίστροφη"
+        },
+        "Running" : {
+            
+            "message": "Λειτουργία"
+        },
+        "Salinity correction" : {
+            
+            "message": "Διόρθωση Αλατότητας"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Επίπεδο ήχου A-weighted"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Επίπεδο ήχου C-weighted"
+        },
+        "Start temperature" : {
+            
+            "message": "Θερμοκρασία Έναρξης"
+        },
+        "Starting" : {
+            
+            "message": "Εκκίνηση"
+        },
+        "Station Pressure" : {
+            
+            "message": "Πίεση Σταθμού"
+        },
+        "Step Rate" : {
+            
+            "message": "Ρυθμός Βήματος"
+        },
+        "Steps" : {
+            
+            "message": "Βήματα"
+        },
+        "Stopped" : {
+            
+            "message": "Διακόπηκε"
+        },
+        "Switch USB" : {
+            
+            "message": "Εναλλαγή USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Συντελεστής Συστολικής"
+        },
+        "Temperature correction" : {
+            
+            "message": "Διόρθωση Θερμοκρασίας"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Βαθμονόμηση Τριών Σημείων"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Συσκευή Time of Flight Pad"
+        },
+        "Timing" : {
+            
+            "message": "Χρόνος Μέτρησης"
+        },
+        "Total VOC" : {
+            
+            "message": "Συνολικά VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Βαθμονόμηση Δύο Σημείων"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Θερμοζεύγος Τύπου J"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Θερμοζεύγος Τύπου K"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Θερμοζεύγος Τύπου T"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": "UV Μπλε"
+        },
+        "UV Index" : {
+            
+            "message": "UV Δείκτης"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV Ένταση"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": "Χρησιμοποιήστε εξομάλυνση"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Μέγιστη Περιοχή Διανύσματος"
+        },
+        "Vector range Min" : {
+            
+            "message": "Ελάχιστη Περιοχή Διανύσματος"
+        },
+        "Velocity G" : {
+            
+            "message": "Ταχύτητα G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Διάνυσμα Ταχύτητας"
+        },
+        "Velocity Y" : {
+            
+            "message": "Ταχύτητα Y"
+        },
+        "Velocity2" : {
+            
+            "message": "Ταχύτητα2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Τάση - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Τάση - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Συντελεστής διόρθωσης όγκου"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Πολικότητα όγκου εισπνοής"
+        },
+        "W/m²" : {
+            
+            "message": "W/m²"
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Πλάτος Κύματος"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Συχνότητα Κύματος"
+        },
+        "Wind Chill" : {
+            
+            "message": "Ψυχρός Άνεμος"
+        },
+        "Wind Direction" : {
+            
+            "message": "Διεύθυνση Ανέμου"
+        },
+        "Wind Speed" : {
+            
+            "message": "Ταχύτητα Ανέμου"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Βαθμονόμηση Διεύθυνσης Ανέμου"
+        },
+        "X magnetic field" : {
+            
+            "message": "X μαγνητικό πεδίο"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "Χ Μαγνητικό Πεδίο 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "Ταχύτητα Γωνιακή στο Χ"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "Χ-άξονας Επιτάχυνση"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-άξονα επιτάχυνση G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-άξονα επιτάχυνση Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "Ενός σημείου βαθμονόμηση επιτάχυνσης στον άξονα Χ"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "Επιτάχυνση στον άξονα Χ - υψηλή"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "Ενός σημείου βαθμονόμηση επιτάχυνσης υψηλής στον άξονα Χ"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "Χ-άξονας Γωνιακή Ταχύτητα"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "Χ-άξονας γωνιακή ταχύτητα G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "X-άξονας γωνιακή ταχύτητα Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "Χ-άξονας Γυροσκόπιο"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y μαγνητικό πεδίο"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y Μαγνητικό Πεδίο 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Ταχύτητα γωνιακή στον άξονα Y"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y-άξονα Επιτάχυνση"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-άξονα επιτάχυνση G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-άξονα επιτάχυνση Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Ενός σημείου βαθμονόμηση επιτάχυνσης στον άξονα Y"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Επιτάχυνση υψηλή στον άξονα Y"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Ενός σημείου βαθμονόμησης επιτάχυνσης υψηλή στον άξονα Y"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y-άξονας Γωνιακή Ταχύτητα"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y-άξονας γωνιακή ταχύτητα G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y-άξονας γωνιακή ταχύτητα Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y-άξονας Γυροσκόπιο"
+        },
+        "Yes" : {
+            
+            "message": "Ναι"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z μαγνητικό πεδίο"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z Μαγνητικό Πεδίο 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Ταχύτητα γωνιακή στον άξονα Ζ"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z-άξονας Επιτάχυνση"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-άξονα επιτάχυνση G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-άξονα επιτάχυνση Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Ενός σημείου βαθμονόμηση επιτάχυνσης στον άξονα Ζ"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Επιτάχυνση υψηλή στόν άξονα Ζ"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Ενός σημείου βαθμονόμησης επιτάχυνσης υψηλής στον άξονα Ζ"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z-άξονας Γωνιακή Ταχύτητα"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z-άξονας γωνιακή ταχύτητα G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z-άξονας γωνιακή ταχύτητα Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z-άξονας Γυροσκόπιο"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "bpm"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "μετράει"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "in"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "knots (κόμβοι)"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": "nC"
+        },
+        "pC" : {
+            
+            "message": "pC"
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "τυχαία τάση"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "rev"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "Βήματα"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": "umol m-2 s-1"
+        },
+        "units/s" : {
+            
+            "message": "μονάδες/s"
+        },
+        "units/s²" : {
+            
+            "message": "μονάδες/s²"
+        },
+        "velocity2" : {
+            
+            "message": "ταχύτητα2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx9"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": "µmol m⁻² s⁻¹"
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Συνημίτονο"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Τετράγωνο Συνημιτόνου"
+        },
+        "Inverse" : {
+            
+            "message": "Αντίστροφο"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Αντίστροφο Τετράγωνο"
+        },
+        "Linear" : {
+            
+            "message": "Γραμμική"
+        },
+        "Modified Power" : {
+            
+            "message": "Τροποποιημένη Ισχύς"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Φυσικός Εκθέτης"
+        },
+        "Natural Log" : {
+            
+            "message": "Φυσική Καταγραφή"
+        },
+        "Not defined" : {
+            
+            "message": "Δεν προσδιορίζεται"
+        },
+        "Power" : {
+            
+            "message": "Ισχύς"
+        },
+        "Proportional" : {
+            
+            "message": "Αναλογικό"
+        },
+        "Quadratic" : {
+            
+            "message": "Τετραγωνικό"
+        },
+        "Sine" : {
+            
+            "message": "Ημίτονο"
+        },
+        "Slope" : {
+            
+            "message": "Κλίση"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Προσαρμοσμένη Παράσταση"
+        }
+        
+    }
+}

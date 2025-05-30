@@ -1,0 +1,6462 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d istemci bağlandı"
+        },
+        "%s All" : {
+            
+            "message": "Tümünü %s"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "Tüm Veri Kümelerini %s"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s görünüm seçenekleri"
+        },
+        "%s details" : {
+            
+            "message": "%s ayrıntıları"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "%s şu anda veri topluyor. Toplamayı durdurmak ve yeni bir deney başlatmak istiyor musunuz?"
+        },
+        "%s Options" : {
+            
+            "message": "%s Seçenekleri"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(mesafe, hız, ivme)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 Grafik"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1.nci Türev"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1. Türev Zaman Kayması"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1.nci Türev(Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 Grafik"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 Grafik"
+        },
+        "2nd derivative" : {
+            
+            "message": "2.nci türev"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2. Türev Zaman Kayması"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2.nci Türev(Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 Grafik"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 Grafik"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Bir iletişim hatası oluştu. Devam etmek için yeni bir deney başlatın."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Bir iletişim hatası veri toplamanın durmasına neden oldu. Lütfen tekrar deneyin."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B ve C sizin belirleyeceğiniz parametrelerdir. X, Y ve Z veri tablonuzdaki mevcut sütunlardır."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Hakkında"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "Özel Eğri Uyumu Hakkında"
+        },
+        "Absolute Value" : {
+            
+            "message": "Mutlak Değer"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "Son Kullanıcı Lisans Sözleşmesini ve Gizlilik Bildirimini kabul ettiğinizi onaylayın"
+        },
+        "Accessories" : {
+            
+            "message": "Aksesuarlar"
+        },
+        "across" : {
+            
+            "message": "çapraz"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Lisans anahtarınız ile ilave özellikleri etkinleştirin"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "Elle uyumlaştırma eklemek için etkinleştirin"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "FFT uygulamak için etkinleştirin"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Histogramı uygulamak için etkinleştirin"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Vurgulu tüm satırları geri yüklemek için etkinleştirin"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Uyum Parametrelerinin Değişkenliğini göstermek için etkinleştirin"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Satırların üzerini çizmek için etkinleştirin"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Üzeri çizgiliyi değiştirmek için etkinleştirin"
+        },
+        "Activate to use %s" : {
+            
+            "message": "%s kullanmak için etkinleştirin"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Çubuk Grafikleri kullanmak için etkinleştirin"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "Notları kullanmak için etkinleştirin"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Çevrimiçi Veri Paylaşımını kullanmak için etkinleştirin"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Videoyu kullanmak için etkinleştirin"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Hesaplanmış Sütun Ekle"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Buraya bir grafik başlığı ekleyin"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Manuel Sütun Ekle"
+        },
+        "Add Annotation" : {
+            
+            "message": "Açıklama Ekle"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Hesaplanmış Sütun Ekle"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Depolama şişesine süngerin üstüne kadar damıtılmış su ekleyin."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Grafik Eşleme Ekle"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Manuel Sütun Ekle"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "Manuel Sığdırma Ekle"
+        },
+        "add meters" : {
+            
+            "message": "sayaç ekle"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Yeni Veri Kümesi Ekle"
+        },
+        "Add Prediction" : {
+            
+            "message": "Tahmin Ekle"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Sanal Sensör Ekle"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Damla Sayacı ile 10 mL dereceli silindire titrant ekleyin."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Sayaç Ekle/Kaldır"
+        },
+        "Advanced" : {
+            
+            "message": "Gelişmiş"
+        },
+        "After" : {
+            
+            "message": "Sonra"
+        },
+        "After set number of flags" : {
+            
+            "message": "Bayrak sayısını ayarladıktan sonra"
+        },
+        "All" : {
+            
+            "message": "Tümü"
+        },
+        "Always Show 0" : {
+            
+            "message": "Her zaman 0 Göster"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Genlik"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Bir ifade, bağımsız değişken ve en az bir parametre içermelidir."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Veri paylaşım oturumuna bağlanmak için internet bağlantısı gerekiyor. İnternete yeniden bağlanın ve sonra Yeniden Bağlan'a dokunun."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Çevrimiçi veri paylaşımına bağlanmak için internet bağlantısı gerekiyor"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Verileri paylaşmak için internet bağlantısı gerekiyor"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Verileri paylaşmak için internet bağlantısı gerekiyor. Paylaşıma devam etmek için, internete yeniden bağlanın ve sonra yeni bir veri paylaşım oturumu başlatın."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "isteğe bağlı çekirdek fırlatma aksesuarı, çekirdeğin Uçuş Süresini bildirmek için kullanılır."
+        },
+        "and " : {
+            
+            "message": "ve "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "ve PAYLAŞIMI DURDUR’a dokunun"
+        },
+        "Angle units" : {
+            
+            "message": "Açı birimi"
+        },
+        "Angular Motion" : {
+            
+            "message": "Açısal Hareket"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Açısal Hareket Bilgisi"
+        },
+        "App is up to date" : {
+            
+            "message": "Uygulama güncel"
+        },
+        "App Preferences" : {
+            
+            "message": "Uygulama Tercihleri"
+        },
+        "App Updates" : {
+            
+            "message": "Uygulama Güncellemeleri"
+        },
+        "Appearance" : {
+            
+            "message": "Görünüm"
+        },
+        "Append" : {
+            
+            "message": "Ekle"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Geçerli veri kümesine ilave et ya da yeni veri kümesi oluştur?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Ekle ya da Yeni Oluştur?"
+        },
+        "Apply" : {
+            
+            "message": "Uygula"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Eğri Uydurmayı Uygula"
+        },
+        "Apply FFT" : {
+            
+            "message": "FFT Uygula"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Histogramı Uygula"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Alan"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Siz verileri topladıkça, onlar Grafik Analiz kopyalarında sizin verilerinizi görecekler"
+        },
+        "Auto" : {
+            
+            "message": "Otomatik"
+        },
+        "Automatic" : {
+            
+            "message": "Otomatik"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "10 saniye boyunca sensör okumayı ortala"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "10 saniye boyunca ortalama"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Eksen Etiket Boyutu"
+        },
+        "Back" : {
+            
+            "message": "Geri"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Bant-geçirgen Filtre"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Bant-durduran Filtre"
+        },
+        "Bar Tape" : {
+            
+            "message": "Çubuk Şerit"
+        },
+        "Bars" : {
+            
+            "message": "Çubuklar"
+        },
+        "Base" : {
+            
+            "message": "Taban"
+        },
+        "Base Axis" : {
+            
+            "message": "Temel Eksen"
+        },
+        "Battery" : {
+            
+            "message": "Pil"
+        },
+        "Battery Level" : {
+            
+            "message": "Pil Seviyesi"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Bölme başlangıç değeri"
+        },
+        "Bin Width" : {
+            
+            "message": "Bölme Genişliği"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Bluetooth Aygıtı"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth etkin değil"
+        },
+        "Bold" : {
+            
+            "message": "Kalın"
+        },
+        "Book" : {
+            
+            "message": "Kitap"
+        },
+        "Book Title" : {
+            
+            "message": "Kitap Başlığı"
+        },
+        "Both" : {
+            
+            "message": "Her ikisi de"
+        },
+        "Bottom" : {
+            
+            "message": "Alt"
+        },
+        "Bottom Bar" : {
+            
+            "message": "Alt Çubuk"
+        },
+        "Bullet list" : {
+            
+            "message": "Madde listesi"
+        },
+        "Calculated %s" : {
+            
+            "message": "Hesaplanmış %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Hesaplanmış Sütun"
+        },
+        "Calibrate" : {
+            
+            "message": "Ayarla"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Şimdi Kalibre Et"
+        },
+        "Calibrating..." : {
+            
+            "message": "Kalibre ediliyor…"
+        },
+        "Calibration complete" : {
+            
+            "message": "Kalibrasyon tamamlandı"
+        },
+        "Calibration failed" : {
+            
+            "message": "Kalibrasyon başarısız oldu"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Kalibrasyon sıfırlaması başarılı"
+        },
+        "Calibration Type" : {
+            
+            "message": "Kalibrasyon Türü"
+        },
+        "Cancel" : {
+            
+            "message": "İptal"
+        },
+        "cancel" : {
+            
+            "message": "iptal"
+        },
+        "Capable" : {
+            
+            "message": "Yeterli"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Şeritli Cetvel Araba"
+        },
+        "Categorical" : {
+            
+            "message": "Kategorik"
+        },
+        "Categorical Data" : {
+            
+            "message": "Kategorik Veriler"
+        },
+        "Ceiling" : {
+            
+            "message": "Üst"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "Manuel sığdırma tutamaklarını ortala"
+        },
+        "Change left y-axis" : {
+            
+            "message": "Sol Y-eksenini değiştir"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Sağ Y-eksenini değiştir"
+        },
+        "Change x-axis" : {
+            
+            "message": "X-eksenini değiştir"
+        },
+        "Change y-axis" : {
+            
+            "message": "Y-eksenini değiştir"
+        },
+        "Channels" : {
+            
+            "message": "Kanallar"
+        },
+        "Charging," : {
+            
+            "message": "Doluyor,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Aygıt yazılımı güncellemelerini kontrol et"
+        },
+        "Check for software updates" : {
+            
+            "message": "Yazılım güncellemelerini kontrol et"
+        },
+        "Check for Updates" : {
+            
+            "message": "Güncellemeleri Kontrol Et"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "LED yanıp-sönme için sensörü kontrol et"
+        },
+        "Checking for update..." : {
+            
+            "message": "Güncellemeler kontrol ediliyor…"
+        },
+        "Choose File" : {
+            
+            "message": "Dosya Seç"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Klasör Seç…"
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Go Direct sensörlerini USB üzerinden bağlamak için bu seçeneği seçin."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Bir Go!Temp sensör bağlamak için bunu seçin."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": "Go! Link arayüzünü bağlamak için bunu seçin."
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": "Go! Motion dedektörünü bağlamak için bunu seçin."
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "USB üzerinden bir LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini veya LabQuest Stream arayüzü bağlamak için bunu seçin."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "Chrome 102 veya üstü gerekiyor. iPad ve iPhone desteklenmiyor."
+        },
+        "Circle" : {
+            
+            "message": "Daire"
+        },
+        "Clear Expression" : {
+            
+            "message": "İfadeyi Temizle"
+        },
+        "Clear Filter" : {
+            
+            "message": "Filtreyi Temizle"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Oturumunuza bir kimlik kodu üretmek için OTURUMU BAŞLAT’a tıklayın ya da dokunun"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "Veri toplarken, toplama sırasında bir veri işareti eklemek için İşaretle düğmesine tıklayın."
+        },
+        "Close" : {
+            
+            "message": "Kapat"
+        },
+        "Close Alert" : {
+            
+            "message": "Uyarıyı Kapat"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Uygulamayı Kapat ve Yazılımı Güncelle"
+        },
+        "Close Application" : {
+            
+            "message": "Uygulamayı Kapat"
+        },
+        "Close Dialog" : {
+            
+            "message": "İletiyi Kapat"
+        },
+        "Close FFT" : {
+            
+            "message": "FFT Kapat"
+        },
+        "Close graph legend" : {
+            
+            "message": "Grafik açıklamasını kapat"
+        },
+        "Close Histogram" : {
+            
+            "message": "Histogramı Kapat"
+        },
+        "Close Infobox" : {
+            
+            "message": "Bilgi Kutusunu Kapat"
+        },
+        "Close Menu" : {
+            
+            "message": "Menüyü Kapat"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Tepe Frekansı Kapat"
+        },
+        "Close Popover" : {
+            
+            "message": "Pencereyi Kapat"
+        },
+        "Close Replay" : {
+            
+            "message": "Oynatmayı Kapat"
+        },
+        "Close Start Page" : {
+            
+            "message": "Başlangıç Sayfasını Kapat"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Devam etmek için bu iletişim kutusunu kapatın"
+        },
+        "Code" : {
+            
+            "message": "Kod"
+        },
+        "Coefficient" : {
+            
+            "message": "Katsayı"
+        },
+        "Collapse" : {
+            
+            "message": "Daralt"
+        },
+        "Collect" : {
+            
+            "message": "Topla"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Vernier sensörlerden veri topla"
+        },
+        "Collecting" : {
+            
+            "message": "Toplanıyor"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "%d %s toplanıyor"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Çok sayıda noktadan toplama yapmak performansı etkiler."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "${eventParams.accumulate} saniye süresince veri toplanıyor"
+        },
+        "Collection Parameters" : {
+            
+            "message": "Toplama Parametreleri"
+        },
+        "Column %s" : {
+            
+            "message": "Sütun %s"
+        },
+        "Column Options" : {
+            
+            "message": "Sütun Seçenekleri"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Sütun tüm veri kümelerinden silinecek. Silme işlemi geri alınamaz."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Virgülle Ayrılmış Değerler"
+        },
+        "Complementary Error" : {
+            
+            "message": "Tamamlayıcı Hata"
+        },
+        "Configurator" : {
+            
+            "message": "Yapılandırıcı"
+        },
+        "Confirm" : {
+            
+            "message": "Onaylayın"
+        },
+        "Connect" : {
+            
+            "message": "Bağlan"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "<a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">Desteklenen bir Vernier USB aygıtı</a> bağlayın."
+        },
+        "Connect a device" : {
+            
+            "message": "Bir aygıt bağlayın"
+        },
+        "Connect a Device" : {
+            
+            "message": "Bir Aygıt Bağlayın"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "LabQuest Stream’e Bağlan"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "LabQuest 2 veya Logger Pro ile WiFi üzerinden bağlanın"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "Veri toplama için bu aygıtları bağlayın."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Veri toplama için bu aygıtı bağlayın."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Grafik Analiz kaynağından bir Veri Paylaşım oturumuna bağlan"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Bir LabQuest, Logger Pro ya da Grafik Analiz kaynağına bağlan"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Oturum ayarlarını, verileri, vb. paylaşmak için önceden oluşturulmuş bir oturuma bağlanın ya da yeni bir oturum oluşturun."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Aşağıdaki kablosuz bir aygıta bağlanın ya da USB ile bağlanın."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Aşağıdaki kablosuz bir aygıta bağlanın."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Önceki Oturuma Bağlan"
+        },
+        "connected" : {
+            
+            "message": "bağlı"
+        },
+        "Connected Devices" : {
+            
+            "message": "Bağlı Aygıtlar"
+        },
+        "Connecting" : {
+            
+            "message": "Bağlanıyor"
+        },
+        "Connection error" : {
+            
+            "message": "Bağlantı hatası"
+        },
+        "Connection Lost" : {
+            
+            "message": "Bağlantı Kayboldu"
+        },
+        "Connection status info" : {
+            
+            "message": "Bağlantı durumu bilgisi"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "%s ile bağlantı kurulamadı"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "%s bağlantısı başarılı oldu"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "Geri Alma Seçeneklerine Devam Et"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "Gerekli Aygıtlar Olmadan Devam Edin"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Çerez Bildirimi"
+        },
+        "Copy" : {
+            
+            "message": "Kopyala"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Histogramı Kopyala"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Ana Bilgisayar Kimliğini Kopyala"
+        },
+        "Copy Link" : {
+            
+            "message": "Bağlantıyı Kopyala"
+        },
+        "Copy Sign" : {
+            
+            "message": "İşareti Kopyala"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Panoya kopyala"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Panoya Kopyala"
+        },
+        "Cosine" : {
+            
+            "message": "Kosinüs"
+        },
+        "Count Interval" : {
+            
+            "message": "Aralık Say"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Özel Uydurma Oluştur"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Yeni Veri Kümesi Oluştur"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Özel Hesaplanmış Sütun Oluşturuluyor"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Özel Eğri Uydurma Oluşturuluyor"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Küp Kök"
+        },
+        "Curve Fit" : {
+            
+            "message": "Eğri Uydur"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Özel Hesaplanmış Sütunlar"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Özel Eğri Uydurmalar"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Özel EğriUydur Bilgisi"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Özel İfade Bilgisi"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Özel uydurmalar uygulama belge dosyalarına kayıt edilir. Yeni bir oturum başlattığınızda ya da uygulamayı yeniden başlattığınızda uydurmalar temizlenir."
+        },
+        "Custom Session" : {
+            
+            "message": "Özel Oturum"
+        },
+        "Cut" : {
+            
+            "message": "Kes"
+        },
+        "Dark" : {
+            
+            "message": "Koyu"
+        },
+        "Darker" : {
+            
+            "message": "Daha koyu"
+        },
+        "Darkest" : {
+            
+            "message": "En koyu"
+        },
+        "Data" : {
+            
+            "message": "Veri"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "Veri toplama günlük modunda başladı."
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Veri Toplama Ayarları"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "Veri Toplama, tüm kapılar beklenen sayıda konum ölçümüne sahip olduktan sonra otomatik olarak duracaktır (bayrak sayısıyla aynı). Toplamayı tekrar başlatmak yeni bir veri setini başlatır."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Veri Toplama, elle tıklayınca ya da Durdur’a basıncaya kadar devam eder. Konum değerleri, veri toplama duruncaya kadar aralık değeri ile artmaya devam edecektir."
+        },
+        "Data Mark" : {
+            
+            "message": "Veri İşareti"
+        },
+        "Data Marking" : {
+            
+            "message": "Veri İşaretleme"
+        },
+        "Data Set %d" : {
+            
+            "message": "Veri Kümesi %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Veri Kümesi Adı"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Veri kümesi adı %s karakter ile sınırlıdır."
+        },
+        "Data Set Options" : {
+            
+            "message": "Veri Kümesi Seçenekleri"
+        },
+        "Data Set Time" : {
+            
+            "message": "Veri Kümesi Zamanı"
+        },
+        "Data Share" : {
+            
+            "message": "Verileri Paylaş"
+        },
+        "Data Sharing" : {
+            
+            "message": "Veri Paylaşımı"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Veri Paylaşımı etkin"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Veri Paylaşımı oturumu başladı"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Veri paylaşımı oturum durumu"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Veri Paylaşım Durumu"
+        },
+        "Data Table" : {
+            
+            "message": "Veri Tablosu"
+        },
+        "Data Type" : {
+            
+            "message": "Veri Tipi"
+        },
+        "Data Type Info" : {
+            
+            "message": "Veri Türü Bilgisi"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Veri Kümesi Görünüm Seçenekleri"
+        },
+        "Decimal Format" : {
+            
+            "message": "Ondalık Biçim"
+        },
+        "Decimal Places" : {
+            
+            "message": "Ondalık Basamak"
+        },
+        "decrease" : {
+            
+            "message": "azalt"
+        },
+        "decreasing" : {
+            
+            "message": "azalan"
+        },
+        "degrees" : {
+            
+            "message": "derece"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Derece (°)"
+        },
+        "Delete" : {
+            
+            "message": "Sil"
+        },
+        "Delete %s?" : {
+            
+            "message": "%s Sil?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Sütun Sil"
+        },
+        "Delete Column" : {
+            
+            "message": "Sütun Sil"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Sütun %s Sil?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Veri İşaretini Sil"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Veri Kümesini Sil"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Grafik Eşlemesini Sil"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Tahmini Sil"
+        },
+        "Delete Video" : {
+            
+            "message": "Videoyu Sil"
+        },
+        "Delta" : {
+            
+            "message": "Delta"
+        },
+        "Device Error" : {
+            
+            "message": "Aygıt Hatası"
+        },
+        "Device Information" : {
+            
+            "message": "Aygıt Bilgisi"
+        },
+        "Device information" : {
+            
+            "message": "Aygıt bilgisi"
+        },
+        "Devices" : {
+            
+            "message": "Aygıtlar"
+        },
+        "Diameter" : {
+            
+            "message": "Çap"
+        },
+        "Diamond" : {
+            
+            "message": "Elmas"
+        },
+        "Dimension" : {
+            
+            "message": "Boyut"
+        },
+        "Disabled" : {
+            
+            "message": "Devre dışı"
+        },
+        "Disconnect" : {
+            
+            "message": "Bağlı değil"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "Bağlantıyı Kes ve Günlük Modunda Devam Et"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "USB kablosunu şimdi çıkarın."
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "Verileri temizlemeden bağlantıyı kes"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Bulunan Aygıtlar"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Bulunan Kablosuz Aygıtlar"
+        },
+        "Display Meters" : {
+            
+            "message": "Sayaçları Göster"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Gösterilen Sütunlar"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Gösterilen Veri Kümeleri"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Gösterilen Hassasiyet"
+        },
+        "Distance" : {
+            
+            "message": "Mesafe"
+        },
+        "Distance between gates" : {
+            
+            "message": "Kapılar arasındaki mesafe"
+        },
+        "Distribute App" : {
+            
+            "message": "Uygulamayı Dağıt"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "Vernier Grafik Analizini Dağıt"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Bu veri işaretini kalıcı olarak silmek istiyor musunuz?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Yapılan değişiklikleri %s dosyasına kaydetmek ister misiniz? Kayıt etmezseniz değişiklikleriniz kaybolacak."
+        },
+        "Don't Save" : {
+            
+            "message": "Kaydetme"
+        },
+        "Done" : {
+            
+            "message": "Tamam"
+        },
+        "done" : {
+            
+            "message": "tamam"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "İndirme tamamlandı. Güncellemeler, uygulamayı sonraki başlatmanızda yüklenecek"
+        },
+        "Download Experiment" : {
+            
+            "message": "Deney İndir"
+        },
+        "Download Update" : {
+            
+            "message": "Güncellemeleri İndir"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Tahmini Çizim Yap"
+        },
+        "Drop Counting" : {
+            
+            "message": "Damla Sayımı"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Damlama Ölçüm(leri). Lütfen, yeni bir deney başlatın ve daha yavaş veri yükleme hızını kullanın."
+        },
+        "Drops" : {
+            
+            "message": "Damla"
+        },
+        "Drops/mL" : {
+            
+            "message": "Damla/mL"
+        },
+        "duration" : {
+            
+            "message": "süre"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "örn: 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "örn: 007, TMP gibi"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Grafik Seçeneklerini Düzenle"
+        },
+        "Edit mode" : {
+            
+            "message": "Düzenleme modu"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Kablosuz sensörlere bağlanmak için bluetooth’u etkinleştir."
+        },
+        "Enable Replay" : {
+            
+            "message": "Oynatmayı Etkinleştir"
+        },
+        "Enabled" : {
+            
+            "message": "Etkin"
+        },
+        "End Collection" : {
+            
+            "message": "Toplamayı Bitir"
+        },
+        "End data collection" : {
+            
+            "message": "Veri toplamayı bitir"
+        },
+        "End User License Agreement" : {
+            
+            "message": "Son Kullanıcı Lisans Sözleşmesi"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Dokunarak veri paylaşım oturumunuzu sonlandırın"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Bir açıklama girin"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Klavye veya Kopyala/Yapıştır ile veri girin"
+        },
+        "Enter first known value" : {
+            
+            "message": "Bilinen ilk değeri girin"
+        },
+        "Enter second known value" : {
+            
+            "message": "Bilinen ikinci değeri girin"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Dereceli silindirden titrantın hacmini tam ve kesin olarak girin"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Kaynak kimliğini girin:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "Kategorik Moda Girme"
+        },
+        "Equation" : {
+            
+            "message": "Denklem"
+        },
+        "Error" : {
+            
+            "message": "Hata"
+        },
+        "Error Bar Info" : {
+            
+            "message": "Hata Çubuğu Bilgisi"
+        },
+        "Error Bars" : {
+            
+            "message": "Hata Çubukları"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Hata: Panoya erişim engellendi."
+        },
+        "Event" : {
+            
+            "message": "Olay"
+        },
+        "Event Based" : {
+            
+            "message": "Olay Tabanlı"
+        },
+        "Event Mode" : {
+            
+            "message": "Olay Kipi"
+        },
+        "Event Name" : {
+            
+            "message": "Olay Adı"
+        },
+        "Events with Entry" : {
+            
+            "message": "Girişli Olaylar"
+        },
+        "Events With Entry" : {
+            
+            "message": "Olay Girişli"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Örnek: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Örnek: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Den - 1"
+        },
+        "Expand" : {
+            
+            "message": "Genişlet"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Ana Bilgisayar Kimliğini Genişlet"
+        },
+        "Experiment Name" : {
+            
+            "message": "Deney Adı"
+        },
+        "Experimental Features" : {
+            
+            "message": "Deneysel Özellikler"
+        },
+        "Exponent" : {
+            
+            "message": "Üs"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Üstel Taban 2"
+        },
+        "Export" : {
+            
+            "message": "Dışa Aktar"
+        },
+        "Export CSV" : {
+            
+            "message": "CSV olarak Dışa Aktar"
+        },
+        "Expression" : {
+            
+            "message": "İfade"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Fabrika Kalibrasyon Tarihi"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Fan Kuvveti"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT seçenekleri"
+        },
+        "File Menu" : {
+            
+            "message": "Dosya Menüsü"
+        },
+        "File saved" : {
+            
+            "message": "Dosya kaydedildi"
+        },
+        "Filename" : {
+            
+            "message": "Dosyaadı"
+        },
+        "Filter Device List" : {
+            
+            "message": "Aygıt Listesini Filtrele"
+        },
+        "Firmware" : {
+            
+            "message": "Aygıt Yazılımı"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Yazılım Güncelleme Bilgileri"
+        },
+        "First Derivative" : {
+            
+            "message": "Birinci Türev"
+        },
+        "Fit Expression" : {
+            
+            "message": "Uyum İfadesi"
+        },
+        "Fit Name" : {
+            
+            "message": "Uyum Adı"
+        },
+        "Fit Options" : {
+            
+            "message": "Uyum Seçenekleri"
+        },
+        "Fixed Value" : {
+            
+            "message": "Sabit Değer"
+        },
+        "Flag Width" : {
+            
+            "message": "Bayrak Genişliği"
+        },
+        "Flags" : {
+            
+            "message": "Bayraklar"
+        },
+        "Floor" : {
+            
+            "message": "Taban"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Vernier nesneleri için, aralık ve bayrak sayıları seçilen nesneye göre gösterilir. Çubuk Şerit için bayrak sayısını girin."
+        },
+        "Frequency" : {
+            
+            "message": "Frekans"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Vernier.com ’dan"
+        },
+        "Function" : {
+            
+            "message": "Fonksiyon"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Fonksiyonlar ve bağımsız değişken küçük harf olmalıdır."
+        },
+        "Gate Separation" : {
+            
+            "message": "Kapı Ayırma"
+        },
+        "Gate State" : {
+            
+            "message": "Kapı Durumu"
+        },
+        "Gate timing" : {
+            
+            "message": "Kapı zamanlaması"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX Sensör Haritası"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Diğerlerinin oturumunuza katılabilmeleri için bu Kimlik Kodunu verin"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Direct Sensörleri"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Videonun Başlangıcına Git"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Go! Link" : {
+            
+            "message": "Go! Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Graph" : {
+            
+            "message": "Grafik"
+        },
+        "Graph %s" : {
+            
+            "message": "Grafik %s"
+        },
+        "Graph 1" : {
+            
+            "message": "Grafik 1"
+        },
+        "Graph 2" : {
+            
+            "message": "Grafik 2"
+        },
+        "Graph 3" : {
+            
+            "message": "Grafik 3"
+        },
+        "Graph Display" : {
+            
+            "message": "Grafik Ekran"
+        },
+        "Graph Inset" : {
+            
+            "message": "Grafik Yerleştirme"
+        },
+        "Graph Legend" : {
+            
+            "message": "Grafik Göstergesi"
+        },
+        "Graph Match" : {
+            
+            "message": "Grafik Eşleme"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Grafik Eşleme Seçenekleri"
+        },
+        "Graph Options" : {
+            
+            "message": "Grafik Seçenekleri"
+        },
+        "Graph Shape" : {
+            
+            "message": "Grafik Şekli"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Graphical Analysis Pro bilgileri"
+        },
+        "Graphs" : {
+            
+            "message": "Grafikler"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "Başlık 1"
+        },
+        "Heading 2" : {
+            
+            "message": "Başlık 2"
+        },
+        "Heading 3" : {
+            
+            "message": "Başlık 3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "Aygıt bağlama yardım"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "Aygıt Bağlama Yardım"
+        },
+        "Hide" : {
+            
+            "message": "Gizle"
+        },
+        "Hide Details" : {
+            
+            "message": "Ayrıntıları Gizle"
+        },
+        "High-pass Filter" : {
+            
+            "message": "Yüksek-geçirgen Filtre"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Yüksek Çözünürlük Modu"
+        },
+        "Histogram" : {
+            
+            "message": "Histogram"
+        },
+        "Histogram options" : {
+            
+            "message": "Histogram seçenekleri"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Yatay Bölücü"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Bir veri paylaşım oturumu başlatın"
+        },
+        "How To Distribute" : {
+            
+            "message": "Nasıl Dağıtılır"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Hiperbolik Kosinüs"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Hiperbolik Sinüs"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Hiperbolik Tanjant"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Hipotenüs"
+        },
+        "ID" : {
+            
+            "message": "Kimlik"
+        },
+        "Identify" : {
+            
+            "message": "Tanımla"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "İlave bir aygıt gerekliyse, işlemi tekrarlayın."
+        },
+        "Ignore" : {
+            
+            "message": "Yoksay"
+        },
+        "Import Video" : {
+            
+            "message": "Video Al"
+        },
+        "increase" : {
+            
+            "message": "arttır"
+        },
+        "increasing" : {
+            
+            "message": "artan"
+        },
+        "Insert Expression" : {
+            
+            "message": "İfade Ekle"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Sondayı şişeye yerleştirin, ucunu suya ya da süngere değdirmeden."
+        },
+        "Integral" : {
+            
+            "message": "İntegral"
+        },
+        "Intercept" : {
+            
+            "message": "Kesme Noktası"
+        },
+        "Interpolate" : {
+            
+            "message": "Ara Kestirim"
+        },
+        "Interval" : {
+            
+            "message": "Aralık"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Geçersiz Denklem"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Geçersiz İfade"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Ters Kosinüs"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Ters Hiperbolik Kosinüs"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Ters Hiperbolik Sinüs"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Ters Hiperbolik Tanjant"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Ters Sinüs"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Ters Tanjant"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Ters Tanjant 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "Ters Dış Çizgili Dikdörtgen"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "Ters Dış Çizgili Üçgen"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "Ters Dikdörtgen"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "Ters Üçgen"
+        },
+        "is" : {
+            
+            "message": " "
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "şu anda desteklenmiyor. Başka birini deneyin."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Kapak değişikliğinden sonra kalibrasyon yapılması önemle tavsiye edilir."
+        },
+        "Italic" : {
+            
+            "message": "İtalik"
+        },
+        "Join New Experiment" : {
+            
+            "message": "Yeni Deneye Katıl"
+        },
+        "Keep" : {
+            
+            "message": "Koru"
+        },
+        "Keep Point" : {
+            
+            "message": "Noktayı Koru"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Sondayı en az 60 saniye süreyle dikey olarak bu konumda tutun, ardından \"ŞİMDİ KALİBRE ET\" e basın"
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Bilinen değerler iki nokta kalibrasyon için farklı olmalıdır."
+        },
+        "LabQuest" : {
+            
+            "message": "LabQuest"
+        },
+        "LabQuest Devices" : {
+            
+            "message": "LabQuest Aygıtları"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Büyük"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Son kalibre"
+        },
+        "Launch Speed" : {
+            
+            "message": "Fırlatma Hızı"
+        },
+        "Left" : {
+            
+            "message": "Sol"
+        },
+        "Left Axis" : {
+            
+            "message": "Sol Eksen"
+        },
+        "Left manual fit handle" : {
+            
+            "message": "Sol manuel sığdırma tutamağı"
+        },
+        "Left y-axis range" : {
+            
+            "message": "Sol y-ekseni aralığı"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Eski Dosya Türü"
+        },
+        "License Key" : {
+            
+            "message": "Lisans Anahtarı"
+        },
+        "License Key is expired." : {
+            
+            "message": "Lisans Anahtarının süresi doldu."
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "Lisans Anahtarı bu kanal için geçerli değil."
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "Lisans Anahtarı bu ürün için geçerli değil."
+        },
+        "License Key is required." : {
+            
+            "message": "Lisans Anahtarı gereklidir."
+        },
+        "License Key is suspended." : {
+            
+            "message": "Lisans Anahtarı askıya alındı."
+        },
+        "License Key not recognized." : {
+            
+            "message": "Lisans Anahtarı tanınmadı."
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "Lisans Anahtarı doğrulaması için internet bağlantısı gerekiyor. Bağlantınızı kontrol edin."
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "Lisans Anahtarı doğrulama sunucusuna erişim sağlanamıyor."
+        },
+        "Licensed To" : {
+            
+            "message": "Lisans Sahibi"
+        },
+        "Licensed to" : {
+            
+            "message": "Lisanslı"
+        },
+        "Line Shade" : {
+            
+            "message": "Çizgi Gölgesi"
+        },
+        "Linear Motion" : {
+            
+            "message": "Doğrusal Hareket"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "Doğrusal Hareket Bilgisi"
+        },
+        "Lines" : {
+            
+            "message": "Çizgiler"
+        },
+        "Link" : {
+            
+            "message": "Bağlantı"
+        },
+        "Link Copied" : {
+            
+            "message": "Bağlantı Kopyalandı"
+        },
+        "list item" : {
+            
+            "message": "liste öğesi"
+        },
+        "Load Experiment" : {
+            
+            "message": "Deney Yükle"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "Yerel kopya senkronize değil. Yenileniyor..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Log Taban 2"
+        },
+        "Log Base b" : {
+            
+            "message": "Log Taban b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": "Aygıtta Kayıtlı Veriler"
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Alçak-geçirgen Filtre"
+        },
+        "Main Content" : {
+            
+            "message": "Ana İçerik"
+        },
+        "Manual" : {
+            
+            "message": "Manuel"
+        },
+        "Manual %s" : {
+            
+            "message": "Manuel %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Elle Giriş"
+        },
+        "Manual Fit" : {
+            
+            "message": "Elle Sığdır"
+        },
+        "Manual Scaling" : {
+            
+            "message": "Elle Ölçekleme"
+        },
+        "Manually" : {
+            
+            "message": "Elle"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Üretim Tarihi"
+        },
+        "Mark" : {
+            
+            "message": "İşaret"
+        },
+        "Max" : {
+            
+            "message": "Maks"
+        },
+        "Maximize Application" : {
+            
+            "message": "Uygulamayı Büyüt"
+        },
+        "Mean" : {
+            
+            "message": "Ortalama"
+        },
+        "Measurement" : {
+            
+            "message": "Ölçüm"
+        },
+        "Medium" : {
+            
+            "message": "Orta"
+        },
+        "Meter Actions" : {
+            
+            "message": "Sayaç İşlemleri"
+        },
+        "Meter All Columns" : {
+            
+            "message": "Tüm Sütunları Say"
+        },
+        "Meter Size" : {
+            
+            "message": "Sayaç Boyutu"
+        },
+        "Meter View Options" : {
+            
+            "message": "Sayaç Görünüm Seçenekleri"
+        },
+        "Metered" : {
+            
+            "message": "Sayıldı"
+        },
+        "metering on all columns" : {
+            
+            "message": "tüm sütunlarda sayılıyor"
+        },
+        "Meters" : {
+            
+            "message": "Sayaç"
+        },
+        "min" : {
+            
+            "message": "dk"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "Minimize Application" : {
+            
+            "message": "Uygulamayı Küçült"
+        },
+        "Mode" : {
+            
+            "message": "Mod"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "Mod Manuel Giriş olarak değiştirildi."
+        },
+        "Modulo" : {
+            
+            "message": "Modulo"
+        },
+        "Move Down" : {
+            
+            "message": "Aşağı Hareket"
+        },
+        "Move Up" : {
+            
+            "message": "Yukarı Hareket"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Nesne üzerindeki çoklu eşit–aralıklı bayraklar (işaretler) ışık-kapıdan geçerken nesnenin konumunu belirlemek için kullanılır. İlk bloke olayı sıfır noktasını belirler. Sonraki bloke olayları boşluk değeri ile konumu artırır. Hız ve ivme verileri, zamana göre konumun birinci ve ikinci türevleri kullanılarak hesaplanır."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Tekerleğin üzerindeki çoklu, eşit-aralıklı parmaklıklar, tekerlek dönerken açısal konumunu belirlemek için kullanılır. Birinci bloke olayı sıfır nokta açısını belirler. Sonraki bloke olayları açıyı 2π/n radyan olarak artırır, n tekerlek üzerindeki parmaklıkların sayısıdır. Açısal hız ve ivme verileri zamana göre açının birinci ve ikinci türevleri kullanılarak hesaplanır."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Çarpma açık veya örtük olabilir."
+        },
+        "Mute Audio" : {
+            
+            "message": "Sesi Kapat"
+        },
+        "My-File-Name" : {
+            
+            "message": "Dosya-Adim"
+        },
+        "Name" : {
+            
+            "message": "Adı"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Ad uzunluğu %s karakteri aşamaz"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Doğal Üstel"
+        },
+        "Natural Log" : {
+            
+            "message": "Doğal Log"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Doğal Log 1 + X"
+        },
+        "Never" : {
+            
+            "message": "Hiçbir zaman"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Yeni kalibrasyon, yeni bir deney başlatıncaya ya da bir dosya açıncaya kadar kullanılabilir."
+        },
+        "New Experiment" : {
+            
+            "message": "Yeni Deney"
+        },
+        "Next After" : {
+            
+            "message": "Sonraki Sonra"
+        },
+        "No Columns" : {
+            
+            "message": "Sütun Yok"
+        },
+        "No Device Connected" : {
+            
+            "message": "Bağlı Aygıt Yok"
+        },
+        "No device connected." : {
+            
+            "message": "Bağlı aygıt yok."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Bağlı Aygıt Yok"
+        },
+        "No expiration date" : {
+            
+            "message": "Son kullanma tarihi yok"
+        },
+        "No sensor connected" : {
+            
+            "message": "Sensör bağlı değil"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "Sensörler Bağlı Değil"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Hiçbir kaynak algılanmadı. Kaynağınızda Veri Paylaşımının etkin ve her iki cihazın aynı ağa bağlı olduğundan emin olun. Sorun devam ederse, Kaynağı Belirt'i seçin ve manuel olarak Veri Paylaşımı kaynağınıza bağlanın."
+        },
+        "Normal" : {
+            
+            "message": "Normal"
+        },
+        "not" : {
+            
+            "message": "değil"
+        },
+        "Not Capable" : {
+            
+            "message": "Yeterli Değil"
+        },
+        "Note" : {
+            
+            "message": "Not"
+        },
+        "Notes" : {
+            
+            "message": "Notlar"
+        },
+        "Number list" : {
+            
+            "message": "Numara listesi"
+        },
+        "Number of flags" : {
+            
+            "message": "Bayrak sayısı"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "Türev hesaplamaları için kullanılan nokta sayısı:"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "Düzeltme hesaplamaları için kullanılan nokta sayısı:"
+        },
+        "Number of spokes" : {
+            
+            "message": "Parmaklık sayısı"
+        },
+        "Numeric" : {
+            
+            "message": "Sayısal"
+        },
+        "Object" : {
+            
+            "message": "Nesne"
+        },
+        "Object Width" : {
+            
+            "message": "Nesne Genişliği"
+        },
+        "Offline" : {
+            
+            "message": "Çevrimdışı"
+        },
+        "OK" : {
+            
+            "message": "TAMAM"
+        },
+        "Ok" : {
+            
+            "message": "Tamam"
+        },
+        "On a triggering event" : {
+            
+            "message": "Tetikleyici bir olayla"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "LabQuest’te Wi-Fi simgesine dokunun"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Logger Pro’da Dosya -> Veri Paylaşımı’na gidin"
+        },
+        "One-point calibration" : {
+            
+            "message": "Tek nokta kalibrasyonu"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Çevrimiçi Veri Paylaşımı"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Sadece veri toplama sırasında fanı etkinleştir"
+        },
+        "Open failed" : {
+            
+            "message": "Açma işlemi başarısız oldu"
+        },
+        "Open Saved File" : {
+            
+            "message": "Kayıtlı Dosyayı Aç"
+        },
+        "Open Update Information" : {
+            
+            "message": "Güncelleme Bilgilerini Aç"
+        },
+        "Open..." : {
+            
+            "message": "Aç…"
+        },
+        "or" : {
+            
+            "message": "veya"
+        },
+        "Order Code" : {
+            
+            "message": "Komut Kodu"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Diğer / Kullanıcı Tanımlı"
+        },
+        "Other Options" : {
+            
+            "message": "Diğer Seçenekler"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Diğer/Kullanıcı Tanımlı: Yukarıda gösterildiği gibi boşluk ve bayrak sayısını girin. Nesne bir tekerlek ise, boşluk değeri tekerleğin çevre uzunluğuna parmaklık sayısının bölümüdür."
+        },
+        "Outlined Circle" : {
+            
+            "message": "Dış Çizgili Daire"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "Dış Çizgili Elmas"
+        },
+        "Outlined Plus" : {
+            
+            "message": "Dış Çizgili Artı"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "Dış Çizgili Dikdörtgen"
+        },
+        "Outlined Square" : {
+            
+            "message": "Dış Çizgili Kare"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "Dış Çizgili Üçgen"
+        },
+        "Paragraph" : {
+            
+            "message": "Paragraf"
+        },
+        "Parameter %s" : {
+            
+            "message": "Parametre %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Bir ifade içinde parametreler tekrarlanamaz."
+        },
+        "Paste" : {
+            
+            "message": "Yapıştır"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Yapıştır eylemi, düzenleme menüsü kullanılarak gerçekleştirilemez. Yapıştırmak için CTRL-V ya da CMD-V 'i kullanın."
+        },
+        "Pause replay" : {
+            
+            "message": "Oynatmayı duraklat"
+        },
+        "Pause Video" : {
+            
+            "message": "Videoyu Duraklat"
+        },
+        "Peak Frequency" : {
+            
+            "message": "Tepe Frekansı"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Sarkaç Periyodu"
+        },
+        "Percentage" : {
+            
+            "message": "Yüzde"
+        },
+        "Perform a" : {
+            
+            "message": "Gerçekleştir"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Işıkkapı Zamanlaması"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Işıkkapı, kapılar arasından geçen nesnenin geçiş süresini/zamanını ya da sarkaçın salınım periyodunu bildirir. Ardışık bloke olaylar arasındaki süre aralık zamanı olarak bildirilir. İki kapı kullanıldığında, bir değer bildirilmeden önce her iki kapı da bloke durumda olmalıdır."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Resim içinde Resim"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Go Direct Sensörü bilgisayarın, telefonun ya da tabletin yanına koyun"
+        },
+        "Play replay" : {
+            
+            "message": "Tekrar oynat"
+        },
+        "Play Video" : {
+            
+            "message": "Videoyu Oynat"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "Oynatma Hızı Çarpanı"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Lütfen kaynak IP adresini girin:"
+        },
+        "Plot" : {
+            
+            "message": "Çiz"
+        },
+        "Plot Manager" : {
+            
+            "message": "Çizim Yöneticisi"
+        },
+        "Plus" : {
+            
+            "message": "Artı"
+        },
+        "point" : {
+            
+            "message": "nokta"
+        },
+        "Point Colors" : {
+            
+            "message": "Nokta Renkleri"
+        },
+        "Point Symbols" : {
+            
+            "message": "Nokta Sembolleri"
+        },
+        "points" : {
+            
+            "message": "noktalar"
+        },
+        "Points" : {
+            
+            "message": "Noktalar"
+        },
+        "points before trigger" : {
+            
+            "message": "tetiklemeden önceki noktalar"
+        },
+        "Power" : {
+            
+            "message": "Güç"
+        },
+        "Prediction" : {
+            
+            "message": "Tahmin"
+        },
+        "Prediction Name" : {
+            
+            "message": "Tahmin Adı"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Tahmin adı %s karekter ile sınırlıdır."
+        },
+        "Prediction Options" : {
+            
+            "message": "Tahmin Seçenekleri"
+        },
+        "Prediction Title" : {
+            
+            "message": "Tahmin Başlığı"
+        },
+        "Predictions" : {
+            
+            "message": "Tahminler"
+        },
+        "Preview mode" : {
+            
+            "message": "Önizleme modu"
+        },
+        "Primary:" : {
+            
+            "message": "Birincil:"
+        },
+        "Privacy Notice" : {
+            
+            "message": "Gizlilik Bildirimi"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": "Pro Son Kullanma Tarihi Uyarısı"
+        },
+        "Projectile Info" : {
+            
+            "message": "Çekirdek Bilgisi"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Çekirdek Fırlatıcı"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Aygıtınıza bağlanabilmeleri için bu kimlik kodunu diğerlerine verin"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Proximity Bağlantı"
+        },
+        "Pulse timing" : {
+            
+            "message": "Atım zamanlaması"
+        },
+        "Quote" : {
+            
+            "message": "Bilgi"
+        },
+        "radians" : {
+            
+            "message": "radyan"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radyan (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Oran"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "200 örnek/sn aşan hızlar sabit bir süre gerektirir."
+        },
+        "Reconnect" : {
+            
+            "message": "Yeniden bağlan"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": "Kaydedilen verileri almak için sensörü yeniden bağlayın."
+        },
+        "Rectangle" : {
+            
+            "message": "Dikdörtgen"
+        },
+        "Regular" : {
+            
+            "message": "Düzgün"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Göreli kararlı okuma"
+        },
+        "Remainder" : {
+            
+            "message": "Kalan"
+        },
+        "Remote Logging" : {
+            
+            "message": "Uzaktan Kayıt"
+        },
+        "Remote Logging in Process" : {
+            
+            "message": "İşlem Sırasında Uzaktan Kayıt"
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": "Uzaktan kayıt aynı anda sadece bir sensörde mümkündür."
+        },
+        "Remote Logging Started" : {
+            
+            "message": "Uzaktan Kaydetme Başladı"
+        },
+        "Remote Logging Status" : {
+            
+            "message": "Uzaktan Kaydetme Durumu"
+        },
+        "Remove" : {
+            
+            "message": "Kaldır"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Doğrusal Eğilimi Kaldır"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Sanal Sensörü kaldır"
+        },
+        "Rename" : {
+            
+            "message": "Yeniden adlandır"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Veri Kümesini Yeniden Adlandır"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Tahmini Yeniden Adlandır"
+        },
+        "Replay" : {
+            
+            "message": "Tekrar Oynat"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Video senkr. bilgilerini tekrar oynat"
+        },
+        "Reported Reading" : {
+            
+            "message": "Raporlanan Ölçüm"
+        },
+        "Reset" : {
+            
+            "message": "Sıfırla"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Toplarken Sıfırla"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Varsayılanlara Ayarla"
+        },
+        "Restart app" : {
+            
+            "message": "Uygulamayı yeniden başlat"
+        },
+        "Restart Replay" : {
+            
+            "message": "Yeniden Başlat"
+        },
+        "Restore All" : {
+            
+            "message": "Tümünü Geri Yükle"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": "Geri Al ve Temizle"
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": "Geri Al ve Temizle Sensörü"
+        },
+        "Retry Calibration" : {
+            
+            "message": "Kalibrasyonu Tekrarla"
+        },
+        "Reverse" : {
+            
+            "message": "Tersine Çevir"
+        },
+        "revolution" : {
+            
+            "message": "devir"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Devir (dev)"
+        },
+        "Right" : {
+            
+            "message": "Sağ"
+        },
+        "Right Axis" : {
+            
+            "message": "Sağ Eksen"
+        },
+        "Right manual fit handle" : {
+            
+            "message": "Sağ elle sığdırma tutamağı"
+        },
+        "Right y-axis" : {
+            
+            "message": "Sağ y-ekseni"
+        },
+        "Right y-axis range" : {
+            
+            "message": "Sağ y-ekseni aralığı"
+        },
+        "RMS" : {
+            
+            "message": "KOK"
+        },
+        "RMSE" : {
+            
+            "message": "KOKH"
+        },
+        "Round" : {
+            
+            "message": "Yuvarlak"
+        },
+        "Row Number" : {
+            
+            "message": "Satır Numarası"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "örnek"
+        },
+        "Sample Data" : {
+            
+            "message": "Örnek Veriler"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Örnek Deneyler"
+        },
+        "samples" : {
+            
+            "message": "örnekler"
+        },
+        "Samples" : {
+            
+            "message": "Örnekler"
+        },
+        "samples per second" : {
+            
+            "message": "saniyedeki örnek"
+        },
+        "samples scheduled" : {
+            
+            "message": "zamanlanan örnekler"
+        },
+        "Save" : {
+            
+            "message": "Kaydet"
+        },
+        "Save AMBL" : {
+            
+            "message": "AMBL Kaydet"
+        },
+        "Save and Close App" : {
+            
+            "message": "Kaydet ve Uygulamayı Kapat"
+        },
+        "Save As..." : {
+            
+            "message": "Farklı Kaydet…"
+        },
+        "Save Changes?" : {
+            
+            "message": "Değişiklikleri Kaydet?"
+        },
+        "Save CSV" : {
+            
+            "message": "CSV Kaydet"
+        },
+        "Save Experiment" : {
+            
+            "message": "Deneyi Kaydet"
+        },
+        "Save failed" : {
+            
+            "message": "Kaydetme başarısız"
+        },
+        "Save PDF" : {
+            
+            "message": "PDF Kaydet"
+        },
+        "Save Pending" : {
+            
+            "message": "Beklemede Kaydet"
+        },
+        "Save PNG" : {
+            
+            "message": "PNG Kaydet"
+        },
+        "Saved" : {
+            
+            "message": "Kaydedilen"
+        },
+        "Saving" : {
+            
+            "message": "Kaydediliyor"
+        },
+        "Scale Factor" : {
+            
+            "message": "Ölçek Çarpanı"
+        },
+        "Scaling" : {
+            
+            "message": "Ölçekleme"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Aygıt aranıyor…"
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "İkinci kalibrasyon noktası sensör voltajı birinci noktadan en az 0.05 V farklı olmalıdır."
+        },
+        "Second Derivative" : {
+            
+            "message": "İkinci Türev"
+        },
+        "Secondary:" : {
+            
+            "message": "İkincil:"
+        },
+        "seconds" : {
+            
+            "message": "saniye"
+        },
+        "See Experiments" : {
+            
+            "message": "Deneylere göz atın"
+        },
+        "See sample experiments" : {
+            
+            "message": "Örnek deneylere bak"
+        },
+        "Select Data Set" : {
+            
+            "message": "Veri Kümesi Seç"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Açısal konumu bildirmek için istenen birimleri seçin."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "Bağlanmak istediğiniz aygıt türünü seçin."
+        },
+        "select/deselect meter" : {
+            
+            "message": "sayaç seç/bırak"
+        },
+        "Selected Events" : {
+            
+            "message": "Seçili Olaylar"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Sensör İşlemleri"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Sensör Kanalları"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Sensör Veri Toplama"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Sensör Ayarları"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Sensör Voltajı"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Sensör Sıfırlandı"
+        },
+        "Sensors" : {
+            
+            "message": "Sensörler"
+        },
+        "Session 1 Name" : {
+            
+            "message": "Oturum 1 Adı"
+        },
+        "Session 2 Name" : {
+            
+            "message": "Oturum 2 Adı"
+        },
+        "Session 3 Name" : {
+            
+            "message": "Oturum 3 Adı"
+        },
+        "Session 4 Name" : {
+            
+            "message": "Oturum 4 Adı"
+        },
+        "Session ended by Host" : {
+            
+            "message": "Oturum Sunucu tarafından sonlandırıldı"
+        },
+        "Session Preferences" : {
+            
+            "message": "Oturum Tercihleri"
+        },
+        "Settings saved" : {
+            
+            "message": "Ayarlar kaydedildi"
+        },
+        "Share AMBL" : {
+            
+            "message": "AMBL Paylaş"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Bir deneyi ağ bağlantısı üzerinden diğerleri ile paylaşın"
+        },
+        "Share CSV" : {
+            
+            "message": "CSV Paylaş"
+        },
+        "Share Image" : {
+            
+            "message": "Resim Paylaş"
+        },
+        "Share PDF" : {
+            
+            "message": "PDF Paylaş"
+        },
+        "Show All Releases" : {
+            
+            "message": "Tüm Sürümleri Göster"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": "Veri İşaretleme komutlarını göster"
+        },
+        "Show Details" : {
+            
+            "message": "Ayrıntıları Göster"
+        },
+        "Show Error Bars" : {
+            
+            "message": "Hata Çubuklarını Göster"
+        },
+        "Show FFT" : {
+            
+            "message": "FFT Göster"
+        },
+        "Show Histogram" : {
+            
+            "message": "Histogramı Göster"
+        },
+        "Show Less" : {
+            
+            "message": "Daha az göster"
+        },
+        "Show Menu" : {
+            
+            "message": "Menüyü Göster"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Kapıdan ortalama süreyi göster"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Orijinal Grafiği Göster"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": "Uzaktan Kaydetme komutlarını göster"
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": "Uyum Parametrelerinin Belirsizliğini Göster"
+        },
+        "Significant Figures" : {
+            
+            "message": "Anlamlı Rakamlar"
+        },
+        "Sine" : {
+            
+            "message": "Sinüs"
+        },
+        "Slope" : {
+            
+            "message": "Eğim"
+        },
+        "Small" : {
+            
+            "message": "Küçük"
+        },
+        "Spacing" : {
+            
+            "message": "Aralık"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Aralık = Çevre / Parmaklık Sayısı"
+        },
+        "Specify source" : {
+            
+            "message": "Kaynağı belirtin"
+        },
+        "Spectrum" : {
+            
+            "message": "Spektrum"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Kapı Hızı"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "Kapı Geçiş Hız Bilgisi"
+        },
+        "Spokes:" : {
+            
+            "message": "Parmaklık:"
+        },
+        "Square" : {
+            
+            "message": "Kare"
+        },
+        "Square Root" : {
+            
+            "message": "Kare Kök"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Veri Paylaşım Oturumu Başlat"
+        },
+        "Start a New Session" : {
+            
+            "message": "Yeni Oturum Başlat"
+        },
+        "Start Collection" : {
+            
+            "message": "Toplamayı Başlat"
+        },
+        "Start collection when" : {
+            
+            "message": "Şu durumda toplamayı başlat"
+        },
+        "Start Logging" : {
+            
+            "message": "Kaydetmeyi Başlat"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Yeni Deney Başlat?"
+        },
+        "Start Session" : {
+            
+            "message": "Oturumu Başlat"
+        },
+        "Statistics" : {
+            
+            "message": "İstatistik"
+        },
+        "Std dev" : {
+            
+            "message": "Std sap"
+        },
+        "Step Backward" : {
+            
+            "message": "Geri Al"
+        },
+        "Step Forward" : {
+            
+            "message": "İleri Al"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "Videoyu Geriye Adımla"
+        },
+        "Step Video Forward" : {
+            
+            "message": "Videoyu İleri Adımla"
+        },
+        "Stop" : {
+            
+            "message": "Durdur"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Hacim 9 mL ve 10 mL aralığına geldiğinde damla eklemeyi durdurun."
+        },
+        "Stop Collection" : {
+            
+            "message": "Toplamayı Durdur"
+        },
+        "Stop Sharing" : {
+            
+            "message": "Paylaşımı Durdur"
+        },
+        "Strikethrough" : {
+            
+            "message": "Üzeri çizili"
+        },
+        "Subject" : {
+            
+            "message": "Konu"
+        },
+        "Submit" : {
+            
+            "message": "Gönder"
+        },
+        "Subscript" : {
+            
+            "message": "Alt simge"
+        },
+        "Subscription Ends" : {
+            
+            "message": "Abonelik Sonu"
+        },
+        "Subscription ends" : {
+            
+            "message": "Abonelik sonu"
+        },
+        "Superscript" : {
+            
+            "message": "Üst simge"
+        },
+        "Supported Functions" : {
+            
+            "message": "Desteklenen Fonksiyonlar"
+        },
+        "Symbol" : {
+            
+            "message": "Sembol"
+        },
+        "Sync data with video" : {
+            
+            "message": "Verileri video ile senkronize et"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Videoyu Verilerle Senkronize Et"
+        },
+        "Syntax" : {
+            
+            "message": "Sözdizimi"
+        },
+        "Table" : {
+            
+            "message": "Tablo"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Her damlamada sensörden okumayı al (örn. pH, iletkenlik)."
+        },
+        "Tangent" : {
+            
+            "message": "Tanjant"
+        },
+        "Target" : {
+            
+            "message": "Hedef"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Bluetooth bağlantısı kayboldu"
+        },
+        "The Column Name is required" : {
+            
+            "message": "Sütun Adı gerekli"
+        },
+        "the current file" : {
+            
+            "message": "geçerli dosya"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "Veri kümesi videodan %s sn önce oynatmaya başlayacak"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "İfade, açıkça girilmez ise eğri uydurma adı olarak kullanılır."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "Fırlatma hızı, dahili iki kapı arasından geçen çekirdeğin ortalama hızıdır."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "Fırlatma hızı, dahili birinci kapıdan geçen çekirdeğin ortalama hızıdır."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Nesnenin hızını ışıkkapıdan saptamak için Nesne/Bayrak Genişliği, ışıkkapının bloke olduğu (Blokeli-Kapı Süresi) zamana bölünür."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": "İstenen hız ve süre karşılanamıyor. %d%s için maksimum hız %.2f örnek/%s."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Ardışık blokeli olaylar arasındaki süre, Aralık olarak bildirilir."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "Bir ifade içinde yediden fazla parametre olamaz."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "Bu sensör için, probun 0°C'nin altındaki bir ortamda gerçek olmayan okumalarını çözümlemek için yeni bir aygıt yazılımı mevcuttur. Güncelleme işlemi Graphical Analysis'den gerçekleştirilemez."
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Bu sensör için yeni bir ürün yazılımı mevcut, fakat güncelleme bu aygıt üzerinden uygulanamıyor. Bu sensörü güncellemek için USB üzerinden macOS, Windows ya da ChromeOS aygıtına bağlayın ve Grafiksel Analizi başlatın. Bağlı aygıtlar listesine gidin ve güncellemeyi başlatın."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Bu sensör için yeni bir ürün yazılımı güncellemesi mevcut. Güncelleme işlemi, sensörün USB üzerinden bağlı olmasını ve Grafiksel Analizin geçici olarak kapatılmasını gerektiriyor.  Kablosuz olarak bağlanmışsa, sensörü USB ile bağlayın."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Ayarlar kaydedilirken bir sorun oluştu"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Bu sütun otomatik olarak oluşturuldu ve değiştirilemez"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Bu silme işlemi geri alınamaz."
+        },
+        "This feature requires a" : {
+            
+            "message": "Bu özellik şunu gerektirir"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Bu sayı, her blokeli olay ile açısal konumun değiştiği bir dönüşün kesrini tanımlar."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Windows’un bu sürümü Go Direct Sensörler için sadece USB bağlantısını destekler."
+        },
+        "Time" : {
+            
+            "message": "Zaman"
+        },
+        "Time Based" : {
+            
+            "message": "Zaman Bazlı"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "Zaman Tabanlı Veri Toplama - Bir Grafik"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "Zaman Tabanlı Veri Toplama - Üç Grafik"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "Zaman Tabanlı Veri Toplama - İki Grafik"
+        },
+        "Time between gates" : {
+            
+            "message": "Kapılar arasındaki süre"
+        },
+        "Time Decay Filter" : {
+            
+            "message": "Zaman Bozunum Filtresi"
+        },
+        "Time measurements" : {
+            
+            "message": "Zaman ölçümleri"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Uçuş Zamanı Yastığı,"
+        },
+        "Time Units" : {
+            
+            "message": "Zaman Birimi"
+        },
+        "Timer" : {
+            
+            "message": "Zamanlayıcı"
+        },
+        "Timer Info" : {
+            
+            "message": "Zamanlayıcı Bilgisi"
+        },
+        "Timer or Period" : {
+            
+            "message": "Zamanlayıcı ya da Periyot"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "İpucu: En iyi sonucu elde etmek için, sensörünüzün bilgisayarın, telefonun ya da tabletin 2 metre yakınındaki tek sensör olmasına dikkat edin."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "İpucu: Proximity bağlantısı mesafe tahminlerine dayanır. Ortamınız güvenilir değilse, sensör seçmek için bağlantı listesini kullanın."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "İpucu: Sensörlerin bağlantıya hazır olması için kırmızı ışığın yanıp sönmesi gerekir."
+        },
+        "Title" : {
+            
+            "message": "Başlık"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Özel bir %s oluşturmak için, desteklenen işleçlerden herhangi biri ile desteklenen bir işlev kullanın"
+        },
+        "To locate the address:" : {
+            
+            "message": "Adresi belirle:"
+        },
+        "to make the key available for use." : {
+            
+            "message": "anahtarı kullanıma hazır hale getirmek için."
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Bir Veri Paylaşım oturumu başlatmak için:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Koyu Modu Değiştir"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Açık Modu Değiştir"
+        },
+        "Too few points" : {
+            
+            "message": "Çok az nokta"
+        },
+        "Toolbar" : {
+            
+            "message": "Araç Çubuğu"
+        },
+        "Top" : {
+            
+            "message": "Üst"
+        },
+        "Total samples" : {
+            
+            "message": "Toplam örnek"
+        },
+        "Triangle" : {
+            
+            "message": "Üçgen"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Trigonometrik fonksiyonlar radyan cinsinden değerlendirilir; yatay eksende çizilen sütunun birimleri olduğu durumlar hariç"
+        },
+        "Truncate" : {
+            
+            "message": "Kes"
+        },
+        "Two-point calibration" : {
+            
+            "message": "İki-noktalı kalibrasyon"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Ultra Makara - oluklu"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Ultra Makara - dış kenar"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Bağlantı sağlanamadı ya da bu adın kaynağı bulunamadı."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Bağlantı sağlanamadı "
+        },
+        "Units" : {
+            
+            "message": "Birim"
+        },
+        "Unknown" : {
+            
+            "message": "Bilinmiyor"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "Bilinmeyen Lisans Anahtarı Hatası"
+        },
+        "Unmute Audio" : {
+            
+            "message": "Sesi Aç"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "Desteklenmeyen Tarayıcı"
+        },
+        "Untitled" : {
+            
+            "message": "Başlıksız"
+        },
+        "Update Available" : {
+            
+            "message": "Güncelleme Mevcut"
+        },
+        "Update error" : {
+            
+            "message": "Güncelleme hatası"
+        },
+        "Update Firmware" : {
+            
+            "message": "Yazılımı Güncelle"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Güncelleme indiriliyor…"
+        },
+        "Update your License Key" : {
+            
+            "message": "Lisans Anahtarınızı güncelleyin"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "USB Aygıt"
+        },
+        "Use Column Value" : {
+            
+            "message": "Sütun Değerini Kullan"
+        },
+        "Use gate separation" : {
+            
+            "message": "Kapı ayırmayı kullan"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Nesne / bayrak genişliğini kullan"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Çekirdek çapını kullan"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Bilimsel Notasyon Kullan"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "USB veya WIRELESS düğmesini istediğiniz gibi kullanın."
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": "Deneyiniz hakkında markdown veya düz metin olarak not almak için bu alanı kullanın. Uygulanan biçimlendirmeyi görmek için önizleme moduna geçin."
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Zamana göre hızı incelemek için bu seçeneği kullanın. Bildirilen süre, kapının bloke edildiği zaman ile kapının blokesiz olduğu zamanın arasındaki orta nokta zamanıdır."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Uçuş Zamanı Yastığını Kullan"
+        },
+        "Use Windowing" : {
+            
+            "message": "Pencerelemeyi Kullan"
+        },
+        "User Manual" : {
+            
+            "message": "Kullanım Kılavuzu"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Fabrika kalibrasyonunu kullanarak (şundan)"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "Bu deneyin yerel önbelleğe alınmış sürümü kullanılıyor."
+        },
+        "Value must be between " : {
+            
+            "message": "Değer aralık içinde olmalıdır "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "Vernier Graphical Analysis&reg; bilim öğrencilerinin Vernier sensörlerinden veri toplaması, grafik çizmesi ve analiz etmesi için bir araçtır."
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "Vernier Graphical Analysis® Pro erişim süresi ${this.daysRemaining} gün sonra bitiyor"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "Vernier Graphical Analysis® Pro erişimi bugün sona eriyor"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernier Şeritli Cetvel"
+        },
+        "Version" : {
+            
+            "message": "Sürüm"
+        },
+        "Vertical Divider" : {
+            
+            "message": "Dikey Bölücü"
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Time" : {
+            
+            "message": "Video Süresi"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Video, veri kümesinden %s sn önce oynatmaya başlayacak"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "Video, veri kümesi ile aynı anda oynatmaya başlayacak"
+        },
+        "View Experiment" : {
+            
+            "message": "Deneyi Görüntüle"
+        },
+        "View Integral" : {
+            
+            "message": "İntegral Görüntüle"
+        },
+        "View Options" : {
+            
+            "message": "Görünüm Seçenekleri"
+        },
+        "View Statistics" : {
+            
+            "message": "İstatistikleri Göster"
+        },
+        "Voltage" : {
+            
+            "message": "Voltaj"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "%s 'den %s 'e bekleniyor (%s %s genelinde)"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "Lisans anahtarının geçerli olduğunu tespit ettik, ancak kullanılmadan önce Son Kullanıcı Lisans Sözleşmesinin kabul edilmesi gerekiyor. Satın alma işlemini yapan okul temsilcisi tarafından "
+        },
+        "What's New" : {
+            
+            "message": "Yenilikler"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Sarkaç seçildiğinde, tek bir salınım tamamlandığında sarkaç kapıyı üç kez bloklar (engeller) ve her ikinci bloke olayı (engelleme) arasındaki süre Periyot olarak bildirilir."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "İki ışıkkapı kullanıldığında, hızı hesaplamak için Nesne / Bayrak Genişliği yerine kapılar arasındaki mesafeyi kullanabilirsiniz. Bildirilen hız, iki kapı arasındaki hız olacaktır."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Kablosuz bağlantı için Windows 10 gerekiyor."
+        },
+        "Wireless" : {
+            
+            "message": "Kablosuz"
+        },
+        "Working..." : {
+            
+            "message": "Çalışıyor…"
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "x-ekseni aralığı"
+        },
+        "x-range" : {
+            
+            "message": "x-aralığı"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "y-ekseni aralığı"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "Aygıtı kablolu USB bağlantısıyla ya da kablosuz olarak bağlayabilirsiniz."
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "Bu URL'yi e-posta, metin veya başka yollarla paylaşarak okulunuzdaki diğer kişilere bu uygulamaya erişim verebilirsiniz."
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": "Kaydedilen verileri almak için veri toplama işleminin tamamlanmasını beklemek zorunda değilsiniz."
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": "Sayısal olmayan veri girdiniz. Bu sütunu kategorik veriye dönüştürmek istiyor musunuz?"
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "Bu deney için gerekli olmayan bir aygıtı bağladınız."
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "Bir aktivasyon kodu girdiniz, lisans anahtarı değildir."
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "Tarayıcınız mevcut aygıtları görüntüleyecektir. İstediğiniz birini seçin ve Eşleştir'e tıklayın."
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Veri Paylaşımı Yöneticiniz yeni bir deney başlatıyor. Kendi deneyiniz ile devam edebilirsiniz ya da yeni deneye katılabilirsiniz."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Lisansınız, Vernier Graphical Analysis®'in sadece okulunuzdaki öğrenciler, öğretim üyeleri ve personel ile paylaşılmasına izin verir. Lütfen, okulunuzun dışındakiler ile paylaşmayın."
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Lisansınız, Vernier Video Analysis'in sadece okulunuzdaki öğrenciler, öğretim üyeleri ve personel ile paylaşılmasına izin verir. Lütfen, okulunuzun dışındakiler ile paylaşmayın."
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": "Sensörünüzün bağlantısı kesildi."
+        },
+        "Zero" : {
+            
+            "message": "Sıfır"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Tüm Verilere Yakınlaştır"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Seçime Yakınlaştır"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-ekseni ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-ekseni ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier Science Education"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g Akselerometre"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3-Eksenli Akselerometre (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3-Eksenli Akselerometre (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3-Eksenli Akselerometre (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "30V Voltaj (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Soğurma"
+        },
+        "Acceleration" : {
+            
+            "message": "İvme"
+        },
+        "Accelerometer" : {
+            
+            "message": "Akselerometre"
+        },
+        "Ammonium" : {
+            
+            "message": "Amonyum"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Amonyum ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "Çözümleyici"
+        },
+        "Anemometer" : {
+            
+            "message": "Anemometre"
+        },
+        "Angle" : {
+            
+            "message": "Açı"
+        },
+        "Barometer" : {
+            
+            "message": "Barometre"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometre (Artık Satılmıyor)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Biyoloji Gaz Basıncı"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Kan Basıncı"
+        },
+        "Calcium" : {
+            
+            "message": "Kalsiyum"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Kalsiyum ISE"
+        },
+        "Charge" : {
+            
+            "message": "Şarj"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Şarj Sensörü"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Şarj Sensörü 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Şarj Sensörü 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Şarj Sensörü 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Klorid"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Klorid ISE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Gazı Yüksek"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Gazı Düşük"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 Gaz Eski"
+        },
+        "Colorimeter" : {
+            
+            "message": "Kolorimetre"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Kolorimetre Eski"
+        },
+        "Concentration" : {
+            
+            "message": "Konsantrasyon"
+        },
+        "Conductivity" : {
+            
+            "message": "İletkenlik"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "İletkenlik 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "İletkenlik 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "İletkenlik 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Sabit Akım Sistemi"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Kolluk Basıncı"
+        },
+        "Current" : {
+            
+            "message": "Akım"
+        },
+        "Current Probe" : {
+            
+            "message": "Akım Probu"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Akım Probu 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diyastolik"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Diferansiyel Gerilim"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Dijital Kontrol Birimi"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Direkt-Bağlantı Sıcaklık"
+        },
+        "Displacement" : {
+            
+            "message": "Yer Değiştirme"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Çözünmüş CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Çözünmüş Oksijen"
+        },
+        "Distance" : {
+            
+            "message": "Mesafe"
+        },
+        "DO" : {
+            
+            "message": "ÇO"
+        },
+        "Drop Counter" : {
+            
+            "message": "Damla Sayacı"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Çift Yönlü Kuvvet 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Çift Yönlü Kuvvet 50 N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Sadece 2021’in başlarındaki arabalar"
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Elektrot Amplifikatör"
+        },
+        "Energy" : {
+            
+            "message": "Enerji"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Enerji Sensör Akımı"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Enerji Sensör Voltajı"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanol"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Etanol Sensör"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Ekstra Uzun Sıcaklık"
+        },
+        "Flow Rate" : {
+            
+            "message": "Akış Hızı"
+        },
+        "Fluorescence" : {
+            
+            "message": "Floresans"
+        },
+        "Force" : {
+            
+            "message": "Kuvvet"
+        },
+        "Force Plate" : {
+            
+            "message": "Kuvvet Plakası"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Kuvvet Plakası 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Kuvvet Plakası 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Gaz Basınç Sensörü"
+        },
+        "Gate State" : {
+            
+            "message": "Kapı Durumu"
+        },
+        "Gate Time" : {
+            
+            "message": "Kapı Zamanı"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Go Wireless Elektrot Amplifikatör"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go Wireless Nabız"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Go Wireless pH"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Sıcaklık"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Açıölçer"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "El Dinamometresi"
+        },
+        "Heart Rate" : {
+            
+            "message": "Nabız"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Nabız Ekranı"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Yüksek Akım Sensörü"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Yüksek Hassasiyetli Işık 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Yüksek Hassasiyetli Işık 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Yüksek Hassasiyetli Işık 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Aydınlatma"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Enstrümantasyon Amplifikatör"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Enstrümantasyon Amplifikatör +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Enstrümantasyon Amplifikatör +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Enstrümantasyon Amplifikatör +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Enstrümantasyon Amplifikatör 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Enstrümantasyon Amplifikatör 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Enstrümantasyon Amplifikatör 20mV"
+        },
+        "Intensity" : {
+            
+            "message": "Yoğunluk"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "IR Sıcaklık Sensörü"
+        },
+        "Irradiance" : {
+            
+            "message": "Parlaklık"
+        },
+        "Launch Speed" : {
+            
+            "message": "Fırlatma Hızı"
+        },
+        "Light" : {
+            
+            "message": "Işık"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Işık 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Işık 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Işık 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Işık Seviyesi"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Doğrusal Konum Sensörü"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Düşük-g Akselerometre"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Manyetik Alan"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Manyetik Alan 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Manyetik Alan 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Ortalama Arter Basıncı"
+        },
+        "Melt Station" : {
+            
+            "message": "Ergime İstasyonu"
+        },
+        "Microphone" : {
+            
+            "message": "Mikrofon"
+        },
+        "mol/L" : {
+            
+            "message": "mol/L"
+        },
+        "Motion" : {
+            
+            "message": "Hareket"
+        },
+        "Motion Detector" : {
+            
+            "message": "Hareket Dedektörü"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Hareket Kodlayıcı Arabası"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitrat"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitrat ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Optik ÇO Prob %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Optik ÇO Prob mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Oksijen Gazı"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Oksijen Gazı Eski"
+        },
+        "PAR Sensor" : {
+            
+            "message": "PAR Sensörü"
+        },
+        "Period" : {
+            
+            "message": "Periyot"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP Amplifikatör"
+        },
+        "Photogate" : {
+            
+            "message": "Işıkkapı"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Platinyum-Hücre İletkenliği"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimetre"
+        },
+        "Position" : {
+            
+            "message": "Konum"
+        },
+        "Potassium" : {
+            
+            "message": "Potasyum"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Potasyum ISE"
+        },
+        "Potential" : {
+            
+            "message": "Potansiyel"
+        },
+        "Power" : {
+            
+            "message": "Güç"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Güç Yükseltici Akımı"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Basınç"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Basınç Sensörü (Artık Satılmıyor)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Basınç Sensörü 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Çekirdek Fırlatıcı"
+        },
+        "Pulse" : {
+            
+            "message": "Nabız"
+        },
+        "Pulse Time" : {
+            
+            "message": "Atım Süresi"
+        },
+        "Pyranometer" : {
+            
+            "message": "Piranometre"
+        },
+        "Radiation" : {
+            
+            "message": "Radyasyon"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Radyasyon Monitörü"
+        },
+        "Raw" : {
+            
+            "message": "Ham"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Ham Voltaj (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Bağıl Nem"
+        },
+        "Resistance" : {
+            
+            "message": "Direnç"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Solunum Monitörü"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Solunum Hızı"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Dairesel Hareket"
+        },
+        "Salinity" : {
+            
+            "message": "Tuzluluk"
+        },
+        "Signal" : {
+            
+            "message": "Sinyal"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Toprak Nemi"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Toprak Nem Sensörü"
+        },
+        "Sound Level" : {
+            
+            "message": "Ses Seviyesi"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Ses Seviye Sensörü"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Ses Basıncı"
+        },
+        "Speed" : {
+            
+            "message": "Hız"
+        },
+        "Spirometer" : {
+            
+            "message": "Spirometre"
+        },
+        "Standard" : {
+            
+            "message": "Standart"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Standart Sıcaklık"
+        },
+        "Student Force" : {
+            
+            "message": "Öğrenci Kuvveti"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Öğrenci Radyasyon Monitörü"
+        },
+        "Systolic" : {
+            
+            "message": "Sistolik"
+        },
+        "Temperature" : {
+            
+            "message": "Sıcaklık"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Sıcaklık Sondası"
+        },
+        "Thermocouple" : {
+            
+            "message": "Isıl Çift"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "IsılÇift Eski"
+        },
+        "TI Light" : {
+            
+            "message": "TI Işık"
+        },
+        "Time of Flight" : {
+            
+            "message": "Uçuş Süresi"
+        },
+        "Transmittance" : {
+            
+            "message": "Geçirgenlik"
+        },
+        "Turbidity" : {
+            
+            "message": "Bulanıklık"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA Yoğunluğu"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVA Sensörü"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB Yoğunluğu"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVB Sensörü"
+        },
+        "Velocity" : {
+            
+            "message": "Hız"
+        },
+        "Voltage" : {
+            
+            "message": "Voltaj"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Voltaj (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Hacim"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT Mesafesi"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT Kuvvet"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Geniş-Aralıklı Sıcaklık Sondası"
+        },
+        "X Acceleration" : {
+            
+            "message": "X İvme"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y İvme"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z İvme"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": "*umol m-2 s-1*"
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": "*µmol m⁻² s⁻¹*"
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Mutlak Nem"
+        },
+        "Acceleration G" : {
+            
+            "message": "İvme G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "İvme Vektörü"
+        },
+        "Acceleration Y" : {
+            
+            "message": "İvme Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Düzeltilmiş Hacim"
+        },
+        "Altitude" : {
+            
+            "message": "Yükseklik"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Yükseklik tek-noktalı kalibrasyon"
+        },
+        "Amplitude" : {
+            
+            "message": "Genlik"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Açı (Yüksek Çözünürlük)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Açısal Hareket"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Başlangıçta oto. sıfırla"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Yardımcı Bağlantı Nkt. Modu"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE Akım Aralığı"
+        },
+        "BE Duration" : {
+            
+            "message": "BE Süresi"
+        },
+        "BE Potential" : {
+            
+            "message": "BE Potansiyeli"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE Örnek Hızı"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Barometrik Basınç"
+        },
+        "Battery Level" : {
+            
+            "message": "Pil Seviyesi"
+        },
+        "Battery Percent" : {
+            
+            "message": "Pil Yüzde"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Batarya Voltajı"
+        },
+        "Blank calibration" : {
+            
+            "message": "Boş kalibrasyon"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Köprü Gerilimi"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ Eşdeğeri"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ Gazı"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CVS Akım Aralığı"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS Nihai Potansiyeli"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS Başlangıç Potansiyeli"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS Döngü Sayısı"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS Segment Sayısı"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS Tarama Hızı"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS Anahtarlama Potansiyeli 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS Anahtarlama Potansiyeli 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Kalibrasyon katsayısı"
+        },
+        "Calibration power" : {
+            
+            "message": "Kalibrasyon gücü"
+        },
+        "Cap number" : {
+            
+            "message": "Kapak numarası"
+        },
+        "Cell" : {
+            
+            "message": "Hücre"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Hücre sabiti (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Hücre sabiti (aktif)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Katsayı-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Katsayı-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Katsayı-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "İletkenlik - 0% DS"
+        },
+        "Correction Factor" : {
+            
+            "message": "Düzeltme Faktörü"
+        },
+        "Counts" : {
+            
+            "message": "Sayım"
+        },
+        "Current pressure" : {
+            
+            "message": "Mevcut basınç"
+        },
+        "Current state" : {
+            
+            "message": "Mevcut durum"
+        },
+        "Current temperature" : {
+            
+            "message": "Mevcut sıcaklık"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Kesme frekansı"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Çevrim Hacmi"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Hacim kaynağı döngüsü"
+        },
+        "DAC value" : {
+            
+            "message": "DAC değeri"
+        },
+        "DO Concentration" : {
+            
+            "message": "ÇO Konsantrasyonu"
+        },
+        "DO Salinity" : {
+            
+            "message": "ÇO Tuzluluk Oranı"
+        },
+        "DO Saturation" : {
+            
+            "message": "ÇO Doygunluk"
+        },
+        "Data source" : {
+            
+            "message": "Veri kaynağı"
+        },
+        "Declination" : {
+            
+            "message": "Sapma"
+        },
+        "Demo" : {
+            
+            "message": "Demo"
+        },
+        "Dew Point" : {
+            
+            "message": "Çiy Noktası"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Diyastolik katsayısı"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Diferansiyel Basınç"
+        },
+        "Drops" : {
+            
+            "message": "Damla"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG Rektifikasyonu"
+        },
+        "Electrode Current" : {
+            
+            "message": "Elektrot Akımı"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Elektrot Gerilimi"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Elektrot temizleme"
+        },
+        "Enter altitude" : {
+            
+            "message": "Yüksekliği girin"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Barometrik basıncı girin"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Mevcut sıcaklığı girin"
+        },
+        "Enter first known value" : {
+            
+            "message": "Bilinen ilk değeri girin"
+        },
+        "Enter k value" : {
+            
+            "message": "k değerini girin"
+        },
+        "Enter known value" : {
+            
+            "message": "Bilinen değeri girin"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Çarpan değerini girin"
+        },
+        "Enter n value" : {
+            
+            "message": "n değerini girin"
+        },
+        "Enter offset value" : {
+            
+            "message": "Aralık değerini girin"
+        },
+        "Enter power value" : {
+            
+            "message": "Güç değerini girin"
+        },
+        "Enter second known value" : {
+            
+            "message": "Bilinen ikinci değeri girin"
+        },
+        "Enter station elevation" : {
+            
+            "message": "İstasyon yüksekliğini girin"
+        },
+        "Enter third known value" : {
+            
+            "message": "Bilinen üçüncü değeri girin"
+        },
+        "Envelope" : {
+            
+            "message": "Zarf"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Zarf ortalama"
+        },
+        "Error" : {
+            
+            "message": "Hata"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Etanol Gazı"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "HC’li Etanol Gazı"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Etanol İşaretleri"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Etanol Buharı"
+        },
+        "Experiment Type" : {
+            
+            "message": "Deney Türü"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Ekspiratuar Tepe Hacmi"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "FWD" : {
+            
+            "message": "FWD"
+        },
+        "Fan" : {
+            
+            "message": "Fan"
+        },
+        "Fan Mode" : {
+            
+            "message": "Fan Modu"
+        },
+        "Final hold time" : {
+            
+            "message": "Nihai tutma süresi"
+        },
+        "Final temperature" : {
+            
+            "message": "Son sıcaklık"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Beş-noktalı kalibrasyon"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Akış hızı filtresi"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Akış hızı inspiratuar polaritesi"
+        },
+        "Force G" : {
+            
+            "message": "Kuvvet G"
+        },
+        "Force Y" : {
+            
+            "message": "Kuvvet Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Kuvvet tek-noktalı kalibrasyon"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Kuvvet iki-noktalı kalibrasyon"
+        },
+        "Forward" : {
+            
+            "message": "İleri"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Kapı 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Kapı 1 - Kapı Durumu"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Kapı 1 Durum"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Kapı 1/Uzak Kapı - Zamanlama"
+        },
+        "Gate 2" : {
+            
+            "message": "Kapı 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Kapı 2 - Kapı Durumu"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Kapı 2 Durum"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-Eksenli Manyetik Alan Sensörü"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® İvme"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® Kan Basıncı"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ Gazı"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® Kolorimetre"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® İletkenlik Sondası"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Sabit Akım Sistemi"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® Akım Sondası"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® Devirli Voltametri Sistemi"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® Damla Sayacı"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektrod Amplifikatör"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® Enerji"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Go Direct® Etanol Sensörü"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Go Direct® Etanol Buharı"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Kuvvet ve İvme Sensörü"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® Gaz Kromatografisi"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Gaz Basınç Sensörü"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® El Dinamometresi"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® İyon-Seçici Elektrod Amplifikatörü"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® Işık ve Renk Sensörü"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® Eritme İstasyonu"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® Hareket"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optik Çözünmüş Oksijen"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ Gazı"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": "Go Direct® PAR Sensör"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® Işıkkapı"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Platinum-Cell Conductivity"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct® Polarimeter"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® Çekirdek Fırlatıcı"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct® Pulse Oximeter"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": "Go Direct® Piranometre"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® Radyasyon Monitörü"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® Solunum Kayışı"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® Dairesel Hareket"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Sensör Arabası (G-Yeşil)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Sensör Arabası (Y-Sarı)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® Ses"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® Sipirometre"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": "Go Direct® Statik Yük"
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Yapı & Malzeme Test Cihazı"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® Yüzey Sıcaklığı"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® Sıcaklık Sondası"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Isılçift Amplifikatör"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® Gerilim Probu"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® Hava Durumu"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® Geniş Aralıklı Sıcaklık"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Wide-Range Pressure"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-Eksenli Manyetik Alan Sensörü"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct® İvme"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct® Kan Basıncı"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ Gazı"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct® Kolorimetre"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct® İletkenlik Sondası"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct® Sabit Akım Sistemi"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct® Akım Mili"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® Dönüşümlü Voltametri Sistemi"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct® Damla Sayacı"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektrod Amplifikatör"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct® Enerji"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Go Direct® Etanol Sensörü"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Go Direct® Etanol Buharı"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Kuvvet ve İvme Sensörü"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct® Gaz Kromatografisi"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Gaz Basınç Sensörü"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct® El Dinamometresi"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® İyon-Seçici Elektrod Amplifikatörü"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct® Işık ve Renk Sensörü"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct® Eritme İstasyonu"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct® Hareket"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optik Çözünmüş Oksijen"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ Gazı"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": "Go Direct™ PAR Sensör"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct® Işıkkapı"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Platinum-Cell Conductivity"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct® Polarimeter"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct® Çekirdek Fırlatıcı"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct® Pulse Oximeter"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": "Go Direct™ Piranometre"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct® Radyasyon Monitörü"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct® Solunum Kayışı"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct® Dairesel Hareket"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Sensör Arabası (G-Yeşil)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Sensör Arabası (Y-Sarı)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct® Ses"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct® Sipirometre"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": "Go Direct™ Statik Yük"
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Yapı & Malzeme Test Cihazı"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct® Yüzey Sıcaklığı"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct® Sıcaklık Sondası"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Isılçift Amplifikatör"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct® Gerilim Probu"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct® Hava Durumu"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct® Geniş Aralıklı Sıcaklık"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Wide-Range Pressure"
+        },
+        "Heat Index" : {
+            
+            "message": "Isı İndeksi"
+        },
+        "Hold time" : {
+            
+            "message": "Tutma süresi"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Hidrojen İşaretleri"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "Aydınlık"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Aydınlatma Ham"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Pervane Frekansı"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "İnspiratuar Tepe Hacmi"
+        },
+        "Instrument status" : {
+            
+            "message": "Enstrüman durumu"
+        },
+        "Internal Current" : {
+            
+            "message": "İç Akım"
+        },
+        "Internal Voltage" : {
+            
+            "message": "İç Gerilim"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED tanılama"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED büyüklüğü"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Lazer Kapı - Kapı Durumu"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Lazer Kapı Durumu"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Lazer Kapı/Uzak Kapı - Zamanlama"
+        },
+        "Launch Angle" : {
+            
+            "message": "Fırlatma Açısı"
+        },
+        "Linear Motion" : {
+            
+            "message": "Doğrusal Hareket"
+        },
+        "Live" : {
+            
+            "message": "Canlı"
+        },
+        "Load cell gain" : {
+            
+            "message": "Yük hücresi kazancı"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Microphone-FIXED"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Microphone-FIXED A Weight"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Microphone-FIXED C Weight"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Hareket (araba)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Hareket İvmesi"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Hareket Hızı"
+        },
+        "Motion with TC" : {
+            
+            "message": "DS ile Hareket"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": ""
+        },
+        "No smoothing" : {
+            
+            "message": "Yumuşatma yok"
+        },
+        "Normalized Response" : {
+            
+            "message": "Normalleştirilmiş Yanıt"
+        },
+        "Not ready" : {
+            
+            "message": ""
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP Süresi"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP Örnek Hızı"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Nesne İvmesi (çoklu bayraklar)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Nesne İvmesi (tek bayrak)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Nesne Hızı"
+        },
+        "Off" : {
+            
+            "message": ""
+        },
+        "One-point calibration" : {
+            
+            "message": "Tek-noktalı kalibrasyon"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Optik Dönme"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Salınım Açıklamaları"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Salınım Maks"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Salınım Min"
+        },
+        "Oscillations" : {
+            
+            "message": "Salınımlar"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Gazı"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": "O₂ Gaz Konsantrasyonu"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Gazı rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": "PAR iki-noktalı kalibrasyon"
+        },
+        "PPFD - CF" : {
+            
+            "message": "PPFD - DF"
+        },
+        "PPFD Correction" : {
+            
+            "message": "PPFD Düzeltme"
+        },
+        "PYR two-point calibration" : {
+            
+            "message": "PYR iki-noktalı kalibrasyon"
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Tepe Alanı"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Sarkaç Periyodu"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Sarkaç Hızı"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "Pine aygıt yazılımı ana sürümü"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "Pine aygıt yazılımı alt sürümü"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Pine aygıt yazılımı revizyonu"
+        },
+        "Position Direction" : {
+            
+            "message": "Konum Yönü"
+        },
+        "Position G" : {
+            
+            "message": "Konum G"
+        },
+        "Position Vector" : {
+            
+            "message": "Konum Vektörü"
+        },
+        "Position Y" : {
+            
+            "message": "Konum Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Kuvvet Üç-noktalı kalibrasyon"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Nabız Basıncı"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Atım Hızı"
+        },
+        "REV" : {
+            
+            "message": ""
+        },
+        "Ramp rate" : {
+            
+            "message": "Değişim hızı"
+        },
+        "Raw Diastolic" : {
+            
+            "message": "Ham Diyastolik"
+        },
+        "Raw MAP" : {
+            
+            "message": "Ham MAP"
+        },
+        "Raw Pressure" : {
+            
+            "message": "Ham Basınç"
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": "Ham Basınç Düzeltme"
+        },
+        "Raw Systolic" : {
+            
+            "message": "Ham Sistolik"
+        },
+        "Raw Temperature" : {
+            
+            "message": "Ham Sıcaklık"
+        },
+        "Ready" : {
+            
+            "message": "Hazır"
+        },
+        "Ready to inject" : {
+            
+            "message": ""
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Uzak İvme"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Uzak Kapı - Nesne İvmesi"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Uzak Kapı - Nesne İvmesi (tek bayrak)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Uzak Kapı - Nesne Hızı"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Uzak Kapı 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Uzak Kapı 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Uzak Hız"
+        },
+        "Reverse" : {
+            
+            "message": "Geri"
+        },
+        "Running" : {
+            
+            "message": ""
+        },
+        "Salinity correction" : {
+            
+            "message": "Tuzluluk düzeltme"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Ses seviyesi A-ağırlıklı"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Ses seviyesi C-ağırlıklı"
+        },
+        "Start temperature" : {
+            
+            "message": "Başlangıç Sıcaklığı"
+        },
+        "Starting" : {
+            
+            "message": ""
+        },
+        "Station Pressure" : {
+            
+            "message": "İstasyon Basıncı"
+        },
+        "Step Rate" : {
+            
+            "message": "Adım Hızı"
+        },
+        "Steps" : {
+            
+            "message": "Adımlar"
+        },
+        "Stopped" : {
+            
+            "message": ""
+        },
+        "Switch USB" : {
+            
+            "message": "USB Değiştir"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Sistolik katsayısı"
+        },
+        "Temperature correction" : {
+            
+            "message": "Sıcaklık düzeltme"
+        },
+        "Three-point calibration" : {
+            
+            "message": "Üç-noktalı kalibrasyon"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Uçuş Zamanı Yastığı"
+        },
+        "Timing" : {
+            
+            "message": "Zamanlama"
+        },
+        "Total VOC" : {
+            
+            "message": "Toplam VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "İki-noktalı kalibrasyon"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "J Tipi Isılçift"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "K Tipi Isılçift"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "T Tipi Isılçift"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": "UV Mavi"
+        },
+        "UV Index" : {
+            
+            "message": "UV Endeksi"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV Yoğunluğu"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": "Düzeltme kullan"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Vektör aralığı Maks"
+        },
+        "Vector range Min" : {
+            
+            "message": "Vektör aralığı Min"
+        },
+        "Velocity G" : {
+            
+            "message": "Hız G"
+        },
+        "Velocity Vector" : {
+            
+            "message": ""
+        },
+        "Velocity Y" : {
+            
+            "message": "Hız Y"
+        },
+        "Velocity2" : {
+            
+            "message": "Hız2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Voltaj - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Voltaj - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Hacim düzeltme faktörü"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Hacim inspiratuar polaritesi"
+        },
+        "W/m²" : {
+            
+            "message": "W/m²"
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Dalga Genliği"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Dalga Frekansı"
+        },
+        "Wind Chill" : {
+            
+            "message": "Rüzgar Soğuğu"
+        },
+        "Wind Direction" : {
+            
+            "message": "Rüzgar Yönü"
+        },
+        "Wind Speed" : {
+            
+            "message": "Rüzgar Hızı"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "Rüzgar yönü kalibrasyonu"
+        },
+        "X magnetic field" : {
+            
+            "message": "X manyetik alan"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X manyetik alan 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-açısal hızı"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X-ekseni ivme"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-ekseni ivme G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-ekseni ivme Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-ekseni ivme tek-noktalı kalibrasyon"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-ekseni ivme-yüksek"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-ekseni ivme-yüksek tek-noktalı kalibrasyon"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X-ekseni açısal hız"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "X-ekseni açısal hız G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "X-ekseni açısal hız Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X-ekseni cayro"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y manyetik alan"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y manyetik alan 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-açısal hızı"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y-ekseni ivme"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-ekseni ivme G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-ekseni ivme Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y-ekseni ivme tek-noktalı kalibrasyon"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y-ekseni ivme-yüksek"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y-ekseni ivme-yüksek tek-noktalı kalibrasyon"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y-ekseni açısal hız"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y-ekseni açısal hız G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y-ekseni açısal hız Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y-ekseni cayro"
+        },
+        "Yes" : {
+            
+            "message": ""
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z manyetik alan"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z manyetik alan 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-açısal hızı"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z-ekseni ivme"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-ekseni ivme G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-ekseni ivme Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z-ekseni ivme tek-noktalı kalibrasyon"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z-ekseni ivme-yüksek"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z-ekseni ivme-yüksek tek-noktalı kalibrasyon"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z-ekseni açısal hız"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z-ekseni açısal hız G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z-ekseni açısal hız Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z-ekseni cayro"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "atım/dk"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/sn"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/sn²"
+        },
+        "counts" : {
+            
+            "message": "sayım"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/dk"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/sn"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/sn²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "inç"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/s"
+        },
+        "knots" : {
+            
+            "message": "knots"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lüks"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/sn"
+        },
+        "m/s²" : {
+            
+            "message": "m/sn²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": "nC"
+        },
+        "pC" : {
+            
+            "message": "pC"
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/sn"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/sn²"
+        },
+        "raw voltage" : {
+            
+            "message": "ham voltaj"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "devir"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "adım/dk"
+        },
+        "steps" : {
+            
+            "message": "adım"
+        },
+        "torr" : {
+            
+            "message": "tor"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": "umol m-2 s-1"
+        },
+        "units/s" : {
+            
+            "message": "birim/sn"
+        },
+        "units/s²" : {
+            
+            "message": "birim/sn²"
+        },
+        "velocity2" : {
+            
+            "message": "hız2"
+        },
+        "xxx0" : {
+            
+            "message": ""
+        },
+        "xxx1" : {
+            
+            "message": ""
+        },
+        "xxx2" : {
+            
+            "message": ""
+        },
+        "xxx3" : {
+            
+            "message": ""
+        },
+        "xxx4" : {
+            
+            "message": ""
+        },
+        "xxx5" : {
+            
+            "message": ""
+        },
+        "xxx6" : {
+            
+            "message": ""
+        },
+        "xxx7" : {
+            
+            "message": ""
+        },
+        "xxx8" : {
+            
+            "message": ""
+        },
+        "xxx9" : {
+            
+            "message": ""
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/sn"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": "µmol m⁻² s⁻¹"
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Kosinüs"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Kosinüs Kare"
+        },
+        "Inverse" : {
+            
+            "message": "Ters"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Ters Kare"
+        },
+        "Linear" : {
+            
+            "message": "Doğrusal"
+        },
+        "Modified Power" : {
+            
+            "message": "Değişken Kuvvet"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Doğal Üs"
+        },
+        "Natural Log" : {
+            
+            "message": "Doğal Logaritma"
+        },
+        "Not defined" : {
+            
+            "message": "Tanımlanmamış"
+        },
+        "Power" : {
+            
+            "message": "Güç"
+        },
+        "Proportional" : {
+            
+            "message": "Orantılı"
+        },
+        "Quadratic" : {
+            
+            "message": "İkinci Dereceden"
+        },
+        "Sine" : {
+            
+            "message": "Sinüs"
+        },
+        "Slope" : {
+            
+            "message": "Eğim"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Özel İfade"
+        }
+        
+    }
+}

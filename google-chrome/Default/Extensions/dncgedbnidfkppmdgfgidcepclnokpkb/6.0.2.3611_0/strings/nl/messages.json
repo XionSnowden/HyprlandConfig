@@ -1,0 +1,6474 @@
+{
+    "general": {
+        "%d clients are connected" : {
+            
+            "message": "%d klanten zijn aangesloten"
+        },
+        "%s All" : {
+            
+            "message": "%s Alle"
+        },
+        "%s All Data Sets" : {
+            
+            "message": "%s Alle Data Sets"
+        },
+        "%s appearance options" : {
+            
+            "message": "%s verschijningsopties"
+        },
+        "%s details" : {
+            
+            "message": "%s details"
+        },
+        "%s is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            
+            "message": "${appName} voert momenteel een meting uit. Wil je de meting stoppen en een nieuwe starten?"
+        },
+        "%s Options" : {
+            
+            "message": "%s opties"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(afstand, snelheid, versnelling)"
+        },
+        "1 Graph" : {
+            
+            "message": "1 Grafiek"
+        },
+        "16:9" : {
+            
+            "message": "16:9"
+        },
+        "1st Derivative" : {
+            
+            "message": "1ste Afgeleide"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": "1ste Afgeleide naar tijd"
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1ste Afgeleide(Y, X)"
+        },
+        "2 Graph" : {
+            
+            "message": "2 Grafieken"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 Grafieken"
+        },
+        "2nd derivative" : {
+            
+            "message": "2de afgeleide"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": "2e Afgeleide naar tijd"
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "2de afgeleide (Y, X)"
+        },
+        "3 Graph" : {
+            
+            "message": "3 grafieken"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 Grafieken"
+        },
+        "4:3" : {
+            
+            "message": "4:3"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Er is een fout in de communicatie opgetreden. Start een nieuw experiment om verder te gaan."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Een communicatiefout veroorzaakte het stopzetten van de data collectie. Probeer opnieuw."
+        },
+        "A exp(-C*X)+B" : {
+            
+            "message": "A exp(-C*X)+B"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X+B" : {
+            
+            "message": "A*X+B"
+        },
+        "A*X+B*Y" : {
+            
+            "message": "A*X+B*Y"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A*X^B*Y^C" : {
+            
+            "message": "A*X^B*Y^C"
+        },
+        "A, B, and C are parameters you can set. X, Y, and Z are existing columns in your data table." : {
+            
+            "message": "A, B en C zijn zelf aan te passen parameters, X, Y en Z zijn bestaande kolommen in de gegevenstabel."
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A/(B+X)" : {
+            
+            "message": "A/(B+X)"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Over"
+        },
+        "About Custom Curve Fits" : {
+            
+            "message": "Over Custom Curve Fits"
+        },
+        "Absolute Value" : {
+            
+            "message": "Absolute waarde"
+        },
+        "accept the End User License Agreement and Privacy Notice" : {
+            
+            "message": "de licentieovereenkomst voor eindgebruikers en de privacyverklaring aanvaarden"
+        },
+        "Accessories" : {
+            
+            "message": "Accessoires"
+        },
+        "across" : {
+            
+            "message": "over"
+        },
+        "Activate additional features with your License Key" : {
+            
+            "message": "Activeer extra functies met uw licentiesleutel"
+        },
+        "Activate to add manual fit" : {
+            
+            "message": "Activeren om handmatige aanpassing toe te voegen"
+        },
+        "Activate to apply FFT" : {
+            
+            "message": "Activeer om FFT toe te passen"
+        },
+        "Activate to apply Histogram" : {
+            
+            "message": "Activeer om Histogram toe te passen"
+        },
+        "Activate to restore all struck rows" : {
+            
+            "message": "Activeer om alle getroffen rijen te herstellen"
+        },
+        "Activate to show Uncertainty of Fit Parameters" : {
+            
+            "message": "Activeer om de onzekerheid van de aanpassingsparameters te tonen"
+        },
+        "Activate to strikethough rows" : {
+            
+            "message": "Activeer om rijen door te strepen"
+        },
+        "Activate to toggle strikethough" : {
+            
+            "message": "Activeer om strikethough aan te zetten"
+        },
+        "Activate to use %s" : {
+            
+            "message": "Activeer om %s te gebruiken"
+        },
+        "Activate to use Bar Graphs" : {
+            
+            "message": "Activeer om staafdiagrammen te gebruiken"
+        },
+        "Activate to use Notes" : {
+            
+            "message": "Activeren om notities te gebruiken"
+        },
+        "Activate to use Online Data Sharing" : {
+            
+            "message": "Activeer om Online gegevens delen te gebruiken"
+        },
+        "Activate to use Video" : {
+            
+            "message": "Activeer om video te gebruiken"
+        },
+        "Add a Calculated Column" : {
+            
+            "message": "Nieuwe berekende kolom"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Voeg hier een grafiek titel in"
+        },
+        "Add a Manual Column" : {
+            
+            "message": "Nieuwe handmatige kolom toevoegen"
+        },
+        "Add Annotation" : {
+            
+            "message": "Annotatie toevoegen"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Nieuwe berekende kolom"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            
+            "message": "Vul voorraadflesje met gedestilleerd water tot bovenkant spons."
+        },
+        "Add Graph Match" : {
+            
+            "message": "Voeg Match Grafiek toe"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Nieuwe handmatige kolom toevoegen"
+        },
+        "Add Manual Fit" : {
+            
+            "message": "Handmatige aanpassing toevoegen"
+        },
+        "add meters" : {
+            
+            "message": "Voeg meters toe"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Nieuwe dataset toevoegen"
+        },
+        "Add Prediction" : {
+            
+            "message": "Voorspelling tekenen"
+        },
+        "Add Soft Sensor" : {
+            
+            "message": "Soft Sensor toevoegen"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Voeg door de druppelteller druppelgewijs titrant toe in een 10 mL maatcilinder."
+        },
+        "Add/Remove Meters" : {
+            
+            "message": "Voeg toe/verwijder meters"
+        },
+        "Advanced" : {
+            
+            "message": "Geavanceerd"
+        },
+        "After" : {
+            
+            "message": "Na"
+        },
+        "After set number of flags" : {
+            
+            "message": "Na ingesteld aantal vlaggen"
+        },
+        "All" : {
+            
+            "message": "Alle"
+        },
+        "Always Show 0" : {
+            
+            "message": "Toon altijd 0-punt"
+        },
+        "AMBL" : {
+            
+            "message": "AMBL"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitude"
+        },
+        "An expression must include the independent variable and at least one parameter." : {
+            
+            "message": "Een uitdrukking moet de onafhankelijke variabele en ten minste één parameter bevatten."
+        },
+        "An internet connection is required to connect to a data sharing session. Reconnect to the internet and then tap reconnect." : {
+            
+            "message": "Een internetverbinding is nodig om verbinding te maken voor het delen van gegevens. Maak opnieuw verbinding met het internet en tik dan opnieuw op verbinden."
+        },
+        "An internet Connection is required to connect to online data sharing" : {
+            
+            "message": "Een internetverbinding is vereist om verbinding te maken met online gegevensuitwisseling"
+        },
+        "An internet connection is required to share data" : {
+            
+            "message": "Een internetverbinding is nodig om gegevens te delen"
+        },
+        "An internet connection is required to share data. Reconnect to the internet and then start a new data sharing session to continue sharing." : {
+            
+            "message": "Voor het delen van gegevens is een internetverbinding nodig. Maak opnieuw verbinding met het internet en start dan een nieuwe sessie voor het delen van gegevens om door te gaan."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            
+            "message": "optioneel accessoire voor projectiel lanceerder voor meten van de vluchttijd."
+        },
+        "and " : {
+            
+            "message": "en "
+        },
+        "and tap STOP SHARING" : {
+            
+            "message": "en tik op STOP DELEN"
+        },
+        "Angle units" : {
+            
+            "message": "Hoek eenheid"
+        },
+        "Angular Motion" : {
+            
+            "message": "Hoek beweging"
+        },
+        "Angular Motion Info" : {
+            
+            "message": "Info over hoekbewegingen"
+        },
+        "App is up to date" : {
+            
+            "message": "App is up to date"
+        },
+        "App Preferences" : {
+            
+            "message": "App voorkeuren"
+        },
+        "App Updates" : {
+            
+            "message": "App Updates"
+        },
+        "Appearance" : {
+            
+            "message": "Uiterlijk"
+        },
+        "Append" : {
+            
+            "message": "Toevoegen"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Data toevoegen aan bestaande set of nieuwe dataset creëren?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Toevoegen of creëer nieuw?"
+        },
+        "Apply" : {
+            
+            "message": "Toepassen"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Curve fit toepassen"
+        },
+        "Apply FFT" : {
+            
+            "message": "FFT toepassen"
+        },
+        "Apply Histogram" : {
+            
+            "message": "Histogram toepassen"
+        },
+        "arctan2(Y,X)" : {
+            
+            "message": "arctan2(Y,X)"
+        },
+        "Area" : {
+            
+            "message": "Gebied"
+        },
+        "As you collect data they will see your data in their copies of Graphical Analysis" : {
+            
+            "message": "Wanneer u gegevens verzamelt, zien zij uw gegevens in hun kopieën van Graphical Analysis"
+        },
+        "Auto" : {
+            
+            "message": "Automatisch"
+        },
+        "Automatic" : {
+            
+            "message": "Automatisch"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Gemiddelde sensorwaarde over 10 seconden"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Gemiddelde over 10 seconden"
+        },
+        "Axis Label Size" : {
+            
+            "message": "Grootte aslabel"
+        },
+        "Back" : {
+            
+            "message": "Terug"
+        },
+        "Band-pass Filter" : {
+            
+            "message": "Banddoorlaatfilter"
+        },
+        "Band-stop Filter" : {
+            
+            "message": "Band-stop filter"
+        },
+        "Bar Tape" : {
+            
+            "message": "Bar tape"
+        },
+        "Bars" : {
+            
+            "message": "Balken"
+        },
+        "Base" : {
+            
+            "message": "Basis"
+        },
+        "Base Axis" : {
+            
+            "message": "Basisas"
+        },
+        "Battery" : {
+            
+            "message": "Accu"
+        },
+        "Battery Level" : {
+            
+            "message": "Accu niveau"
+        },
+        "Bin Start Value" : {
+            
+            "message": "Bin startwaarde"
+        },
+        "Bin Width" : {
+            
+            "message": "Bin breedte"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Bluetooth Apparaat"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth niet ingeschakeld"
+        },
+        "Bold" : {
+            
+            "message": "Vet"
+        },
+        "Book" : {
+            
+            "message": "Boek"
+        },
+        "Book Title" : {
+            
+            "message": "Boek titel"
+        },
+        "Both" : {
+            
+            "message": "Beide"
+        },
+        "Bottom" : {
+            
+            "message": "Onderkant"
+        },
+        "Bottom Bar" : {
+            
+            "message": "Onderste balk"
+        },
+        "Bullet list" : {
+            
+            "message": "Bulletlist"
+        },
+        "Calculated %s" : {
+            
+            "message": "Berekend %s"
+        },
+        "Calculated Column" : {
+            
+            "message": "Berekende kolom"
+        },
+        "Calibrate" : {
+            
+            "message": "Calibreer"
+        },
+        "Calibrate Now" : {
+            
+            "message": "Nu kalibreren"
+        },
+        "Calibrating..." : {
+            
+            "message": "Kalibreren..."
+        },
+        "Calibration complete" : {
+            
+            "message": "Kalibratie compleet"
+        },
+        "Calibration failed" : {
+            
+            "message": "Kalibratie mislukt"
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Reset kalibratie succesvol"
+        },
+        "Calibration Type" : {
+            
+            "message": "Calibratie type"
+        },
+        "Cancel" : {
+            
+            "message": "Annuleren"
+        },
+        "cancel" : {
+            
+            "message": "annuleren"
+        },
+        "Capable" : {
+            
+            "message": "Geschikt"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Cart Picket Fence"
+        },
+        "Categorical" : {
+            
+            "message": "Categorisch"
+        },
+        "Categorical Data" : {
+            
+            "message": "Categorische gegevens"
+        },
+        "Ceiling" : {
+            
+            "message": "Plafond"
+        },
+        "Center manual fit handle" : {
+            
+            "message": "Handmatige handgreep in het midden"
+        },
+        "Change left y-axis" : {
+            
+            "message": "Verander linkse y-as"
+        },
+        "Change right y-axis" : {
+            
+            "message": "Verander rechter y-as"
+        },
+        "Change x-axis" : {
+            
+            "message": "Verander x-as"
+        },
+        "Change y-axis" : {
+            
+            "message": "Verander y-as"
+        },
+        "Channels" : {
+            
+            "message": "Kanalen"
+        },
+        "Charging," : {
+            
+            "message": "Laden,"
+        },
+        "Check for firmware updates" : {
+            
+            "message": "Controleren op firmware-updates"
+        },
+        "Check for software updates" : {
+            
+            "message": "Controleer op software-updates"
+        },
+        "Check for Updates" : {
+            
+            "message": "Zoek naar Updates"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Controleer sensor op blinkende LED"
+        },
+        "Checking for update..." : {
+            
+            "message": "Zoeken naar update ..."
+        },
+        "Choose File" : {
+            
+            "message": "Bestand kiezen"
+        },
+        "Choose Folder..." : {
+            
+            "message": "Kies Folder..."
+        },
+        "Choose this option to connect Go Direct sensors by USB." : {
+            
+            "message": "Kies deze optie om Go Direct sensoren via USB aan te sluiten."
+        },
+        "Choose this to connect a Go!Temp sensor." : {
+            
+            "message": "Kies dit om een Go!Temp sensor aan te sluiten."
+        },
+        "Choose this to connect a Go! Link interface." : {
+            
+            "message": "Kies dit om een Go! Link-interface aan te sluiten."
+        },
+        "Choose this to connect a Go! Motion detector." : {
+            
+            "message": "Kies dit om een Go! bewegingsmelder aan te sluiten."
+        },
+        "Choose this to connect a LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini, or LabQuest Stream interface by USB." : {
+            
+            "message": "Kies dit om een LabQuest, LabQuest 2, LabQuest 3, LabQuest Mini of LabQuest Stream interface aan te sluiten met USB."
+        },
+        "Chrome 102 or later is required. iPad and iPhone are not supported." : {
+            
+            "message": "Chrome 102 of hoger is vereist. iPad en iPhone worden niet ondersteund."
+        },
+        "Circle" : {
+            
+            "message": "Cirkel"
+        },
+        "Clear Expression" : {
+            
+            "message": "Verwijder expressie"
+        },
+        "Clear Filter" : {
+            
+            "message": "Filter verwijderen"
+        },
+        "Click or tap START SESSION to generate an ID code for your session" : {
+            
+            "message": "Klik of tik op START SESSION om een ID-code voor uw sessie te genereren"
+        },
+        "Click the Mark button during collection to add a data mark at the current time." : {
+            
+            "message": "Klik tijdens het verzamelen op de knop Markeren om een gegevensmarkering op het huidige tijdstip toe te voegen."
+        },
+        "Close" : {
+            
+            "message": "Sluit"
+        },
+        "Close Alert" : {
+            
+            "message": "Waarschuwing sluiten"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Sluit de App en update de firmware"
+        },
+        "Close Application" : {
+            
+            "message": "Applicatie sluiten"
+        },
+        "Close Dialog" : {
+            
+            "message": "Sluit dialoogvenster"
+        },
+        "Close FFT" : {
+            
+            "message": "FFT afsluiten"
+        },
+        "Close graph legend" : {
+            
+            "message": "Grafiek legenda sluiten"
+        },
+        "Close Histogram" : {
+            
+            "message": "Histogram sluiten"
+        },
+        "Close Infobox" : {
+            
+            "message": "Infobox sluiten"
+        },
+        "Close Menu" : {
+            
+            "message": "Sluit menu"
+        },
+        "Close Peak Frequency" : {
+            
+            "message": "Piekfrequentie sluiten"
+        },
+        "Close Popover" : {
+            
+            "message": "Popover sluiten"
+        },
+        "Close Replay" : {
+            
+            "message": "Replay sluiten"
+        },
+        "Close Start Page" : {
+            
+            "message": "Startpagina sluiten"
+        },
+        "Close this dialog to continue" : {
+            
+            "message": "Sluit deze dialoog om verder te gaan"
+        },
+        "Code" : {
+            
+            "message": "Code"
+        },
+        "Coefficient" : {
+            
+            "message": "Coëfficient"
+        },
+        "Collapse" : {
+            
+            "message": "Instorting"
+        },
+        "Collect" : {
+            
+            "message": "Collectie"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Verzamel gegevens van Vernier sensoren"
+        },
+        "Collecting" : {
+            
+            "message": "Aan het verzamelen"
+        },
+        "Collecting %d %s" : {
+            
+            "message": "%d %s aan het verzamelen"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Het verzamelen van een grote hoeveelheid meetpunten beïnvloedt de prestaties."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            
+            "message": "Data verzamelen over ${eventParams.accumulate} seconden"
+        },
+        "Collection Parameters" : {
+            
+            "message": "Verzameling parameters"
+        },
+        "Column %s" : {
+            
+            "message": "Kolom %s"
+        },
+        "Column Options" : {
+            
+            "message": "Kolom opties"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Kolom zal verwijderd worden in alle datasets. Het verwijderen kan niet ongedaan gemaakt worden."
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Komma gescheiden waarden"
+        },
+        "Complementary Error" : {
+            
+            "message": "Aanvullende fout"
+        },
+        "Configurator" : {
+            
+            "message": "Configurator"
+        },
+        "Confirm" : {
+            
+            "message": "Bevestig"
+        },
+        "Connect" : {
+            
+            "message": "Sluit aan"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Sluit een <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a> aan."
+        },
+        "Connect a device" : {
+            
+            "message": "Verbind een apparaat"
+        },
+        "Connect a Device" : {
+            
+            "message": "Verbind een apparaat"
+        },
+        "Connect a LabQuest Stream" : {
+            
+            "message": "Verbind een LabQuest Stream"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Verbind via Wifi aan LabQuest 2 of Logger Pro"
+        },
+        "Connect these devices for data collection." : {
+            
+            "message": "Sluit deze apparaten aan voor gegevensverzameling."
+        },
+        "Connect this device for data collection." : {
+            
+            "message": "Sluit dit apparaat aan voor gegevensverzameling."
+        },
+        "Connect to a Data Sharing session from a Graphical Analysis source" : {
+            
+            "message": "Verbinding maken met een Data Sharing-sessie van een Graphical Analysis bron"
+        },
+        "Connect to a LabQuest, Logger Pro or Graphical Analysis source" : {
+            
+            "message": "Sluit aan op een LabQuest, Logger Pro of Graphical Analysis bron"
+        },
+        "Connect to a previously created session to share session settings, data, etc., or create a new session." : {
+            
+            "message": "Maak verbinding met een eerder gemaakte sessie om sessie-instellingen, gegevens, enz. te delen, of maak een nieuwe sessie."
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Maak draadloos verbinding met een geschikt device of sluit aan via USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Sluit aan op een draadloos device."
+        },
+        "Connect to Previous Session" : {
+            
+            "message": "Verbinden met vorige sessie"
+        },
+        "connected" : {
+            
+            "message": "verbonden"
+        },
+        "Connected Devices" : {
+            
+            "message": "Verbonden apparaten"
+        },
+        "Connecting" : {
+            
+            "message": "Aan het verbinden"
+        },
+        "Connection error" : {
+            
+            "message": "Verbindingsfout"
+        },
+        "Connection Lost" : {
+            
+            "message": "Verbinding verbroken"
+        },
+        "Connection status info" : {
+            
+            "message": "Verbindingsstatus info"
+        },
+        "Connection to %s failed" : {
+            
+            "message": "Verbinden aan %s mislukt"
+        },
+        "Connection to %s succeeded" : {
+            
+            "message": "Verbinding aan %s geslaagd"
+        },
+        "Continue to Retrieval Options" : {
+            
+            "message": "Doorgaan naar opties voor ophalen"
+        },
+        "Continue Without Required Devices" : {
+            
+            "message": "Doorgaan zonder vereiste apparaten"
+        },
+        "Cookie Notice" : {
+            
+            "message": "Cookie kennisgeving"
+        },
+        "Copy" : {
+            
+            "message": "Kopiëren"
+        },
+        "Copy Histogram" : {
+            
+            "message": "Kopieer Histogram"
+        },
+        "Copy Host ID" : {
+            
+            "message": "Host-ID kopieren"
+        },
+        "Copy Link" : {
+            
+            "message": "Kopieer link"
+        },
+        "Copy Sign" : {
+            
+            "message": "Kopieer teken"
+        },
+        "Copy to clipboard" : {
+            
+            "message": "Kopieer naar klembord"
+        },
+        "Copy To Clipboard" : {
+            
+            "message": "Kopieer naar plakbord"
+        },
+        "Cosine" : {
+            
+            "message": "Cosinus"
+        },
+        "Count Interval" : {
+            
+            "message": "Count interval"
+        },
+        "Create Custom Fit" : {
+            
+            "message": "Creëer aangepaste pasvorm"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Creëer nieuwe dataset"
+        },
+        "Creating a Custom Calculated Column" : {
+            
+            "message": "Een aangepaste berekende kolom maken"
+        },
+        "Creating a Custom Curve Fit" : {
+            
+            "message": "Een aangepaste curve maken"
+        },
+        "CSV" : {
+            
+            "message": "CSV"
+        },
+        "Cube Root" : {
+            
+            "message": "Kubuswortel"
+        },
+        "Curve Fit" : {
+            
+            "message": "Curve fit"
+        },
+        "Custom Calculated Columns" : {
+            
+            "message": "Aangepaste berekende kolommen"
+        },
+        "Custom Curve Fits" : {
+            
+            "message": "Aangepaste Curve Fits"
+        },
+        "Custom Curvefit Info" : {
+            
+            "message": "Aangepaste Curvefit Info"
+        },
+        "Custom Expression Info" : {
+            
+            "message": "Info aangepaste expressie"
+        },
+        "Custom fits are saved in app document files. When you start a new session or re-launch the app, the fits are cleared." : {
+            
+            "message": "Aangepaste pasvormen worden opgeslagen in app-documentbestanden. Wanneer u een nieuwe sessie start of de app opnieuw start, worden de pasvormen gewist."
+        },
+        "Custom Session" : {
+            
+            "message": "Aangepaste sessie"
+        },
+        "Cut" : {
+            
+            "message": "Knippen"
+        },
+        "Dark" : {
+            
+            "message": "Donker"
+        },
+        "Darker" : {
+            
+            "message": "Donkerder"
+        },
+        "Darkest" : {
+            
+            "message": "Donkerst"
+        },
+        "Data" : {
+            
+            "message": "Data"
+        },
+        "Data collection has started in logging mode." : {
+            
+            "message": "Het verzamelen van gegevens is gestart in de logmodus."
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Instellingen gegevensverzameling"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            
+            "message": "De meting stopt automatisch nadat alle poortjes hun vooraf ingestelde aantal meetpunten hebben bereikt. Een nieuwe meting starten genereert een nieuwe dataset."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Data collectie stopt pas bij handmatig stoppen. Positie waarden worden opgehoogd met de ingestelde afstand waarde tot de meting stopt."
+        },
+        "Data Mark" : {
+            
+            "message": "Data markering"
+        },
+        "Data Marking" : {
+            
+            "message": "Gegevens markering"
+        },
+        "Data Set %d" : {
+            
+            "message": "Dataset %d"
+        },
+        "Data Set Name" : {
+            
+            "message": "Dataset naam"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Dataset naam heeft maximaal %s karakters."
+        },
+        "Data Set Options" : {
+            
+            "message": "Opties voor gegevensset"
+        },
+        "Data Set Time" : {
+            
+            "message": "Data Set Tijd"
+        },
+        "Data Share" : {
+            
+            "message": "Data delen"
+        },
+        "Data Sharing" : {
+            
+            "message": "Data delen"
+        },
+        "Data Sharing is active" : {
+            
+            "message": "Data delen is actief"
+        },
+        "Data Sharing session started" : {
+            
+            "message": "Data delen sessie is gestart"
+        },
+        "Data sharing session status" : {
+            
+            "message": "Status gegevensuitwisselingssessie"
+        },
+        "Data Sharing Status" : {
+            
+            "message": "Status Data delen"
+        },
+        "Data Table" : {
+            
+            "message": "Gegevens tabel"
+        },
+        "Data Type" : {
+            
+            "message": "Data type"
+        },
+        "Data Type Info" : {
+            
+            "message": "Info gegevenstype"
+        },
+        "Dataset View Options" : {
+            
+            "message": "Opties voor datasetweergave"
+        },
+        "Decimal Format" : {
+            
+            "message": "Decimaal formaat"
+        },
+        "Decimal Places" : {
+            
+            "message": "Aantal decimalen"
+        },
+        "decrease" : {
+            
+            "message": "verminderen"
+        },
+        "decreasing" : {
+            
+            "message": "neemt af"
+        },
+        "degrees" : {
+            
+            "message": "graden"
+        },
+        "Degrees (°)" : {
+            
+            "message": "Graden (°)"
+        },
+        "Delete" : {
+            
+            "message": "Verwijderen"
+        },
+        "Delete %s?" : {
+            
+            "message": "Verwijder %s?"
+        },
+        "Delete a Column" : {
+            
+            "message": "Verwijder kolom"
+        },
+        "Delete Column" : {
+            
+            "message": "Kolom verwijderen"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Kolom %s verwijderen?"
+        },
+        "Delete Data Mark" : {
+            
+            "message": "Gegevens wissen"
+        },
+        "Delete Data Set" : {
+            
+            "message": "Verwijder Data set"
+        },
+        "Delete Graph Match" : {
+            
+            "message": "Verwijder Match grafiek"
+        },
+        "Delete Prediction" : {
+            
+            "message": "Verwijder voorspelling"
+        },
+        "Delete Video" : {
+            
+            "message": "Verwijder video"
+        },
+        "Delta" : {
+            
+            "message": "Delta"
+        },
+        "Device Error" : {
+            
+            "message": "Apparaat fout"
+        },
+        "Device Information" : {
+            
+            "message": "Apparaat informatie"
+        },
+        "Device information" : {
+            
+            "message": "Apparaat informatie"
+        },
+        "Devices" : {
+            
+            "message": "Apparaten"
+        },
+        "Diameter" : {
+            
+            "message": "Diameter"
+        },
+        "Diamond" : {
+            
+            "message": "Diamant"
+        },
+        "Dimension" : {
+            
+            "message": "Afmeting"
+        },
+        "Disabled" : {
+            
+            "message": "Uitgeschakeld"
+        },
+        "Disconnect" : {
+            
+            "message": "Loskoppelen"
+        },
+        "Disconnect and Continue Logging" : {
+            
+            "message": "Verbinding verbreken en doorgaan met loggen"
+        },
+        "Disconnect the USB cable now." : {
+            
+            "message": "Koppel de USB-kabel nu los."
+        },
+        "Disconnect without clearing data" : {
+            
+            "message": "Verbinding verbreken zonder gegevens te wissen"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Gevonden apparaten"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Gevonden draadloze apparaten"
+        },
+        "Display Meters" : {
+            
+            "message": "Meters weergeven"
+        },
+        "Displayed Columns" : {
+            
+            "message": "Weergegeven kolommen"
+        },
+        "Displayed Datasets" : {
+            
+            "message": "Weergegeven Datasets"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Weergegeven precisie"
+        },
+        "Distance" : {
+            
+            "message": "Afstand"
+        },
+        "Distance between gates" : {
+            
+            "message": "Afstand tussen poorten"
+        },
+        "Distribute App" : {
+            
+            "message": "App verspreiden"
+        },
+        "Distribute Vernier Graphical Analysis" : {
+            
+            "message": "Verspreid Vernier Graphical Analysis"
+        },
+        "Do you want to permanently delete this data mark?" : {
+            
+            "message": "Wilt u deze gegevensmarkering definitief verwijderen?"
+        },
+        "Do you want to save the changes made to %s? Your changes will be lost if you don't save them." : {
+            
+            "message": "Wil je de wijzigingen in %s opslaan? Wijzigingen gaan verloren als ze niet worden opgeslagen."
+        },
+        "Don't Save" : {
+            
+            "message": "Niet opslaan"
+        },
+        "Done" : {
+            
+            "message": "Gereed"
+        },
+        "done" : {
+            
+            "message": "klaar"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Download compleet. Updates worden geïnstalleerd bij volgende keer starten van de app"
+        },
+        "Download Experiment" : {
+            
+            "message": "Download experiment"
+        },
+        "Download Update" : {
+            
+            "message": "Download Update"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Voorspelling tekenen"
+        },
+        "Drop Counting" : {
+            
+            "message": "Druppeltelling"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Gemiste metingen. Start een nieuwe meting met een langzamere sample rate."
+        },
+        "Drops" : {
+            
+            "message": "Druppels"
+        },
+        "Drops/mL" : {
+            
+            "message": "Druppels/mL"
+        },
+        "duration" : {
+            
+            "message": "duur"
+        },
+        "e.g. 23TplPds" : {
+            
+            "message": "bv. 23TplPds"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": "bijv. 007 of TMP"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Grafiek opties aanpassen"
+        },
+        "Edit mode" : {
+            
+            "message": "Bewerkingsmodus"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Zet Bluetooth aan voor verbinding met draadloze sensoren."
+        },
+        "Enable Replay" : {
+            
+            "message": "Replay inschakelen"
+        },
+        "Enabled" : {
+            
+            "message": "Ingeschakeld"
+        },
+        "End Collection" : {
+            
+            "message": "Stop collectie"
+        },
+        "End data collection" : {
+            
+            "message": "Beëindig datacollectie"
+        },
+        "End User License Agreement" : {
+            
+            "message": "Licentieovereenkomst voor eindgebruikers"
+        },
+        "End your data share session by tapping" : {
+            
+            "message": "Beëindig data delen door te klikken"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Annotatie invoeren"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Voeg data in via toetsenbord of gebruik kopiëren/plakken"
+        },
+        "Enter first known value" : {
+            
+            "message": "Voer eerste bekende waarde in"
+        },
+        "Enter second known value" : {
+            
+            "message": "Voer tweede bekende waarde in"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Voer het exact toegevoegd volume titrant in, afgelezen van de maatcilinder"
+        },
+        "Enter the source ID:" : {
+            
+            "message": "Voor de bron ID in:"
+        },
+        "Entering Categorical Mode" : {
+            
+            "message": "Categoriale modus openen"
+        },
+        "Equation" : {
+            
+            "message": "Vergelijking"
+        },
+        "Error" : {
+            
+            "message": "Foutmelding"
+        },
+        "Error Bar Info" : {
+            
+            "message": "Foutbalk info"
+        },
+        "Error Bars" : {
+            
+            "message": "Foutbalk"
+        },
+        "Error: Clipboard access denied." : {
+            
+            "message": "Error: plakbord toegang afgewezen."
+        },
+        "Event" : {
+            
+            "message": "Meting met invoer"
+        },
+        "Event Based" : {
+            
+            "message": "Invoer per meting"
+        },
+        "Event Mode" : {
+            
+            "message": "Invoer modus"
+        },
+        "Event Name" : {
+            
+            "message": "Naam"
+        },
+        "Events with Entry" : {
+            
+            "message": "Handmatige invoer"
+        },
+        "Events With Entry" : {
+            
+            "message": "Gebeurtenissen met toegang"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Voorbeeld: 192.168.1.10"
+        },
+        "Example: kjt7op" : {
+            
+            "message": "Voorbeeld: kjt7op"
+        },
+        "Exp - 1" : {
+            
+            "message": "Exp-1"
+        },
+        "Expand" : {
+            
+            "message": "Uitbreiden"
+        },
+        "Expand Host ID" : {
+            
+            "message": "Host ID uitbreiden"
+        },
+        "Experiment Name" : {
+            
+            "message": "Experiment naam"
+        },
+        "Experimental Features" : {
+            
+            "message": "Experimentele eigenschappen"
+        },
+        "Exponent" : {
+            
+            "message": "Exponent"
+        },
+        "Exponential Base 2" : {
+            
+            "message": "Exponentiele Base 2"
+        },
+        "Export" : {
+            
+            "message": "Exporteren"
+        },
+        "Export CSV" : {
+            
+            "message": "Exporteer CSV"
+        },
+        "Expression" : {
+            
+            "message": "Uitdrukking"
+        },
+        "Factory Calibration Date" : {
+            
+            "message": "Fabrieks kalibratiegegevens"
+        },
+        "Fan Thrust" : {
+            
+            "message": "Ventilator stuwkracht"
+        },
+        "FFT" : {
+            
+            "message": "FFT"
+        },
+        "FFT options" : {
+            
+            "message": "FFT opties"
+        },
+        "File Menu" : {
+            
+            "message": "Menu Bestand"
+        },
+        "File saved" : {
+            
+            "message": "Bestand opgeslagen"
+        },
+        "Filename" : {
+            
+            "message": "Bestandsnaam"
+        },
+        "Filter Device List" : {
+            
+            "message": "Filter op lijst van devices"
+        },
+        "Firmware" : {
+            
+            "message": "Firmware"
+        },
+        "Firmware Update Information" : {
+            
+            "message": "Firmware update informatie"
+        },
+        "First Derivative" : {
+            
+            "message": "Eerste afgeleide"
+        },
+        "Fit Expression" : {
+            
+            "message": "Fit Expressie"
+        },
+        "Fit Name" : {
+            
+            "message": "Fit naam"
+        },
+        "Fit Options" : {
+            
+            "message": "Fit opties"
+        },
+        "Fixed Value" : {
+            
+            "message": "Vaste waarde"
+        },
+        "Flag Width" : {
+            
+            "message": "meetpunt breedte"
+        },
+        "Flags" : {
+            
+            "message": "Meetpunten"
+        },
+        "Floor" : {
+            
+            "message": "Bodem"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Voor Vernier objecten, worden de afstand en meetpunt nummer voor het geselecteerde object getoond. Voor bar tape, voer het aantal meetpunten in."
+        },
+        "Frequency" : {
+            
+            "message": "Frequentie"
+        },
+        "From Vernier.com" : {
+            
+            "message": "van Vernier.com"
+        },
+        "Function" : {
+            
+            "message": "Functie"
+        },
+        "Functions and the independent variable must be lower case." : {
+            
+            "message": "Functies en onafhankelijke variabele moeten kleine letters zijn."
+        },
+        "Gate Separation" : {
+            
+            "message": "Afstand tussen poorten"
+        },
+        "Gate State" : {
+            
+            "message": "Poort status"
+        },
+        "Gate timing" : {
+            
+            "message": "Poort tijdsinterval"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDX sensor map"
+        },
+        "Give that ID code to others so that they can join your session" : {
+            
+            "message": "Geef die ID-code aan anderen, zodat ze aan uw sessie kunnen deelnemen"
+        },
+        "Go Direct" : {
+            
+            "message": "Go Direct"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Direct Sensoren"
+        },
+        "Go Direct USB" : {
+            
+            "message": "Go Direct USB"
+        },
+        "Go to Beginning of Video" : {
+            
+            "message": "Ga naar het begin van de video"
+        },
+        "Go!Temp" : {
+            
+            "message": "Go!Temp"
+        },
+        "Go! Link" : {
+            
+            "message": "Go! Link"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Graph" : {
+            
+            "message": "Grafiek"
+        },
+        "Graph %s" : {
+            
+            "message": "Grafiek %s"
+        },
+        "Graph 1" : {
+            
+            "message": "Grafiek 1"
+        },
+        "Graph 2" : {
+            
+            "message": "Grafiek 2"
+        },
+        "Graph 3" : {
+            
+            "message": "Grafiek 3"
+        },
+        "Graph Display" : {
+            
+            "message": "Grafiek display"
+        },
+        "Graph Inset" : {
+            
+            "message": "Grafiek inzet"
+        },
+        "Graph Legend" : {
+            
+            "message": "Grafiek legenda"
+        },
+        "Graph Match" : {
+            
+            "message": "Match grafiek"
+        },
+        "Graph Match Options" : {
+            
+            "message": "Grafiek Match opties"
+        },
+        "Graph Options" : {
+            
+            "message": "Grafiek opties"
+        },
+        "Graph Shape" : {
+            
+            "message": "Grafiekvorm"
+        },
+        "Graphical Analysis" : {
+            
+            "message": "Graphical Analysis"
+        },
+        "Graphical Analysis Pro information" : {
+            
+            "message": "Graphical Analysis Pro informatie"
+        },
+        "Graphs" : {
+            
+            "message": "Grafieken"
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "Heading 1" : {
+            
+            "message": "Rubriek 1"
+        },
+        "Heading 2" : {
+            
+            "message": "Rubriek 2"
+        },
+        "Heading 3" : {
+            
+            "message": "Rubriek 3"
+        },
+        "Help connecting a device" : {
+            
+            "message": "Hulp bij het aansluiten van een apparaat"
+        },
+        "Help Connecting a Device" : {
+            
+            "message": "Hulp bij het aansluiten van een apparaat"
+        },
+        "Hide" : {
+            
+            "message": "Verbergen"
+        },
+        "Hide Details" : {
+            
+            "message": "Verberg details"
+        },
+        "High-pass Filter" : {
+            
+            "message": "Hoog-doorlaatfilter"
+        },
+        "High-Resolution Mode" : {
+            
+            "message": "Hoge-resolutie modus"
+        },
+        "Histogram" : {
+            
+            "message": "Histogram"
+        },
+        "Histogram options" : {
+            
+            "message": "Histogram opties"
+        },
+        "Horizontal Divider" : {
+            
+            "message": "Horizontale verdeler"
+        },
+        "Host a data sharing session" : {
+            
+            "message": "Host een sessie voor het delen van gegevens"
+        },
+        "How To Distribute" : {
+            
+            "message": "Hoe te verdelen"
+        },
+        "Hyperbolic Cosine" : {
+            
+            "message": "Hyperbolische cosinus"
+        },
+        "Hyperbolic Sine" : {
+            
+            "message": "Hyperbolische sinus"
+        },
+        "Hyperbolic Tangent" : {
+            
+            "message": "Hyperbolische Raaklijn"
+        },
+        "Hypotenuse" : {
+            
+            "message": "Hypotenusa"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Identificeer"
+        },
+        "If an additional device is needed, repeat the process." : {
+            
+            "message": "Als een extra apparaat nodig is, herhaalt u de procedure."
+        },
+        "Ignore" : {
+            
+            "message": "Negeren"
+        },
+        "Import Video" : {
+            
+            "message": "Importeer Video"
+        },
+        "increase" : {
+            
+            "message": "verhogen"
+        },
+        "increasing" : {
+            
+            "message": "neemt toe"
+        },
+        "Insert Expression" : {
+            
+            "message": "Vergelijking invoegen"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            
+            "message": "Steek de sensor zo in het flesje dat de tip het water of de spons niet raakt."
+        },
+        "Integral" : {
+            
+            "message": "Integraal"
+        },
+        "Intercept" : {
+            
+            "message": "Snijpunt"
+        },
+        "Interpolate" : {
+            
+            "message": "Interpoleren"
+        },
+        "Interval" : {
+            
+            "message": "Interval"
+        },
+        "Invalid Equation" : {
+            
+            "message": "Ongeldige vergelijking"
+        },
+        "Invalid Expression" : {
+            
+            "message": "Ongeldige expressie"
+        },
+        "Inverse Cosine" : {
+            
+            "message": "Omgekeerde cosinus"
+        },
+        "Inverse Hyperbolic Cosine" : {
+            
+            "message": "Inverse Hyperbolische Cosinus"
+        },
+        "Inverse Hyperbolic Sine" : {
+            
+            "message": "Inverse Hyperbolische Sinus"
+        },
+        "Inverse Hyperbolic Tangent" : {
+            
+            "message": "Inverse Hyperbolische Raaklijn"
+        },
+        "Inverse Sine" : {
+            
+            "message": "Omgekeerde sinus"
+        },
+        "Inverse Tangent" : {
+            
+            "message": "Inverse raaklijn"
+        },
+        "Inverse Tangent 2" : {
+            
+            "message": "Inverse raaklijn 2"
+        },
+        "Inverted Outlined Rectangle" : {
+            
+            "message": "Omgekeerde omlijnde rechthoek"
+        },
+        "Inverted Outlined Triangle" : {
+            
+            "message": "Omgekeerde omlijnde driehoek"
+        },
+        "Inverted Rectangle" : {
+            
+            "message": "Omgekeerde rechthoek"
+        },
+        "Inverted Triangle" : {
+            
+            "message": "Omgekeerde driehoek"
+        },
+        "is" : {
+            
+            "message": "is"
+        },
+        "is not currently supported. Try another." : {
+            
+            "message": "is momenteel niet ondersteund. Probeer een andere."
+        },
+        "It is strongly recommended that a calibration is performed after a cap change." : {
+            
+            "message": "Het wordt sterk aanbevolen na wisselen van de cap opnieuw te calibreren."
+        },
+        "Italic" : {
+            
+            "message": "Cursief"
+        },
+        "Join New Experiment" : {
+            
+            "message": "Doe mee met nieuw experiment"
+        },
+        "Keep" : {
+            
+            "message": "Bewaren"
+        },
+        "Keep Point" : {
+            
+            "message": "Bewaar huidige waarde"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            
+            "message": "Houd de sensor voor minimaal 60 seconden verticaal rechtop en druk op \"Nu kalibreren\""
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "IJkwaarden moeten verschillen voor een 2-punts calibratie."
+        },
+        "LabQuest" : {
+            
+            "message": "LabQuest"
+        },
+        "LabQuest Devices" : {
+            
+            "message": "LabQuest devices"
+        },
+        "LabQuest Stream" : {
+            
+            "message": "LabQuest Stream"
+        },
+        "Large" : {
+            
+            "message": "Groot"
+        },
+        "Last calibrated on" : {
+            
+            "message": "Laatste kalibratie op"
+        },
+        "Launch Speed" : {
+            
+            "message": "Lanceersnelheid"
+        },
+        "Left" : {
+            
+            "message": "Minimum"
+        },
+        "Left Axis" : {
+            
+            "message": "Linker as"
+        },
+        "Left manual fit handle" : {
+            
+            "message": "Handmatige handgreep links"
+        },
+        "Left y-axis range" : {
+            
+            "message": "Linker Y-as bereik"
+        },
+        "Legacy File Type" : {
+            
+            "message": "Verouderd bestandstype"
+        },
+        "License Key" : {
+            
+            "message": "Licentiesleutel"
+        },
+        "License Key is expired." : {
+            
+            "message": "Licentiesleutel is verlopen."
+        },
+        "License Key is not valid for this channel." : {
+            
+            "message": "Licentiesleutel is niet geldig voor dit kanaal."
+        },
+        "License Key is not valid for this product." : {
+            
+            "message": "Licentiesleutel is niet geldig voor dit product."
+        },
+        "License Key is required." : {
+            
+            "message": "Licentiesleutel is vereist."
+        },
+        "License Key is suspended." : {
+            
+            "message": "Licentiesleutel is opgeschort."
+        },
+        "License Key not recognized." : {
+            
+            "message": "Licentiesleutel niet herkend."
+        },
+        "License Key validation requires internet connection. Check your connection." : {
+            
+            "message": "Voor de validatie van de licentiesleutel is een internetverbinding nodig. Controleer uw verbinding."
+        },
+        "License Key validation server cannot be reached." : {
+            
+            "message": "De server voor de validatie van de licentiesleutel kan niet worden bereikt."
+        },
+        "Licensed To" : {
+            
+            "message": "Gelicentieerd aan"
+        },
+        "Licensed to" : {
+            
+            "message": "Gelicentieerd aan"
+        },
+        "Line Shade" : {
+            
+            "message": "Lijnschaduw"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineaire Beweging"
+        },
+        "Linear Motion Info" : {
+            
+            "message": "Info lineaire beweging"
+        },
+        "Lines" : {
+            
+            "message": "Lijnen"
+        },
+        "Link" : {
+            
+            "message": "Link"
+        },
+        "Link Copied" : {
+            
+            "message": "Link gekopieerd"
+        },
+        "list item" : {
+            
+            "message": "lijst-item"
+        },
+        "Load Experiment" : {
+            
+            "message": "Laad experiment"
+        },
+        "Local copy out of sync. Refreshing..." : {
+            
+            "message": "Lokale kopie niet gesynchroniseerd. Vernieuwen..."
+        },
+        "Log" : {
+            
+            "message": "Log"
+        },
+        "Log Base 2" : {
+            
+            "message": "Log Basis 2"
+        },
+        "Log Base b" : {
+            
+            "message": "Log Base b"
+        },
+        "Logged Data on Device" : {
+            
+            "message": "Vastgelegde gegevens op apparaat"
+        },
+        "Low-pass Filter" : {
+            
+            "message": "Laag-doorlaatfilter"
+        },
+        "Main Content" : {
+            
+            "message": "Inhoud"
+        },
+        "Manual" : {
+            
+            "message": "Handmatig"
+        },
+        "Manual %s" : {
+            
+            "message": "Handmatig %s"
+        },
+        "Manual Entry" : {
+            
+            "message": "Handmatige invoer"
+        },
+        "Manual Fit" : {
+            
+            "message": "Handmatig aanpassen"
+        },
+        "Manual Scaling" : {
+            
+            "message": "Handmatig schalen"
+        },
+        "Manually" : {
+            
+            "message": "Handmatig"
+        },
+        "Manufacture Date" : {
+            
+            "message": "Productiedatum"
+        },
+        "Mark" : {
+            
+            "message": "Markeren"
+        },
+        "Max" : {
+            
+            "message": "Max"
+        },
+        "Maximize Application" : {
+            
+            "message": "Maximaliseer applicatie"
+        },
+        "Mean" : {
+            
+            "message": "Gemiddelde"
+        },
+        "Measurement" : {
+            
+            "message": "Meting"
+        },
+        "Medium" : {
+            
+            "message": "Medium"
+        },
+        "Meter Actions" : {
+            
+            "message": "Mätåtgärder"
+        },
+        "Meter All Columns" : {
+            
+            "message": "Meter alle kolommen"
+        },
+        "Meter Size" : {
+            
+            "message": "Meter afmeting"
+        },
+        "Meter View Options" : {
+            
+            "message": "Meterweergave opties"
+        },
+        "Metered" : {
+            
+            "message": "Meting"
+        },
+        "metering on all columns" : {
+            
+            "message": "meting op alle kolommen"
+        },
+        "Meters" : {
+            
+            "message": "Meters"
+        },
+        "min" : {
+            
+            "message": "min"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "Minimize Application" : {
+            
+            "message": "Minimaliseer applicatie"
+        },
+        "Mode" : {
+            
+            "message": "Modus"
+        },
+        "Mode changed to Manual Entry." : {
+            
+            "message": "Modus gewijzigd in handmatige invoer."
+        },
+        "Modulo" : {
+            
+            "message": "Modulo"
+        },
+        "Move Down" : {
+            
+            "message": "Naar beneden"
+        },
+        "Move Up" : {
+            
+            "message": "Omhoog"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Meerdere, op uniforme afstand geplaatste meetpunten op een object worden gebruikt om de positie te bepalen als het object het lichtpoortje passeert. Het eerste geblokte meetpunt bepaalt de 0 positie. Elke volgende blokkering verhoogt de positiewaarde met de ingestelde afstand tussen de meetpunten. Snelheid en versnelling worden berekend op basis van de eerste en tweede afgeleide van de positie t.o.v. de tijd."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Meerdere op uniforme afstand geplaatste spaken in een wiel worden gebruikt om tijdens het draaien de hoekpositie te bepalen. Het eerst geblokte meetpunt bepaalt het nulpunt. Opvolgende blokkeringen van het lichtpoortje verhogen de hoek met 2π/n radialen, waar n=aantal spaken in het wiel. Hoeksnelheid en versnelling worden berekend met de 1-ste en 2-e afgeleide van de hoek t.o.v. de tijd."
+        },
+        "Multiplication can be explicit or implied." : {
+            
+            "message": "Vermenigvuldiging kan expliciet of impliciet zijn."
+        },
+        "Mute Audio" : {
+            
+            "message": "Demp geluid"
+        },
+        "My-File-Name" : {
+            
+            "message": "Mijn-Bestands-Naam"
+        },
+        "Name" : {
+            
+            "message": "Naam"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Naam mag maximaal %s karakters zijn"
+        },
+        "Natural Exponential" : {
+            
+            "message": "Natuurlijk exponentieel"
+        },
+        "Natural Log" : {
+            
+            "message": "Natuurlijk logboek"
+        },
+        "Natural Log 1 + X" : {
+            
+            "message": "Natuurlijk logboek 1 + X"
+        },
+        "Never" : {
+            
+            "message": "Nooit"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "De nieuwe kalibraties worden gebruikt tot een nieuw experiment wordt gestart of een bestand wordt geopend."
+        },
+        "New Experiment" : {
+            
+            "message": "Nieuw experiment"
+        },
+        "Next After" : {
+            
+            "message": "Volgende na"
+        },
+        "No Columns" : {
+            
+            "message": "Geen kolommen"
+        },
+        "No Device Connected" : {
+            
+            "message": "Geen apparaat verbonden"
+        },
+        "No device connected." : {
+            
+            "message": "Geen apparaat verbonden."
+        },
+        "No Devices Connected" : {
+            
+            "message": "Geen apparaten verbonden"
+        },
+        "No expiration date" : {
+            
+            "message": "Geen vervaldatum"
+        },
+        "No sensor connected" : {
+            
+            "message": "Geen sensor verbonden"
+        },
+        "No Sensors Connected" : {
+            
+            "message": "Geen sensoren aangesloten"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Geen bronnen gevonden. Controleer of uw bron Data Sharing heeft geactiveerd en dat beide apparaten binnen hetzelfde netwerk verbonden zijn. Indien het probleem blijft, selecteer Bron specifiëren en handmatigl verbinden met Data Sharing bron."
+        },
+        "Normal" : {
+            
+            "message": "Normaal"
+        },
+        "not" : {
+            
+            "message": "niet"
+        },
+        "Not Capable" : {
+            
+            "message": "Niet geschikt"
+        },
+        "Note" : {
+            
+            "message": "Note"
+        },
+        "Notes" : {
+            
+            "message": "Notitie"
+        },
+        "Number list" : {
+            
+            "message": "Cijfer lijst"
+        },
+        "Number of flags" : {
+            
+            "message": "Aantal meetpunten"
+        },
+        "Number of points used for derivative calculations:" : {
+            
+            "message": "Aantal punten gebruikt voor afgeleide berekeningen:"
+        },
+        "Number of points used for smoothing calculations:" : {
+            
+            "message": "Aantal punten gebruikt voor afvlakkingsberekeningen:"
+        },
+        "Number of spokes" : {
+            
+            "message": "Aantal spaken"
+        },
+        "Numeric" : {
+            
+            "message": "Numeriek"
+        },
+        "Object" : {
+            
+            "message": "Voorwerp"
+        },
+        "Object Width" : {
+            
+            "message": "Object breedte"
+        },
+        "Offline" : {
+            
+            "message": "Offline"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "Ok" : {
+            
+            "message": "Ok"
+        },
+        "On a triggering event" : {
+            
+            "message": "Bij een trigger event"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "Op LabQuest, klik op het Wi-Fi symbool"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Bij Logger Pro, ga naar Bestand - Data Sharing"
+        },
+        "One-point calibration" : {
+            
+            "message": "Eénpunts calibratie"
+        },
+        "Online Data Sharing" : {
+            
+            "message": "Online gegevens delen"
+        },
+        "Only enable fan during data collection" : {
+            
+            "message": "Zet ventilator enkel aan tijdens data-collectie"
+        },
+        "Open failed" : {
+            
+            "message": "Open mislukt"
+        },
+        "Open Saved File" : {
+            
+            "message": "Open opgeslagen bestand"
+        },
+        "Open Update Information" : {
+            
+            "message": "Open Update Informatie"
+        },
+        "Open..." : {
+            
+            "message": "Open..."
+        },
+        "or" : {
+            
+            "message": "of"
+        },
+        "Order Code" : {
+            
+            "message": "Bestelcode"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Andere / Eigen Definitie"
+        },
+        "Other Options" : {
+            
+            "message": "Overige opties"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Anders/gebruiker gedefinieerd: voer aantal en afstand tussen de meetpunten in zoals hierboven getoond. Als het object een wiel is, is de afstand de wielomtrek gedeeld door het aantal spaken."
+        },
+        "Outlined Circle" : {
+            
+            "message": "Omlijnde cirkel"
+        },
+        "Outlined Diamond" : {
+            
+            "message": "Omlijnde diamant"
+        },
+        "Outlined Plus" : {
+            
+            "message": "Omlijnde plus"
+        },
+        "Outlined Rectangle" : {
+            
+            "message": "Omlijnde driehoek"
+        },
+        "Outlined Square" : {
+            
+            "message": "Omlijnde vierkant"
+        },
+        "Outlined Triangle" : {
+            
+            "message": "Omlijnde driehoek"
+        },
+        "Paragraph" : {
+            
+            "message": "Paragraaf"
+        },
+        "Parameter %s" : {
+            
+            "message": "parameter %s"
+        },
+        "Parameters cannot be repeated within an expression." : {
+            
+            "message": "Parameters kunnen niet herhaald worden binnen een uitdrukking."
+        },
+        "Paste" : {
+            
+            "message": "Plakken"
+        },
+        "Paste action is unavailable using the edit menu. Use CTRL-V or CMD-V to paste." : {
+            
+            "message": "Plakactie is niet beschikbaar via het bewerkingsmenu. Gebruik CTRL-V of CMD-V om te plakken."
+        },
+        "Pause replay" : {
+            
+            "message": "Herhaling Pauzeren"
+        },
+        "Pause Video" : {
+            
+            "message": "Video pauzeren"
+        },
+        "Peak Frequency" : {
+            
+            "message": "Piekfrequentie"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Slinger Periode"
+        },
+        "Percentage" : {
+            
+            "message": "Percentage"
+        },
+        "Perform a" : {
+            
+            "message": "Voer een"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Lichtpoort timing"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Lichtpoortjes kunnen de tijd weergeven van passerende objecten of de periode of oscillatie van een slinger. De tijd tussen twee geblokte meetpunten wordt weergegeven als de interval tijd. Als precies 2 lichtpoortjes worden gebruikt moeten beide geblokt zijn voordat een waarde wordt weergegeven."
+        },
+        "Picture in Picture" : {
+            
+            "message": "Beeld in beeld"
+        },
+        "Place your Go Direct Sensor near your computer, phone, or tablet" : {
+            
+            "message": "Plaats je Go Direct Sensor dicht bij je computer, telefoon of tablet"
+        },
+        "Play replay" : {
+            
+            "message": "Herhaling weergeven"
+        },
+        "Play Video" : {
+            
+            "message": "Speel video af"
+        },
+        "Playback Speed Multiplier" : {
+            
+            "message": "Afspeelsnelheid Multiplicator"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Voer het bron IP adres in:"
+        },
+        "Plot" : {
+            
+            "message": "plot"
+        },
+        "Plot Manager" : {
+            
+            "message": "Plot manager"
+        },
+        "Plus" : {
+            
+            "message": "Plus"
+        },
+        "point" : {
+            
+            "message": "punt"
+        },
+        "Point Colors" : {
+            
+            "message": "Punt kleuren"
+        },
+        "Point Symbols" : {
+            
+            "message": "Punt symbolen"
+        },
+        "points" : {
+            
+            "message": "punten"
+        },
+        "Points" : {
+            
+            "message": "Punten"
+        },
+        "points before trigger" : {
+            
+            "message": "meetpunten voor de trigger"
+        },
+        "Power" : {
+            
+            "message": "Energie"
+        },
+        "Prediction" : {
+            
+            "message": "Voorspelling"
+        },
+        "Prediction Name" : {
+            
+            "message": "Naam voorspelling"
+        },
+        "Prediction name has %s character limit." : {
+            
+            "message": "Karakterlimiet %s voor Naam voorpelling."
+        },
+        "Prediction Options" : {
+            
+            "message": "Voorspellings-opties"
+        },
+        "Prediction Title" : {
+            
+            "message": "Titel voorspelling grafiek"
+        },
+        "Predictions" : {
+            
+            "message": "Voorspellingen"
+        },
+        "Preview mode" : {
+            
+            "message": "Voorbeeldmodus"
+        },
+        "Primary:" : {
+            
+            "message": "Primair:"
+        },
+        "Privacy Notice" : {
+            
+            "message": "Privacyverklaring"
+        },
+        "Pro Expiry Alert" : {
+            
+            "message": "Pro Vervaldatum Waarschuwing"
+        },
+        "Projectile Info" : {
+            
+            "message": "Projectiel informatie"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Projectiel lanceerder"
+        },
+        "Provide this ID code to others so that they can connect to your device" : {
+            
+            "message": "Geef deze ID-code door aan anderen, zodat zij verbinding kunnen maken met uw apparaat"
+        },
+        "Proximity Connect" : {
+            
+            "message": "Nabijheid connectie"
+        },
+        "Pulse timing" : {
+            
+            "message": "Puls tijdmeting"
+        },
+        "Quote" : {
+            
+            "message": "Citaat"
+        },
+        "radians" : {
+            
+            "message": "radialen"
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radialen (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Tel interval"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Een telinterval > 200 counts/s vereisen een vaste meetduur."
+        },
+        "Reconnect" : {
+            
+            "message": "Maak opnieuw verbinding"
+        },
+        "Reconnect your sensor to retrieve logged data." : {
+            
+            "message": "Sluit je sensor opnieuw aan om gelogde gegevens op te halen."
+        },
+        "Rectangle" : {
+            
+            "message": "Rechthoek"
+        },
+        "Regular" : {
+            
+            "message": "Regulier"
+        },
+        "Relative stability reading" : {
+            
+            "message": "Relatief stabiele uitlezing"
+        },
+        "Remainder" : {
+            
+            "message": "Rest"
+        },
+        "Remote Logging" : {
+            
+            "message": "Registreren op afstand"
+        },
+        "Remote Logging in Process" : {
+            
+            "message": "Registreren op afstand in proces"
+        },
+        "Remote logging is only possible on one sensor at a time." : {
+            
+            "message": "Loggen op afstand kan maar met één sensor tegelijk."
+        },
+        "Remote Logging Started" : {
+            
+            "message": "Loggen op afstand gestart"
+        },
+        "Remote Logging Status" : {
+            
+            "message": "Status loggen op afstand"
+        },
+        "Remove" : {
+            
+            "message": "Verwijder"
+        },
+        "Remove Linear Trend" : {
+            
+            "message": "Lineaire trend verwijderen"
+        },
+        "Remove Soft Sensor" : {
+            
+            "message": "Verwijder soft-sensor"
+        },
+        "Rename" : {
+            
+            "message": "Hernoem"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Hernoem Dataset"
+        },
+        "Rename Prediction" : {
+            
+            "message": "Hernoem voorspelling"
+        },
+        "Replay" : {
+            
+            "message": "Herhaal"
+        },
+        "Replay video sync info" : {
+            
+            "message": "Informatie over videosynchronisatie opnieuw afspelen"
+        },
+        "Reported Reading" : {
+            
+            "message": "Weergegeven meetwaarde"
+        },
+        "Reset" : {
+            
+            "message": "Reset"
+        },
+        "Reset (Zero) on Collect" : {
+            
+            "message": "Reset (0) bij starten van de meting"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Reset naar standaard instellingen"
+        },
+        "Restart app" : {
+            
+            "message": "Herstart app"
+        },
+        "Restart Replay" : {
+            
+            "message": "Herstart Replay"
+        },
+        "Restore All" : {
+            
+            "message": "Herstel alles"
+        },
+        "Retrieve and Clear" : {
+            
+            "message": "Ophalen en wissen"
+        },
+        "Retrieve and Clear Sensor" : {
+            
+            "message": "Sensor ophalen en wissen"
+        },
+        "Retry Calibration" : {
+            
+            "message": "Opnieuw kalibreren"
+        },
+        "Reverse" : {
+            
+            "message": "Omkeren"
+        },
+        "revolution" : {
+            
+            "message": "omwenteling"
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Rotaties (r)"
+        },
+        "Right" : {
+            
+            "message": "Rechts"
+        },
+        "Right Axis" : {
+            
+            "message": "Rechter as"
+        },
+        "Right manual fit handle" : {
+            
+            "message": "Handmatige handgreep rechts"
+        },
+        "Right y-axis" : {
+            
+            "message": "Rechter y-as"
+        },
+        "Right y-axis range" : {
+            
+            "message": "Rechter Y-as bereik"
+        },
+        "RMS" : {
+            
+            "message": "RMS"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "Round" : {
+            
+            "message": "Rond"
+        },
+        "Row Number" : {
+            
+            "message": "Rijnummer"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "monster"
+        },
+        "Sample Data" : {
+            
+            "message": "Meetgegevens"
+        },
+        "Sample Experiments" : {
+            
+            "message": "Voorbeeld experimenten"
+        },
+        "samples" : {
+            
+            "message": "monsters"
+        },
+        "Samples" : {
+            
+            "message": "Meetpunten"
+        },
+        "samples per second" : {
+            
+            "message": "monsters per seconde"
+        },
+        "samples scheduled" : {
+            
+            "message": "geplande monsters"
+        },
+        "Save" : {
+            
+            "message": "Opslaan"
+        },
+        "Save AMBL" : {
+            
+            "message": "Bewaar AMBL"
+        },
+        "Save and Close App" : {
+            
+            "message": "Opslaan en App sluiten"
+        },
+        "Save As..." : {
+            
+            "message": "Opslaan als..."
+        },
+        "Save Changes?" : {
+            
+            "message": "Wijzigingen opslaan?"
+        },
+        "Save CSV" : {
+            
+            "message": "Bewaar CSV"
+        },
+        "Save Experiment" : {
+            
+            "message": "Bewaar experiment"
+        },
+        "Save failed" : {
+            
+            "message": "Opslaan mislukt"
+        },
+        "Save PDF" : {
+            
+            "message": "Bewaar PDF"
+        },
+        "Save Pending" : {
+            
+            "message": "Save Pending"
+        },
+        "Save PNG" : {
+            
+            "message": "Bewaar PNG"
+        },
+        "Saved" : {
+            
+            "message": "Opgeslagen"
+        },
+        "Saving" : {
+            
+            "message": "Opslaan"
+        },
+        "Scale Factor" : {
+            
+            "message": "Schaal factor"
+        },
+        "Scaling" : {
+            
+            "message": "Schalen"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Zoeken naar apparaten ..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Spanningsverschil t.o.v. eerste ijkpunt dient tenminste 0,05 V te zijn."
+        },
+        "Second Derivative" : {
+            
+            "message": "Tweede afgeleide"
+        },
+        "Secondary:" : {
+            
+            "message": "Secundair:"
+        },
+        "seconds" : {
+            
+            "message": "seconden"
+        },
+        "See Experiments" : {
+            
+            "message": "Zie experimenten"
+        },
+        "See sample experiments" : {
+            
+            "message": "Zie voorbeeldexperimenten"
+        },
+        "Select Data Set" : {
+            
+            "message": "Selecteer gegevensreeks"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Kies de gewenste eenheid voor weergave van de hoek positie."
+        },
+        "Select the type of device you would like to connect." : {
+            
+            "message": "Selecteer het type apparaat dat u wilt aansluiten."
+        },
+        "select/deselect meter" : {
+            
+            "message": "selecteer/deselecteer meter"
+        },
+        "Selected Events" : {
+            
+            "message": "Geselecteerde invoer"
+        },
+        "Sensor Actions" : {
+            
+            "message": "Sensor acties"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Sensor kanalen"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Sensor data collectie"
+        },
+        "Sensor Setup" : {
+            
+            "message": "Sensor instellingen"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Sensor spanning"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Sensorwaarde op 0 ingesteld"
+        },
+        "Sensors" : {
+            
+            "message": "Sensoren"
+        },
+        "Session 1 Name" : {
+            
+            "message": "Sessie 1 naam"
+        },
+        "Session 2 Name" : {
+            
+            "message": "Sessie 2 naam"
+        },
+        "Session 3 Name" : {
+            
+            "message": "Sessie 3 naam"
+        },
+        "Session 4 Name" : {
+            
+            "message": "Sessie 4 naam"
+        },
+        "Session ended by Host" : {
+            
+            "message": "Sessie beëindigd door Host"
+        },
+        "Session Preferences" : {
+            
+            "message": "Sessie voorkeuren"
+        },
+        "Settings saved" : {
+            
+            "message": "Instellingen opslaan"
+        },
+        "Share AMBL" : {
+            
+            "message": "Bewaar AMBL"
+        },
+        "Share an experiment with others over a network connection" : {
+            
+            "message": "Deel een experiment met anderen via een netwerkverbinding"
+        },
+        "Share CSV" : {
+            
+            "message": "Deel CSV"
+        },
+        "Share Image" : {
+            
+            "message": "Deel afbeelding"
+        },
+        "Share PDF" : {
+            
+            "message": "Deel PDF"
+        },
+        "Show All Releases" : {
+            
+            "message": "Toon alle releases"
+        },
+        "Show Data Marking instructions" : {
+            
+            "message": "Instructies voor gegevensmarkering weergeven"
+        },
+        "Show Details" : {
+            
+            "message": "Details tonen"
+        },
+        "Show Error Bars" : {
+            
+            "message": "Toon foutbalken"
+        },
+        "Show FFT" : {
+            
+            "message": "Toon FFT"
+        },
+        "Show Histogram" : {
+            
+            "message": "Toon histogram"
+        },
+        "Show Less" : {
+            
+            "message": "Toon minder"
+        },
+        "Show Menu" : {
+            
+            "message": "Toon menu"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Toon mid-tijd door poortje"
+        },
+        "Show Original Graph" : {
+            
+            "message": "Toon Originele Grafiek"
+        },
+        "Show Remote Logging instructions" : {
+            
+            "message": "Instructies voor loggen op afstand tonen"
+        },
+        "Show Uncertainty of Fit Parameters" : {
+            
+            "message": "Toon de onzekerheid van Fit parameters"
+        },
+        "Significant Figures" : {
+            
+            "message": "Significante cijfers"
+        },
+        "Sine" : {
+            
+            "message": "Sinus"
+        },
+        "Slope" : {
+            
+            "message": "Helling"
+        },
+        "Small" : {
+            
+            "message": "klein"
+        },
+        "Spacing" : {
+            
+            "message": "Afstand"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": "Afstand = wielomtrek / aantal spaken"
+        },
+        "Specify source" : {
+            
+            "message": "Specificeer bron"
+        },
+        "Spectrum" : {
+            
+            "message": "Spectrum"
+        },
+        "Speed through Gate" : {
+            
+            "message": "Snelheid door poort"
+        },
+        "Speed Through Gate Info" : {
+            
+            "message": "Snelheid door Gate Info"
+        },
+        "Spokes:" : {
+            
+            "message": "Spaken:"
+        },
+        "Square" : {
+            
+            "message": "Vierkant"
+        },
+        "Square Root" : {
+            
+            "message": "Vierkantswortel"
+        },
+        "Start a Data Sharing Session" : {
+            
+            "message": "Start een sessie voor gegevensuitwisseling"
+        },
+        "Start a New Session" : {
+            
+            "message": "Start een nieuwe sessie"
+        },
+        "Start Collection" : {
+            
+            "message": "Start collectie"
+        },
+        "Start collection when" : {
+            
+            "message": "Start meting als"
+        },
+        "Start Logging" : {
+            
+            "message": "Loggen starten"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Start nieuw experiment?"
+        },
+        "Start Session" : {
+            
+            "message": "Start sessie"
+        },
+        "Statistics" : {
+            
+            "message": "Statistiek"
+        },
+        "Std dev" : {
+            
+            "message": "Standaard afwijking"
+        },
+        "Step Backward" : {
+            
+            "message": "Stap terug"
+        },
+        "Step Forward" : {
+            
+            "message": "Stap vooruit"
+        },
+        "Step Video Backwards" : {
+            
+            "message": "Stap video achteruit"
+        },
+        "Step Video Forward" : {
+            
+            "message": "Stap video vooruit"
+        },
+        "Stop" : {
+            
+            "message": "Stop"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Stop met toevoegen titrant als het volume tussen de 9 en 10 mL is."
+        },
+        "Stop Collection" : {
+            
+            "message": "Stop Collectie"
+        },
+        "Stop Sharing" : {
+            
+            "message": "Stop delen"
+        },
+        "Strikethrough" : {
+            
+            "message": "Doorhalen"
+        },
+        "Subject" : {
+            
+            "message": "Onderwerp"
+        },
+        "Submit" : {
+            
+            "message": "Invoeren"
+        },
+        "Subscript" : {
+            
+            "message": "Subscript"
+        },
+        "Subscription Ends" : {
+            
+            "message": "Abonnement eindigt"
+        },
+        "Subscription ends" : {
+            
+            "message": "Abonnement eindigt"
+        },
+        "Superscript" : {
+            
+            "message": "Superscript"
+        },
+        "Supported Functions" : {
+            
+            "message": "Ondersteunde functies"
+        },
+        "Symbol" : {
+            
+            "message": "Symbool"
+        },
+        "Sync data with video" : {
+            
+            "message": "Synchroniseer gegevens met video"
+        },
+        "Sync Video to Data" : {
+            
+            "message": "Synchroniseer gegevens met video"
+        },
+        "Syntax" : {
+            
+            "message": "Syntax"
+        },
+        "Table" : {
+            
+            "message": "Tabel"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Lees de sensorwaarde (pH, geleidbaarheid etc.) uit bij elke druppel."
+        },
+        "Tangent" : {
+            
+            "message": "Raaklijn"
+        },
+        "Target" : {
+            
+            "message": "Doel"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "De Bluetooth verbinding is verbroken"
+        },
+        "The Column Name is required" : {
+            
+            "message": "De kolomnaam is vereist"
+        },
+        "the current file" : {
+            
+            "message": "het huidige bestand"
+        },
+        "The data set will begin playback %s s before the video" : {
+            
+            "message": "De dataset zal beginnen met het afspelen %s s voor de video"
+        },
+        "The expression will be used as the curve fit name if one is not explicitly entered." : {
+            
+            "message": "De uitdrukking wordt gebruikt als naam voor de curve fit indien er niet expliciet een is ingevoerd."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            
+            "message": "De lanceersnelheid is de gemiddelde snelheid van het projectiel als het de ingebouwde poortjes passeert."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            
+            "message": "De lanceersnelheid is de gemiddelde snelheid van het projectiel als het eerste ingebouwde poortje wordt gepasseerd."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "De object/meetpuntbreedte wordt gedeeld door de tijd dat de lichtpoort geblokt is voor het bepalen van de snelheid door de lichtpoort."
+        },
+        "The requested rate and duration cannot be met. Maximum rate is %.2f samples/%s for %d%s." : {
+            
+            "message": "Aan de gevraagde snelheid en duur kan niet worden voldaan. Maximumsnelheid is %.2f samples/%s voor %d%s."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "De tijd tussen twee geblokte meetpunten wordt als interval weergegeven."
+        },
+        "There can be no more than seven parameters in an expression." : {
+            
+            "message": "Er kunnen niet meer dan zeven parameters in een uitdrukking zitten."
+        },
+        "There is new firmware available for this sensor to resolve spurious readings when the probe is in an environment below 0°C. The update process cannot be performed from Graphical Analysis." : {
+            
+            "message": "Er is nieuwe firmware beschikbaar voor deze sensor om valse metingen op te lossen wanneer de sonde zich in een omgeving onder 0°C bevindt. De update kan niet worden uitgevoerd vanuit Graphical Analysis."
+        },
+        "There is new firmware available for this sensor, but the update cannot be applied from this device.  To update this sensor, connect it by USB on a macOS, Windows, or ChromeOS device and launch Graphical Analysis. Go to the Connected Devices list, and initiate the update." : {
+            
+            "message": "Er is nieuwe firmware beschikbaar voor deze sensor, maar de update kan niet vanaf dit apparaat worden toegepast. Om deze sensor bij te werken, verbindt u deze via USB op een macOS-, Windows- of ChromeOS-apparaat en start u Graphical Analysis. Ga naar de lijst Verbonden apparaten en start de update."
+        },
+        "There is new firmware available for this sensor.  The update process requires that the sensor be connected by USB and that Graphical Analysis shut down temporarily. Connect the sensor by USB if it is now connected wirelessly." : {
+            
+            "message": "Er is nieuwe firmware beschikbaar voor deze sensor. Het updateproces vereist dat de sensor via USB wordt aangesloten en dat Grafische analyse tijdelijk wordt uitgeschakeld. Verbind de sensor via USB als deze nu draadloos is verbonden."
+        },
+        "There was a problem saving the settings" : {
+            
+            "message": "Er is een probleem opgetreden bij het opslaan van de instellingen"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Deze kolom is automatisch gegenereerd en kan niet worden gewijzigd"
+        },
+        "This deletion can't be undone." : {
+            
+            "message": "Verwijderen kan niet ongedaan worden gemaakt."
+        },
+        "This feature requires a" : {
+            
+            "message": "Deze toepassing vereist een"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Dit getal bepaalt de fractie van een omwenteling waarbij de hoek positie verandert bij de volgende blokkering van de lichtpoort."
+        },
+        "This version of Windows supports only USB connection to Go Direct Sensors." : {
+            
+            "message": "Deze versie van Windows ondersteunt alleen USB-verbinding met Go Direct-sensoren."
+        },
+        "Time" : {
+            
+            "message": "Tijd"
+        },
+        "Time Based" : {
+            
+            "message": "Tijd gebaseerd"
+        },
+        "Time Based Data Collection - One Graph" : {
+            
+            "message": "Tijdgestuurde gegevensverzameling - Eén grafiek"
+        },
+        "Time Based Data Collection - Three Graph" : {
+            
+            "message": "Tijdgestuurde gegevensverzameling - Drie grafieken"
+        },
+        "Time Based Data Collection - Two Graph" : {
+            
+            "message": "Tijdgestuurde gegevensverzameling - Twee grafieken"
+        },
+        "Time between gates" : {
+            
+            "message": "Tijd tussen de lichtpoortjes"
+        },
+        "Time Decay Filter" : {
+            
+            "message": "Tijd Verval filter"
+        },
+        "Time measurements" : {
+            
+            "message": "Tijdmetingen"
+        },
+        "Time of Flight Pad," : {
+            
+            "message": "Time of Flight Pad,"
+        },
+        "Time Units" : {
+            
+            "message": "Tijdseenheid"
+        },
+        "Timer" : {
+            
+            "message": "Timer"
+        },
+        "Timer Info" : {
+            
+            "message": "Timer info"
+        },
+        "Timer or Period" : {
+            
+            "message": "Timer of periode"
+        },
+        "Tip: For best results check that the sensor you want is the only one within 2 meters of your computer, phone, or tablet." : {
+            
+            "message": "Tip: voor de beste resultaten controleer of de gewenste sensor de enige is binnen 2 meter van uw computer, telefoon of tablet."
+        },
+        "Tip: Proximity connection relies on distance estimates. If unreliable in your environment, use the connection list to choose a sensor." : {
+            
+            "message": "Tip: Nabijheid-verbinding is afhankelijk van afstandsschattingen. Als u niet zeker bent in uw huidige omgeving, gebruikt u de verbindingslijst om een sensor te kiezen."
+        },
+        "Tip: Sensors must have a flashing red light to be available for connection." : {
+            
+            "message": "Tip: Sensoren moeten een knipperend rood licht hebben om beschikbaar te zijn voor verbinding."
+        },
+        "Title" : {
+            
+            "message": "Titel"
+        },
+        "To create a custom %s, use any of the supported functions with any of the supported operators" : {
+            
+            "message": "Om een aangepaste %s te maken, gebruikt u een van de ondersteunde functies met een van de ondersteunde operatoren"
+        },
+        "To locate the address:" : {
+            
+            "message": "om het ip adres te zoeken:"
+        },
+        "to make the key available for use." : {
+            
+            "message": "om de sleutel beschikbaar te maken voor gebruik."
+        },
+        "To start a Data Sharing session:" : {
+            
+            "message": "Om een Data Sharing sessie te starten:"
+        },
+        "Toggle Dark Mode" : {
+            
+            "message": "Donkere modus inschakelen"
+        },
+        "Toggle Light Mode" : {
+            
+            "message": "Lichte modus inschakelen"
+        },
+        "Too few points" : {
+            
+            "message": "Te weinig punten"
+        },
+        "Toolbar" : {
+            
+            "message": "Werkbalk"
+        },
+        "Top" : {
+            
+            "message": "Boven"
+        },
+        "Total samples" : {
+            
+            "message": "Totaal aantal meetpunten"
+        },
+        "Triangle" : {
+            
+            "message": "Driehoek"
+        },
+        "Trigonometric functions are evaluated in radians except when the column plotted on the horizontal axis has units" : {
+            
+            "message": "Trigonometrische functies worden geëvalueerd in radialen, behalve wanneer de kolom die op de horizontale as is uitgezet, eenheden heeft"
+        },
+        "Truncate" : {
+            
+            "message": "Afkorten"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Tweepunts kalibratie"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Ultra Pulley - in groef"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Ultra Pulley - buitenste rand"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Verbinden niet mogelijk of gevraagde bron niet gevonden."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Niet mogelijk om te verbinden met "
+        },
+        "Units" : {
+            
+            "message": "Eenheden"
+        },
+        "Unknown" : {
+            
+            "message": "Onbekend"
+        },
+        "Unknown License Key Error" : {
+            
+            "message": "Fout met onbekende licentiesleutel"
+        },
+        "Unmute Audio" : {
+            
+            "message": "Hef demping geluid op"
+        },
+        "Unsupported Browser" : {
+            
+            "message": "Niet ondersteunde browser"
+        },
+        "Untitled" : {
+            
+            "message": "Geen titel"
+        },
+        "Update Available" : {
+            
+            "message": "Update beschikbaar"
+        },
+        "Update error" : {
+            
+            "message": "Update fout"
+        },
+        "Update Firmware" : {
+            
+            "message": "Update firmware"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Update wordt gedownload ..."
+        },
+        "Update your License Key" : {
+            
+            "message": "Uw licentiesleutel bijwerken"
+        },
+        "USB" : {
+            
+            "message": "USB"
+        },
+        "USB Device" : {
+            
+            "message": "USB apparaat"
+        },
+        "Use Column Value" : {
+            
+            "message": "Kolomwaarde gebruiken"
+        },
+        "Use gate separation" : {
+            
+            "message": "Gebruikt poort afstand"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Gebruik object / meetpunt afstand"
+        },
+        "Use projectile diameter" : {
+            
+            "message": "Gebruik projectiel-diameter"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Gebruik wetenschappelijke notatie"
+        },
+        "Use the USB or WIRELESS button as desired." : {
+            
+            "message": "Gebruik de knop USB of DRAADLOOS naar keuze."
+        },
+        "Use this area to take notes in markdown or plain text about your experiment. To see the formatting applied, switch into preview mode." : {
+            
+            "message": "Gebruik dit gebied om aantekeningen te maken in markdown of platte tekst over je experiment. Om de opmaak te zien die wordt toegepast, schakel je over naar de voorbeeldmodus."
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Gebruik deze optie voor snelheid/tijd metingen. De weergegeven tijd is het gemiddelde van de tijd dat de poort geblokkeerd werd en weer vrij was."
+        },
+        "Use Time of Flight Pad" : {
+            
+            "message": "Gebruik Time of Flight Pad"
+        },
+        "Use Windowing" : {
+            
+            "message": "Gebruik venster"
+        },
+        "User Manual" : {
+            
+            "message": "Handleiding"
+        },
+        "Using factory calibration from" : {
+            
+            "message": "Gebruik fabrieks-kalibratie van"
+        },
+        "Using locally cached version of this experiment." : {
+            
+            "message": "Gebruik de lokaal opgeslagen versie van dit experiment."
+        },
+        "Value must be between " : {
+            
+            "message": "Waarde moet liggen tussen "
+        },
+        "Vernier Graphical Analysis&reg; is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            
+            "message": "Vernier Graphical Analysis&reg; is een hulpmiddel voor science leerlingen om gegevens van Vernier-sensoren te verzamelen, in kaart te brengen en te analyseren."
+        },
+        "Vernier Graphical Analysis® Pro access expires in ${this.daysRemaining} days" : {
+            
+            "message": "Vernier Graphical Analysis® Pro verloopt in ${this.daysRemaining} dagen"
+        },
+        "Vernier Graphical Analysis® Pro access expires today" : {
+            
+            "message": "Vernier Graphical Analysis® Pro verloopt vandaag"
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernier Picket Fence"
+        },
+        "Version" : {
+            
+            "message": "Versie"
+        },
+        "Vertical Divider" : {
+            
+            "message": "Verticaal verdeler"
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Time" : {
+            
+            "message": "Videotijd"
+        },
+        "Video will begin playback %s s before data set playback" : {
+            
+            "message": "Video zal beginnen met afspelen %s s voor het afspelen van de dataset"
+        },
+        "Video will begin playback at the same time as data set playback" : {
+            
+            "message": "De video begint met afspelen op hetzelfde moment als het afspelen van de gegevensset"
+        },
+        "View Experiment" : {
+            
+            "message": "Bekijk experiment"
+        },
+        "View Integral" : {
+            
+            "message": "Bekijk integraal"
+        },
+        "View Options" : {
+            
+            "message": "Beeld opties"
+        },
+        "View Statistics" : {
+            
+            "message": "Toon statistieken"
+        },
+        "Voltage" : {
+            
+            "message": "Spanning"
+        },
+        "Waiting for %s to %s across %s %s" : {
+            
+            "message": "Wachten op %s naar %s over %s %s"
+        },
+        "We’ve detected that the license key is valid, but the End User License Agreement must be accepted before it can be used. Have the purchasing school agent " : {
+            
+            "message": "We hebben vastgesteld dat de licentiesleutel geldig is, maar de licentieovereenkomst voor de eindgebruiker moet worden geaccepteerd voordat hij kan worden gebruikt. Laat de inkopende partij "
+        },
+        "What's New" : {
+            
+            "message": "Wat is er nieuw?"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Als slinger/pendule wordt gekozen, is de tijd tussen elk tweede geblokte meetpunt de periode, aangezien een slinger de lichtpoort 3 keer blokkeert voor 1 enkele slingerbeweging."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Bij gebruik van twee lichtpoortjes kan de afstand tussen deze twee worden gebruikt om de snelheid te berekenen. De gerapporteerde waarde is de (gemiddelde) snelheid tussen de twee lichtpoortjes."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Voor draadloze verbinding is Windows 10 benodigd."
+        },
+        "Wireless" : {
+            
+            "message": "Draadloos"
+        },
+        "Working..." : {
+            
+            "message": "Bezig ..."
+        },
+        "x" : {
+            
+            "message": "x"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X+Y" : {
+            
+            "message": "X+Y"
+        },
+        "x-axis range" : {
+            
+            "message": "bereik x-as"
+        },
+        "x-range" : {
+            
+            "message": "x-bereik"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis range" : {
+            
+            "message": "bereik y-as"
+        },
+        "You can connect a device either by a wired USB connection or wirelessly." : {
+            
+            "message": "U kunt een apparaat aansluiten via een bedrade USB-verbinding of draadloos."
+        },
+        "You can give access to this application to others at your school by sharing this URL by email, text, or other means." : {
+            
+            "message": "U kunt anderen op uw school toegang geven tot deze toepassing door deze URL te delen via e-mail, tekst of andere middelen."
+        },
+        "You do not have to wait for data collection to complete to retrieve logged data." : {
+            
+            "message": "Je hoeft niet te wachten tot het verzamelen van gegevens is voltooid om gelogde gegevens op te halen."
+        },
+        "You entered non-numeric data. Do you want to convert this column to categorical data?" : {
+            
+            "message": "Je hebt niet-numerieke gegevens ingevoerd. Wilt u deze kolom converteren naar categorische gegevens?"
+        },
+        "You have a device connected that is not needed for this experiment." : {
+            
+            "message": "Er is een apparaat aangesloten dat niet nodig is voor dit experiment."
+        },
+        "You have entered an activation code and not a license key." : {
+            
+            "message": "U heeft een activeringscode ingevoerd en geen licentiesleutel."
+        },
+        "Your browser will display available devices. Select the one you want and click Pair." : {
+            
+            "message": "Uw browser toont de beschikbare apparaten. Selecteer het gewenste apparaat en klik op Koppelen."
+        },
+        "Your Data Sharing Host is starting a new experiment. You may continue with your experiment or join into the new experiment." : {
+            
+            "message": "Uw Data Sharing Host start een nieuw experiment. U kunt doorgaan met uw experiment of deelnemen aan het nieuwe experiment."
+        },
+        "Your license allows Vernier Graphical Analysis® to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Met uw licentie mag Vernier Graphical Analysis® alleen worden gedeeld met studenten, docenten en medewerkers van uw school. Niet delen buiten uw school."
+        },
+        "Your license allows Vernier Video Analysis to be shared only with students, faculty and staff at your school. Please do not share outside your school." : {
+            
+            "message": "Met uw licentie mag Vernier Video Analysis® alleen worden gedeeld met studenten, docenten en medewerkers van uw school. Niet delen buiten uw school."
+        },
+        "Your sensor has been disconnected." : {
+            
+            "message": "Uw sensor is losgekoppeld."
+        },
+        "Zero" : {
+            
+            "message": "Nulpunt"
+        },
+        "Zoom to all Data" : {
+            
+            "message": "Zoom in op alle Data"
+        },
+        "Zoom to Selection" : {
+            
+            "message": "Zoom in op selectie"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-as ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-as ]"
+        },
+        "© 2012-%s Vernier Science Education" : {
+            
+            "message": "© 2012-%s Vernier Science Education"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X²+Y²)" : {
+            
+            "message": "√(X²+Y²)"
+        },
+        "√(X²+Y²+Z²)" : {
+            
+            "message": "√(X²+Y²+Z²)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g Versnellingsensor"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3-As Versnellingsensor (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3-As Versnellingsensor (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3-As Versnellingsensor (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "30 V Spanning (+/- 30 V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorptie"
+        },
+        "Acceleration" : {
+            
+            "message": "Versnelling"
+        },
+        "Accelerometer" : {
+            
+            "message": "Versnellingsensor"
+        },
+        "Ammonium" : {
+            
+            "message": "Ammonium"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Ammonium Ion selectieve sensor"
+        },
+        "Analyzer" : {
+            
+            "message": "Analysator"
+        },
+        "Anemometer" : {
+            
+            "message": "Anemometer"
+        },
+        "Angle" : {
+            
+            "message": "Hoek"
+        },
+        "Barometer" : {
+            
+            "message": "Barometer"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometer (niet meer verkrijgbaar)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Biologie Gasdruk"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Bloeddruk"
+        },
+        "Calcium" : {
+            
+            "message": "Calcium"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Calcium Ion selectieve sensor"
+        },
+        "Charge" : {
+            
+            "message": "Lading"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Lading Sensor"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Lading Sensor 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Lading Sensor 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Lading Sensor 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Chloride"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Chloride Ion selectieve sensor"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Gas Hoog"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Gas Laag"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 Gas Oud"
+        },
+        "Colorimeter" : {
+            
+            "message": "Colorimeter"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Colorimeter (Oud model)"
+        },
+        "Concentration" : {
+            
+            "message": "Concentratie"
+        },
+        "Conductivity" : {
+            
+            "message": "Geleidbaarheid"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Geleidbaarheid 20.000µS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Geleidbaarheid 2000µS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Geleidbaarheid 200µS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Constante stroomsterkte systeem"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Manchetdruk"
+        },
+        "Current" : {
+            
+            "message": "Stroom"
+        },
+        "Current Probe" : {
+            
+            "message": "Stroom sensor"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Stroom sensor 1,2 A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastolisch"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Differentiële Spanning"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Digitale Controle eenheid"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Direct-Connect Temperatuursensor"
+        },
+        "Displacement" : {
+            
+            "message": "Verschuiving"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "Opgelost CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Opgelost zuursof"
+        },
+        "Distance" : {
+            
+            "message": "Afstand"
+        },
+        "DO" : {
+            
+            "message": "Opgelost Zuurstof"
+        },
+        "Drop Counter" : {
+            
+            "message": "Druppelteller"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Krachtsensor dual range 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Krachtsensor dual range 50 N"
+        },
+        "Early 2021 carts only" : {
+            
+            "message": "Alleen vroege 2021 karren"
+        },
+        "EKG" : {
+            
+            "message": "ECG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Elektrode versterker"
+        },
+        "Energy" : {
+            
+            "message": "Energie"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Energiesensor stroom"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Energiesensor spanning"
+        },
+        "Ethanol" : {
+            
+            "message": "Ethanol"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Ethanol sensor"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Extra lange temperatuursensor"
+        },
+        "Flow Rate" : {
+            
+            "message": "Stroomsnelheid"
+        },
+        "Fluorescence" : {
+            
+            "message": "Fluorescentie"
+        },
+        "Force" : {
+            
+            "message": "Kracht"
+        },
+        "Force Plate" : {
+            
+            "message": "Kracht plaat"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Kracht plaat 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Kracht plaat 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Gasdruk sensor"
+        },
+        "Gate State" : {
+            
+            "message": "Poort status"
+        },
+        "Gate Time" : {
+            
+            "message": "Gate tijd"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Go Wireless Elektrode versterker"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go Wireless Hartslag"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Go Wireless pH"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Temperatuur sensor"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniometer"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Hand dynamometer"
+        },
+        "Heart Rate" : {
+            
+            "message": "Hartslag"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Hartslag monitor"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Stroomsensor hoog"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Hoog gevoelige lichtsensor 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Hoog gevoelige lichtsensor 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Hoog gevoelige lichtsensor 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Verlichting"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Instrument versterker"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Instrument versterker ± 1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Instrument versterker ± 200 mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Instrument versterker ± 20 mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Instrument versterker 1 V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Instrument versterker 200 mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Instrument versterker 20 mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intensiteit"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "Infrarood temperatuursensor"
+        },
+        "Irradiance" : {
+            
+            "message": "straling"
+        },
+        "Launch Speed" : {
+            
+            "message": "Lanceersnelheid"
+        },
+        "Light" : {
+            
+            "message": "Licht"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Licht 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Licht 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Licht 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Lichtniveau"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Lineaire positie sensor"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Laag-g versnellingsmeter"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Magneetveld"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Magneetveld 0,3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Magneetveld 6,4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Gemiddelde Arteriële Druk"
+        },
+        "Melt Station" : {
+            
+            "message": "Smeltpuntbepalingsapparaat"
+        },
+        "Microphone" : {
+            
+            "message": "Microfoon"
+        },
+        "mol/L" : {
+            
+            "message": "mol/L"
+        },
+        "Motion" : {
+            
+            "message": "Beweging"
+        },
+        "Motion Detector" : {
+            
+            "message": "Bewegingsdetector"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Motion Encoder wagen"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitraat"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitraat Ion selectieve sensor"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "DO optische zuurstof sensor %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "DO optische zuurstof sensor mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Zuurstof gas"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Zuurstof gas (oud)"
+        },
+        "PAR Sensor" : {
+            
+            "message": "PAR Sensor"
+        },
+        "Period" : {
+            
+            "message": "Periode"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP versterkers"
+        },
+        "Photogate" : {
+            
+            "message": "Lichtpoortje"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Platina-cel Geleidbaarheid"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimeter"
+        },
+        "Position" : {
+            
+            "message": "Positie"
+        },
+        "Potassium" : {
+            
+            "message": "Kalium"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Kalium Ion selectieve sensor"
+        },
+        "Potential" : {
+            
+            "message": "Potentiaal"
+        },
+        "Power" : {
+            
+            "message": "Vermogen"
+        },
+        "Power Amp Current" : {
+            
+            "message": "PAMP versterker stroom"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Druk"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Druk sensor (niet meer leverbaar)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Druk sensor 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Projectiellanceerder"
+        },
+        "Pulse" : {
+            
+            "message": "Puls"
+        },
+        "Pulse Time" : {
+            
+            "message": "Impulstijd"
+        },
+        "Pyranometer" : {
+            
+            "message": "Pyranometer"
+        },
+        "Radiation" : {
+            
+            "message": "Straling"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Stralingsmonitor"
+        },
+        "Raw" : {
+            
+            "message": "Onbewerkt"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Ruwe spanning (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Relatieve luchtvochtigheid"
+        },
+        "Resistance" : {
+            
+            "message": "Weerstand"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Ademhalingsmonitor"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Ademhalingssnelheid"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Draaihoeksensor"
+        },
+        "Salinity" : {
+            
+            "message": "Zoutgehalte"
+        },
+        "Signal" : {
+            
+            "message": "Signaal"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Bodemvochtgehalte"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Bodemvochtgehalte sensor"
+        },
+        "Sound Level" : {
+            
+            "message": "dB"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "dB Sensor"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Geluidsdruk"
+        },
+        "Speed" : {
+            
+            "message": "Snelheid"
+        },
+        "Spirometer" : {
+            
+            "message": "Spirometer"
+        },
+        "Standard" : {
+            
+            "message": "Standaard"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Standaard temperatuursensor"
+        },
+        "Student Force" : {
+            
+            "message": "Leerling kracht"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Leerling stralingsmonitor"
+        },
+        "Systolic" : {
+            
+            "message": "Systolisch"
+        },
+        "Temperature" : {
+            
+            "message": "Temperatuur"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Temperatuur Sensor"
+        },
+        "Thermocouple" : {
+            
+            "message": "Thermokoppel"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Thermokoppel (oud)"
+        },
+        "TI Light" : {
+            
+            "message": "Texas Instr. licht"
+        },
+        "Time of Flight" : {
+            
+            "message": "Vluchttijd"
+        },
+        "Transmittance" : {
+            
+            "message": "Transmissie"
+        },
+        "Turbidity" : {
+            
+            "message": "Troebelheid"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA intensiteit"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVA sensor"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB intensiteit"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVB sensor"
+        },
+        "Velocity" : {
+            
+            "message": "Snelheid"
+        },
+        "Voltage" : {
+            
+            "message": "Spanning"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Spanning (+/- 10 V)"
+        },
+        "Volume" : {
+            
+            "message": "Volume"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT Verplaatsing"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT Kracht"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Groot bereik temperatuursensor"
+        },
+        "X Acceleration" : {
+            
+            "message": "X Versnelling"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y Versnelling"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z Versnelling"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "*umol m-2 s-1*" : {
+            
+            "message": ""
+        },
+        "*µmol m⁻² s⁻¹*" : {
+            
+            "message": ""
+        },
+        "1" : {
+            
+            "message": "1"
+        },
+        "11" : {
+            
+            "message": "11"
+        },
+        "13" : {
+            
+            "message": "13"
+        },
+        "15" : {
+            
+            "message": "15"
+        },
+        "17" : {
+            
+            "message": "17"
+        },
+        "3" : {
+            
+            "message": "3"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "5" : {
+            
+            "message": "5"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "7" : {
+            
+            "message": "7"
+        },
+        "9" : {
+            
+            "message": "9"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Absolute Humidity" : {
+            
+            "message": "Absolute vochtigheid"
+        },
+        "Acceleration G" : {
+            
+            "message": "Versnelling G"
+        },
+        "Acceleration Vector" : {
+            
+            "message": "Versnellingsvector"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Versnelling Y"
+        },
+        "Adjusted Volume" : {
+            
+            "message": "Bijgesteld Volume"
+        },
+        "Altitude" : {
+            
+            "message": "Hoogte"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Hoogte 1-punts kalibratie"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitude"
+        },
+        "Angle (High Resolution)" : {
+            
+            "message": "Hoek (Hoge resolutie)"
+        },
+        "Angular Motion" : {
+            
+            "message": "Hoekbeweging"
+        },
+        "Auto zero at start" : {
+            
+            "message": "Automatisch nulpunt bij de start"
+        },
+        "Auxiliary Port Mode" : {
+            
+            "message": "Aux-poort modus"
+        },
+        "BE Current Range" : {
+            
+            "message": "BE Stroombereik"
+        },
+        "BE Duration" : {
+            
+            "message": "BE Duur"
+        },
+        "BE Potential" : {
+            
+            "message": "BE Potentieel"
+        },
+        "BE Sample Rate" : {
+            
+            "message": "BE Bemonsteringsfrequentie"
+        },
+        "Barometric Pressure" : {
+            
+            "message": "Barometrische Druk"
+        },
+        "Battery Level" : {
+            
+            "message": "Accu niveau"
+        },
+        "Battery Percent" : {
+            
+            "message": "Accu percentage"
+        },
+        "Battery Voltage" : {
+            
+            "message": "Batterijspanning"
+        },
+        "Blank calibration" : {
+            
+            "message": "Blanco Kalibratie"
+        },
+        "Bridge Voltage" : {
+            
+            "message": "Brugspanning"
+        },
+        "CO₂ Equivalent" : {
+            
+            "message": "CO₂ Equivalent"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ Gas"
+        },
+        "CVS Current Range" : {
+            
+            "message": "CVS Huidig bereik"
+        },
+        "CVS Final Potential" : {
+            
+            "message": "CVS Eind Potentieel"
+        },
+        "CVS Initial Potential" : {
+            
+            "message": "CVS Initieel Potentieel"
+        },
+        "CVS Loop Count" : {
+            
+            "message": "CVS Aantal loops"
+        },
+        "CVS Number of Segments" : {
+            
+            "message": "CVS Aantal segmenten"
+        },
+        "CVS Sweep Rate" : {
+            
+            "message": "CVS Veegsnelheid"
+        },
+        "CVS Switching Potential 1" : {
+            
+            "message": "CVS Schakelpotentieel 1"
+        },
+        "CVS Switching Potential 2" : {
+            
+            "message": "CVS Schakelpotentieel 2"
+        },
+        "Calibration coefficient" : {
+            
+            "message": "Kalibratie coëfficiënt"
+        },
+        "Calibration power" : {
+            
+            "message": "Kalibratievermogen"
+        },
+        "Cap number" : {
+            
+            "message": "Maximaal aantal"
+        },
+        "Cell" : {
+            
+            "message": "Cel"
+        },
+        "Cell constant (ASI)" : {
+            
+            "message": "Cel constante (ASI)"
+        },
+        "Cell constant (active)" : {
+            
+            "message": "Cel constante (actief)"
+        },
+        "Coefficient-A" : {
+            
+            "message": "Coëfficiënt-A"
+        },
+        "Coefficient-B" : {
+            
+            "message": "Coëfficiënt-B"
+        },
+        "Coefficient-C" : {
+            
+            "message": "Coëfficiënt-C"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Geleidbaarheid - 0% TC"
+        },
+        "Correction Factor" : {
+            
+            "message": ""
+        },
+        "Counts" : {
+            
+            "message": "Tellingen"
+        },
+        "Current pressure" : {
+            
+            "message": "Actuele druk"
+        },
+        "Current state" : {
+            
+            "message": "Stroom status"
+        },
+        "Current temperature" : {
+            
+            "message": "Actuele temperatuur"
+        },
+        "Cutoff frequency" : {
+            
+            "message": "Uitschakelingsfrequentie"
+        },
+        "Cycle Volume" : {
+            
+            "message": "Cyclus volume"
+        },
+        "Cycle volume source" : {
+            
+            "message": "Bron cyclus volume"
+        },
+        "DAC value" : {
+            
+            "message": "DAC waarde"
+        },
+        "DO Concentration" : {
+            
+            "message": "Concentratie DO"
+        },
+        "DO Salinity" : {
+            
+            "message": "Saliniteit DO"
+        },
+        "DO Saturation" : {
+            
+            "message": "Verzadiging DO"
+        },
+        "Data source" : {
+            
+            "message": "Data bron"
+        },
+        "Declination" : {
+            
+            "message": "Declinatie"
+        },
+        "Demo" : {
+            
+            "message": "Demo"
+        },
+        "Dew Point" : {
+            
+            "message": "Dauwpunt"
+        },
+        "Diastolic coefficient" : {
+            
+            "message": "Diastolische coëfficiënt"
+        },
+        "Differential Pressure" : {
+            
+            "message": "Drukverschil"
+        },
+        "Drops" : {
+            
+            "message": "Druppels"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG Gecorrigeerd"
+        },
+        "Electrode Current" : {
+            
+            "message": "Elektrode stroom"
+        },
+        "Electrode Voltage" : {
+            
+            "message": "Elektrode Spanning"
+        },
+        "Electrode cleaning" : {
+            
+            "message": "Elektrode reiniging"
+        },
+        "Enter 0% flow value" : {
+            
+            "message": "Voer de 0% stroomwaarde in"
+        },
+        "Enter 100% flow value" : {
+            
+            "message": "Voer de 100% stroomwaarde in"
+        },
+        "Enter 50% flow value" : {
+            
+            "message": "Voer de 50% stroomwaarde in"
+        },
+        "Enter altitude" : {
+            
+            "message": "Voer de hoogte in"
+        },
+        "Enter barometric pressure" : {
+            
+            "message": "Voer de barometerdruk in"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Voer huidige temperatuur in"
+        },
+        "Enter first known value" : {
+            
+            "message": "Voer de eerst bekende waarde in"
+        },
+        "Enter k value" : {
+            
+            "message": "Voer k-waarde in"
+        },
+        "Enter known value" : {
+            
+            "message": "Voer bekende waarde in"
+        },
+        "Enter multiplier value" : {
+            
+            "message": "Voer vermenigvuldigingsfactor in"
+        },
+        "Enter n value" : {
+            
+            "message": "Voer n-waarde in"
+        },
+        "Enter offset value" : {
+            
+            "message": "Voer offset waarde in"
+        },
+        "Enter power value" : {
+            
+            "message": "Voer waarde vermogen in"
+        },
+        "Enter second known value" : {
+            
+            "message": "Voer 2e bekende waarde in"
+        },
+        "Enter station elevation" : {
+            
+            "message": "Voer station verhoging in"
+        },
+        "Enter third known value" : {
+            
+            "message": "Voer 3e bekende waarde in"
+        },
+        "Envelope" : {
+            
+            "message": "Omslag"
+        },
+        "Envelope averaging" : {
+            
+            "message": "Voortschrijdend gemiddelde"
+        },
+        "Error" : {
+            
+            "message": "Fout"
+        },
+        "Ethanol Gas" : {
+            
+            "message": "Ethanol gas"
+        },
+        "Ethanol Gas with HC" : {
+            
+            "message": "Ethanol gas met HC"
+        },
+        "Ethanol Ticks" : {
+            
+            "message": "Ethanol tikken"
+        },
+        "Ethanol Vapor" : {
+            
+            "message": "Ethanol damp"
+        },
+        "Experiment Type" : {
+            
+            "message": "Experiment type"
+        },
+        "Expiratory Peak Volume" : {
+            
+            "message": "Expiratoir piekvolume"
+        },
+        "FAN PWM" : {
+            
+            "message": "FAN PWM"
+        },
+        "FWD" : {
+            
+            "message": "FWD"
+        },
+        "Fan" : {
+            
+            "message": "Fan"
+        },
+        "Fan Mode" : {
+            
+            "message": "Fan mode"
+        },
+        "Final hold time" : {
+            
+            "message": "Definitieve wachttijd"
+        },
+        "Final temperature" : {
+            
+            "message": "Eindtemperatuur"
+        },
+        "Five-point calibration" : {
+            
+            "message": "Vijfpunts-kalibratie"
+        },
+        "Flow rate filter" : {
+            
+            "message": "Debietfilter"
+        },
+        "Flow rate inspiratory polarity" : {
+            
+            "message": "Debiet inspiratoire polariteit"
+        },
+        "Force G" : {
+            
+            "message": "Kracht G"
+        },
+        "Force Y" : {
+            
+            "message": "Kracht Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Forceer 1-punts kalibratie"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Forceer 2-punts kalibratie"
+        },
+        "Forward" : {
+            
+            "message": "Vooruit"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Poort 1"
+        },
+        "Gate 1 - Gate State" : {
+            
+            "message": "Poort 1 - Poort status"
+        },
+        "Gate 1 State" : {
+            
+            "message": "Poort 1 status"
+        },
+        "Gate 1/Remote Gate - Timing" : {
+            
+            "message": "Poort 1/draadloze poort - Tijdmeting"
+        },
+        "Gate 2" : {
+            
+            "message": "Poort 2"
+        },
+        "Gate 2 - Gate State" : {
+            
+            "message": "Poort 2 - Poort status"
+        },
+        "Gate 2 State" : {
+            
+            "message": "Poort 2 status"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-As Magneetveld sensor"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® Versnelling"
+        },
+        "Go Direct® Blood Pressure" : {
+            
+            "message": "Go Direct® Bloeddruk"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ Gas"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® Colorimeter"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® Geleidbaarheidssensor"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Constante Stroom Systeem"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® Stroomsensor"
+        },
+        "Go Direct® Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct® Cyclisch Voltametriesysteem"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® Druppelteller"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® ECG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektrode Versterker"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® Energiesensor"
+        },
+        "Go Direct® Ethanol Sensor" : {
+            
+            "message": "Go Direct® Ethanol Sensor"
+        },
+        "Go Direct® Ethanol Vapor" : {
+            
+            "message": "Go Direct® Ethanoldamp"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Kracht en Versnellingssensor"
+        },
+        "Go Direct® Gas Chromatograph" : {
+            
+            "message": "Go Direct® Gaschromatograaf"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Gasdruk sensor"
+        },
+        "Go Direct® Hand Dynamometer" : {
+            
+            "message": "Go Direct® Hand Dynamometer"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® Ion-selectieve Elektrode versterker"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® Licht en Kleur sensor"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® Smeltstation"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® Bewegingssensor"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optische opgeloste zuurstofsensor"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ Gas"
+        },
+        "Go Direct® PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct® Lichtpoort"
+        },
+        "Go Direct® Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct® Platina geleidbaarheidssensor"
+        },
+        "Go Direct® Polarimeter" : {
+            
+            "message": "Go Direct® Polarimeter"
+        },
+        "Go Direct® Projectile Launcher" : {
+            
+            "message": "Go Direct® Projectiel Lanceer apparaat"
+        },
+        "Go Direct® Pulse Oximeter" : {
+            
+            "message": "Go Direct® Pulsoxymeter"
+        },
+        "Go Direct® Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® Stralingssensor"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® Ademhalingsband"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® Draaihoeksensor"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Wagentje (Groen)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Wagentje (Geel)"
+        },
+        "Go Direct® Sound" : {
+            
+            "message": "Go Direct® Geluid"
+        },
+        "Go Direct® Spirometer" : {
+            
+            "message": "Go Direct® Spirometer"
+        },
+        "Go Direct® Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct® Structures & Materials Tester" : {
+            
+            "message": "Go Direct® Structuur & Materialen Tester"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® Oppervlakte temperatuursensor"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® Temperatuursensor"
+        },
+        "Go Direct® Thermocouple Amplifier" : {
+            
+            "message": "Go Direct® Thermokoppel versterker"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® Spanningssensor"
+        },
+        "Go Direct® Weather" : {
+            
+            "message": "Go Direct® Weerstation"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® Groot bereik Temperatuursensor"
+        },
+        "Go Direct® Wide-Range Pressure" : {
+            
+            "message": "Go Direct® Groot bereik druk"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-As Magnetisch veld sensor"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct® Versnelling"
+        },
+        "Go Direct™ Blood Pressure" : {
+            
+            "message": "Go Direct™ Bloeddruk"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct™ CO₂ Gas"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct® Colorimeter"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct® Geleidbaarheidssensor"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct® Constant Stroom systeem"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct® Stroomsensor"
+        },
+        "Go Direct™ Cyclic Voltammetry System" : {
+            
+            "message": "Go Direct™ Cyclisch Voltametrie Systeem"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct® Druppelteller"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct® ECG sensor"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct® Elektrode Versterker"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct® Energiesensor"
+        },
+        "Go Direct™ Ethanol Sensor" : {
+            
+            "message": "Go Direct™ Ethanolsensor"
+        },
+        "Go Direct™ Ethanol Vapor" : {
+            
+            "message": "Go Direct™ Ethanol damp"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Kracht en versnellingssensor"
+        },
+        "Go Direct™ Gas Chromatograph" : {
+            
+            "message": "Go Direct™ Gaschromatograaf"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Gasdruksensor"
+        },
+        "Go Direct™ Hand Dynamometer" : {
+            
+            "message": "Go Direct™ Hand Dynamometer"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Ion-selectieve Elektrode Versterker"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct® Licht en kleur sensor"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct® Smeltstation"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct® Bewegingssensor"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optische opgeloste zuurstof sensor"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct™ O₂ Gas"
+        },
+        "Go Direct™ PAR Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct™ Lichtpoortje"
+        },
+        "Go Direct™ Platinum-Cell Conductivity" : {
+            
+            "message": "Go Direct™ Platina-cel geleidbaarheidssensor"
+        },
+        "Go Direct™ Polarimeter" : {
+            
+            "message": "Go Direct™ Polarimeter"
+        },
+        "Go Direct™ Projectile Launcher" : {
+            
+            "message": "Go Direct™ Projectiel lanceerder"
+        },
+        "Go Direct™ Pulse Oximeter" : {
+            
+            "message": "Go Direct™ Puls Oximeter"
+        },
+        "Go Direct™ Pyranometer" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct® Stralingssensor"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct® Ademhalingsband"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct® Draaihoek sensor"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Wagentje (Groen)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Wagentje (Geel)"
+        },
+        "Go Direct™ Sound" : {
+            
+            "message": "Go Direct™ Geluid"
+        },
+        "Go Direct™ Spirometer" : {
+            
+            "message": "Go Direct™ Spirometer"
+        },
+        "Go Direct™ Static Charge" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Structures & Materials Tester" : {
+            
+            "message": "Go Direct™ Structuren & Materialen Tester"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct® Oppervlakte temperatuursensor"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct® Temperatuur sensor"
+        },
+        "Go Direct™ Thermocouple Amplifier" : {
+            
+            "message": "Go Direct™ Thermokoppel Versterker"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct® Spanningssensor"
+        },
+        "Go Direct™ Weather" : {
+            
+            "message": "Go Direct™ weersensor"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct® Groot bereik temperatuursensor"
+        },
+        "Go Direct™ Wide-Range Pressure" : {
+            
+            "message": "Go Direct™ Groot-bereik Druk"
+        },
+        "Heat Index" : {
+            
+            "message": "Warmte-index"
+        },
+        "Hold time" : {
+            
+            "message": "Houdtijd"
+        },
+        "Hydrogen Ticks" : {
+            
+            "message": "Waterstof Tikken"
+        },
+        "Hz" : {
+            
+            "message": "Hz"
+        },
+        "Illuminance" : {
+            
+            "message": "Lichtsterkte"
+        },
+        "Illumination Raw" : {
+            
+            "message": "Verlichting Ruw"
+        },
+        "Impeller Frequency" : {
+            
+            "message": "Waaierfrequentie"
+        },
+        "Inspiratory Peak Volume" : {
+            
+            "message": "Inspiratoir piekvolume"
+        },
+        "Instrument status" : {
+            
+            "message": "Instrumentstatus"
+        },
+        "Internal Current" : {
+            
+            "message": "Interne stroom"
+        },
+        "Internal Voltage" : {
+            
+            "message": "Interne spanning"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "L" : {
+            
+            "message": "L"
+        },
+        "L/s" : {
+            
+            "message": "L/s"
+        },
+        "LED diagnostic" : {
+            
+            "message": "LED diagnostiek"
+        },
+        "LED magnitude" : {
+            
+            "message": "LED magnitude"
+        },
+        "Laser Gate - Gate State" : {
+            
+            "message": "Laserpoort - Poort status"
+        },
+        "Laser Gate State" : {
+            
+            "message": "Laserpoort status"
+        },
+        "Laser Gate/Remote Gate - Timing" : {
+            
+            "message": "Laserpoort/draadloze poort - tijdmeting"
+        },
+        "Launch Angle" : {
+            
+            "message": "Lanceerhoek"
+        },
+        "Linear Motion" : {
+            
+            "message": "Lineaire beweging"
+        },
+        "Live" : {
+            
+            "message": "Live"
+        },
+        "Load cell gain" : {
+            
+            "message": "Load cel versterking"
+        },
+        "Mag-X" : {
+            
+            "message": "Mag-X"
+        },
+        "Mag-Y" : {
+            
+            "message": "Mag-Y"
+        },
+        "Mag-Z" : {
+            
+            "message": "Mag-Z"
+        },
+        "Microphone-FIXED" : {
+            
+            "message": "Microfoon-vast"
+        },
+        "Microphone-FIXED A Weight" : {
+            
+            "message": "Microfoon-vast A weging"
+        },
+        "Microphone-FIXED C Weight" : {
+            
+            "message": "Microfoon-vast C weging"
+        },
+        "Motion (cart)" : {
+            
+            "message": "Beweging (cart)"
+        },
+        "Motion Acceleration" : {
+            
+            "message": "Versnelling beweging"
+        },
+        "Motion Velocity" : {
+            
+            "message": "Snelheid beweging"
+        },
+        "Motion with TC" : {
+            
+            "message": "Beweging met TC"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "No" : {
+            
+            "message": "Nee"
+        },
+        "No smoothing" : {
+            
+            "message": ""
+        },
+        "Normalized Response" : {
+            
+            "message": "Genormaliseerde reactie"
+        },
+        "Not ready" : {
+            
+            "message": "Niet klaar"
+        },
+        "OCP Duration" : {
+            
+            "message": "OCP Duur"
+        },
+        "OCP Sample Rate" : {
+            
+            "message": "OCP Bemonsteringsfrequentie"
+        },
+        "Object Acceleration (multiple flags)" : {
+            
+            "message": "Versnelling object (meerdere vlaggen)"
+        },
+        "Object Acceleration (single flag)" : {
+            
+            "message": "Versnelling object (enkele vlag)"
+        },
+        "Object Velocity" : {
+            
+            "message": "Snelheid object"
+        },
+        "Off" : {
+            
+            "message": "Uit"
+        },
+        "One-point calibration" : {
+            
+            "message": "1-punt calibratie"
+        },
+        "Optical Rotation" : {
+            
+            "message": "Optische rotatie"
+        },
+        "Oscillation Annotations" : {
+            
+            "message": "Oscillatie-annotaties"
+        },
+        "Oscillation Max" : {
+            
+            "message": "Oscillatie max"
+        },
+        "Oscillation Min" : {
+            
+            "message": "Oscillatie min"
+        },
+        "Oscillations" : {
+            
+            "message": "Oscillaties"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Gas"
+        },
+        "O₂ Gas Concentration" : {
+            
+            "message": ""
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Gas rTC"
+        },
+        "PAR two-point calibration" : {
+            
+            "message": ""
+        },
+        "PPFD - CF" : {
+            
+            "message": ""
+        },
+        "PPFD Correction" : {
+            
+            "message": ""
+        },
+        "PYR two-point calibration" : {
+            
+            "message": ""
+        },
+        "Pa" : {
+            
+            "message": "Pa"
+        },
+        "Peak Area" : {
+            
+            "message": "Piekoppervlak"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Periode slinger"
+        },
+        "Pendulum Velocity" : {
+            
+            "message": "Snelheid slinger"
+        },
+        "Pine firmware major version" : {
+            
+            "message": "De belangrijkste versie van de Pine firmware"
+        },
+        "Pine firmware minor version" : {
+            
+            "message": "De lagere versie van de Pine firmware"
+        },
+        "Pine firmware revision" : {
+            
+            "message": "Pine firmware revisie"
+        },
+        "Position Direction" : {
+            
+            "message": "Positie richting"
+        },
+        "Position G" : {
+            
+            "message": "Positie G"
+        },
+        "Position Vector" : {
+            
+            "message": "Positie vector"
+        },
+        "Position Y" : {
+            
+            "message": "Positie Y"
+        },
+        "Power Three-point calibration" : {
+            
+            "message": "Vermogen driepuntskalibratie"
+        },
+        "Pulse Pressure" : {
+            
+            "message": "Polsdruk"
+        },
+        "Pulse Rate" : {
+            
+            "message": "Pulsfrequentie"
+        },
+        "REV" : {
+            
+            "message": "REV"
+        },
+        "Ramp rate" : {
+            
+            "message": "Bemonsteringsfrequentie"
+        },
+        "Raw Diastolic" : {
+            
+            "message": ""
+        },
+        "Raw MAP" : {
+            
+            "message": ""
+        },
+        "Raw Pressure" : {
+            
+            "message": ""
+        },
+        "Raw Pressure Smoothing" : {
+            
+            "message": ""
+        },
+        "Raw Systolic" : {
+            
+            "message": ""
+        },
+        "Raw Temperature" : {
+            
+            "message": "Ruwe temperatuur"
+        },
+        "Ready" : {
+            
+            "message": "Gereed"
+        },
+        "Ready to inject" : {
+            
+            "message": "Klaar om te injecteren"
+        },
+        "Remote Acceleration" : {
+            
+            "message": "Draadloos gemeten versnelling"
+        },
+        "Remote Gate - Object Acceleration" : {
+            
+            "message": "Draadloze poort - versnelling object"
+        },
+        "Remote Gate - Object Acceleration (single flag)" : {
+            
+            "message": "Draadloze poort - versnelling object (enkele vlag)"
+        },
+        "Remote Gate - Object Velocity" : {
+            
+            "message": "Draadloze poort - Snelheid object"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "Remote poort 1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "Remote poort 2"
+        },
+        "Remote Velocity" : {
+            
+            "message": "Draadloos gemeten snelheid"
+        },
+        "Reverse" : {
+            
+            "message": "Omgekeerd"
+        },
+        "Running" : {
+            
+            "message": "In uitvoering"
+        },
+        "Salinity correction" : {
+            
+            "message": "Correctie saliniteit"
+        },
+        "Sound level A-weighted" : {
+            
+            "message": "Geluidsniveau A gewogen"
+        },
+        "Sound level C-weighted" : {
+            
+            "message": "Geluidsniveau C gewogen"
+        },
+        "Start temperature" : {
+            
+            "message": "Begintemperatuur"
+        },
+        "Starting" : {
+            
+            "message": "Beginnen"
+        },
+        "Station Pressure" : {
+            
+            "message": "Stationsdruk"
+        },
+        "Step Rate" : {
+            
+            "message": "Stappenteller"
+        },
+        "Steps" : {
+            
+            "message": "Stappen"
+        },
+        "Stopped" : {
+            
+            "message": "Gestopt"
+        },
+        "Switch USB" : {
+            
+            "message": "Wissel USB"
+        },
+        "Systolic coefficent" : {
+            
+            "message": "Systolische coëfficiënt"
+        },
+        "Temperature correction" : {
+            
+            "message": "Temperatuur correctie"
+        },
+        "Three-point calibration" : {
+            
+            "message": "3-punt calibratie"
+        },
+        "Time of Flight Pad" : {
+            
+            "message": "Vluchtduur pad"
+        },
+        "Timing" : {
+            
+            "message": "Tijdmeting"
+        },
+        "Total VOC" : {
+            
+            "message": "Totaal VOC"
+        },
+        "Two-point calibration" : {
+            
+            "message": "2-punt calibratie"
+        },
+        "Type J Thermocouple" : {
+            
+            "message": "Type J Thermokoppel"
+        },
+        "Type K Thermocouple" : {
+            
+            "message": "Type K Thermokoppel"
+        },
+        "Type T Thermocouple" : {
+            
+            "message": "Type T Thermokoppel"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Blue" : {
+            
+            "message": ""
+        },
+        "UV Index" : {
+            
+            "message": "UV index"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV intensiteit"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "Use smoothing" : {
+            
+            "message": ""
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Vector range Max" : {
+            
+            "message": "Vector bereik max"
+        },
+        "Vector range Min" : {
+            
+            "message": "Vector bereik min"
+        },
+        "Velocity G" : {
+            
+            "message": "Snelheid G"
+        },
+        "Velocity Vector" : {
+            
+            "message": "Snelheidsvector"
+        },
+        "Velocity Y" : {
+            
+            "message": "Snelheid Y"
+        },
+        "Velocity2" : {
+            
+            "message": "snelheid2"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Spanning - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Spanning - 20 V"
+        },
+        "Volume correction factor" : {
+            
+            "message": "Volume-correctie factor"
+        },
+        "Volume inspiratory polarity" : {
+            
+            "message": "Polariteit inspiratoir volume"
+        },
+        "W/m²" : {
+            
+            "message": ""
+        },
+        "Wave Amplitude" : {
+            
+            "message": "Golf ampitude"
+        },
+        "Wave Frequency" : {
+            
+            "message": "Golf frequentie"
+        },
+        "Wind Chill" : {
+            
+            "message": "Windgevoeligheid"
+        },
+        "Wind Direction" : {
+            
+            "message": "Windrichting"
+        },
+        "Wind Speed" : {
+            
+            "message": "Windsnelheid"
+        },
+        "Wind direction calibration" : {
+            
+            "message": "windrichting kalibratie"
+        },
+        "X magnetic field" : {
+            
+            "message": "x magneetveld"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "x magneetveld 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X-hoeksnelheid"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X-as versnelling"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-as versnelling G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-as versnelling Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X-as versnelling 1 punt kalibratie"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X-as versnelling hoog"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X-as versnelling hoog 1 punt kalibratie"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X-as hoeksnelheid"
+        },
+        "X-axis angular velocity G" : {
+            
+            "message": "X-as hoeksnelheid G"
+        },
+        "X-axis angular velocity Y" : {
+            
+            "message": "X-as hoeksnelheid Y"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X-as gyro"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y magneetveld"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y magneetveld 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y-as hoeksnelheid"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y-as versnelling"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-as versnelling G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-as versnelling Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y-as versnelling 1 punt kalibratie"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y-as versnelling hoog"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y-as versnelling hoog 1 punt calibratie"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y-as hoeksnelheid"
+        },
+        "Y-axis angular velocity G" : {
+            
+            "message": "Y-as hoeksnelheid G"
+        },
+        "Y-axis angular velocity Y" : {
+            
+            "message": "Y-as hoeksnelheid Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y-as gyro"
+        },
+        "Yes" : {
+            
+            "message": "Ja"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z magneetveld"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z magneetveld 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z-as hoeksnelheid"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z-as versnelling"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-as versnelling G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-as versnelling Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z-as versnelling 1 punt calibratie"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z-as versnelling hoog"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z-as versnelling hoog 1 punt calibratie"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z-as hoeksnelheid"
+        },
+        "Z-axis angular velocity G" : {
+            
+            "message": "Z-as hoeksnelheid G"
+        },
+        "Z-axis angular velocity Y" : {
+            
+            "message": "Z-as hoeksnelheid Y"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z-as gyro"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "bpm"
+        },
+        "cm" : {
+            
+            "message": "cm"
+        },
+        "cm/s" : {
+            
+            "message": "cm/s"
+        },
+        "cm/s²" : {
+            
+            "message": "cm/s²"
+        },
+        "counts" : {
+            
+            "message": "tellingen"
+        },
+        "dB" : {
+            
+            "message": "dB"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "ft/s" : {
+            
+            "message": "ft/s"
+        },
+        "ft/s²" : {
+            
+            "message": "ft/s²"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "g/m³" : {
+            
+            "message": "g/m³"
+        },
+        "hPa" : {
+            
+            "message": "hPa"
+        },
+        "in" : {
+            
+            "message": "in"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "kg" : {
+            
+            "message": "kg"
+        },
+        "km/h" : {
+            
+            "message": "km/h"
+        },
+        "knots" : {
+            
+            "message": "knopen"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "ml"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/l"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mm" : {
+            
+            "message": "mm"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "mph" : {
+            
+            "message": "mph"
+        },
+        "nC" : {
+            
+            "message": ""
+        },
+        "pC" : {
+            
+            "message": ""
+        },
+        "ppb" : {
+            
+            "message": "ppb"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "raw voltage" : {
+            
+            "message": "ruwe spanning"
+        },
+        "rel" : {
+            
+            "message": "rel"
+        },
+        "rev" : {
+            
+            "message": "rev"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "stappen"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "umol m-2 s-1" : {
+            
+            "message": ""
+        },
+        "units/s" : {
+            
+            "message": "eenheden/s"
+        },
+        "units/s²" : {
+            
+            "message": "eenheden/s²"
+        },
+        "velocity2" : {
+            
+            "message": "snelheid2"
+        },
+        "xxx0" : {
+            
+            "message": "xxx0"
+        },
+        "xxx1" : {
+            
+            "message": "xxx1"
+        },
+        "xxx2" : {
+            
+            "message": "xxx2"
+        },
+        "xxx3" : {
+            
+            "message": "xxx3"
+        },
+        "xxx4" : {
+            
+            "message": "xxx4"
+        },
+        "xxx5" : {
+            
+            "message": "xxx5"
+        },
+        "xxx6" : {
+            
+            "message": "xxx6"
+        },
+        "xxx7" : {
+            
+            "message": "xxx7"
+        },
+        "xxx8" : {
+            
+            "message": "xxx8"
+        },
+        "xxx9" : {
+            
+            "message": "xxx9"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µA" : {
+            
+            "message": "µA"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "µm" : {
+            
+            "message": "µm"
+        },
+        "µmol m⁻² s⁻¹" : {
+            
+            "message": ""
+        },
+        "ΔmmHg" : {
+            
+            "message": "ΔmmHg"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            
+            "message": "Cosinus"
+        },
+        "Cosine Squared" : {
+            
+            "message": "Cosinus kwadraat"
+        },
+        "Inverse" : {
+            
+            "message": "Inversie"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Inverse kwadraat"
+        },
+        "Linear" : {
+            
+            "message": "Lineair"
+        },
+        "Modified Power" : {
+            
+            "message": "Variabele machtsfunctie"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Natuurlijke exponent"
+        },
+        "Natural Log" : {
+            
+            "message": "Natuurlijke logarithme"
+        },
+        "Not defined" : {
+            
+            "message": "Niet gedefinieerd"
+        },
+        "Power" : {
+            
+            "message": "Machtsfunctie"
+        },
+        "Proportional" : {
+            
+            "message": "Proportioneel"
+        },
+        "Quadratic" : {
+            
+            "message": "Kwadratisch"
+        },
+        "Sine" : {
+            
+            "message": "Sinus"
+        },
+        "Slope" : {
+            
+            "message": "Helling"
+        }
+        
+    },
+    "custom": {
+        "Custom Expression" : {
+            
+            "message": "Aangepaste uitdrukking"
+        }
+        
+    }
+}

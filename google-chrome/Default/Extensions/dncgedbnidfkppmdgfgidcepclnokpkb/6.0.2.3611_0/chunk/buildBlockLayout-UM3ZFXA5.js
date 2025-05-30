@@ -1,0 +1,1 @@
+import{a as r,b as t}from"./chunk-CM6X6NVN.js";function f(a){let e={graph_1:!1,graph_2:!1,graph_3:!1,table:!1,meter:!1,video:!1,notes:!1,configurator:!1};return["entry","graph"].includes(a)?t(r({},e),{graph_1:!0}):a==="table"?t(r({},e),{table:!0}):a==="meter"?t(r({},e),{meter:!0}):e}export{f as buildBlockLayout};
