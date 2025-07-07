@@ -1,1 +1,0 @@
-var c=t=>class extends t{requestService(e){let s=new CustomEvent("request-service",{detail:{key:e},bubbles:!0,composed:!0,cancelable:!0});return this.dispatchEvent(s),s.detail.$service}requestServices(e=[]){return e.map(r=>this.requestService(r))}};export{c as a};
